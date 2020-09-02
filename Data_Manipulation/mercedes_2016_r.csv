@@ -1,0 +1,191 @@
+vehicle;  km; year; power; transmision; fuel_type; consume; country;emisions;price 
+Mercedes-Benz AMG GT;13.500 km;feb-16;375 kW (510 CV);Automático;Gasolina;9,6;Unknown;224;€ 87.900
+Mercedes-Benz A 180;14.500 km;oct-16;90 kW (122 CV);Automático;Gasolina;-/- ;ES;-/- ;€ 18.990
+Mercedes-Benz C 450;96.000 km;abr-16;270 kW (367 CV);Automático;Gasolina;7,9;ES;-/- ;€ 50.000
+Mercedes-Benz C 180;109.418 km;may-16;115 kW (156 CV);Manual;Gasolina;5 l/;ES;-/- ;€ 16.900
+Mercedes-Benz A 45 AMG;37.000 km;dic-16;280 kW (381 CV);Automático;Gasolina;6,9;ES;-/- ;€ 38.900
+Mercedes-Benz GLC 250;44.897 km;ene-16;155 kW (211 CV);Automático;Gasolina;6,5;ES;-/- ;€ 33.000
+Mercedes-Benz GLA 180;44.118 km;sep-16;90 kW (122 CV);Automático;Gasolina;5,6;Unknown;131;€ 20.900
+Mercedes-Benz GLE 450;77.000 km;ene-16;270 kW (367 CV);Automático;Gasolina;9,4;ES;-/- ;€ 48.500
+Mercedes-Benz S 500;112.700 km;may-16;335 kW (455 CV);Automático;Gasolina;9,9;ES;-/- ;€ 72.000
+Mercedes-Benz;67.900 km;oct-16;350 kW (476 CV);Automático;Gasolina;-/- ;ES;-/- ;€ 59.990
+Mercedes-Benz C 43 AMG;69.990 km;sep-16;270 kW (367 CV);Automático;Gasolina;-/- ;ES;-/- ;€ 43.990
+Mercedes-Benz C 300;128.000 km;mar-16;170 kW (231 CV);Automático;Electro/Diésel;4,2;Unknown;106;€ 22.990
+Mercedes-Benz A 200;70.500 km;dic-16;115 kW (156 CV);Manual;Gasolina;5,5;Unknown;128;€ 24.000
+Mercedes-Benz A 200;50.000 km;oct-16;115 kW (156 CV);Automático;Gasolina;5,4;Unknown;121;€ 19.990
+Mercedes-Benz GLA 200;76.200 km;feb-16;115 kW (156 CV);Manual;Gasolina;5,9;Unknown;139;€ 22.900
+Mercedes-Benz SL 400;46.323 km;mar-16;245 kW (333 CV);Automático;Gasolina;7,7;ES;-/- ;€ 51.990
+Mercedes-Benz CLA 250;119.000 km;oct-16;160 kW (218 CV);Automático;Gasolina;6,8;ES;-/- ;€ 23.900
+Mercedes-Benz A 200;40.651 km;mar-16;115 kW (156 CV);Manual;Gasolina;5,5;ES;129;€ 18.890
+Mercedes-Benz SL 400;56.402 km;ene-16;245 kW (333 CV);Automático;Gasolina;7,7;Unknown;179;€ 75.000
+Mercedes-Benz C 250;28.000 km;ago-16;155 kW (211 CV);Automático;Gasolina;5,7;ES;-/- ;€ 27.990
+Mercedes-Benz C 450;96.000 km;abr-16;270 kW (367 CV);Automático;Gasolina;7,9;ES;-/- ;€ 48.000
+Mercedes-Benz A 45 AMG;15.500 km;jun-16;280 kW (381 CV);Automático;Gasolina;6,9;ES;-/- ;€ 37.800
+Mercedes-Benz;67.900 km;oct-16;350 kW (476 CV);Automático;Gasolina;-/- ;ES;-/- ;€ 62.990
+Mercedes-Benz C 63 AMG;133.000 km;jul-16;375 kW (510 CV);Automático;Gasolina;8,4;ES;195;€ 49.999
+Mercedes-Benz C 63 AMG;133.000 km;jul-16;375 kW (510 CV);Automático;Gasolina;8,4;ES;195;€ 49.999
+Mercedes-Benz C 200;110.000 km;abr-16;135 kW (184 CV);Automático;Gasolina;5,4;ES;-/- ;€ 31.500
+Mercedes-Benz S 63 AMG;40.799 km;nov-16;430 kW (585 CV);Automático;Gasolina;10,3;ES;-/- ;€ 117.000
+Mercedes-Benz A 45 AMG;37.900 km;ene-16;280 kW (381 CV);Automático;Gasolina;6,9;Unknown;162;€ 35.250
+Mercedes-Benz GLE 43 AMG;98.000 km;oct-16;270 kW (367 CV);Automático;Gasolina;9,4;ES;-/- ;€ 49.999
+Mercedes-Benz C 200;85.600 km;sep-16;135 kW (184 CV);Automático;Gasolina;5,3;Unknown;123;€ 20.500
+Mercedes-Benz C 180;34.500 km;feb-16;115 kW (156 CV);Automático;Gasolina;5,4;Unknown;126;€ 21.200
+Mercedes-Benz 500;107.500 km;oct-16;335 kW (455 CV);Automático;Gasolina;-/- ;ES;-/- ;€ 99.990
+Mercedes-Benz CL;66.000 km;ene-16;280 kW (381 CV);Automático;Gasolina;-/- ;ES;-/- ;€ 32.900
+Mercedes-Benz C 63 AMG;65.000 km;dic-16;375 kW (510 CV);Automático;Gasolina;8,6;Unknown;200;€ 61.000
+Mercedes-Benz ML 400;60.000 km;nov-16;245 kW (333 CV);Automático;Gasolina;-/- ;ES;-/- ;€ 42.990
+Mercedes-Benz CLA 180;64.820 km;dic-16;90 kW (122 CV);Automático;Gasolina;6,3;Unknown;144;€ 20.499
+Mercedes-Benz GLE 450;47.000 km;jun-16;270 kW (367 CV);Automático;Gasolina;8,6;ES;-/- ;€ 49.999
+Mercedes-Benz GLA 45 AMG;56.650 km;mar-16;280 kW (381 CV);Automático;Gasolina;7,4;ES;-/- ;€ 43.900
+Mercedes-Benz C 43 AMG;69.990 km;sep-16;270 kW (367 CV);Automático;Gasolina;-/- ;ES;-/- ;€ 47.890
+Mercedes-Benz C 450;93.000 km;feb-16;270 kW (367 CV);Automático;Gasolina;7,9;ES;-/- ;€ 37.990
+Mercedes-Benz GLE 450;54.000 km;may-16;270 kW (367 CV);Automático;Gasolina;9,4;ES;-/- ;€ 62.000
+Mercedes-Benz AMG GT;31.000 km;jun-16;375 kW (510 CV);Automático;Gasolina;9,6;ES;-/- ;€ 89.900
+Mercedes-Benz A 200;186.000 km;mar-16;115 kW (156 CV);Manual;Gasolina;5,5;ES;-/- ;€ 16.900
+Mercedes-Benz SLC 43 AMG;37.800 km;jul-16;270 kW (367 CV);Automático;Gasolina;8,2;ES;-/- ;€ 53.900
+Mercedes-Benz AMG GT;11.350 km;oct-16;375 kW (510 CV);Automático;Gasolina;9,6;Unknown;224;€ 120.000
+Mercedes-Benz GLE 450;54.000 km;mar-16;270 kW (367 CV);Automático;Gasolina;9,4;ES;-/- ;€ 62.000
+Mercedes-Benz GLA 250;50.633 km;may-16;155 kW (211 CV);Automático;Gasolina;6,6;Unknown;155;€ 19.773
+Mercedes-Benz SLC 43 AMG;37.200 km;jun-16;270 kW (367 CV);Automático;Gasolina;8,2;Unknown;186;€ 41.999
+Mercedes-Benz A 45 AMG;59.000 km;ago-16;280 kW (381 CV);Automático;Gasolina;6,9;ES;-/- ;€ 38.900
+Mercedes-Benz GLE 63 AMG;56.000 km;feb-16;430 kW (585 CV);Automático;Gasolina;11,9;Unknown;278;€ 85.000
+Mercedes-Benz A 45 AMG;60.000 km;feb-16;280 kW (381 CV);Automático;Gasolina;6,9;ES;-/- ;€ 37.990
+Mercedes-Benz G;6.057 km;nov-16;310 kW (421 CV);Automático;Gasolina;13,8;ES;-/- ;€ 179.900
+Mercedes-Benz G 63 AMG;46.200 km;feb-16;420 kW (571 CV);Automático;Gasolina;13,8;ES;-/- ;€ 96.500
+Mercedes-Benz G 63 AMG;86.963 km;dic-16;420 kW (571 CV);Automático;Gasolina;13,8;ES;-/- ;€ 91.300
+Mercedes-Benz C 63 AMG;47.000 km;abr-16;350 kW (476 CV);Automático;Gasolina;8,2;Unknown;192;€ 73.000
+Mercedes-Benz GLA 180;36.163 km;may-16;90 kW (122 CV);Manual;Gasolina;5,7;ES;-/- ;€ 19.950
+Mercedes-Benz SL 500;23.000 km;oct-16;335 kW (455 CV);Automático;Gasolina;10,1;ES;-/- ;€ 79.900
+Mercedes-Benz C 63 AMG;31.000 km;sep-16;350 kW (476 CV);Automático;Gasolina;8,6;ES;200;€ 65.999
+Mercedes-Benz E 200;56.000 km;abr-16;135 kW (184 CV);Automático;Gasolina;6,2;ES;-/- ;€ 28.990
+Mercedes-Benz S 63 AMG;95.000 km;mar-16;430 kW (585 CV);Automático;Gasolina;10,3;ES;242;€ 84.999
+Mercedes-Benz C 200;40.000 km;jul-16;135 kW (184 CV);Manual;Gasolina;5,3;Unknown;123;€ 30.000
+Mercedes-Benz GLE 500;9.355 km;feb-16;335 kW (455 CV);Automático;Gasolina;-/- ;ES;-/- ;€ 59.900
+Mercedes-Benz G 63 AMG;12.700 km;nov-16;420 kW (571 CV);Automático;Gasolina;13,8;ES;-/- ;€ 110.300
+Mercedes-Benz C 180;101.873 km;sep-16;115 kW (156 CV);Automático;Gasolina;5,4;ES;-/- ;€ 18.900
+Mercedes-Benz C 450;96.000 km;abr-16;270 kW (367 CV);Automático;Gasolina;7,9;ES;-/- ;€ 50.000
+Mercedes-Benz AMG GT;41.400 km;feb-16;375 kW (510 CV);Automático;Gasolina;9,6;ES;-/- ;€ 89.990
+Mercedes-Benz C 350;88.216 km;ago-16;205 kW (279 CV);Automático;Electro/Gasolina;2,4;Unknown;49 g;€ 22.400
+Mercedes-Benz C 180;138.267 km;mar-16;115 kW (156 CV);Automático;Gasolina;5,6;Unknown;129;€ 14.900
+Mercedes-Benz GLS 400;73.400 km;nov-16;245 kW (333 CV);Automático;Gasolina;9,2;Unknown;212;€ 40.900
+Mercedes-Benz GLA 250;67.159 km;dic-16;155 kW (211 CV);Automático;Gasolina;6,6;Unknown;155;€ 19.919
+Mercedes-Benz CLS 63 AMG;44.000 km;jun-16;410 kW (557 CV);Automático;Gasolina;10,5;ES;-/- ;€ 58.900
+Mercedes-Benz C 43 AMG;28.773 km;nov-16;270 kW (367 CV);Automático;Gasolina;8,1;ES;-/- ;€ 52.900
+Mercedes-Benz C 43 AMG;28.773 km;nov-16;270 kW (367 CV);Automático;Gasolina;8,1;ES;-/- ;€ 52.900
+Mercedes-Benz GLE 500;51.497 km;abr-16;330 kW (449 CV);Automático;Electro/Gasolina;3,3;ES;-/- ;€ 48.900
+Mercedes-Benz CLA 45 AMG;63.962 km;oct-16;280 kW (381 CV);Automático;Gasolina;8,5;ES;-/- ;€ 41.900
+Mercedes-Benz GLC 250;39.237 km;dic-16;155 kW (211 CV);Automático;Gasolina;6,5;ES;-/- ;€ 38.300
+Mercedes-Benz GLA 250;49.000 km;ene-16;155 kW (211 CV);Automático;Gasolina;6,6;Unknown;155;€ 31.400
+Mercedes-Benz GLE 500;43.800 km;jun-16;330 kW (449 CV);Automático;Electro/Gasolina;3,3;ES;-/- ;€ 48.990
+Mercedes-Benz S 500;118.000 km;mar-16;335 kW (455 CV);Automático;Gasolina;9,5;ES;-/- ;€ 51.900
+Mercedes-Benz S 500;48.500 km;jul-16;335 kW (455 CV);Automático;Gasolina;9,9;ES;-/- ;€ 78.800
+Mercedes-Benz AMG GT;42.500 km;abr-16;340 kW (462 CV);Automático;Gasolina;9,3;ES;-/- ;€ 85.800
+Mercedes-Benz A 45 AMG;55.000 km;abr-16;280 kW (381 CV);Automático;Gasolina;6,9;Unknown;162;€ 43.200
+Mercedes-Benz C 300;37.200 km;nov-16;180 kW (245 CV);Automático;Gasolina;6,9;ES;-/- ;€ 44.595
+Mercedes-Benz C 200;34.000 km;ene-16;135 kW (184 CV);Automático;Gasolina;5,3;Unknown;123;€ 32.900
+Mercedes-Benz A 45 AMG;15.000 km;abr-16;280 kW (381 CV);Automático;Gasolina;6,9;ES;-/- ;€ 38.900
+Mercedes-Benz E 200;56.000 km;abr-16;135 kW (184 CV);Automático;Gasolina;6,2;ES;-/- ;€ 28.990
+Mercedes-Benz GLE 63 AMG;78.000 km;sep-16;430 kW (585 CV);Automático;Gasolina;11,8;Unknown;276;€ 103.000
+Mercedes-Benz C 300;65.000 km;ago-16;180 kW (245 CV);Automático;Gasolina;6,3;Unknown;146;€ 36.900
+Mercedes-Benz AMG GT;59.000 km;ene-16;340 kW (462 CV);Automático;Gasolina;9,3;ES;216;€ 84.900
+Mercedes-Benz GLC 350;23.546 km;ago-16;235 kW (320 CV);Automático;Electro/Gasolina;2,5;ES;-/- ;€ 42.700
+Mercedes-Benz CLA 45 AMG;46.093 km;feb-16;265 kW (360 CV);Automático;Gasolina;6,9;ES;-/- ;€ 42.900
+Mercedes-Benz GLA 250;79.164 km;abr-16;155 kW (211 CV);Automático;Gasolina;6,6;Unknown;155;€ 18.499
+Mercedes-Benz 500;107.500 km;oct-16;335 kW (455 CV);Automático;Gasolina;-/- ;ES;-/- ;€ 99.990
+Mercedes-Benz G;12.000 km;jul-16;310 kW (421 CV);Automático;Gasolina;13,8;ES;-/- ;€ 199.990
+Mercedes-Benz GLE 63 AMG;48.000 km;ago-16;430 kW (585 CV);Automático;Gasolina;11,9;ES;-/- ;€ 84.800
+Mercedes-Benz G 63 AMG;40.800 km;ene-16;420 kW (571 CV);Automático;Gasolina;13,8;ES;-/- ;€ 106.900
+Mercedes-Benz GLE 500;60.000 km;jun-16;330 kW (449 CV);Automático;Electro/Gasolina;3,3;ES;-/- ;€ 49.995
+Mercedes-Benz 250;70.000 km;nov-16;155 kW (211 CV);Automático;Gasolina;-/- ;ES;-/- ;€ 36.500
+Mercedes-Benz 500;107.500 km;oct-16;335 kW (455 CV);Automático;Gasolina;-/- ;ES;-/- ;€ 99.990
+Mercedes-Benz 500;107.500 km;jun-16;335 kW (455 CV);Automático;Gasolina;9,4;ES;-/- ;€ 99.990
+Mercedes-Benz G;37.200 km;dic-16;310 kW (421 CV);Automático;Gasolina;13,8;ES;-/- ;€ 164.900
+Mercedes-Benz GLA 250;46.000 km;ene-16;155 kW (211 CV);Automático;Gasolina;6,6;ES;-/- ;€ 28.995
+Mercedes-Benz GLS 63 AMG;84.000 km;nov-16;430 kW (585 CV);Automático;Gasolina;13,8;ES;-/- ;€ 69.000
+Mercedes-Benz GLE 43 AMG;90.200 km;abr-16;270 kW (367 CV);Automático;Gasolina;9,4;ES;-/- ;€ 72.000
+Mercedes-Benz;65.000 km;nov-16;335 kW (455 CV);Automático;Gasolina;10,9;ES;-/- ;€ 79.800
+Mercedes-Benz AMG GT;47.000 km;jun-16;375 kW (510 CV);Automático;Gasolina;9,6;ES;-/- ;€ 99.900
+Mercedes-Benz C 63 AMG;47.500 km;jun-16;350 kW (476 CV);Automático;Gasolina;8,4;ES;-/- ;€ 58.000
+Mercedes-Benz SL 500;47.000 km;ago-16;335 kW (455 CV);Automático;Gasolina;9,1;ES;-/- ;€ 86.400
+Mercedes-Benz;24.850 km;jun-16;430 kW (585 CV);Automático;Gasolina;10,4;ES;-/- ;€ 119.900
+Mercedes-Benz C 63 AMG;82.153 km;abr-16;375 kW (510 CV);Automático;Gasolina;8,4;ES;-/- ;€ 59.800
+Mercedes-Benz C 43 AMG;30.000 km;jun-16;270 kW (367 CV);Automático;Gasolina;8 l/;ES;-/- ;€ 53.900
+Mercedes-Benz AMG GT;31.000 km;mar-16;375 kW (510 CV);Automático;Gasolina;9,6;ES;-/- ;€ 88.900
+Mercedes-Benz GLC 43 AMG;78.800 km;ago-16;270 kW (367 CV);Automático;Gasolina;8,3;ES;-/- ;€ 49.800
+Mercedes-Benz S 500;1.900 km;feb-16;335 kW (455 CV);Automático;Gasolina;9,9;ES;-/- ;€ 94.800
+Mercedes-Benz CLS;48.800 km;jun-16;245 kW (333 CV);Automático;Gasolina;8,4;ES;-/- ;€ 41.900
+Mercedes-Benz CLA 45 AMG;19.681 km;feb-16;280 kW (381 CV);Automático;Gasolina;-/- ;ES;-/- ;€ 39.900
+Mercedes-Benz G;11.000 km;jul-16;368 kW (500 CV);Automático;Gasolina;13,8;ES;-/- ;€ 199.990
+Mercedes-Benz S 500;59.000 km;ene-16;325 kW (442 CV);Automático;Electro/Gasolina;2,8;ES;-/- ;€ 54.100
+Mercedes-Benz S 500;2.189 km;ene-16;335 kW (455 CV);Automático;Gasolina;9,9;ES;-/- ;€ 99.800
+Mercedes-Benz AMG GT;14.000 km;jun-16;375 kW (510 CV);Automático;Gasolina;9,6;ES;-/- ;€ 91.900
+Mercedes-Benz C 63 AMG;2.200 km;ago-16;350 kW (476 CV);Automático;Gasolina;8,6;ES;-/- ;€ 64.900
+Mercedes-Benz SLC 200;36.700 km;sep-16;135 kW (184 CV);Automático;Gasolina;6,7;ES;-/- ;€ 30.900
+Mercedes-Benz S 63 AMG;28.000 km;may-16;430 kW (585 CV);Automático;Gasolina;10,3;ES;-/- ;€ 105.900
+Mercedes-Benz A 180;28.157 km;mar-16;90 kW (122 CV);Manual;Gasolina;5,6;ES;-/- ;€ 18.900
+Mercedes-Benz CLA 45 AMG;15.000 km;ago-16;280 kW (381 CV);Automático;Gasolina;6,9;ES;-/- ;€ 38.500
+Mercedes-Benz C 450;42.000 km;feb-16;270 kW (367 CV);Automático;Gasolina;7,9;ES;-/- ;€ 41.900
+Mercedes-Benz CLA 250;29.870 km;abr-16;160 kW (218 CV);Automático;Gasolina;6,8;ES;-/- ;€ 28.900
+Mercedes-Benz C 43 AMG;35.900 km;ene-16;270 kW (367 CV);Automático;Gasolina;8,1;ES;-/- ;€ 39.900
+Mercedes-Benz C 300;20.264 km;abr-16;180 kW (245 CV);Automático;Gasolina;6,3;ES;-/- ;€ 36.900
+Mercedes-Benz A 250;16.500 km;feb-16;160 kW (218 CV);Automático;Gasolina;6,7;ES;-/- ;€ 27.500
+Mercedes-Benz C 63 AMG;48.000 km;sep-16;350 kW (476 CV);Automático;Gasolina;8,4;ES;-/- ;€ 48.900
+Mercedes-Benz CLA 250;10.147 km;ago-16;155 kW (211 CV);Automático;Gasolina;-/- ;ES;-/- ;€ 31.900
+Mercedes-Benz GLC 250;29.900 km;dic-16;155 kW (211 CV);Automático;Gasolina;6,9;ES;-/- ;€ 43.900
+Mercedes-Benz G 63 AMG;36.000 km;mar-16;420 kW (571 CV);Automático;Gasolina;13,8;ES;-/- ;€ 97.900
+Mercedes-Benz SLC 200;33.000 km;oct-16;135 kW (184 CV);Automático;Gasolina;6,7;ES;-/- ;€ 30.900
+Mercedes-Benz GLA 45 AMG;30.472 km;may-16;280 kW (381 CV);Automático;Gasolina;7,4;ES;-/- ;€ 40.900
+Mercedes-Benz CLA 45 AMG;23.480 km;ene-16;280 kW (381 CV);Automático;Gasolina;8,5;ES;-/- ;€ 40.900
+Mercedes-Benz SLC 43 AMG;29.873 km;ago-16;270 kW (367 CV);Automático;Gasolina;8,2;ES;-/- ;€ 46.900
+Mercedes-Benz GLC 250;39.220 km;dic-16;155 kW (211 CV);Automático;Gasolina;6,9;ES;-/- ;€ 47.900
+Mercedes-Benz S 500;95.200 km;ene-16;335 kW (455 CV);Automático;Gasolina;9,5;ES;-/- ;€ 62.000
+Mercedes-Benz A 250;64.500 km;dic-16;155 kW (211 CV);Automático;Gasolina;6 l/;ES;-/- ;€ 26.000
+Mercedes-Benz SLK 200;32.800 km;sep-16;135 kW (184 CV);Automático;Gasolina;5,9;ES;-/- ;€ 29.890
+Mercedes-Benz C 63 AMG;32.000 km;jun-16;375 kW (510 CV);Automático;Gasolina;8,4;ES;-/- ;€ 51.000
+Mercedes-Benz C 63 AMG;2.200 km;ago-16;350 kW (476 CV);Automático;Gasolina;8,6;ES;-/- ;€ 64.900
+Mercedes-Benz A 45 AMG;48.000 km;sep-16;280 kW (381 CV);Automático;Gasolina;6,9;ES;-/- ;€ 38.950
+Mercedes-Benz S 400;139.000 km;mar-16;245 kW (333 CV);Automático;Gasolina;-/- ;ES;-/- ;€ 35.900
+Mercedes-Benz A 45 AMG;57.000 km;jul-16;280 kW (381 CV);Automático;Gasolina;6,9;Unknown;162;€ 37.000
+Mercedes-Benz G 63 AMG;45.000 km;oct-16;420 kW (571 CV);Automático;Gasolina;13,8;ES;322;€ 150.000
+Mercedes-Benz C 63 AMG;25.000 km;jun-16;350 kW (476 CV);Automático;Gasolina;8,6;ES;-/- ;€ 78.990
+Mercedes-Benz C 300;17.000 km;jul-16;180 kW (245 CV);Automático;Gasolina;6,3;Unknown;146;€ 39.900
+Mercedes-Benz C 63 AMG;76.000 km;ene-16;375 kW (510 CV);Automático;Gasolina;8,4;ES;195;€ 59.000
+Mercedes-Benz C 250;84.008 km;oct-16;155 kW (211 CV);Automático;Gasolina;5,3;ES;123;€ 24.900
+Mercedes-Benz GLA 200;26.585 km;ago-16;115 kW (156 CV);Automático;Gasolina;5,6;ES;-/- ;€ 28.450
+Mercedes-Benz AMG GT;34.000 km;jun-16;375 kW (510 CV);Automático;Gasolina;9,6;ES;-/- ;€ 95.000
+Mercedes-Benz CLA 45 AMG;66.000 km;ene-16;280 kW (381 CV);Automático;Gasolina;6,9;Unknown;162;€ 32.900
+Mercedes-Benz A 45 AMG;26.900 km;ene-16;280 kW (381 CV);Automático;Gasolina;6,9;ES;-/- ;€ 39.890
+Mercedes-Benz AMG GT;54.000 km;dic-16;375 kW (510 CV);Automático;Gasolina;9,6;ES;-/- ;€ 115.000
+Mercedes-Benz AMG GT;38.900 km;ene-16;375 kW (510 CV);Automático;Gasolina;9,6;Unknown;224;€ 91.900
+Mercedes-Benz A 45 AMG;18.276 km;jun-16;280 kW (381 CV);Automático;Gasolina;6,9;ES;162;€ 38.500
+Mercedes-Benz S 63 AMG;40.000 km;dic-16;430 kW (585 CV);Automático;Gasolina;10,3;Unknown;242;€ 96.000
+Mercedes-Benz A 45 AMG;26.900 km;ene-16;265 kW (360 CV);Automático;Gasolina;7,1;ES;-/- ;€ 39.890
+Mercedes-Benz A 45 AMG;26.900 km;ene-16;280 kW (381 CV);Automático;Gasolina;6,9;ES;-/- ;€ 39.890
+Mercedes-Benz A 45 AMG;26.900 km;ene-16;280 kW (381 CV);Automático;Gasolina;6,9;ES;-/- ;€ 39.990
+Mercedes-Benz GLA 180;49.000 km;dic-16;90 kW (122 CV);Manual;Gasolina;5,7;Unknown;133;€ 20.600
+Mercedes-Benz SLC 43 AMG;45.000 km;ago-16;270 kW (367 CV);Automático;Gasolina;8,2;Unknown;186;€ 55.000
+Mercedes-Benz GLA 250;25.500 km;dic-16;155 kW (211 CV);Automático;Gasolina;6,6;Unknown;155;€ 26.900
+Mercedes-Benz E 63 AMG;41.100 km;jun-16;430 kW (585 CV);Automático;Gasolina;10,2;ES;-/- ;€ 65.300
+Mercedes-Benz C 63 AMG;45.500 km;ene-16;375 kW (510 CV);Automático;Gasolina;8,4;ES;-/- ;€ 51.700
+Mercedes-Benz G;22.288 km;jul-16;310 kW (421 CV);Automático;Gasolina;12,3;ES;-/- ;€ 85.900
+Mercedes-Benz C 63 AMG;44.910 km;abr-16;375 kW (510 CV);Automático;Gasolina;8,6;Unknown;200;€ 80.000
+Mercedes-Benz 500;107.500 km;oct-16;335 kW (455 CV);Automático;Gasolina;-/- ;ES;-/- ;€ 99.990
+Mercedes-Benz SLC 43 AMG;49.060 km;nov-16;270 kW (367 CV);Automático;Gasolina;8,2;ES;186;€ 51.900
+Mercedes-Benz GLE 450;65.000 km;abr-16;270 kW (367 CV);Automático;Gasolina;9,4;Unknown;219;€ 63.000
+Mercedes-Benz C 200;40.000 km;jun-16;135 kW (184 CV);Manual;Gasolina;5,3;Unknown;123;€ 32.000
+Mercedes-Benz C 63 AMG;63 km;ago-16;375 kW (510 CV);Automático;Gasolina;8,6;ES;-/- ;€ 82.000
+Mercedes-Benz GLE 43 AMG;54.894 km;dic-16;270 kW (367 CV);Automático;Gasolina;8,6;ES;199;€ 59.890
+Mercedes-Benz GLE 43 AMG;89.998 km;jun-16;270 kW (367 CV);Automático;Gasolina;9,4;ES;219;€ 68.970
+Mercedes-Benz GLS 400;87.922 km;jun-16;245 kW (333 CV);Automático;Gasolina;10,8;ES;248;€ 68.700
+Mercedes-Benz GLS 500;81.000 km;oct-16;335 kW (455 CV);Automático;Gasolina;10,9;ES;255;€ 65.900
+Mercedes-Benz GLC 350;29.000 km;dic-16;235 kW (320 CV);Automático;Electro/Gasolina;2,5;ES;59 g;€ 57.480
+Mercedes-Benz SLC 43 AMG;45.700 km;jul-16;270 kW (367 CV);Automático;Gasolina;8,2;ES;186;€ 49.900
+Mercedes-Benz GLS 500;84.917 km;may-16;335 kW (455 CV);Automático;Gasolina;10,9;ES;255;€ 67.800
+Mercedes-Benz GLC 43 AMG;103.307 km;dic-16;270 kW (367 CV);Automático;Gasolina;8,3;ES;189;€ 54.780
+Mercedes-Benz GLS 400;61.408 km;dic-16;245 kW (333 CV);Automático;Gasolina;10,8;ES;248;€ 76.500
+Mercedes-Benz A 45 AMG;18.500 km;abr-16;280 kW (381 CV);Automático;Gasolina;6,9;Unknown;162;€ 39.990
+Mercedes-Benz GLE 500;208.529 km;feb-16;243 kW (330 CV);Automático;Electro/Gasolina;3,3;ES;78 g;€ 54.800
+Mercedes-Benz B Electric Drive;7.291 km;jun-16;132 kW (179 CV);Automático;Eléctrico;-/- ;ES;0 g ;€ 18.960
+Mercedes-Benz C 63 AMG;59.000 km;oct-16;350 kW (476 CV);Automático;Gasolina;8,6;Unknown;200;€ 65.900
+Mercedes-Benz CLA 45 AMG;59.600 km;dic-16;280 kW (381 CV);Automático;Gasolina;8,5;Unknown;168;€ 42.500
+Mercedes-Benz C 300;57.800 km;sep-16;170 kW (231 CV);Automático;Electro/Diésel;4,2;Unknown;106;€ 26.900

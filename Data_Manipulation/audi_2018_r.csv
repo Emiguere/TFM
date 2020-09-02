@@ -1,0 +1,289 @@
+vehicle;  km; year; power; transmision; fuel_type; consume; country;emisions;price 
+Audi RS3;14.000 km;ago-18;294 kW (400 CV);Automático;Gasolina;8,3;ES;-/- ;€ 51.900
+Audi TT;28.900 km;mar-18;169 kW (230 CV);Automático;Gasolina;6,3;Unknown;146;€ 30.990
+Audi A5;60.000 km;ago-18;110 kW (150 CV);Automático;Gasolina;5,6;ES;128;€ 30.500
+Audi A3;21.000 km;jul-18;110 kW (150 CV);Automático;Gasolina;5 l/;ES;114;€ 23.900
+Audi S4;7.000 km;abr-18;260 kW (354 CV);Automático;Gasolina;7,5;ES;-/- ;€ 48.900
+Audi Q7;45.000 km;ago-18;275 kW (374 CV);Automático;Electro/Diésel;1,8;ES;48 g;€ 59.900
+Audi A1;20.000 km;nov-18;85 kW (116 CV);Automático;Gasolina;4,8;ES;-/- ;€ 19.500
+Audi A1;33.422 km;jul-18;70 kW (95 CV);Automático;Gasolina;4,5;ES;-/- ;€ 15.548
+Audi A1;33.422 km;jul-18;70 kW (95 CV);Automático;Gasolina;4,5;ES;-/- ;€ 15.548
+Audi A1;16.200 km;ene-18;70 kW (95 CV);Manual;Gasolina;4,3;ES;-/- ;€ 14.500
+Audi A1;33.422 km;jul-18;70 kW (95 CV);Automático;Gasolina;4,5;ES;-/- ;€ 15.548
+Audi Q2;47.956 km;dic-18;85 kW (116 CV);Automático;Gasolina;-/- ;ES;-/- ;€ 21.200
+Audi A1;33.422 km;jul-18;70 kW (95 CV);Automático;Gasolina;4,5;ES;-/- ;€ 15.548
+Audi A1;33.422 km;jul-18;70 kW (95 CV);Automático;Gasolina;4,5;ES;-/- ;€ 15.548
+Audi A1;33.422 km;jul-18;70 kW (95 CV);Automático;Gasolina;4,5;ES;-/- ;€ 15.548
+Audi Q3;15.209 km;jul-18;110 kW (150 CV);Manual;Gasolina;5,8;ES;-/- ;€ 24.600
+Audi A1;33.422 km;jul-18;70 kW (95 CV);Automático;Gasolina;4,5;ES;-/- ;€ 15.548
+Audi R8;35.000 km;ene-18;449 kW (610 CV);Automático;Gasolina;12,3;ES;-/- ;€ 127.500
+Audi Q5;23.000 km;sep-18;185 kW (252 CV);Automático;Gasolina;7,1;Unknown;162;€ 35.990
+Audi A4;48.000 km;feb-18;110 kW (150 CV);Manual;Gasolina;5,8;ES;-/- ;€ 20.990
+Audi RS4;45.000 km;ene-18;331 kW (450 CV);Automático;Gasolina;8,8;ES;200;€ 73.900
+Audi Q2;48.000 km;mar-18;140 kW (190 CV);Automático;Gasolina;6,4;ES;-/- ;€ 30.500
+Audi A5;7.000 km;mar-18;185 kW (252 CV);Automático;Gasolina;6,4;ES;-/- ;€ 47.500
+Audi Q3;90.646 km;jun-18;110 kW (150 CV);Manual;Gasolina;5,8;ES;-/- ;€ 23.860
+Audi Q3;10.400 km;ago-18;110 kW (150 CV);Automático;Gasolina;5,8;ES;-/- ;€ 27.900
+Audi A5;20.000 km;jul-18;185 kW (252 CV);Automático;Gasolina;6,7;Unknown;152;€ 44.900
+Audi Q3;90.646 km;jun-18;110 kW (150 CV);Manual;Gasolina;5,8;ES;-/- ;€ 21.850
+Audi Q3;90.650 km;jun-18;110 kW (150 CV);Manual;Gasolina;5,8;ES;-/- ;€ 22.500
+Audi Q3;90.650 km;jun-18;110 kW (150 CV);Manual;Gasolina;5,8;ES;-/- ;€ 19.990
+Audi RS3;36.000 km;jul-18;294 kW (400 CV);Automático;Gasolina;8,3;ES;-/- ;€ 53.000
+Audi A1;18.500 km;jun-18;70 kW (95 CV);Manual;Gasolina;4,3;ES;-/- ;€ 15.800
+Audi A4;59.990 km;feb-18;110 kW (150 CV);Manual;Gasolina;5,2;ES;-/- ;€ 20.490
+Audi A3;31.519 km;abr-18;110 kW (150 CV);Automático;Gasolina;5 l/;ES;-/- ;€ 21.200
+Audi Q3;19.999 km;jul-18;132 kW (179 CV);Automático;Gasolina;7 l/;ES;-/- ;€ 29.900
+Audi A4;26.325 km;dic-18;140 kW (190 CV);Automático;Gasolina;5,6;ES;-/- ;€ 29.500
+Audi RS3;59.473 km;feb-18;294 kW (400 CV);Automático;Gasolina;8,3;ES;-/- ;€ 56.500
+Audi A3;3.300 km;nov-18;140 kW (190 CV);Automático;Gasolina;5,7;Unknown;129;€ 22.999
+Audi SQ5;10.000 km;may-18;260 kW (354 CV);Automático;Gasolina;8,3;ES;-/- ;€ 52.900
+Audi A4;5.426 km;abr-18;110 kW (150 CV);Automático;Gasolina;5,4;ES;-/- ;€ 29.400
+Audi Q2;55.295 km;dic-18;85 kW (116 CV);Automático;Gasolina;5,3;ES;-/- ;€ 22.900
+Audi A3;37.221 km;feb-18;140 kW (190 CV);Automático;Gasolina;5,8;Unknown;133;€ 21.219
+Audi RS4;46.000 km;mar-18;331 kW (450 CV);Automático;Gasolina;8,8;ES;-/- ;€ 69.900
+Audi A1;32.634 km;may-18;70 kW (95 CV);Manual;Gasolina;4,3;ES;-/- ;€ 13.600
+Audi RS3;18.500 km;jun-18;294 kW (400 CV);Automático;Gasolina;8,3;ES;-/- ;€ 52.999
+Audi S3;35.000 km;abr-18;228 kW (310 CV);Automático;Gasolina;6,9;ES;-/- ;€ 41.990
+Audi Q3;19.345 km;jul-18;110 kW (150 CV);Manual;Gasolina;5,8;ES;134;€ 25.900
+Audi A1;20.000 km;jun-18;70 kW (95 CV);Manual;Gasolina;4,3;ES;98 g;€ 16.900
+Audi A3;32.000 km;dic-18;110 kW (150 CV);Automático;Gasolina;4,8;ES;-/- ;€ 24.500
+Audi S1;4.960 km;jul-18;170 kW (231 CV);Manual;Gasolina;7,1;ES;-/- ;€ 29.990
+Audi A1;48.980 km;feb-18;92 kW (125 CV);Automático;Gasolina;4,9;ES;-/- ;€ 18.990
+Audi A1;12.008 km;nov-18;85 kW (116 CV);Automático;Gasolina;4,8;ES;-/- ;€ 19.490
+Audi RS6;19.900 km;feb-18;445 kW (605 CV);Automático;Gasolina;9,6;ES;-/- ;€ 96.400
+Audi S3;35.000 km;abr-18;228 kW (310 CV);Automático;Gasolina;6,9;ES;-/- ;€ 41.990
+Audi A7;16.000 km;jun-18;250 kW (340 CV);Automático;Gasolina;7,3;ES;-/- ;€ 58.900
+Audi A4;59.990 km;feb-18;110 kW (150 CV);Manual;Gasolina;5,2;ES;-/- ;€ 21.990
+Audi Q3;34.593 km;jul-18;110 kW (150 CV);Manual;Gasolina;5,8;ES;-/- ;€ 23.500
+Audi A5;42.000 km;ene-18;185 kW (252 CV);Automático;Gasolina;6,2;ES;-/- ;€ 42.900
+Audi Q3;20.000 km;sep-18;110 kW (150 CV);Manual;Gasolina;5,5;ES;-/- ;€ 23.999
+Audi RS4;9.000 km;ago-18;331 kW (450 CV);Automático;Gasolina;8,8;ES;200;€ 88.900
+Audi S4;94.570 km;jun-18;260 kW (354 CV);Automático;Gasolina;7,6;ES;-/- ;€ 41.300
+Audi Q5;16.834 km;abr-18;185 kW (252 CV);Automático;Gasolina;7,1;ES;-/- ;€ 39.999
+Audi Q2;39.700 km;jun-18;85 kW (116 CV);Manual;Gasolina;5,3;ES;-/- ;€ 19.311
+Audi A3;11.410 km;feb-18;85 kW (116 CV);Manual;Gasolina;4,7;ES;-/- ;€ 18.860
+Audi Q2;39.700 km;jun-18;85 kW (116 CV);Manual;Gasolina;5,3;ES;-/- ;€ 19.311
+Audi A3;11.410 km;feb-18;85 kW (116 CV);Manual;Gasolina;4,7;ES;-/- ;€ 18.860
+Audi Q2;39.700 km;jun-18;85 kW (116 CV);Manual;Gasolina;5,3;ES;-/- ;€ 19.311
+Audi A3;11.410 km;feb-18;85 kW (116 CV);Manual;Gasolina;4,7;ES;-/- ;€ 18.860
+Audi Q2;39.700 km;jun-18;85 kW (116 CV);Manual;Gasolina;5,3;ES;-/- ;€ 19.311
+Audi A3;11.410 km;feb-18;85 kW (116 CV);Manual;Gasolina;4,7;ES;-/- ;€ 18.860
+Audi Q2;39.700 km;jun-18;85 kW (116 CV);Manual;Gasolina;5,3;ES;-/- ;€ 19.311
+Audi A3;11.410 km;feb-18;85 kW (116 CV);Manual;Gasolina;4,7;ES;-/- ;€ 18.860
+Audi Q2;39.700 km;jun-18;85 kW (116 CV);Manual;Gasolina;5,3;ES;-/- ;€ 19.311
+Audi A3;11.410 km;feb-18;85 kW (116 CV);Manual;Gasolina;4,7;ES;-/- ;€ 18.860
+Audi Q2;39.700 km;jun-18;85 kW (116 CV);Manual;Gasolina;5,3;ES;-/- ;€ 19.311
+Audi A3;11.410 km;feb-18;85 kW (116 CV);Manual;Gasolina;4,7;ES;-/- ;€ 18.860
+Audi Q3;25.906 km;jul-18;162 kW (220 CV);Automático;Gasolina;7,2;ES;-/- ;€ 29.490
+Audi A3;28.371 km;dic-18;110 kW (150 CV);Automático;Gasolina;5 l/;ES;-/- ;€ 24.500
+Audi RS4;20.500 km;ago-18;331 kW (450 CV);Automático;Gasolina;8,8;Unknown;200;€ 80.900
+Audi A8;85.000 km;mar-18;250 kW (340 CV);Automático;Gasolina;7,9;ES;-/- ;€ 53.800
+Audi S4;94.573 km;jun-18;257 kW (349 CV);Automático;Gasolina;-/- ;ES;-/- ;€ 42.700
+Audi SQ5;43.000 km;ene-18;260 kW (354 CV);Automático;Gasolina;8,3;ES;-/- ;€ 61.900
+Audi S3;41.100 km;mar-18;228 kW (310 CV);Automático;Gasolina;6,4;ES;-/- ;€ 44.200
+Audi RS4;13.600 km;jul-18;331 kW (450 CV);Automático;Gasolina;8,8;ES;-/- ;€ 70.000
+Audi RS4;13.731 km;mar-18;331 kW (450 CV);Automático;Gasolina;8,8;ES;-/- ;€ 80.500
+Audi Q3;1.000 km;dic-18;110 kW (150 CV);Manual;Gasolina;-/- ;ES;-/- ;€ 35.500
+Audi TT;43.000 km;mar-18;169 kW (230 CV);Automático;Gasolina;6,7;ES;-/- ;€ 35.900
+Audi S4;94.570 km;jun-18;260 kW (354 CV);Automático;Gasolina;7,6;ES;-/- ;€ 42.299
+Audi RS4;29.400 km;oct-18;331 kW (450 CV);Automático;Gasolina;8,8;ES;-/- ;€ 85.990
+Audi A3;28.600 km;mar-18;110 kW (150 CV);Automático;Gasolina;5 l/;ES;-/- ;€ 20.400
+Audi Q3;20.323 km;dic-18;110 kW (150 CV);Automático;Gasolina;5,8;ES;-/- ;€ 29.400
+Audi A3;31.000 km;ago-18;110 kW (150 CV);Manual;Gasolina;4,8;ES;-/- ;€ 28.495
+Audi RS3;40.000 km;jul-18;294 kW (400 CV);Automático;Gasolina;8,3;ES;-/- ;€ 52.000
+Audi A3;23.981 km;dic-18;85 kW (116 CV);Manual;Gasolina;5 l/;ES;-/- ;€ 19.500
+Audi A4;48.000 km;feb-18;110 kW (150 CV);Manual;Gasolina;5,8;ES;-/- ;€ 23.390
+Audi Q2;22.516 km;abr-18;110 kW (150 CV);Automático;Gasolina;5,4;ES;123;€ 25.900
+Audi A3;23.981 km;dic-18;85 kW (116 CV);Manual;Gasolina;5 l/;ES;118;€ 21.900
+Audi Q2;21.000 km;jun-18;110 kW (150 CV);Manual;Gasolina;5,6;ES;-/- ;€ 23.999
+Audi RS3;35.000 km;ene-18;294 kW (400 CV);Automático;Gasolina;8,3;Unknown;189;€ 54.000
+Audi SQ5;19.000 km;jun-18;260 kW (354 CV);Automático;Gasolina;8,3;Unknown;189;€ 67.000
+Audi A3;15.000 km;ene-18;110 kW (150 CV);Manual;Gasolina;5,1;ES;-/- ;€ 22.300
+Audi A1;20.000 km;may-18;92 kW (125 CV);Manual;Gasolina;5,1;ES;-/- ;€ 16.900
+Audi A4;19.886 km;jun-18;110 kW (150 CV);Manual;Gasolina;5,2;ES;-/- ;€ 25.800
+Audi Q2;8.343 km;jul-18;110 kW (150 CV);Manual;Gasolina;5,6;ES;-/- ;€ 25.500
+Audi Q2;5.497 km;abr-18;110 kW (150 CV);Manual;Gasolina;5,6;ES;-/- ;€ 25.500
+Audi RS4;25.966 km;abr-18;331 kW (450 CV);Automático;Gasolina;8,8;ES;200;€ 87.000
+Audi A1;18.900 km;oct-18;70 kW (95 CV);Manual;Gasolina;4,2;ES;-/- ;€ 16.440
+Audi Q3;25.000 km;jul-18;110 kW (150 CV);Manual;Gasolina;5,8;ES;134;€ 24.900
+Audi RS4;53.500 km;ago-18;331 kW (450 CV);Automático;Gasolina;8,8;ES;-/- ;€ 72.800
+Audi R8;39.900 km;mar-18;397 kW (540 CV);Automático;Gasolina;11,4;ES;-/- ;€ 121.900
+Audi RS5;61.000 km;mar-18;331 kW (450 CV);Automático;Gasolina;8,7;ES;-/- ;€ 68.500
+Audi RS4;12.100 km;feb-18;331 kW (450 CV);Automático;Gasolina;8,8;ES;-/- ;€ 82.900
+Audi A3;15.871 km;jul-18;150 kW (204 CV);Automático;Electro/Gasolina;1,6;ES;-/- ;€ 29.200
+Audi A1;9.858 km;nov-18;70 kW (95 CV);Manual;Gasolina;4,3;ES;-/- ;€ 17.000
+Audi A1;25.679 km;feb-18;70 kW (95 CV);Automático;Gasolina;4,4;Unknown;102;€ 16.500
+Audi Q2;42.652 km;dic-18;85 kW (116 CV);Automático;Gasolina;-/- ;ES;-/- ;€ 21.200
+Audi A6;44.328 km;feb-18;140 kW (190 CV);Automático;Gasolina;5,9;ES;-/- ;€ 33.500
+Audi A3;15.871 km;jul-18;150 kW (204 CV);Automático;Electro/Gasolina;1,6;ES;-/- ;€ 30.199
+Audi Q2;55.295 km;dic-18;85 kW (116 CV);Automático;Gasolina;5,3;ES;-/- ;€ 21.975
+Audi A3;15.871 km;jul-18;148 kW (201 CV);Manual;Gasolina;-/- ;ES;-/- ;€ 31.300
+Audi R8;12.400 km;may-18;449 kW (610 CV);Automático;Gasolina;11,7;ES;-/- ;€ 153.900
+Audi RS4;7.313 km;ene-18;331 kW (450 CV);Automático;Gasolina;8,8;ES;-/- ;€ 87.900
+Audi RS4;12.800 km;ago-18;331 kW (450 CV);Automático;Gasolina;8,8;ES;-/- ;€ 93.900
+Audi R8;990 km;ene-18;397 kW (540 CV);Automático;Gasolina;11,4;ES;-/- ;€ 137.900
+Audi Q2;13.000 km;may-18;110 kW (150 CV);Automático;Gasolina;5,4;ES;-/- ;€ 25.999
+Audi RS4;24.700 km;jun-18;331 kW (450 CV);Automático;Gasolina;8,8;ES;-/- ;€ 79.900
+Audi A1;40.423 km;may-18;70 kW (95 CV);Manual;Gasolina;4,3;ES;-/- ;€ 13.600
+Audi Q3;25.906 km;jul-18;162 kW (220 CV);Automático;Gasolina;7,2;ES;-/- ;€ 29.490
+Audi A3;36.000 km;dic-18;110 kW (150 CV);Automático;Gasolina;5 l/;ES;-/- ;€ 23.990
+Audi A3;12.000 km;dic-18;110 kW (150 CV);Manual;Gasolina;5 l/;ES;-/- ;€ 25.900
+Audi RS4;35.000 km;sep-18;331 kW (450 CV);Automático;Gasolina;8,8;ES;-/- ;€ 72.990
+Audi Q3;14.500 km;dic-18;169 kW (230 CV);Automático;Gasolina;7,4;ES;-/- ;€ 48.000
+Audi A3;15.200 km;dic-18;85 kW (116 CV);Manual;Gasolina;5 l/;ES;-/- ;€ 21.300
+Audi A1;19.400 km;jun-18;70 kW (95 CV);Manual;Gasolina;4,3;ES;-/- ;€ 15.300
+Audi Q2;64.000 km;jun-18;110 kW (150 CV);Automático;Gasolina;5,4;ES;-/- ;€ 19.970
+Audi A3;53.000 km;dic-18;110 kW (150 CV);Automático;Gasolina;5 l/;ES;-/- ;€ 22.900
+Audi A4;3.000 km;dic-18;110 kW (150 CV);Manual;Gasolina;5,2;ES;-/- ;€ 26.245
+Audi Q3;14.500 km;dic-18;169 kW (230 CV);Automático;Gasolina;7,4;ES;-/- ;€ 48.000
+Audi A3;15.200 km;dic-18;85 kW (116 CV);Manual;Gasolina;5 l/;ES;-/- ;€ 21.300
+Audi A1;19.400 km;jun-18;70 kW (95 CV);Manual;Gasolina;4,3;ES;-/- ;€ 15.300
+Audi SQ5;18.000 km;feb-18;260 kW (354 CV);Automático;Gasolina;8,3;ES;-/- ;€ 62.000
+Audi Q2;30.500 km;dic-18;85 kW (116 CV);Automático;Gasolina;5,3;ES;-/- ;€ 21.900
+Audi Q2;33.542 km;dic-18;85 kW (116 CV);Automático;Gasolina;5,3;ES;-/- ;€ 21.900
+Audi Q3;14.300 km;dic-18;110 kW (150 CV);Automático;Gasolina;5,8;ES;-/- ;€ 36.900
+Audi A1;25.000 km;jun-18;70 kW (95 CV);Manual;Gasolina;4,3;ES;-/- ;€ 15.300
+Audi A3;30.000 km;jun-18;110 kW (150 CV);Automático;Gasolina;5 l/;ES;-/- ;€ 21.900
+Audi SQ5;19.500 km;ene-18;260 kW (354 CV);Automático;Gasolina;8,3;ES;-/- ;€ 64.795
+Audi SQ5;19.500 km;ene-18;260 kW (354 CV);Automático;Gasolina;8,3;ES;-/- ;€ 65.300
+Audi RS3;56.000 km;feb-18;294 kW (400 CV);Automático;Gasolina;8,3;ES;-/- ;€ 49.900
+Audi TT;49.000 km;jun-18;294 kW (400 CV);Automático;Gasolina;8,2;ES;-/- ;€ 69.900
+Audi A4;44.000 km;sep-18;140 kW (190 CV);Automático;Gasolina;5,6;ES;-/- ;€ 32.768
+Audi A7;25.000 km;jun-18;250 kW (340 CV);Automático;Gasolina;7,3;ES;-/- ;€ 60.900
+Audi A1;40.295 km;may-18;70 kW (95 CV);Manual;Gasolina;4,3;ES;-/- ;€ 13.600
+Audi TT;29.000 km;jun-18;169 kW (230 CV);Automático;Gasolina;6,5;ES;-/- ;€ 34.500
+Audi Q3;21.630 km;dic-18;110 kW (150 CV);Automático;Gasolina;5,8;ES;-/- ;€ 29.400
+Audi A1;20.404 km;nov-18;85 kW (116 CV);Manual;Gasolina;4,8;ES;-/- ;€ 19.800
+Audi S5;41.317 km;jul-18;260 kW (354 CV);Automático;Gasolina;7,7;ES;-/- ;€ 55.500
+Audi Q2;17.039 km;abr-18;110 kW (150 CV);Automático;Gasolina;5,4;ES;-/- ;€ 25.300
+Audi Q3;17.513 km;dic-18;110 kW (150 CV);Automático;Gasolina;5,8;ES;-/- ;€ 29.400
+Audi A5;22.268 km;ene-18;110 kW (150 CV);Automático;Gasolina;5,6;ES;-/- ;€ 31.500
+Audi A3;23.013 km;jul-18;150 kW (204 CV);Automático;Electro/Gasolina;1,6;ES;-/- ;€ 34.400
+Audi A5;9.731 km;jun-18;140 kW (190 CV);Automático;Gasolina;5,4;ES;-/- ;€ 34.700
+Audi Q5;17.483 km;ene-18;185 kW (252 CV);Automático;Gasolina;7,1;ES;-/- ;€ 46.900
+Audi A3;26.524 km;jun-18;150 kW (204 CV);Automático;Electro/Gasolina;1,6;ES;-/- ;€ 29.900
+Audi A5;9.653 km;jun-18;140 kW (190 CV);Automático;Gasolina;5,4;ES;-/- ;€ 34.800
+Audi A3;22.618 km;abr-18;110 kW (150 CV);Automático;Gasolina;5,2;ES;-/- ;€ 29.100
+Audi A3;27.711 km;abr-18;85 kW (116 CV);Automático;Gasolina;5,3;ES;-/- ;€ 25.500
+Audi TT;29.000 km;jun-18;169 kW (230 CV);Automático;Gasolina;6,5;ES;-/- ;€ 34.500
+Audi A1;18.000 km;jun-18;85 kW (116 CV);Manual;Gasolina;4,9;ES;-/- ;€ 21.900
+Audi A1;18.000 km;jun-18;85 kW (116 CV);Automático;Gasolina;4,8;ES;-/- ;€ 24.900
+Audi Q2;42.000 km;jun-18;110 kW (150 CV);Automático;Gasolina;-/- ;ES;-/- ;€ 24.700
+Audi A4;18.000 km;may-18;110 kW (150 CV);Manual;Gasolina;5,2;ES;-/- ;€ 27.400
+Audi A3;3.500 km;mar-18;110 kW (150 CV);Automático;Gasolina;5 l/;ES;-/- ;€ 25.290
+Audi Q2;27.246 km;abr-18;85 kW (116 CV);Manual;Gasolina;5,3;ES;-/- ;€ 24.400
+Audi A3;15.000 km;ene-18;110 kW (150 CV);Manual;Gasolina;5,1;ES;-/- ;€ 22.300
+Audi A1;20.000 km;may-18;92 kW (125 CV);Manual;Gasolina;5,1;ES;-/- ;€ 16.900
+Audi Q3;15.125 km;jun-18;132 kW (179 CV);Automático;Gasolina;7 l/;ES;-/- ;€ 30.400
+Audi Q3;25.906 km;jul-18;162 kW (220 CV);Automático;Gasolina;7,2;ES;-/- ;€ 29.490
+Audi A4;16.472 km;jun-18;140 kW (190 CV);Automático;Gasolina;5,3;ES;-/- ;€ 29.950
+Audi A4;10.625 km;jun-18;140 kW (190 CV);Automático;Gasolina;5,3;ES;-/- ;€ 29.950
+Audi RS3;10.500 km;jun-18;294 kW (400 CV);Automático;Gasolina;8,3;ES;-/- ;€ 55.900
+Audi RS6;13.000 km;may-18;445 kW (605 CV);Automático;Gasolina;9,6;ES;-/- ;€ 118.000
+Audi Q2;20.933 km;jun-18;85 kW (116 CV);Manual;Gasolina;5,3;ES;-/- ;€ 21.890
+Audi A1;3.260 km;nov-18;85 kW (116 CV);Manual;Gasolina;-/- ;ES;-/- ;€ 23.490
+Audi Q5;22.400 km;oct-18;185 kW (252 CV);Automático;Gasolina;6,8;ES;-/- ;€ 52.700
+Audi Q2;37.300 km;jul-18;140 kW (190 CV);Automático;Gasolina;-/- ;ES;-/- ;€ 30.900
+Audi R8;9.000 km;sep-18;449 kW (610 CV);Automático;Gasolina;12,3;ES;-/- ;€ 159.900
+Audi A1;14.000 km;nov-18;85 kW (116 CV);Manual;Gasolina;4,9;ES;-/- ;€ 19.700
+Audi A3;29.000 km;jul-18;110 kW (150 CV);Manual;Gasolina;5,1;ES;-/- ;€ 20.700
+Audi A3;24.500 km;jun-18;110 kW (150 CV);Manual;Gasolina;5,1;ES;-/- ;€ 20.900
+Audi A4;10.500 km;jun-18;110 kW (150 CV);Manual;Gasolina;5,8;ES;-/- ;€ 31.400
+Audi A3;38.103 km;jul-18;110 kW (150 CV);Manual;Gasolina;5,1;ES;-/- ;€ 21.900
+Audi A3;24.583 km;jun-18;110 kW (150 CV);Automático;Gasolina;5 l/;ES;-/- ;€ 21.590
+Audi A3;29.400 km;jul-18;110 kW (150 CV);Manual;Gasolina;5,1;ES;117;€ 24.500
+Audi A5;46.000 km;may-18;185 kW (252 CV);Automático;Gasolina;6,4;Unknown;144;€ 50.000
+Audi RS3;19.000 km;ene-18;294 kW (400 CV);Automático;Gasolina;8,3;Unknown;189;€ 55.900
+Audi RS3;19.000 km;ene-18;294 kW (400 CV);Automático;Gasolina;8,3;Unknown;189;€ 55.900
+Audi RS3;72.000 km;mar-18;294 kW (400 CV);Automático;Gasolina;8,3;ES;-/- ;€ 47.000
+Audi A1;20.000 km;abr-18;92 kW (125 CV);Manual;Gasolina;5,1;Unknown;119;€ 17.900
+Audi A3;19.242 km;jun-18;110 kW (150 CV);Automático;Gasolina;5 l/;ES;113;€ 23.900
+Audi A3;18.000 km;jun-18;110 kW (150 CV);Automático;Gasolina;5 l/;ES;113;€ 23.000
+Audi A1;13.700 km;nov-18;85 kW (116 CV);Manual;Gasolina;4,9;Unknown;111;€ 17.900
+Audi S3;22.478 km;ago-18;228 kW (310 CV);Automático;Gasolina;6,9;ES;-/- ;€ 45.000
+Audi Q2;36.500 km;sep-18;85 kW (116 CV);Automático;Gasolina;5,3;ES;-/- ;€ 19.990
+Audi A1;11.234 km;jun-18;70 kW (95 CV);Manual;Gasolina;4,2;ES;-/- ;€ 15.990
+Audi Q3;14.500 km;dic-18;169 kW (230 CV);Automático;Gasolina;7,4;ES;168;€ 51.000
+Audi TT;21.000 km;jun-18;169 kW (230 CV);Automático;Gasolina;6,4;Unknown;149;€ 44.000
+Audi RS3;18.000 km;jun-18;294 kW (400 CV);Automático;Gasolina;8,3;ES;-/- ;€ 51.990
+Audi RS3;18.000 km;abr-18;294 kW (400 CV);Automático;Gasolina;8,3;ES;189;€ 57.000
+Audi A5;15.700 km;jul-18;140 kW (190 CV);Manual;Gasolina;5,7;ES;132;€ 33.500
+Audi TT;75.000 km;mar-18;169 kW (230 CV);Manual;Gasolina;6,1;Unknown;141;€ 33.500
+Audi A3;25.121 km;may-18;110 kW (150 CV);Manual;Gasolina;5,1;ES;-/- ;€ 23.200
+Audi A3;4.519 km;jul-18;110 kW (150 CV);Automático;Gasolina;5 l/;ES;-/- ;€ 23.400
+Audi RS4;42.500 km;feb-18;331 kW (450 CV);Automático;Gasolina;8,8;Unknown;200;€ 78.500
+Audi Q2;17.000 km;dic-18;85 kW (116 CV);Automático;Gasolina;5,4;Unknown;122;€ 25.000
+Audi SQ5;45.000 km;sep-18;260 kW (354 CV);Automático;Gasolina;8,3;Unknown;189;€ 65.000
+Audi RS7;23.440 km;ene-18;412 kW (560 CV);Automático;Gasolina;9,5;ES;-/- ;€ 72.500
+Audi SQ5;14.068 km;ago-18;260 kW (354 CV);Automático;Gasolina;8,3;ES;-/- ;€ 60.300
+Audi RS3;20.879 km;may-18;294 kW (400 CV);Automático;Gasolina;8,3;ES;-/- ;€ 56.300
+Audi A8;26.400 km;may-18;250 kW (340 CV);Automático;Gasolina;7,9;ES;-/- ;€ 64.800
+Audi Q2;14.500 km;abr-18;85 kW (116 CV);Manual;Gasolina;5,3;ES;121;€ 24.600
+Audi A3;15.000 km;ene-18;110 kW (150 CV);Manual;Gasolina;5,1;ES;117;€ 24.900
+Audi A1;20.000 km;may-18;92 kW (125 CV);Manual;Gasolina;5,1;ES;118;€ 18.900
+Audi A3;7.311 km;abr-18;85 kW (116 CV);Manual;Gasolina;4,7;ES;-/- ;€ 21.000
+Audi RS6;13.000 km;may-18;445 kW (605 CV);Automático;Gasolina;9,6;ES;223;€ 118.000
+Audi Q3;16.874 km;jun-18;132 kW (179 CV);Automático;Gasolina;6,7;ES;-/- ;€ 29.800
+Audi Q3;25.906 km;jul-18;162 kW (220 CV);Automático;Gasolina;7,2;ES;-/- ;€ 29.490
+Audi RS4;23.979 km;nov-18;331 kW (450 CV);Automático;Gasolina;8,8;ES;-/- ;€ 87.900
+Audi RS5;20.000 km;feb-18;331 kW (450 CV);Automático;Gasolina;8,7;ES;197;€ 69.700
+Audi Q2;12 km;feb-18;110 kW (150 CV);Manual;Gasolina;5,6;ES;-/- ;€ 34.490
+Audi A3;28.070 km;abr-18;110 kW (150 CV);Automático;Gasolina;5 l/;ES;-/- ;€ 20.300
+Audi A3;23.000 km;jun-18;294 kW (400 CV);Automático;Gasolina;8,3;ES;-/- ;€ 66.900
+Audi A3;28.066 km;abr-18;110 kW (150 CV);Automático;Gasolina;5 l/;ES;-/- ;€ 20.300
+Audi RS3;18.200 km;ene-18;294 kW (400 CV);Automático;Gasolina;8,3;Unknown;189;€ 58.000
+Audi RS4;32.815 km;ago-18;331 kW (450 CV);Automático;Gasolina;8,8;ES;200;€ 90.500
+Audi A3;26.923 km;jun-18;110 kW (150 CV);Automático;Gasolina;5 l/;ES;-/- ;€ 23.900
+Audi A3;13.128 km;jul-18;150 kW (204 CV);Automático;Electro/Gasolina;1,6;ES;-/- ;€ 32.800
+Audi A3;25.193 km;dic-18;85 kW (116 CV);Manual;Gasolina;5 l/;ES;-/- ;€ 22.000
+Audi A3;21.048 km;dic-18;85 kW (116 CV);Manual;Gasolina;5 l/;ES;-/- ;€ 22.100
+Audi Q2;28.188 km;abr-18;110 kW (150 CV);Automático;Gasolina;5,4;ES;-/- ;€ 24.200
+Audi A5;27.849 km;ene-18;110 kW (150 CV);Automático;Gasolina;5,6;ES;-/- ;€ 33.300
+Audi Q3;33.000 km;ene-18;110 kW (150 CV);Manual;Gasolina;5,8;ES;-/- ;€ 25.200
+Audi Q2;24.697 km;may-18;85 kW (116 CV);Automático;Gasolina;5,3;ES;-/- ;€ 23.300
+Audi A1;150 km;nov-18;85 kW (116 CV);Manual;Gasolina;4,8;ES;-/- ;€ 21.600
+Audi A4;10 km;jul-18;110 kW (150 CV);Manual;Gasolina;5,8;ES;-/- ;€ 31.400
+Audi Q2;150 km;jul-18;85 kW (116 CV);Manual;Gasolina;5,3;ES;-/- ;€ 25.600
+Audi A3;500 km;feb-18;110 kW (150 CV);Manual;Gasolina;5,1;ES;-/- ;€ 23.000
+Audi RS3;6.500 km;ene-18;294 kW (400 CV);Automático;Gasolina;8,3;ES;-/- ;€ 54.990
+Audi A3;29.356 km;abr-18;110 kW (150 CV);Automático;Gasolina;5 l/;ES;-/- ;€ 20.300
+Audi A4;9.560 km;mar-18;110 kW (150 CV);Manual;Gasolina;5,4;ES;-/- ;€ 23.500
+Audi A3;23.031 km;dic-18;85 kW (116 CV);Manual;Gasolina;5 l/;ES;-/- ;€ 18.500
+Audi A1;11.500 km;nov-18;85 kW (116 CV);Manual;Gasolina;4,8;ES;-/- ;€ 19.050
+Audi TT;22.916 km;mar-18;169 kW (230 CV);Automático;Gasolina;-/- ;ES;-/- ;€ 31.600
+Audi A3;7.344 km;abr-18;85 kW (116 CV);Automático;Gasolina;4,7;ES;-/- ;€ 23.400
+Audi A3;19.261 km;dic-18;85 kW (116 CV);Manual;Gasolina;5 l/;ES;-/- ;€ 19.100
+Audi A4;63.000 km;ene-18;185 kW (252 CV);Automático;Gasolina;6,3;Unknown;145;€ 31.990
+Audi A1;15.117 km;may-18;70 kW (95 CV);Manual;Gasolina;4,3;ES;98 g;€ 16.900
+Audi A3;21.048 km;dic-18;85 kW (116 CV);Manual;Gasolina;5 l/;ES;118;€ 23.900
+Audi A3;15.200 km;dic-18;85 kW (116 CV);Manual;Gasolina;5 l/;ES;118;€ 23.100
+Audi Q2;5.882 km;abr-18;110 kW (150 CV);Automático;Gasolina;5,4;ES;123;€ 27.850
+Audi A1;19.400 km;jun-18;70 kW (95 CV);Manual;Gasolina;4,3;ES;98 g;€ 16.800
+Audi Q2;15.114 km;ene-18;110 kW (150 CV);Manual;Gasolina;5,6;ES;128;€ 27.900
+Audi A1;28.336 km;jun-18;70 kW (95 CV);Manual;Gasolina;4,3;ES;98 g;€ 16.750
+Audi A1;23.740 km;may-18;70 kW (95 CV);Manual;Gasolina;4,3;ES;98 g;€ 16.850
+Audi Q2;26.545 km;jun-18;85 kW (116 CV);Manual;Gasolina;5,3;ES;121;€ 23.450
+Audi A3;19.831 km;mar-18;110 kW (150 CV);Automático;Gasolina;5 l/;ES;-/- ;€ 22.990
+Audi A3;26.300 km;mar-18;110 kW (150 CV);Automático;Gasolina;5 l/;ES;-/- ;€ 22.990
+Audi A3;7.344 km;abr-18;85 kW (116 CV);Automático;Gasolina;4,7;ES;107;€ 24.900
+Audi A3;11.639 km;abr-18;110 kW (150 CV);Automático;Gasolina;5 l/;ES;113;€ 25.450
+Audi A3;29.000 km;mar-18;85 kW (116 CV);Automático;Gasolina;5,1;ES;116;€ 22.500
+Audi Q2;24.788 km;may-18;85 kW (116 CV);Automático;Gasolina;5,3;ES;121;€ 25.550
+Audi A3;20.931 km;abr-18;110 kW (150 CV);Automático;Gasolina;5 l/;ES;113;€ 23.750
+Audi Q2;28.652 km;jun-18;85 kW (116 CV);Manual;Gasolina;5,3;ES;121;€ 22.950
+Audi Q3;16.241 km;jun-18;110 kW (150 CV);Manual;Gasolina;5,8;ES;134;€ 25.650
+Audi Q2;11.983 km;jun-18;85 kW (116 CV);Manual;Gasolina;5,3;ES;121;€ 24.150
+Audi Q2;21.645 km;jun-18;85 kW (116 CV);Manual;Gasolina;5,3;ES;121;€ 22.950
+Audi Q2;10.888 km;jun-18;110 kW (150 CV);Automático;Gasolina;5,4;ES;123;€ 30.850
+Audi Q2;12.994 km;may-18;110 kW (150 CV);Automático;Gasolina;5,4;ES;123;€ 30.850
+Audi Q2;13.027 km;may-18;110 kW (150 CV);Automático;Gasolina;5,4;ES;123;€ 30.850
+Audi Q2;13.027 km;may-18;110 kW (150 CV);Automático;Gasolina;5,4;ES;123;€ 30.850
+Audi A3;13.093 km;mar-18;110 kW (150 CV);Automático;Gasolina;5 l/;ES;114;€ 26.350
+Audi A3;26.300 km;mar-18;110 kW (150 CV);Automático;Gasolina;5 l/;ES;113;€ 24.490
+Audi A3;19.831 km;mar-18;110 kW (150 CV);Automático;Gasolina;5 l/;ES;113;€ 24.490
+Audi A3;12.792 km;mar-18;110 kW (150 CV);Automático;Gasolina;5 l/;ES;113;€ 22.650
+Audi A3;13.421 km;mar-18;110 kW (150 CV);Automático;Gasolina;5 l/;ES;113;€ 22.650
+Audi Q3;16.068 km;jun-18;110 kW (150 CV);Manual;Gasolina;5,8;ES;134;€ 25.350
+Audi RS4;18.500 km;ene-18;331 kW (450 CV);Automático;Gasolina;8,8;ES;-/- ;€ 80.000
+Audi A3;12.434 km;mar-18;110 kW (150 CV);Automático;Gasolina;5 l/;ES;114;€ 26.350
+Audi Q2;21.645 km;abr-18;85 kW (116 CV);Automático;Gasolina;5,3;ES;121;€ 25.890

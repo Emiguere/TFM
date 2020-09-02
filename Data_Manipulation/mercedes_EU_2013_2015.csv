@@ -1,0 +1,401 @@
+vehicle;  km; year; power; transmision; fuel_type; consume; country;emisions;price 
+Mercedes-Benz E 350;50.000 km;jun-15;190 kW (258 CV);Automático;Diésel;6,1;DE;162;€ 29.880
+Mercedes-Benz A 45 AMG;47.000 km;oct-15;280 kW (381 CV);Automático;Gasolina;6,9;ES;-/- ;€ 36.800
+Mercedes-Benz A 180;96.000 km;feb-13;80 kW (109 CV);Automático;Diésel;4,4;DE;117;€ 14.999
+Mercedes-Benz C 220;125.000 km;ago-13;125 kW (170 CV);Automático;Diésel;4,4;DE;125;€ 13.750
+Mercedes-Benz B 180;84.000 km;may-14;80 kW (109 CV);Automático;Diésel;4,1;Unknown;107;€ 14.500
+Mercedes-Benz E 200;348.000 km;jun-14;135 kW (184 CV);Automático;Gasolina;6,3;Unknown;147;€ 9.500
+Mercedes-Benz A 180;55.427 km;ago-15;90 kW (122 CV);Automático;Gasolina;5,6;DE;131;€ 14.990
+Mercedes-Benz E 300;218.000 km;abr-13;150 kW (204 CV);Automático;Electro/Diésel;3,8;Unknown;99 g;€ 9.500
+Mercedes-Benz CLS 250;171.500 km;oct-14;150 kW (204 CV);Automático;Diésel;5,1;Unknown;134;€ 24.999
+Mercedes-Benz GLA 200;64.600 km;abr-14;100 kW (136 CV);Automático;Diésel;4,8;Unknown;127;€ 15.500
+Mercedes-Benz E 320;56.000 km;ago-15;200 kW (272 CV);Automático;Gasolina;7,4;Unknown;172;€ 28.999
+Mercedes-Benz GLA 220;78.644 km;abr-15;130 kW (177 CV);Automático;Diésel;4,8;ES;-/- ;€ 22.900
+Mercedes-Benz B 180;58.375 km;dic-13;80 kW (109 CV);Manual;Diésel;4,1;ES;-/- ;€ 14.900
+Mercedes-Benz A 180;67.378 km;nov-15;90 kW (122 CV);Automático;Gasolina;5,6;DE;131;€ 15.980
+Mercedes-Benz E 220;178.086 km;mar-14;125 kW (170 CV);Automático;Diésel;-/- ;DE;-/- ;€ 18.990
+Mercedes-Benz C 220;49.900 km;ene-15;125 kW (170 CV);Automático;Diésel;4,4;Unknown;114;€ 26.995
+Mercedes-Benz B 180;33.000 km;mar-15;90 kW (122 CV);Automático;Gasolina;5,6;DE;129;€ 17.500
+Mercedes-Benz CLS 350;210.000 km;mar-15;185 kW (252 CV);Automático;Diésel;-/- ;FR;179;€ 19.990
+Mercedes-Benz B 200;96.000 km;may-13;115 kW (156 CV);Automático;Gasolina;0 l/;Unknown;0 g ;€ 12.500
+Mercedes-Benz C 180;84.520 km;abr-14;115 kW (156 CV);Automático;Gasolina;5,8;Unknown;136;€ 19.000
+Mercedes-Benz ML 350;129.100 km;sep-14;190 kW (258 CV);Automático;Diésel;-/- ;DE;-/- ;€ 25.900
+Mercedes-Benz CLA 180;58.944 km;sep-14;90 kW (122 CV);Automático;Gasolina;5,1;BE;-/- ;€ 18.500
+Mercedes-Benz Vito;113.000 km;jun-15;120 kW (163 CV);Automático;Diésel;6,3;DE;166;€ 16.950
+Mercedes-Benz A 180;102.000 km;mar-14;80 kW (109 CV);Semiautomático;Diésel;4 l/;Unknown;103;€ 12.700
+Mercedes-Benz A 180;70.700 km;ago-15;80 kW (109 CV);Manual;Diésel;3,8;IT;98 g;€ 16.900
+Mercedes-Benz CLA 200;96.889 km;mar-14;100 kW (136 CV);Manual;Diésel;4,2;IT;109;€ 17.800
+Mercedes-Benz CLA 250;93.500 km;jul-13;155 kW (211 CV);Automático;Gasolina;6,4;Unknown;148;€ 22.500
+Mercedes-Benz CLA 250;93.500 km;jul-13;155 kW (211 CV);Automático;Gasolina;6,4;Unknown;148;€ 22.500
+Mercedes-Benz CLA 250;93.500 km;jul-13;155 kW (211 CV);Automático;Gasolina;6,4;Unknown;148;€ 22.500
+Mercedes-Benz A 180;70.700 km;ago-15;80 kW (109 CV);Manual;Diésel;3,8;IT;98 g;€ 16.900
+Mercedes-Benz Sprinter;178.000 km;jun-14;120 kW (163 CV);Manual;Diésel;8,1;Unknown;213;€ 17.000
+Mercedes-Benz A 200;69.000 km;abr-13;115 kW (156 CV);Automático;Gasolina;5,5;DE;130;€ 16.800
+Mercedes-Benz Sprinter;100.000 km;mar-14;70 kW (95 CV);Automático;Diésel;9,3;Unknown;246;€ 13.500
+Mercedes-Benz CLS 350;210.000 km;mar-15;185 kW (252 CV);Automático;Diésel;-/- ;BE;179;€ 19.990
+Mercedes-Benz SLK 200;92.000 km;may-13;135 kW (184 CV);Manual;Gasolina;6,4;Unknown;149;€ 18.750
+Mercedes-Benz B 180;119.000 km;feb-13;80 kW (109 CV);Automático;Diésel;4,4;Unknown;114;€ 14.000
+Mercedes-Benz A 200;99.997 km;abr-14;115 kW (156 CV);Automático;Gasolina;5,5;DE;129;€ 14.990
+Mercedes-Benz Sprinter;204.890 km;mar-13;95 kW (129 CV);Manual;Diésel;-/- ;Unknown;-/- ;€ 6.650
+Mercedes-Benz A 180;188.000 km;dic-13;80 kW (109 CV);Manual;Diésel;3,8;Unknown;98 g;€ 9.000
+Mercedes-Benz A 200;148.000 km;ago-14;100 kW (136 CV);Automático;Diésel;4,1;FR;109;€ 12.900
+Mercedes-Benz C 350;189.332 km;ago-15;155 kW (211 CV);Automático;Gasolina;-/- ;NL;-/- ;€ 20.950
+Mercedes-Benz ML 250;145.000 km;ago-15;150 kW (204 CV);Automático;Diésel;-/- ;IT;-/- ;€ 28.000
+Mercedes-Benz GLA 200;52.000 km;may-15;115 kW (156 CV);Automático;Gasolina;5,8;DE;134;€ 19.800
+Mercedes-Benz C 180;72.823 km;ago-15;115 kW (156 CV);Automático;Gasolina;5,4;DE;127;€ 21.900
+Mercedes-Benz E 350;125.000 km;nov-13;185 kW (252 CV);Automático;Diésel;6,4;DE;169;€ 23.900
+Mercedes-Benz C 200;74.960 km;oct-14;135 kW (184 CV);Automático;Gasolina;5,6;Unknown;131;€ 32.000
+Mercedes-Benz A 180;86.800 km;oct-14;90 kW (122 CV);Manual;Gasolina;5,5;AT;127;€ 13.490
+Mercedes-Benz B 200;37.791 km;jun-14;115 kW (156 CV);Manual;Gasolina;5,9;NL;137;€ 15.725
+Mercedes-Benz E 250;170.000 km;jun-14;150 kW (204 CV);Automático;Diésel;4,8;Unknown;128;€ 20.000
+Mercedes-Benz C 350;194.335 km;jun-15;- kW (- CV);Automático;Electro/Gasolina;2,1;NL;49 g;€ 14.850
+Mercedes-Benz ML 350;99.500 km;jul-14;190 kW (258 CV);Automático;Diésel;-/- ;Unknown;-/- ;€ 44.990
+Mercedes-Benz C 350;95.019 km;nov-15;- kW (- CV);Automático;Electro/Gasolina;2,1;NL;49 g;€ 20.650
+Mercedes-Benz Vito;78.365 km;oct-15;121 kW (165 CV);Manual;Diésel;5,7;NL;163;€ 14.950
+Mercedes-Benz E 200;55.300 km;jul-13;135 kW (184 CV);Automático;Gasolina;6,1;DE;145;€ 18.400
+Mercedes-Benz GLA 200;78.000 km;ene-15;100 kW (136 CV);Automático;Diésel;4,2;BE;119;€ 19.500
+Mercedes-Benz A 200;52.000 km;jun-13;115 kW (156 CV);Manual;Gasolina;5,5;Unknown;128;€ 16.900
+Mercedes-Benz C 180;63.500 km;sep-15;115 kW (156 CV);Manual;Gasolina;5,4;DE;125;€ 20.750
+Mercedes-Benz E 200;75.500 km;abr-15;100 kW (136 CV);Manual;Diésel;4,6;DE;119;€ 19.990
+Mercedes-Benz B 220;65.000 km;nov-14;130 kW (177 CV);Automático;Diésel;4,1;IT;107;€ 15.300
+Mercedes-Benz CLA 200;46.680 km;jun-15;115 kW (156 CV);Automático;Gasolina;5,4;DE;122;€ 20.930
+Mercedes-Benz CLS 350;135.000 km;abr-13;195 kW (265 CV);Automático;Diésel;-/- ;DE;-/- ;€ 26.650
+Mercedes-Benz C 250;110.500 km;jun-15;150 kW (204 CV);Automático;Diésel;11,6;Unknown;296;€ 14.000
+Mercedes-Benz E 200;72.528 km;ene-13;135 kW (184 CV);Automático;Gasolina;7 l/;DE;164;€ 21.900
+Mercedes-Benz V 200;83.000 km;oct-15;100 kW (136 CV);Automático;Diésel;5,8;BE;152;€ 26.990
+Mercedes-Benz C 180;69.000 km;ene-14;115 kW (156 CV);Manual;Gasolina;5,9;Unknown;139;€ 15.750
+Mercedes-Benz C 220;107.000 km;ago-13;125 kW (170 CV);Automático;Diésel;6,1;DE;162;€ 11.990
+Mercedes-Benz A 180;81.000 km;sep-13;90 kW (122 CV);Manual;Gasolina;5,5;BE;128;€ 15.900
+Mercedes-Benz SLK 200;91.859 km;mar-13;135 kW (184 CV);Manual;Gasolina;6,8;DE;158;€ 16.888
+Mercedes-Benz C 250;110.470 km;jun-15;150 kW (204 CV);Automático;Diésel;4,5;Unknown;117;€ 20.900
+Mercedes-Benz S 350;77.000 km;oct-14;190 kW (258 CV);Semiautomático;Diésel;5,5;Unknown;146;€ 42.500
+Mercedes-Benz E 200;99.000 km;ago-13;100 kW (136 CV);Automático;Diésel;-/- ;Unknown;-/- ;€ 17.990
+Mercedes-Benz C 220;128.102 km;oct-15;125 kW (170 CV);Automático;Diésel;4,4;IT;114;€ 20.900
+Mercedes-Benz Sprinter;158.981 km;mar-14;120 kW (163 CV);Manual;Diésel;-/- ;NL;-/- ;€ 13.000
+Mercedes-Benz V 220;245.000 km;jun-14;120 kW (163 CV);Manual;Diésel;5,7;IT;149;€ 18.000
+Mercedes-Benz CLS 250;124.000 km;abr-14;150 kW (204 CV);Automático;Diésel;5 l/;AT;133;€ 21.890
+Mercedes-Benz B 220;69.900 km;ago-14;135 kW (184 CV);Automático;Gasolina;6,5;DE;154;€ 16.290
+Mercedes-Benz C 220;112.075 km;jul-15;125 kW (170 CV);Manual;Diésel;4,3;DE;108;€ 17.270
+Mercedes-Benz Vito;81.992 km;mar-14;70 kW (95 CV);Manual;Diésel;7,7;DE;204;€ 10.890
+Mercedes-Benz Vito;145.000 km;oct-15;84 kW (114 CV);Manual;Diésel;-/- ;DE;-/- ;€ 15.999
+Mercedes-Benz Citan;137.400 km;feb-15;66 kW (90 CV);Manual;Diésel;-/- ;DE;-/- ;€ 8.119
+Mercedes-Benz Citan;116.400 km;feb-15;66 kW (90 CV);Manual;Diésel;-/- ;DE;-/- ;€ 7.539
+Mercedes-Benz C 250;110.470 km;jun-15;150 kW (204 CV);Automático;Diésel;4,5;Unknown;117;€ 20.900
+Mercedes-Benz GLA 250;62.000 km;dic-15;155 kW (211 CV);Automático;Gasolina;6,4;Unknown;150;€ 21.890
+Mercedes-Benz E 220;133.200 km;abr-13;125 kW (170 CV);Automático;Diésel;5,4;DE;141;€ 14.949
+Mercedes-Benz GLE 350;42.935 km;dic-15;190 kW (258 CV);Automático;Diésel;7,2;DE;187;€ 44.939
+Mercedes-Benz C 350;86.176 km;ago-13;195 kW (265 CV);Automático;Diésel;6,2;DE;162;€ 19.989
+Mercedes-Benz GLA 200;47.400 km;dic-15;115 kW (156 CV);Automático;Gasolina;-/- ;DE;-/- ;€ 20.480
+Mercedes-Benz C 63 AMG;42.700 km;abr-15;350 kW (476 CV);Automático;Gasolina;8,2;DE;192;€ 47.890
+Mercedes-Benz C 250;80.000 km;ene-15;150 kW (204 CV);Automático;Diésel;4,8;IT;129;€ 21.800
+Mercedes-Benz GLK 220;115.000 km;ene-13;125 kW (170 CV);Automático;Diésel;6,1;DE;162;€ 18.990
+Mercedes-Benz C 350;99.550 km;dic-15;155 kW (211 CV);Automático;Gasolina;-/- ;Unknown;49 g;€ 25.500
+Mercedes-Benz E 250;91.000 km;dic-13;150 kW (204 CV);Automático;Diésel;6,3;Unknown;164;€ 13.900
+Mercedes-Benz ML 350;93.751 km;mar-14;225 kW (306 CV);Automático;Gasolina;8,5;NL;206;€ 36.450
+Mercedes-Benz E 350;81.883 km;jul-13;185 kW (252 CV);Automático;Diésel;5 l/;NL;155;€ 22.945
+Mercedes-Benz CLA 180;38.500 km;nov-15;90 kW (122 CV);Automático;Gasolina;5,8;DE;134;€ 18.500
+Mercedes-Benz Sprinter;280.000 km;feb-14;120 kW (163 CV);Manual;Diésel;8,1;DE;213;€ 12.412
+Mercedes-Benz Sprinter;280.000 km;feb-14;120 kW (163 CV);Manual;Diésel;8,1;DE;213;€ 12.412
+Mercedes-Benz Sprinter;280.000 km;feb-14;120 kW (163 CV);Manual;Diésel;8,1;DE;213;€ 12.412
+Mercedes-Benz B 200;77.581 km;feb-13;100 kW (136 CV);Automático;Diésel;4,2;DE;112;€ 13.450
+Mercedes-Benz GLA 220;109.350 km;ago-15;125 kW (170 CV);Automático;Diésel;4,4;DE;115;€ 18.590
+Mercedes-Benz CLS 63 AMG;111.253 km;feb-15;410 kW (557 CV);Automático;Gasolina;10,6;DE;248;€ 49.880
+Mercedes-Benz CLA 220;131.640 km;sep-15;130 kW (177 CV);Automático;Diésel;4,2;DE;108;€ 19.549
+Mercedes-Benz Vito;153.499 km;mar-15;84 kW (114 CV);Manual;Diésel;6,4;DE;169;€ 11.229
+Mercedes-Benz Vito;153.499 km;mar-15;84 kW (114 CV);Manual;Diésel;6,4;DE;169;€ 11.229
+Mercedes-Benz Vito;153.499 km;mar-15;84 kW (114 CV);Manual;Diésel;6,4;DE;169;€ 11.229
+Mercedes-Benz Vito;153.499 km;mar-15;84 kW (114 CV);Manual;Diésel;6,4;DE;169;€ 11.229
+Mercedes-Benz SLK 200;40.000 km;nov-14;135 kW (184 CV);Manual;Gasolina;6,4;Unknown;149;€ 12.000
+Mercedes-Benz Sprinter;111.480 km;abr-14;120 kW (163 CV);Manual;Diésel;8 l/;DE;212;€ 14.999
+Mercedes-Benz Sprinter;191.665 km;ago-15;95 kW (129 CV);Automático;Diésel;7,4;NL;-/- ;€ 13.950
+Mercedes-Benz C 200;100.805 km;ene-13;100 kW (136 CV);Automático;Diésel;6,1;DE;162;€ 13.498
+Mercedes-Benz B 200;28.600 km;oct-15;100 kW (136 CV);Automático;Diésel;5 l/;DE;130;€ 17.898
+Mercedes-Benz C 220;62.543 km;may-15;125 kW (170 CV);Automático;Diésel;4,3;DE;114;€ 21.898
+Mercedes-Benz GL 350;280.000 km;ene-13;190 kW (258 CV);Automático;Diésel;7,4;DE;196;€ 21.950
+Mercedes-Benz 220;115.000 km;mar-14;125 kW (170 CV);Automático;Diésel;-/- ;FR;-/- ;€ 20.990
+Mercedes-Benz C 220;131.600 km;dic-14;120 kW (163 CV);Automático;Diésel;4 l/;Unknown;106;€ 24.500
+Mercedes-Benz ML 63 AMG;97.500 km;ago-14;386 kW (525 CV);Automático;Gasolina;11,8;DE;280;€ 42.900
+Mercedes-Benz CLA 180;135.000 km;oct-15;80 kW (109 CV);Automático;Diésel;3,8;BE;100;€ 18.990
+Mercedes-Benz C 180;156.000 km;ene-15;85 kW (116 CV);Manual;Diésel;3,8;Unknown;102;€ 16.500
+Mercedes-Benz C 250;233.000 km;feb-14;150 kW (204 CV);Manual;Diésel;4,8;DE;125;€ 11.600
+Mercedes-Benz V 250;115.000 km;jun-14;140 kW (190 CV);Automático;Diésel;6 l/;DE;159;€ 34.900
+Mercedes-Benz Vito;191.945 km;ene-13;71 kW (97 CV);Manual;Diésel;7,7;NL;206;€ 7.495
+Mercedes-Benz C 200;175.000 km;feb-13;100 kW (136 CV);Automático;Diésel;4,8;DE;127;€ 10.490
+Mercedes-Benz GLA 200;102.800 km;feb-15;100 kW (136 CV);Automático;Diésel;4,2;Unknown;119;€ 18.700
+Mercedes-Benz C 220;138.000 km;may-14;125 kW (170 CV);Automático;Diésel;4 l/;DE;110;€ 17.900
+Mercedes-Benz ML 250;180.000 km;feb-15;150 kW (204 CV);Automático;Diésel;6,2;DE;154;€ 21.500
+Mercedes-Benz GLC 250;179.000 km;nov-15;150 kW (204 CV);Automático;Diésel;5 l/;DE;129;€ 20.900
+Mercedes-Benz B 220;185.000 km;dic-14;130 kW (177 CV);Automático;Diésel;4,1;DE;107;€ 11.900
+Mercedes-Benz C 63 AMG;59.700 km;ago-15;350 kW (476 CV);Automático;Gasolina;8,2;DE;192;€ 44.700
+Mercedes-Benz Sprinter;299.000 km;nov-13;120 kW (163 CV);Manual;Diésel;7,9;Unknown;208;€ 7.900
+Mercedes-Benz Vito;177.549 km;jun-15;100 kW (136 CV);Automático;Diésel;-/- ;NL;154;€ 12.950
+Mercedes-Benz C 200;79.000 km;may-15;100 kW (136 CV);Manual;Diésel;3,9;Unknown;101;€ 18.950
+Mercedes-Benz ML 350;99.000 km;mar-14;190 kW (258 CV);Automático;Diésel;6,8;AT;180;€ 33.500
+Mercedes-Benz ML 250;110.000 km;jun-14;150 kW (204 CV);Automático;Diésel;5,7;IT;163;€ 22.900
+Mercedes-Benz ML 250;110.000 km;jun-14;150 kW (204 CV);Automático;Diésel;5,7;IT;163;€ 22.900
+Mercedes-Benz CLS 350;210.000 km;mar-15;185 kW (252 CV);Automático;Diésel;-/- ;LU;179;€ 19.990
+Mercedes-Benz S 350;86.565 km;abr-15;190 kW (258 CV);Automático;Diésel;5,5;BE;151;€ 43.990
+Mercedes-Benz ML 350;185.000 km;jun-15;190 kW (258 CV);Automático;Diésel;6,8;DE;180;€ 29.550
+Mercedes-Benz Citan;109.000 km;sep-13;66 kW (90 CV);Manual;Diésel;5,1;BE;119;€ 7.200
+Mercedes-Benz Vito;166.692 km;may-15;100 kW (136 CV);Automático;Diésel;6 l/;NL;0 g ;€ 13.950
+Mercedes-Benz GLE 400;51.000 km;nov-15;245 kW (333 CV);Automático;Gasolina;8,8;Unknown;209;€ 44.900
+Mercedes-Benz E 300;96.900 km;dic-13;170 kW (231 CV);Automático;Diésel;5,5;DE;144;€ 18.999
+Mercedes-Benz Vito;376.500 km;jul-13;120 kW (163 CV);Automático;Diésel;8,1;DE;214;€ 6.500
+Mercedes-Benz CLA 180;99.800 km;abr-15;90 kW (122 CV);Automático;Gasolina;5,5;DE;128;€ 18.800
+Mercedes-Benz GLA 200;64.009 km;ene-15;115 kW (156 CV);Semiautomático;Gasolina;5,9;NL;137;€ 23.950
+Mercedes-Benz C 200;18.366 km;sep-14;135 kW (184 CV);Manual;Gasolina;5,3;Unknown;123;€ 24.200
+Mercedes-Benz GLA 200;82.600 km;may-15;100 kW (136 CV);Manual;Diésel;4,2;Unknown;110;€ 19.000
+Mercedes-Benz E 300;159.000 km;nov-15;170 kW (231 CV);Automático;Diésel;5,5;DE;146;€ 19.900
+Mercedes-Benz B 180;74.000 km;mar-14;80 kW (109 CV);Manual;Diésel;4,1;Unknown;108;€ 12.200
+Mercedes-Benz CLA 220;165.500 km;mar-14;125 kW (170 CV);Automático;Diésel;4,4;Unknown;114;€ 18.999
+Mercedes-Benz CLA 220;102.790 km;sep-14;125 kW (170 CV);-/- (Cambio);Diésel;4,2;IT;109;€ 19.890
+Mercedes-Benz B 180;112.301 km;nov-14;80 kW (109 CV);Manual;Diésel;4,1;IT;108;€ 8.900
+Mercedes-Benz B 180;137.000 km;jun-14;80 kW (109 CV);Automático;Diésel;4,1;BE;107;€ 11.900
+Mercedes-Benz GLC 220;121.629 km;sep-15;125 kW (170 CV);Automático;Diésel;5 l/;IT;129;€ 26.800
+Mercedes-Benz GLC 220;66.489 km;sep-15;125 kW (170 CV);Automático;Diésel;5 l/;IT;129;€ 28.300
+Mercedes-Benz C 220;141.141 km;ene-15;125 kW (170 CV);Automático;Diésel;4,3;IT;109;€ 18.300
+Mercedes-Benz C 220;117.000 km;oct-13;120 kW (163 CV);Automático;Diésel;4,9;BE;139;€ 12.950
+Mercedes-Benz Vito;164.537 km;oct-15;121 kW (165 CV);Automático;Diésel;-/- ;NL;153;€ 20.900
+Mercedes-Benz Sprinter;113.030 km;dic-14;96 kW (131 CV);Manual;Diésel;6,8;NL;0 g ;€ 15.900
+Mercedes-Benz A 180;32.000 km;nov-13;80 kW (109 CV);Manual;Diésel;5 l/;Unknown;134;€ 15.000
+Mercedes-Benz Sprinter;146.191 km;sep-13;96 kW (131 CV);Manual;Diésel;-/- ;NL;267;€ 16.900
+Mercedes-Benz A 180;70.000 km;ago-13;80 kW (109 CV);Automático;Diésel;4,1;BE;109;€ 12.990
+Mercedes-Benz 350;87.264 km;jun-15;155 kW (211 CV);Automático;Electro/Gasolina;-/- ;NL;49 g;€ 20.900
+Mercedes-Benz Vito;122.431 km;may-13;100 kW (136 CV);Manual;Diésel;7,4;DE;196;€ 13.790
+Mercedes-Benz C 220;169.989 km;oct-15;125 kW (170 CV);Automático;Diésel;4,3;Unknown;108;€ 15.490
+Mercedes-Benz;118.109 km;ago-15;90 kW (122 CV);Automático;Gasolina;5,6;NL;128;€ 21.950
+Mercedes-Benz CLS 350;82.558 km;oct-15;190 kW (258 CV);Automático;Diésel;-/- ;BE;-/- ;€ 33.900
+Mercedes-Benz A 180;117.500 km;mar-13;80 kW (109 CV);Manual;Diésel;5 l/;Unknown;98 g;€ 11.500
+Mercedes-Benz B 180;76.741 km;sep-13;80 kW (109 CV);Automático;Diésel;4,2;AT;112;€ 12.880
+Mercedes-Benz C 220;142.000 km;may-14;125 kW (170 CV);Automático;Diésel;4,3;Unknown;109;€ 20.500
+Mercedes-Benz Sprinter;270.000 km;abr-15;120 kW (163 CV);Manual;Diésel;-/- ;BE;-/- ;€ 12.800
+Mercedes-Benz B 180;113.498 km;ago-14;80 kW (109 CV);Manual;Diésel;3,8;NL;98 g;€ 11.450
+Mercedes-Benz B 180;44.950 km;jun-15;80 kW (109 CV);Manual;Diésel;4,1;Unknown;108;€ 14.950
+Mercedes-Benz GLE 350;47.500 km;oct-15;190 kW (258 CV);Automático;Diésel;6,9;DE;180;€ 46.900
+Mercedes-Benz B 180;55.345 km;jun-14;90 kW (122 CV);Automático;Gasolina;-/- ;BE;-/- ;€ 14.900
+Mercedes-Benz C 180;119.135 km;abr-13;115 kW (156 CV);Manual;Gasolina;5,8;Unknown;136;€ 12.500
+Mercedes-Benz A 180;65.000 km;oct-13;90 kW (122 CV);Manual;Gasolina;5,5;DE;127;€ 12.700
+Mercedes-Benz C 220;72.000 km;may-15;125 kW (170 CV);Automático;Diésel;4,3;Unknown;109;€ 23.000
+Mercedes-Benz C 180;106.170 km;ago-14;115 kW (156 CV);Automático;Gasolina;5,4;NL;127;€ 20.950
+Mercedes-Benz CLA 180;100.000 km;ago-13;90 kW (122 CV);Manual;Gasolina;5 l/;BE;117;€ 17.500
+Mercedes-Benz ML 350;87.850 km;feb-13;225 kW (306 CV);Automático;Gasolina;8,5;DE;199;€ 25.850
+Mercedes-Benz Sprinter;60.000 km;dic-13;95 kW (129 CV);Manual;Diésel;7,8;DE;207;€ 17.400
+Mercedes-Benz CLA 180;53.854 km;nov-15;90 kW (122 CV);Automático;Gasolina;5,5;Unknown;128;€ 21.750
+Mercedes-Benz C 220;95.000 km;jun-15;120 kW (163 CV);Manual;Diésel;3,5;BE;101;€ 20.000
+Mercedes-Benz Vito;138.528 km;nov-15;120 kW (163 CV);Automático;Diésel;-/- ;DE;-/- ;€ 15.590
+Mercedes-Benz Vito;144.805 km;nov-15;100 kW (136 CV);Manual;Diésel;-/- ;DE;-/- ;€ 13.390
+Mercedes-Benz A 200;121.000 km;may-14;100 kW (136 CV);Automático;Diésel;4,2;Unknown;109;€ 6.200
+Mercedes-Benz Sprinter;208.208 km;feb-14;120 kW (163 CV);Manual;Diésel;-/- ;DE;-/- ;€ 11.290
+Mercedes-Benz Sprinter;124.846 km;oct-15;120 kW (163 CV);Manual;Diésel;-/- ;DE;-/- ;€ 15.590
+Mercedes-Benz Sprinter;129.774 km;nov-15;120 kW (163 CV);Manual;Diésel;-/- ;DE;-/- ;€ 15.590
+Mercedes-Benz Sprinter;114.926 km;oct-15;120 kW (163 CV);Manual;Diésel;-/- ;DE;-/- ;€ 15.590
+Mercedes-Benz Sprinter;121.563 km;oct-15;120 kW (163 CV);Manual;Diésel;-/- ;DE;-/- ;€ 15.590
+Mercedes-Benz Sprinter;123.231 km;jul-15;120 kW (163 CV);Manual;Diésel;-/- ;DE;-/- ;€ 15.490
+Mercedes-Benz Sprinter;161.601 km;jul-15;120 kW (163 CV);Manual;Diésel;-/- ;DE;-/- ;€ 13.990
+Mercedes-Benz Sprinter;137.049 km;mar-15;120 kW (163 CV);Manual;Diésel;-/- ;DE;-/- ;€ 15.390
+Mercedes-Benz Sprinter;131.741 km;jul-15;120 kW (163 CV);Manual;Diésel;-/- ;DE;-/- ;€ 15.590
+Mercedes-Benz Sprinter;134.603 km;jul-15;120 kW (163 CV);Manual;Diésel;-/- ;DE;-/- ;€ 15.390
+Mercedes-Benz Sprinter;102.903 km;mar-15;120 kW (163 CV);Manual;Diésel;-/- ;DE;-/- ;€ 16.090
+Mercedes-Benz Vito;130.423 km;oct-14;70 kW (95 CV);Manual;Diésel;-/- ;DE;-/- ;€ 8.990
+Mercedes-Benz Vito;127.000 km;ene-15;70 kW (95 CV);Manual;Diésel;-/- ;DE;-/- ;€ 8.990
+Mercedes-Benz Vito;162.312 km;nov-15;120 kW (163 CV);Automático;Diésel;-/- ;DE;-/- ;€ 14.590
+Mercedes-Benz Vito;148.612 km;sep-15;120 kW (163 CV);Manual;Diésel;-/- ;DE;-/- ;€ 14.790
+Mercedes-Benz Vito;177.527 km;nov-15;120 kW (163 CV);Automático;Diésel;-/- ;DE;-/- ;€ 15.290
+Mercedes-Benz Vito;182.864 km;may-15;84 kW (114 CV);Manual;Diésel;-/- ;DE;-/- ;€ 9.990
+Mercedes-Benz GLK 200;181.000 km;ene-13;105 kW (143 CV);Manual;Diésel;5,5;IT;143;€ 11.999
+Mercedes-Benz C 220;120.000 km;dic-15;125 kW (170 CV);Automático;Diésel;5 l/;DE;129;€ 18.850
+Mercedes-Benz C 350;213.907 km;ago-15;- kW (- CV);Automático;Electro/Gasolina;2,1;NL;49 g;€ 14.900
+Mercedes-Benz E 250;125.000 km;sep-15;150 kW (204 CV);Automático;Diésel;5,5;Unknown;143;€ 16.500
+Mercedes-Benz A 200;219.000 km;ene-13;100 kW (136 CV);Automático;Diésel;4,3;Unknown;114;€ 12.999
+Mercedes-Benz B 180;98.000 km;ago-14;80 kW (109 CV);Manual;Diésel;4,1;IT;108;€ 11.900
+Mercedes-Benz A 180;109.000 km;ago-15;80 kW (109 CV);Semiautomático;Diésel;4 l/;Unknown;103;€ 14.500
+Mercedes-Benz A 180;131.064 km;dic-14;80 kW (109 CV);Manual;Diésel;3,8;IT;98 g;€ 13.000
+Mercedes-Benz A 180;165.685 km;ene-15;80 kW (109 CV);Manual;Diésel;3,8;IT;98 g;€ 13.000
+Mercedes-Benz C 220;126.381 km;may-14;125 kW (170 CV);Automático;Diésel;4,3;IT;109;€ 18.800
+Mercedes-Benz E 250;27.300 km;jul-15;150 kW (204 CV);Automático;Diésel;4,6;DE;120;€ 23.900
+Mercedes-Benz CLA 250;114.800 km;jul-15;155 kW (211 CV);Automático;Gasolina;5,7;NL;128;€ 25.950
+Mercedes-Benz A 180;138.000 km;mar-15;90 kW (122 CV);Manual;Gasolina;5,2;Unknown;120;€ 11.800
+Mercedes-Benz C 220;203.098 km;jun-15;125 kW (170 CV);Automático;Diésel;4,7;Unknown;124;€ 9.800
+Mercedes-Benz E 63 AMG;92.883 km;feb-13;386 kW (525 CV);Automático;Gasolina;-/- ;DE;-/- ;€ 33.540
+Mercedes-Benz B 180;130.000 km;abr-14;80 kW (109 CV);Manual;Diésel;3,8;BE;98 g;€ 9.650
+Mercedes-Benz C 220;167.897 km;sep-14;125 kW (170 CV);Automático;Diésel;4,4;DE;117;€ 13.295
+Mercedes-Benz Sprinter;118.500 km;ene-15;120 kW (163 CV);Manual;Diésel;7,8;DE;204;€ 20.763
+Mercedes-Benz Sprinter;118.500 km;ene-15;120 kW (163 CV);Manual;Diésel;7,8;DE;204;€ 20.763
+Mercedes-Benz Sprinter;118.500 km;ene-15;120 kW (163 CV);Manual;Diésel;7,8;DE;204;€ 20.763
+Mercedes-Benz Sprinter;118.500 km;ene-15;120 kW (163 CV);Manual;Diésel;7,8;DE;204;€ 20.763
+Mercedes-Benz Sprinter;118.500 km;ene-15;120 kW (163 CV);Manual;Diésel;7,8;DE;204;€ 20.763
+Mercedes-Benz A 200;79.153 km;oct-13;115 kW (156 CV);Automático;Gasolina;5,5;DE;128;€ 15.990
+Mercedes-Benz GLA 200;75.900 km;dic-14;115 kW (156 CV);Automático;Gasolina;5,9;DE;137;€ 18.925
+Mercedes-Benz CLA 180;38.800 km;nov-15;90 kW (122 CV);Manual;Gasolina;5,8;DE;134;€ 17.835
+Mercedes-Benz E 350;65.800 km;jun-13;195 kW (265 CV);Automático;Diésel;6,1;DE;159;€ 22.440
+Mercedes-Benz 220;105.750 km;feb-15;125 kW (170 CV);Manual;Diésel;-/- ;Unknown;-/- ;€ 18.800
+Mercedes-Benz E 200;67.500 km;mar-14;100 kW (136 CV);Manual;Diésel;4,8;Unknown;125;€ 16.500
+Mercedes-Benz A 180;173.000 km;may-14;80 kW (109 CV);Manual;Diésel;3,6;BE;92 g;€ 9.990
+Mercedes-Benz Sprinter;112.568 km;nov-14;120 kW (163 CV);Manual;Diésel;-/- ;DE;-/- ;€ 14.964
+Mercedes-Benz Sprinter;112.568 km;nov-14;120 kW (163 CV);Manual;Diésel;-/- ;DE;-/- ;€ 14.964
+Mercedes-Benz Vito;70.000 km;ago-15;84 kW (114 CV);Manual;Diésel;6,2;Unknown;163;€ 15.000
+Mercedes-Benz B 200;57.900 km;nov-14;115 kW (156 CV);Automático;Gasolina;5,6;DE;130;€ 16.277
+Mercedes-Benz SLK 200;53.000 km;nov-13;135 kW (184 CV);Automático;Gasolina;6,1;IT;142;€ 21.990
+Mercedes-Benz B 180;110.000 km;jun-13;80 kW (109 CV);Manual;Diésel;4,1;IT;108;€ 10.900
+Mercedes-Benz CLA 45 AMG;28.500 km;jul-15;265 kW (360 CV);Semiautomático;Gasolina;6,9;Unknown;161;€ 41.999
+Mercedes-Benz GLK 220;125.442 km;ene-13;125 kW (170 CV);Automático;Diésel;6,5;NL;161;€ 21.880
+Mercedes-Benz A 180;83.000 km;sep-13;80 kW (109 CV);Manual;Diésel;3,7;Unknown;98 g;€ 11.990
+Mercedes-Benz ML 350;57.000 km;ago-14;190 kW (258 CV);Automático;Diésel;6,8;DE;179;€ 29.999
+Mercedes-Benz E 250;230.155 km;may-14;150 kW (204 CV);Automático;Diésel;5,8;DE;154;€ 13.950
+Mercedes-Benz GLA 220;72.000 km;sep-14;125 kW (170 CV);Automático;Diésel;4,8;DE;127;€ 19.690
+Mercedes-Benz C 250;69.000 km;ago-15;150 kW (204 CV);Automático;Diésel;5 l/;Unknown;129;€ 20.800
+Mercedes-Benz A 180;150.000 km;ene-13;80 kW (109 CV);Automático;Diésel;4,1;NL;116;€ 15.800
+Mercedes-Benz GL 350;197.000 km;mar-13;190 kW (258 CV);Automático;Diésel;7,4;Unknown;192;€ 31.500
+Mercedes-Benz CLS 350;82.558 km;oct-15;190 kW (258 CV);Automático;Diésel;-/- ;FR;-/- ;€ 33.900
+Mercedes-Benz Sprinter;142.280 km;sep-13;120 kW (163 CV);Automático;Diésel;-/- ;DE;-/- ;€ 14.964
+Mercedes-Benz Sprinter;145.150 km;nov-15;120 kW (163 CV);Manual;Diésel;-/- ;DE;-/- ;€ 19.662
+Mercedes-Benz Sprinter;182.250 km;jul-15;120 kW (163 CV);Automático;Diésel;-/- ;DE;-/- ;€ 17.922
+Mercedes-Benz Sprinter;183.200 km;nov-15;120 kW (163 CV);Manual;Diésel;-/- ;DE;-/- ;€ 20.822
+Mercedes-Benz Vito;272.600 km;dic-13;100 kW (136 CV);Manual;Diésel;-/- ;DE;-/- ;€ 14.558
+Mercedes-Benz Atego;231.600 km;abr-15;115 kW (156 CV);Automático;Diésel;-/- ;DE;-/- ;€ 27.782
+Mercedes-Benz Sprinter;110.950 km;mar-14;95 kW (129 CV);Manual;Diésel;-/- ;DE;-/- ;€ 16.182
+Mercedes-Benz Sprinter;206.000 km;feb-14;120 kW (163 CV);Automático;Diésel;-/- ;DE;-/- ;€ 15.950
+Mercedes-Benz Sprinter;296.000 km;sep-15;120 kW (163 CV);Manual;Diésel;-/- ;DE;-/- ;€ 14.906
+Mercedes-Benz C 250;179.154 km;sep-14;150 kW (204 CV);Automático;Diésel;4,3;Unknown;109;€ 20.900
+Mercedes-Benz Sprinter;246.998 km;jun-13;95 kW (129 CV);Manual;Diésel;-/- ;DE;-/- ;€ 8.990
+Mercedes-Benz A 180;100.000 km;ago-14;80 kW (109 CV);Manual;Diésel;3,8;Unknown;98 g;€ 14.000
+Mercedes-Benz A 180;57.465 km;nov-13;90 kW (122 CV);Manual;Gasolina;-/- ;DE;-/- ;€ 13.490
+Mercedes-Benz C 200;70.442 km;mar-15;135 kW (184 CV);Automático;Gasolina;5,6;NL;138;€ 27.950
+Mercedes-Benz E 200;194.220 km;may-14;100 kW (136 CV);Automático;Diésel;4,8;DE;125;€ 11.900
+Mercedes-Benz E 200;367.120 km;oct-15;100 kW (136 CV);Automático;Diésel;4,6;DE;119;€ 7.250
+Mercedes-Benz E 200;238.222 km;abr-14;100 kW (136 CV);Automático;Diésel;4,8;DE;125;€ 9.950
+Mercedes-Benz B 180;274.090 km;jun-14;80 kW (109 CV);Automático;Diésel;3,8;DE;98 g;€ 4.900
+Mercedes-Benz E 220;127.211 km;may-15;125 kW (170 CV);Automático;Diésel;4,5;DE;118;€ 16.000
+Mercedes-Benz E 200;329.210 km;sep-15;100 kW (136 CV);Automático;Diésel;4,6;DE;119;€ 10.800
+Mercedes-Benz E 200;316.241 km;feb-14;100 kW (136 CV);Automático;Diésel;4,8;DE;125;€ 10.950
+Mercedes-Benz Sprinter;73.357 km;may-14;95 kW (129 CV);Manual;Diésel;-/- ;NL;0 g ;€ 19.850
+Mercedes-Benz Sprinter;34.755 km;jul-15;120 kW (163 CV);Manual;Diésel;-/- ;NL;0 g ;€ 21.850
+Mercedes-Benz CLA 220;116.176 km;dic-15;130 kW (177 CV);Automático;Diésel;4 l/;NL;108;€ 18.950
+Mercedes-Benz C 350;142.417 km;jul-15;205 kW (279 CV);Automático;Electro/Gasolina;2,1;NL;49 g;€ 18.132
+Mercedes-Benz Sprinter;161.766 km;jul-15;120 kW (163 CV);Automático;Diésel;-/- ;NL;0 g ;€ 18.850
+Mercedes-Benz Vito;119.000 km;jul-15;121 kW (165 CV);Automático;Diésel;-/- ;NL;153;€ 16.888
+Mercedes-Benz C 200;101.000 km;jun-13;100 kW (136 CV);Semiautomático;Diésel;4,9;Unknown;129;€ 15.900
+Mercedes-Benz A 45 AMG;30.265 km;ago-13;265 kW (360 CV);Automático;Gasolina;-/- ;NL;165;€ 24.950
+Mercedes-Benz Citan;65.718 km;ene-14;- kW (- CV);Manual;Gasolina;6,1;NL;-/- ;€ 11.450
+Mercedes-Benz V 220;93.000 km;nov-15;120 kW (163 CV);Automático;Diésel;-/- ;DE;-/- ;€ 33.950
+Mercedes-Benz B 180;190.000 km;jun-13;80 kW (109 CV);Automático;Diésel;4,2;BE;112;€ 10.950
+Mercedes-Benz B 180;190.000 km;jun-13;80 kW (109 CV);Automático;Diésel;4,2;BE;112;€ 10.950
+Mercedes-Benz A 250;93.100 km;mar-13;155 kW (211 CV);Automático;Gasolina;6,2;Unknown;143;€ 17.700
+Mercedes-Benz A 180;90.000 km;jul-13;80 kW (109 CV);Automático;Diésel;4 l/;IT;103;€ 12.400
+Mercedes-Benz C 300;32.433 km;abr-15;180 kW (245 CV);Automático;Gasolina;-/- ;IT;-/- ;€ 26.900
+Mercedes-Benz CLA 200;138.000 km;jul-13;100 kW (136 CV);Automático;Diésel;4,2;BE;118;€ 16.900
+Mercedes-Benz A 180;58.000 km;sep-15;90 kW (122 CV);Automático;Gasolina;5,4;NL;124;€ 19.945
+Mercedes-Benz B 180;123.000 km;may-14;80 kW (109 CV);Automático;Diésel;4,1;ES;107;€ 15.999
+Mercedes-Benz Citan;106.200 km;feb-13;66 kW (90 CV);Manual;Diésel;4,6;DE;119;€ 6.990
+Mercedes-Benz E 250;112.000 km;may-14;155 kW (211 CV);Automático;Gasolina;6,3;Unknown;145;€ 25.900
+Mercedes-Benz C 200;85.142 km;oct-14;135 kW (184 CV);Automático;Gasolina;5,3;NL;127;€ 26.950
+Mercedes-Benz Vito;167.000 km;dic-15;84 kW (114 CV);Manual;Diésel;6,3;DE;167;€ 10.672
+Mercedes-Benz GLC 250;70.960 km;nov-15;155 kW (211 CV);Automático;Gasolina;6,5;NL;162;€ 41.888
+Mercedes-Benz C 450;73.000 km;nov-15;270 kW (367 CV);Automático;Gasolina;7,7;Unknown;180;€ 32.499
+Mercedes-Benz CLA 200;62.212 km;mar-15;115 kW (156 CV);Automático;Gasolina;5,6;DE;130;€ 18.490
+Mercedes-Benz C 350;128.725 km;nov-15;- kW (- CV);Automático;Electro/Gasolina;2,1;NL;49 g;€ 19.900
+Mercedes-Benz GLE 350;186.300 km;oct-15;190 kW (258 CV);Automático;Diésel;7,8;DE;205;€ 33.950
+Mercedes-Benz E 200;400.000 km;dic-14;100 kW (136 CV);Automático;Diésel;4,6;DE;122;€ 10.990
+Mercedes-Benz Vito;100.000 km;abr-15;65 kW (88 CV);Manual;Diésel;6,3;DE;167;€ 11.900
+Mercedes-Benz GLA 200;71.000 km;feb-15;100 kW (136 CV);Automático;Diésel;4,5;DE;119;€ 19.800
+Mercedes-Benz B 250;49.800 km;may-15;132 kW (179 CV);Automático;Eléctrico;-/- ;DE;0 g ;€ 16.900
+Mercedes-Benz Citan;88.934 km;jul-14;81 kW (110 CV);Manual;Diésel;-/- ;DE;-/- ;€ 10.417
+Mercedes-Benz E 250;64.789 km;abr-13;155 kW (211 CV);Automático;Gasolina;6,3;DE;147;€ 22.990
+Mercedes-Benz C 220;98.952 km;may-13;125 kW (170 CV);Automático;Diésel;-/- ;DE;-/- ;€ 13.950
+Mercedes-Benz Vito;175.000 km;ene-15;70 kW (95 CV);Manual;Diésel;-/- ;DE;-/- ;€ 8.499
+Mercedes-Benz CLA 200;188.000 km;nov-15;100 kW (136 CV);Manual;Diésel;4,1;DE;108;€ 13.750
+Mercedes-Benz CLA 200;179.000 km;dic-15;100 kW (136 CV);Manual;Diésel;4,1;DE;108;€ 13.999
+Mercedes-Benz GLA 200;169.000 km;jul-14;100 kW (136 CV);Automático;Diésel;4,4;DE;114;€ 14.499
+Mercedes-Benz B 180;87.000 km;nov-13;90 kW (122 CV);Manual;Gasolina;5,9;Unknown;137;€ 10.990
+Mercedes-Benz C 250;72.000 km;abr-15;150 kW (204 CV);Automático;Diésel;5,1;AT;134;€ 27.850
+Mercedes-Benz C 180;93.500 km;ago-15;85 kW (116 CV);Automático;Diésel;4,6;Unknown;114;€ 17.300
+Mercedes-Benz B 180;129.000 km;ago-13;80 kW (109 CV);Manual;Diésel;5,2;Unknown;136;€ 12.000
+Mercedes-Benz A 180;69.710 km;jun-15;90 kW (122 CV);Automático;Gasolina;5,1;DE;119;€ 16.890
+Mercedes-Benz Vito;98.138 km;ene-14;70 kW (95 CV);Manual;Diésel;-/- ;Unknown;-/- ;€ 12.100
+Mercedes-Benz A 180;71.868 km;sep-13;90 kW (122 CV);Manual;Gasolina;5,5;ES;-/- ;€ 15.500
+Mercedes-Benz E 350;89.627 km;nov-13;185 kW (252 CV);Automático;Diésel;5,6;ES;-/- ;€ 27.500
+Mercedes-Benz A 220;141.636 km;mar-15;125 kW (170 CV);Automático;Diésel;4,6;ES;-/- ;€ 17.476
+Mercedes-Benz GLA 220;104.155 km;dic-14;125 kW (170 CV);Automático;Diésel;4,2;ES;-/- ;€ 19.859
+Mercedes-Benz A 180;99.769 km;ago-13;90 kW (122 CV);Manual;Gasolina;5,5;ES;-/- ;€ 15.200
+Mercedes-Benz A 180;114.037 km;nov-13;90 kW (122 CV);Manual;Gasolina;5,5;Unknown;128;€ 17.000
+Mercedes-Benz 200;93.568 km;jun-14;100 kW (136 CV);Automático;Diésel;4,4;FR;114;€ 19.900
+Mercedes-Benz 200;93.568 km;jun-14;100 kW (136 CV);Automático;Diésel;4,4;FR;114;€ 19.900
+Mercedes-Benz 200;96.559 km;jun-13;100 kW (136 CV);Automático;Diésel;4,5;FR;116;€ 14.500
+Mercedes-Benz 300;68.121 km;nov-15;150 kW (204 CV);Automático;Diésel;3,8;FR;99 g;€ 23.000
+Mercedes-Benz 200;90.422 km;jun-15;100 kW (136 CV);Manual;Diésel;4,3;FR;110;€ 18.900
+Mercedes-Benz 180;55.533 km;jun-15;80 kW (109 CV);Manual;Diésel;4,1;FR;104;€ 15.900
+Mercedes-Benz 220;31.448 km;oct-13;125 kW (170 CV);Manual;Diésel;4,7;FR;123;€ 20.900
+Mercedes-Benz 220;123.819 km;abr-15;130 kW (177 CV);Automático;Diésel;5 l/;FR;132;€ 19.900
+Mercedes-Benz GLA 200;42.002 km;nov-14;100 kW (136 CV);Manual;Diésel;4,3;FR;119;€ 20.900
+Mercedes-Benz 300;71.810 km;jun-15;150 kW (204 CV);Automático;Electro/Diésel;4,2;FR;99 g;€ 23.000
+Mercedes-Benz 220;74.532 km;abr-13;125 kW (170 CV);Automático;Diésel;4,7;FR;128;€ 19.900
+Mercedes-Benz ML 250;75.300 km;abr-15;150 kW (204 CV);Automático;Diésel;5,8;Unknown;154;€ 29.990
+Mercedes-Benz Vito;420.000 km;oct-15;120 kW (163 CV);Automático;Diésel;-/- ;BE;-/- ;€ 13.900
+Mercedes-Benz CLA 220;133.000 km;oct-15;130 kW (177 CV);Automático;Diésel;4,6;Unknown;119;€ 21.499
+Mercedes-Benz A 180;71.868 km;sep-13;90 kW (122 CV);Manual;Gasolina;5,5;ES;-/- ;€ 15.500
+Mercedes-Benz C 200;122.000 km;mar-14;100 kW (136 CV);Automático;Diésel;4,8;Unknown;127;€ 12.400
+Mercedes-Benz E 250;56.293 km;jun-14;150 kW (204 CV);Automático;Diésel;4,8;ES;-/- ;€ 23.271
+Mercedes-Benz B 180;28.626 km;dic-13;90 kW (122 CV);Manual;Gasolina;5,9;ES;-/- ;€ 17.500
+Mercedes-Benz B 180;28.626 km;dic-13;90 kW (122 CV);Manual;Gasolina;5,9;ES;-/- ;€ 17.500
+Mercedes-Benz A 250;98.168 km;abr-13;155 kW (211 CV);Automático;Gasolina;-/- ;ES;-/- ;€ 21.900
+Mercedes-Benz A 250;98.168 km;abr-13;155 kW (211 CV);Automático;Gasolina;-/- ;ES;-/- ;€ 21.900
+Mercedes-Benz CLA 200;75.000 km;ene-15;100 kW (136 CV);Automático;Diésel;3,9;Unknown;101;€ 18.500
+Mercedes-Benz C 250;175.000 km;jun-15;140 kW (190 CV);Automático;Diésel;-/- ;Unknown;-/- ;€ 17.500
+Mercedes-Benz SLK 200;82.974 km;may-13;135 kW (184 CV);Automático;Gasolina;6,4;ES;-/- ;€ 23.500
+Mercedes-Benz GLA 200;46.892 km;feb-15;100 kW (136 CV);Automático;Diésel;4,2;ES;-/- ;€ 19.907
+Mercedes-Benz A 220;141.636 km;mar-15;125 kW (170 CV);Automático;Diésel;4,6;ES;-/- ;€ 17.476
+Mercedes-Benz E 250;56.293 km;jun-14;150 kW (204 CV);Automático;Diésel;4,8;ES;-/- ;€ 23.271
+Mercedes-Benz E 300;133.535 km;oct-14;170 kW (231 CV);Automático;-/- (Combustible);4,1;ES;-/- ;€ 20.654
+Mercedes-Benz A 180;190.530 km;ene-13;90 kW (122 CV);Automático;Gasolina;5,4;Unknown;127;€ 15.950
+Mercedes-Benz GLK 220;126.500 km;may-15;125 kW (170 CV);Automático;Diésel;6,1;Unknown;159;€ 21.700
+Mercedes-Benz CLA 250;43.267 km;nov-15;155 kW (211 CV);Automático;Gasolina;-/- ;DE;-/- ;€ 22.700
+Mercedes-Benz E 200;38.600 km;may-15;135 kW (184 CV);Automático;Gasolina;6,4;Unknown;150;€ 27.900
+Mercedes-Benz CLA 180;116.000 km;ago-13;90 kW (122 CV);Manual;Gasolina;5,4;Unknown;125;€ 16.999
+Mercedes-Benz CLA 220;142.000 km;sep-15;130 kW (177 CV);Automático;Diésel;4,2;Unknown;108;€ 19.500
+Mercedes-Benz E 220;250.000 km;may-14;125 kW (170 CV);Automático;Diésel;4,4;Unknown;115;€ 14.200
+Mercedes-Benz GLA 200;77.000 km;dic-14;100 kW (136 CV);Automático;Diésel;4,9;Unknown;129;€ 18.500
+Mercedes-Benz A 180;90.240 km;nov-14;90 kW (122 CV);Manual;Gasolina;5,6;Unknown;131;€ 16.000
+Mercedes-Benz C 220;112.944 km;may-14;125 kW (170 CV);Automático;Diésel;4,4;ES;-/- ;€ 19.907
+Mercedes-Benz E 250;56.293 km;jun-14;150 kW (204 CV);Automático;Diésel;4,8;ES;-/- ;€ 23.271
+Mercedes-Benz C 180;98.000 km;jun-13;115 kW (156 CV);Manual;Gasolina;5,8;Unknown;136;€ 14.650
+Mercedes-Benz CLA 180;90.210 km;nov-14;90 kW (122 CV);Manual;Gasolina;5 l/;Unknown;117;€ 15.750
+Mercedes-Benz E 250;72.500 km;ago-15;155 kW (211 CV);Automático;Gasolina;6,2;Unknown;145;€ 28.000
+Mercedes-Benz GLA 200;109.000 km;mar-14;100 kW (136 CV);Automático;Diésel;4,5;Unknown;119;€ 19.500
+Mercedes-Benz B 180;80.500 km;abr-13;80 kW (109 CV);Automático;Diésel;4,4;Unknown;114;€ 11.800
+Mercedes-Benz C 250;98.000 km;oct-13;150 kW (204 CV);Automático;Diésel;5,4;Unknown;144;€ 16.999
+Mercedes-Benz C 180;38.000 km;jul-15;115 kW (156 CV);Automático;Gasolina;5 l/;Unknown;116;€ 21.000
+Mercedes-Benz B 200;82.500 km;sep-14;115 kW (156 CV);Automático;Gasolina;5,7;Unknown;130;€ 15.200
+Mercedes-Benz CLA 180;79.000 km;jun-15;90 kW (122 CV);Manual;Gasolina;5,4;Unknown;125;€ 19.950
+Mercedes-Benz A 180;107.000 km;abr-13;80 kW (109 CV);Manual;Diésel;4,1;Unknown;107;€ 16.000
+Mercedes-Benz Sprinter;110.000 km;oct-14;120 kW (163 CV);Manual;Diésel;7,4;Unknown;195;€ 17.900
+Mercedes-Benz C 220;119.990 km;ene-15;125 kW (170 CV);Automático;Diésel;4,4;ES;-/- ;€ 21.490
+Mercedes-Benz A 180;75.273 km;nov-15;80 kW (109 CV);Manual;Diésel;4,1;ES;-/- ;€ 14.900
+Mercedes-Benz B 180;132.000 km;may-13;80 kW (109 CV);Automático;Diésel;4,4;Unknown;114;€ 9.999
+Mercedes-Benz S 500;123.000 km;mar-15;335 kW (455 CV);Automático;Gasolina;-/- ;ES;-/- ;€ 46.890
+Mercedes-Benz C 200;18.000 km;jun-15;135 kW (184 CV);Automático;Gasolina;8,2;ES;-/- ;€ 28.890
+Mercedes-Benz A 180;212.000 km;jul-13;90 kW (122 CV);Automático;Gasolina;5,4;ES;-/- ;€ 12.890
+Mercedes-Benz C 180;75.108 km;dic-15;115 kW (156 CV);Automático;Gasolina;5,4;Unknown;126;€ 24.250
+Mercedes-Benz A 180;147.000 km;dic-15;80 kW (109 CV);Automático;Diésel;3,7;Unknown;98 g;€ 13.950
+Mercedes-Benz E 250;92.000 km;nov-13;155 kW (211 CV);Automático;Gasolina;6,3;Unknown;145;€ 29.000
+Mercedes-Benz CLA 180;52.000 km;oct-15;90 kW (122 CV);Automático;Gasolina;5,4;Unknown;125;€ 19.000
+Mercedes-Benz A 180;67.000 km;feb-14;90 kW (122 CV);Manual;Gasolina;5,2;BE;135;€ 17.950
+Mercedes-Benz A 180;67.000 km;feb-14;90 kW (122 CV);Manual;Gasolina;5,2;BE;135;€ 17.950
+Mercedes-Benz C 200;194.000 km;mar-13;100 kW (136 CV);Manual;Diésel;4,8;DE;-/- ;€ 10.600
+Mercedes-Benz C 180;111.000 km;feb-14;115 kW (156 CV);Automático;Gasolina;5,9;DE;140;€ 15.300
+Mercedes-Benz GLK 350;206.000 km;feb-14;195 kW (265 CV);Automático;Diésel;6,9;DE;183;€ 17.800
+Mercedes-Benz C 220;196.000 km;feb-14;125 kW (170 CV);Automático;Diésel;6,1;DE;162;€ 12.500
+Mercedes-Benz E 350;99.999 km;ene-14;185 kW (252 CV);Automático;Diésel;5,6;ES;-/- ;€ 28.990
+Mercedes-Benz A 180;103.000 km;sep-13;90 kW (122 CV);Manual;Gasolina;-/- ;ES;-/- ;€ 13.990
+Mercedes-Benz A 180;129.361 km;abr-14;80 kW (109 CV);Manual;Diésel;4,1;ES;-/- ;€ 16.490
+Mercedes-Benz B 180;155.000 km;jul-14;80 kW (109 CV);Manual;Diésel;4,1;Unknown;108;€ 10.700
+Mercedes-Benz ML 350;146.000 km;jun-14;190 kW (258 CV);Automático;Diésel;6,8;DE;180;€ 24.490
+Mercedes-Benz GLE 500;119.000 km;nov-15;330 kW (449 CV);Automático;Electro/Gasolina;3,3;ES;-/- ;€ 42.700
+Mercedes-Benz E 200;98.000 km;jun-15;135 kW (184 CV);Manual;Gasolina;6,3;ES;-/- ;€ 19.900
+Mercedes-Benz E 200;220.000 km;jul-15;100 kW (136 CV);Automático;Diésel;6,3;ES;-/- ;€ 14.500
+Mercedes-Benz E 500;100.000 km;ago-14;300 kW (408 CV);Automático;Gasolina;9,1;Unknown;213;€ 28.300
+Mercedes-Benz Sprinter;119.000 km;ago-15;95 kW (129 CV);Manual;Diésel;-/- ;BE;-/- ;€ 16.275
+Mercedes-Benz B 180;102.010 km;jun-14;80 kW (109 CV);Manual;Diésel;4,1;Unknown;108;€ 11.500
+Mercedes-Benz SLS;28.171 km;feb-14;420 kW (571 CV);Automático;Gasolina;13,2;Unknown;308;€ 165.000
+Mercedes-Benz Vito;165.000 km;ene-15;120 kW (163 CV);Manual;Diésel;-/- ;DE;-/- ;€ 11.950
+Mercedes-Benz V 220;271.000 km;dic-14;120 kW (163 CV);Automático;Diésel;5,7;DE;151;€ 19.700
+Mercedes-Benz Sprinter;279.000 km;jul-15;120 kW (163 CV);Manual;Diésel;-/- ;DE;-/- ;€ 13.400

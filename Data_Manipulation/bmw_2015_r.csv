@@ -1,0 +1,176 @@
+vehicle;  km; year; power; transmision; fuel_type; consume; country;emisions;price 
+BMW 118;30.272 km;dic-15;100 kW (136 CV);Automático;Gasolina;5 l/;ES;-/- ;€ 16.728
+BMW 225;61.650 km;mar-15;170 kW (231 CV);Automático;Gasolina;5,8;ES;135;€ 21.500
+BMW 118;30.272 km;dic-15;100 kW (136 CV);Automático;Gasolina;5 l/;ES;-/- ;€ 16.728
+BMW 118;30.272 km;dic-15;100 kW (136 CV);Automático;Gasolina;5 l/;ES;-/- ;€ 16.728
+BMW 435;63.000 km;nov-15;225 kW (306 CV);Manual;Gasolina;8,5;ES;-/- ;€ 34.990
+BMW 118;30.272 km;dic-15;100 kW (136 CV);Automático;Gasolina;5 l/;ES;-/- ;€ 16.728
+BMW 118;30.272 km;dic-15;100 kW (136 CV);Automático;Gasolina;5 l/;ES;-/- ;€ 16.728
+BMW M4;50.000 km;mar-15;317 kW (431 CV);Automático;Gasolina;8,3;ES;-/- ;€ 52.900
+BMW M4;129.000 km;ene-15;317 kW (431 CV);Automático;Gasolina;8,3;ES;-/- ;€ 43.500
+BMW M4;76.000 km;abr-15;317 kW (431 CV);Automático;Gasolina;8,3;ES;-/- ;€ 51.990
+BMW 218;100.000 km;mar-15;100 kW (136 CV);Automático;Gasolina;5,1;ES;-/- ;€ 14.990
+BMW M4;25.000 km;abr-15;317 kW (431 CV);Automático;Gasolina;8,3;ES;194;€ 52.990
+BMW 118;30.272 km;dic-15;100 kW (136 CV);Automático;Gasolina;5 l/;ES;-/- ;€ 16.728
+BMW X4;53.000 km;dic-15;265 kW (360 CV);Automático;Gasolina;8,6;ES;-/- ;€ 43.900
+BMW M4;57.000 km;ene-15;317 kW (431 CV);Automático;Gasolina;8,3;Unknown;194;€ 51.500
+BMW M3;24.450 km;ago-15;317 kW (431 CV);Manual;Gasolina;8,8;ES;-/- ;€ 53.540
+BMW 428;46.000 km;abr-15;180 kW (245 CV);Automático;Gasolina;7 l/;ES;-/- ;€ 33.185
+BMW 218;73.500 km;jul-15;100 kW (136 CV);Manual;Gasolina;5,1;ES;-/- ;€ 15.900
+BMW 118;30.272 km;dic-15;100 kW (136 CV);Automático;Gasolina;5 l/;ES;-/- ;€ 16.728
+BMW 218;82.561 km;ene-15;100 kW (136 CV);Automático;Gasolina;-/- ;ES;-/- ;€ 18.990
+BMW X1;60.000 km;oct-15;170 kW (231 CV);Automático;Gasolina;6,4;Unknown;144;€ 27.000
+BMW M6;45.100 km;jun-15;423 kW (575 CV);Automático;Gasolina;9,9;Unknown;231;€ 49.999
+BMW M3;50.730 km;ene-15;317 kW (431 CV);Automático;Gasolina;8,3;ES;-/- ;€ 52.890
+BMW X6;94.999 km;oct-15;330 kW (449 CV);Automático;Gasolina;9,7;ES;-/- ;€ 49.900
+BMW X6;94.999 km;oct-15;330 kW (449 CV);Automático;Gasolina;9,7;ES;-/- ;€ 49.900
+BMW 228;80.000 km;jul-15;240 kW (326 CV);Automático;Gasolina;7 l/;Unknown;163;€ 23.500
+BMW 228;48.000 km;nov-15;180 kW (245 CV);Automático;Gasolina;6,3;Unknown;148;€ 28.000
+BMW i8;51.000 km;oct-15;266 kW (362 CV);Automático;Electro/Gasolina;2,1;ES;-/- ;€ 59.900
+BMW 428;56.000 km;ene-15;180 kW (245 CV);Automático;Gasolina;7 l/;ES;-/- ;€ 29.980
+BMW 428;56.000 km;ene-15;180 kW (245 CV);Automático;Gasolina;7 l/;ES;-/- ;€ 29.980
+BMW 420;61.000 km;mar-15;135 kW (184 CV);Automático;Gasolina;6,1;ES;-/- ;€ 22.850
+BMW 650;195.000 km;may-15;330 kW (449 CV);Automático;Gasolina;9,4;ES;-/- ;€ 33.490
+BMW X4;61.900 km;oct-15;135 kW (184 CV);Automático;Gasolina;6,9;ES;-/- ;€ 27.850
+BMW i3;125.000 km;sep-15;125 kW (170 CV);-/- (Cambio);Eléctrico;-/- ;Unknown;13 g;€ 16.500
+BMW X4;61.900 km;oct-15;135 kW (184 CV);Automático;Gasolina;6,9;ES;-/- ;€ 27.850
+BMW X3;95.217 km;jun-15;180 kW (245 CV);Automático;Gasolina;7 l/;Unknown;169;€ 15.401
+BMW 118;62.500 km;may-15;100 kW (136 CV);Manual;Gasolina;5,4;Unknown;125;€ 16.500
+BMW 118;30.272 km;dic-15;100 kW (136 CV);Automático;Gasolina;5 l/;ES;-/- ;€ 16.728
+BMW 750;66.500 km;feb-15;330 kW (449 CV);Automático;Gasolina;9,3;Unknown;217;€ 34.999
+BMW M5;109.600 km;may-15;412 kW (560 CV);Automático;Gasolina;9,9;ES;-/- ;€ 51.990
+BMW X4;42.930 km;nov-15;135 kW (184 CV);Automático;Gasolina;7,2;ES;-/- ;€ 26.990
+BMW 218;82.561 km;ene-15;100 kW (136 CV);Automático;Gasolina;-/- ;ES;-/- ;€ 18.990
+BMW 118;30.272 km;dic-15;100 kW (136 CV);Automático;Gasolina;5 l/;ES;-/- ;€ 16.728
+BMW 428;75.000 km;jun-15;180 kW (245 CV);Automático;Gasolina;7 l/;ES;163;€ 30.900
+BMW 118;30.272 km;dic-15;100 kW (136 CV);Automático;Gasolina;5 l/;ES;-/- ;€ 16.728
+BMW 228;115.136 km;feb-15;180 kW (245 CV);Automático;Gasolina;6,6;ES;-/- ;€ 21.300
+BMW 650;66.311 km;may-15;330 kW (449 CV);Automático;Gasolina;8,8;ES;206;€ 42.500
+BMW 118;30.272 km;dic-15;100 kW (136 CV);Automático;Gasolina;5 l/;ES;-/- ;€ 16.728
+BMW M3;26.500 km;jun-15;317 kW (431 CV);Automático;Gasolina;8,3;ES;-/- ;€ 63.999
+BMW M4;87.500 km;jun-15;317 kW (431 CV);Automático;Gasolina;8,3;ES;-/- ;€ 46.999
+BMW M5;109.600 km;may-15;412 kW (560 CV);Automático;Gasolina;9,9;ES;-/- ;€ 54.990
+BMW 220;69.000 km;oct-15;141 kW (192 CV);Automático;Gasolina;5,6;ES;-/- ;€ 19.500
+BMW X4;42.930 km;nov-15;135 kW (184 CV);Automático;Gasolina;7,2;ES;-/- ;€ 28.990
+BMW 428;146.682 km;mar-15;180 kW (245 CV);Automático;Gasolina;6,8;ES;-/- ;€ 24.600
+BMW 135;49.000 km;oct-15;240 kW (326 CV);Manual;Gasolina;8 l/;ES;-/- ;€ 29.999
+BMW 645;136.000 km;may-15;245 kW (333 CV);Automático;Gasolina;8,6;ES;199;€ 15.850
+BMW X6 M;120.000 km;jun-15;423 kW (575 CV);Automático;Gasolina;11,1;ES;258;€ 61.900
+BMW 428;108.000 km;mar-15;180 kW (245 CV);Automático;Gasolina;6,3;ES;-/- ;€ 25.900
+BMW i3;26.992 km;ene-15;125 kW (170 CV);Automático;Eléctrico;-/- ;ES;0 g ;€ 18.190
+BMW 428;40.000 km;may-15;180 kW (245 CV);Automático;Gasolina;7 l/;ES;163;€ 29.990
+BMW 640;50.000 km;jul-15;235 kW (320 CV);Automático;Gasolina;7,7;Unknown;179;€ 48.900
+BMW M3;54.000 km;jun-15;317 kW (431 CV);Automático;Gasolina;8,3;ES;-/- ;€ 55.000
+BMW i3;61.000 km;oct-15;125 kW (170 CV);Automático;Eléctrico;-/- ;ES;0 g ;€ 17.110
+BMW M4;65.000 km;ene-15;317 kW (431 CV);Automático;Gasolina;8,3;ES;-/- ;€ 49.999
+BMW 420;60.000 km;ene-15;135 kW (184 CV);Manual;Gasolina;6,4;ES;149;€ 21.900
+BMW 650;50.000 km;jun-15;330 kW (449 CV);Automático;Gasolina;8,8;Unknown;206;€ 46.660
+BMW M4;49.000 km;jun-15;317 kW (431 CV);Automático;Gasolina;8,8;Unknown;204;€ 48.000
+BMW 435;74.500 km;abr-15;225 kW (306 CV);Automático;Gasolina;7,8;ES;-/- ;€ 33.900
+BMW 435;69.500 km;may-15;225 kW (306 CV);Automático;Gasolina;7,5;Unknown;176;€ 41.500
+BMW i3;83.000 km;jun-15;125 kW (170 CV);Automático;Eléctrico;-/- ;ES;0 g ;€ 14.990
+BMW X6 M;97.000 km;jun-15;423 kW (575 CV);Automático;Gasolina;11,1;ES;-/- ;€ 64.990
+BMW i3;55.000 km;may-15;125 kW (170 CV);Automático;Eléctrico;0,6;ES;0 g ;€ 21.900
+BMW M4;53.397 km;ene-15;317 kW (431 CV);Automático;Gasolina;8,3;ES;-/- ;€ 49.900
+BMW X6;83.000 km;may-15;330 kW (449 CV);Automático;Gasolina;9,7;Unknown;225;€ 51.000
+BMW;135.545 km;mar-15;240 kW (326 CV);Automático;Gasolina;7,8;ES;-/- ;€ 27.999
+BMW i3;49.870 km;ene-15;125 kW (170 CV);Automático;Eléctrico;-/- ;ES;0 g ;€ 18.400
+BMW 118;30.272 km;dic-15;100 kW (136 CV);Automático;Gasolina;5 l/;ES;-/- ;€ 16.728
+BMW i3;47.800 km;feb-15;75 kW (102 CV);Automático;Eléctrico;-/- ;ES;0 g ;€ 19.000
+BMW 220;88.200 km;jul-15;141 kW (192 CV);Automático;Gasolina;5,6;ES;-/- ;€ 17.200
+BMW M6;103.000 km;jul-15;412 kW (560 CV);Manual;Gasolina;9,9;Unknown;231;€ 58.000
+BMW 235;55.000 km;feb-15;240 kW (326 CV);Automático;Gasolina;8,5;Unknown;199;€ 33.000
+BMW i3;27.100 km;nov-15;125 kW (170 CV);Automático;Eléctrico;-/- ;ES;0 g ;€ 17.850
+BMW i3;24.100 km;oct-15;125 kW (170 CV);Automático;Eléctrico;-/- ;ES;0 g ;€ 17.850
+BMW 428;63.100 km;ene-15;180 kW (245 CV);Automático;Gasolina;6,3;ES;-/- ;€ 23.850
+BMW 435;63.151 km;nov-15;225 kW (306 CV);Manual;Gasolina;8,5;ES;-/- ;€ 32.000
+BMW 420;39.950 km;feb-15;135 kW (184 CV);Automático;Gasolina;6,4;ES;-/- ;€ 26.700
+BMW 320;91.000 km;jun-15;135 kW (184 CV);Automático;Gasolina;5,9;Unknown;138;€ 17.900
+BMW 218;47.500 km;jul-15;100 kW (136 CV);Manual;Gasolina;4,9;ES;-/- ;€ 14.900
+BMW M4;65.500 km;ene-15;317 kW (431 CV);Automático;Gasolina;8,3;ES;194;€ 47.990
+BMW X3;119.333 km;sep-15;180 kW (245 CV);Automático;Gasolina;7 l/;ES;-/- ;€ 24.990
+BMW 420;83.601 km;feb-15;135 kW (184 CV);Manual;Gasolina;-/- ;ES;-/- ;€ 28.490
+BMW 420;96.589 km;may-15;135 kW (184 CV);Automático;Gasolina;6,1;ES;-/- ;€ 25.490
+BMW 520;118.380 km;may-15;135 kW (184 CV);Automático;Gasolina;6 l/;ES;-/- ;€ 22.990
+BMW 116;39.013 km;sep-15;80 kW (109 CV);Manual;Gasolina;5 l/;ES;-/- ;€ 15.990
+BMW 320;117.019 km;dic-15;135 kW (184 CV);Automático;Gasolina;6,2;ES;-/- ;€ 21.490
+BMW M3;74.000 km;jul-15;317 kW (431 CV);Automático;Gasolina;8,3;Unknown;194;€ 53.900
+BMW i3;40.000 km;oct-15;125 kW (170 CV);Automático;Eléctrico;0,6;ES;0 g ;€ 20.995
+BMW X3;119.333 km;sep-15;180 kW (245 CV);Automático;Gasolina;7 l/;ES;-/- ;€ 24.990
+BMW 520;118.380 km;may-15;135 kW (184 CV);Automático;Gasolina;6 l/;ES;-/- ;€ 22.990
+BMW 320;117.019 km;dic-15;135 kW (184 CV);Automático;Gasolina;6,2;ES;-/- ;€ 21.490
+BMW 420;83.601 km;feb-15;135 kW (184 CV);Manual;Gasolina;-/- ;ES;-/- ;€ 28.490
+BMW 116;39.013 km;sep-15;80 kW (109 CV);Manual;Gasolina;5 l/;ES;-/- ;€ 15.990
+BMW 420;83.600 km;feb-15;135 kW (184 CV);Manual;Gasolina;6,6;ES;-/- ;€ 28.490
+BMW 116;39.013 km;jun-15;80 kW (109 CV);Manual;Gasolina;5 l/;ES;-/- ;€ 15.990
+BMW 435;56.000 km;jun-15;225 kW (306 CV);Manual;Gasolina;8,5;ES;-/- ;€ 36.900
+BMW M6;50.000 km;jun-15;412 kW (560 CV);Automático;Gasolina;9,9;ES;-/- ;€ 78.999
+BMW X5;106.300 km;ago-15;225 kW (306 CV);Automático;Gasolina;8,5;ES;-/- ;€ 34.900
+BMW i3;31.500 km;may-15;125 kW (170 CV);Automático;Eléctrico;-/- ;ES;0 g ;€ 18.400
+BMW 435;74.965 km;jun-15;225 kW (306 CV);Automático;Gasolina;8,2;ES;193;€ 31.990
+BMW Z4;95.000 km;oct-15;115 kW (156 CV);Automático;Gasolina;6,8;ES;-/- ;€ 23.700
+BMW;79.900 km;jun-15;240 kW (326 CV);Automático;Gasolina;7,9;ES;-/- ;€ 35.500
+BMW M4;65.000 km;ene-15;317 kW (431 CV);Automático;Gasolina;8,3;ES;-/- ;€ 49.999
+BMW X5;84.300 km;ene-15;330 kW (449 CV);Automático;Gasolina;10,4;ES;-/- ;€ 42.900
+BMW i3;80.000 km;sep-15;125 kW (170 CV);Automático;Eléctrico;0,6;ES;0 g ;€ 19.690
+BMW 320;35.000 km;abr-15;135 kW (184 CV);Automático;Gasolina;6,6;ES;-/- ;€ 27.900
+BMW 640;31.000 km;mar-15;235 kW (320 CV);Automático;Gasolina;8,4;ES;-/- ;€ 45.300
+BMW 428;106.028 km;sep-15;180 kW (245 CV);Automático;Gasolina;6,7;ES;-/- ;€ 28.499
+BMW i3;27.100 km;nov-15;125 kW (170 CV);Automático;Eléctrico;-/- ;ES;0 g ;€ 17.850
+BMW i3;24.100 km;oct-15;125 kW (170 CV);Automático;Eléctrico;-/- ;ES;0 g ;€ 17.850
+BMW 428;63.100 km;ene-15;180 kW (245 CV);Automático;Gasolina;6,3;ES;-/- ;€ 23.850
+BMW X3;119.333 km;sep-15;180 kW (245 CV);Automático;Gasolina;7 l/;ES;-/- ;€ 24.990
+BMW 420;83.601 km;feb-15;135 kW (184 CV);Manual;Gasolina;-/- ;ES;-/- ;€ 28.490
+BMW 520;118.380 km;may-15;135 kW (184 CV);Automático;Gasolina;6 l/;ES;-/- ;€ 22.990
+BMW 320;117.019 km;dic-15;135 kW (184 CV);Automático;Gasolina;6,2;ES;-/- ;€ 21.490
+BMW 116;39.013 km;sep-15;80 kW (109 CV);Manual;Gasolina;5 l/;ES;-/- ;€ 15.990
+BMW 550;101.000 km;oct-15;330 kW (449 CV);Automático;Gasolina;9,2;ES;-/- ;€ 38.600
+BMW i3;38.000 km;jun-15;55 kW (75 CV);Automático;Eléctrico;-/- ;ES;0 g ;€ 18.500
+BMW M4;31.100 km;dic-15;317 kW (431 CV);Automático;Gasolina;8,3;ES;-/- ;€ 53.900
+BMW 435;41.200 km;abr-15;225 kW (306 CV);Automático;Gasolina;7,5;ES;-/- ;€ 39.900
+BMW i3;33.787 km;ago-15;125 kW (170 CV);Automático;Eléctrico;0,6;ES;0 g ;€ 19.150
+BMW i8;62.000 km;ene-15;266 kW (362 CV);Automático;Electro/Gasolina;2,1;ES;-/- ;€ 63.900
+BMW i8;19.860 km;ago-15;266 kW (362 CV);Automático;Electro/Gasolina;2,1;ES;-/- ;€ 71.900
+BMW M4;49.999 km;may-15;317 kW (431 CV);Automático;Gasolina;8,3;ES;-/- ;€ 52.900
+BMW X5;106.244 km;ago-15;225 kW (306 CV);Automático;Gasolina;8,5;ES;-/- ;€ 41.985
+BMW M4;93.121 km;jun-15;317 kW (431 CV);Automático;Gasolina;8,7;ES;-/- ;€ 43.990
+BMW 420;90.000 km;may-15;135 kW (184 CV);Automático;Gasolina;6,1;ES;-/- ;€ 28.500
+BMW M5;65.000 km;oct-15;412 kW (560 CV);Automático;Gasolina;9,9;Unknown;231;€ 55.000
+BMW M3;69.000 km;jun-15;317 kW (431 CV);Automático;Gasolina;8,3;Unknown;194;€ 46.699
+BMW 535;190.000 km;ago-15;225 kW (306 CV);Automático;Gasolina;8,5;Unknown;169;€ 21.000
+BMW 435;80.000 km;jun-15;225 kW (306 CV);Automático;Gasolina;7,5;Unknown;176;€ 37.900
+BMW i8;62.436 km;may-15;266 kW (362 CV);Automático;Electro/Gasolina;2,1;Unknown;49 g;€ 65.900
+BMW M4;95.000 km;ago-15;317 kW (431 CV);Automático;Gasolina;8,3;Unknown;194;€ 49.000
+BMW 225;73.000 km;mar-15;170 kW (231 CV);Automático;Gasolina;6,4;ES;-/- ;€ 19.390
+BMW 235;120.000 km;jun-15;240 kW (326 CV);Automático;Gasolina;7,8;Unknown;182;€ 20.999
+BMW 328;125.000 km;ene-15;180 kW (245 CV);Manual;Gasolina;6,4;Unknown;149;€ 20.000
+BMW i3;14.373 km;oct-15;125 kW (170 CV);Automático;Eléctrico;-/- ;ES;0 g ;€ 17.300
+BMW 118;30.272 km;dic-15;100 kW (136 CV);Automático;Gasolina;5 l/;ES;-/- ;€ 16.728
+BMW M4;25.500 km;sep-15;317 kW (431 CV);Automático;Gasolina;8,3;ES;-/- ;€ 57.990
+BMW X3;119.333 km;sep-15;180 kW (245 CV);Automático;Gasolina;7 l/;ES;-/- ;€ 24.990
+BMW i3;38.048 km;ago-15;125 kW (170 CV);Automático;Eléctrico;-/- ;ES;0 g ;€ 22.140
+BMW 420;63.473 km;may-15;135 kW (184 CV);Manual;Gasolina;6,6;ES;154;€ 26.590
+BMW 220;88.123 km;jul-15;141 kW (192 CV);Automático;Gasolina;5,6;Unknown;130;€ 17.800
+BMW 120;62.500 km;dic-15;130 kW (177 CV);Automático;Gasolina;5,7;Unknown;133;€ 19.900
+BMW 528;85.000 km;ene-15;180 kW (245 CV);Automático;Gasolina;6,6;Unknown;154;€ 23.450
+BMW 650;35.000 km;abr-15;330 kW (449 CV);Automático;Gasolina;9,1;ES;-/- ;€ 56.390
+BMW 420;52.000 km;oct-15;135 kW (184 CV);Automático;Gasolina;6,6;ES;-/- ;€ 28.500
+BMW 420;52.000 km;oct-15;135 kW (184 CV);Automático;Gasolina;6,6;ES;-/- ;€ 28.500
+BMW 420;83.601 km;feb-15;135 kW (184 CV);Manual;Gasolina;-/- ;ES;-/- ;€ 28.490
+BMW X1;35.580 km;nov-15;170 kW (231 CV);Automático;Gasolina;6,4;ES;-/- ;€ 26.990
+BMW X4;57.000 km;jul-15;225 kW (306 CV);Automático;Gasolina;8,3;ES;-/- ;€ 31.000
+BMW i3;48.300 km;jun-15;125 kW (170 CV);Automático;Eléctrico;-/- ;ES;0 g ;€ 20.400
+BMW 650;35.000 km;jun-15;330 kW (449 CV);Automático;Gasolina;9,5;ES;-/- ;€ 56.390
+BMW i3;21.486 km;dic-15;125 kW (170 CV);Automático;Electro/Gasolina;0,6;ES;13 g;€ 23.900
+BMW i3;96.644 km;sep-15;125 kW (170 CV);Automático;Eléctrico;-/- ;ES;0 g ;€ 17.900
+BMW 135;50.000 km;dic-15;240 kW (326 CV);Automático;Gasolina;7,8;Unknown;182;€ 29.900
+BMW 520;118.380 km;may-15;135 kW (184 CV);Automático;Gasolina;6 l/;ES;-/- ;€ 22.990
+BMW 116;39.013 km;sep-15;80 kW (109 CV);Manual;Gasolina;5 l/;ES;-/- ;€ 15.990
+BMW 320;117.019 km;dic-15;135 kW (184 CV);Automático;Gasolina;6,2;ES;-/- ;€ 21.490
+BMW M6;36.000 km;jun-15;412 kW (560 CV);Automático;Gasolina;10,3;Unknown;239;€ 81.900
+BMW M4;49.000 km;nov-15;317 kW (431 CV);Manual;Gasolina;9,1;ES;-/- ;€ 50.500
+BMW X5 M;115.000 km;mar-15;423 kW (575 CV);Automático;Gasolina;10,4;ES;224;€ 59.900
+BMW i3;25.000 km;dic-15;125 kW (170 CV);-/- (Cambio);Eléctrico;-/- ;ES;0 g ;€ 25.900
+BMW M4;49.000 km;jul-15;317 kW (431 CV);Automático;Gasolina;8,3;Unknown;194;€ 58.900
+BMW 220;61.000 km;nov-15;135 kW (184 CV);Automático;Gasolina;6,2;Unknown;144;€ 21.000
+BMW i3;53.000 km;ene-15;125 kW (170 CV);-/- (Cambio);Eléctrico;0,6;Unknown;13 g;€ 27.900

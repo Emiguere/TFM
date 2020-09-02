@@ -1,0 +1,401 @@
+vehicle;  km; year; power; transmision; fuel_type; consume; country;emisions;price 
+Audi A6;105.512 km;abr-14;180 kW (245 CV);Automático;Diésel;5,9;Unknown;156;€ 17.993
+Audi Q3;135.580 km;dic-14;130 kW (177 CV);Manual;Diésel;-/- ;ES;-/- ;€ 16.900
+Audi A3;94.640 km;jun-14;81 kW (110 CV);Manual;Diésel;3,8;ES;-/- ;€ 12.804
+Audi A5;90.223 km;abr-14;180 kW (245 CV);Automático;Diésel;5,7;Unknown;149;€ 25.000
+Audi Q5;103.607 km;mar-14;130 kW (177 CV);Automático;Diésel;5,9;ES;-/- ;€ 19.533
+Audi A6;93.101 km;sep-14;130 kW (177 CV);Manual;Diésel;4,9;ES;-/- ;€ 17.290
+Audi A3;94.640 km;jun-14;81 kW (110 CV);Manual;Diésel;3,8;ES;-/- ;€ 12.804
+Audi Q5;103.607 km;mar-14;130 kW (177 CV);Automático;Diésel;5,9;ES;-/- ;€ 19.533
+Audi A3;42.195 km;may-14;110 kW (150 CV);Manual;Diésel;4,3;ES;-/- ;€ 18.317
+Audi A5;221.000 km;ago-14;150 kW (204 CV);Automático;Diésel;4,9;Unknown;129;€ 13.500
+Audi Q5;140.000 km;ene-14;180 kW (245 CV);Automático;Diésel;6,4;Unknown;169;€ 24.000
+Audi A6;189.000 km;feb-14;130 kW (177 CV);Manual;Diésel;4,9;ES;-/- ;€ 15.500
+Audi Q3;119.500 km;ene-14;130 kW (177 CV);Automático;Diésel;5,9;ES;-/- ;€ 19.990
+Audi A6;93.101 km;sep-14;130 kW (177 CV);Manual;Diésel;4,9;ES;-/- ;€ 17.290
+Audi Q3;87.460 km;oct-14;103 kW (140 CV);Automático;Diésel;5,8;ES;-/- ;€ 16.590
+Audi Q5;103.607 km;mar-14;130 kW (177 CV);Automático;Diésel;5,9;ES;-/- ;€ 19.533
+Audi A6;93.101 km;sep-14;130 kW (177 CV);Manual;Diésel;4,9;ES;-/- ;€ 17.290
+Audi A3;94.640 km;jun-14;81 kW (110 CV);Manual;Diésel;3,8;ES;-/- ;€ 12.804
+Audi A6;150.000 km;ago-14;180 kW (245 CV);Automático;Diésel;5,9;Unknown;156;€ 19.000
+Audi A3;94.640 km;jun-14;81 kW (110 CV);Manual;Diésel;3,8;ES;-/- ;€ 12.804
+Audi A6;93.101 km;sep-14;130 kW (177 CV);Manual;Diésel;4,9;ES;-/- ;€ 17.290
+Audi A4;103.473 km;jun-14;130 kW (177 CV);Automático;Diésel;-/- ;ES;-/- ;€ 18.700
+Audi A3;83.167 km;jul-14;77 kW (105 CV);Manual;Diésel;3,8;ES;-/- ;€ 14.950
+Audi A1;113.592 km;mar-14;66 kW (90 CV);Manual;Diésel;3,8;ES;-/- ;€ 12.500
+Audi Q5;101.720 km;abr-14;130 kW (177 CV);Automático;Diésel;5,9;ES;-/- ;€ 23.700
+Audi Q5;93.000 km;abr-14;180 kW (245 CV);Automático;Diésel;6,4;ES;-/- ;€ 24.900
+Audi A4;125.000 km;jun-14;180 kW (245 CV);Manual;Diésel;5,8;ES;-/- ;€ 21.000
+Audi A4;233.000 km;ene-14;110 kW (150 CV);Manual;Diésel;3,8;ES;-/- ;€ 10.900
+Audi A4;117.000 km;mar-14;110 kW (150 CV);Automático;Diésel;4,8;ES;-/- ;€ 15.800
+Audi A3;189.500 km;mar-14;77 kW (105 CV);Automático;Diésel;3,9;ES;-/- ;€ 11.900
+Audi A6 allroad;111.000 km;oct-14;230 kW (313 CV);Automático;Diésel;6,7;ES;-/- ;€ 31.500
+Audi A4;103.000 km;jul-14;110 kW (150 CV);Automático;Diésel;4,6;ES;-/- ;€ 16.990
+Audi Q3;160.000 km;may-14;103 kW (140 CV);Manual;Diésel;5,7;ES;-/- ;€ 17.490
+Audi A4;165.999 km;jun-14;90 kW (122 CV);Manual;Diésel;4 l/;ES;-/- ;€ 11.700
+Audi A6;91.248 km;dic-14;150 kW (204 CV);Manual;Diésel;-/- ;ES;-/- ;€ 20.350
+Audi Q5;129.999 km;sep-14;130 kW (177 CV);Automático;Diésel;6 l/;ES;-/- ;€ 21.499
+Audi Q5;82.600 km;may-14;130 kW (177 CV);Manual;Diésel;5,9;Unknown;154;€ 21.600
+Audi Q3;121.000 km;abr-14;103 kW (140 CV);Manual;Diésel;5,2;ES;-/- ;€ 15.500
+Audi A6;120.000 km;ago-14;150 kW (204 CV);Manual;Diésel;5,3;Unknown;139;€ 14.000
+Audi A1;135.000 km;abr-14;66 kW (90 CV);Automático;Diésel;4,2;ES;-/- ;€ 11.800
+Audi A6;99.000 km;jun-14;230 kW (313 CV);Automático;Diésel;6,4;Unknown;169;€ 33.000
+Audi Q5;98.500 km;abr-14;130 kW (177 CV);Automático;Diésel;6 l/;ES;159;€ 26.500
+Audi A3;94.640 km;jun-14;81 kW (110 CV);Manual;Diésel;3,8;ES;-/- ;€ 12.804
+Audi Q5;103.607 km;mar-14;130 kW (177 CV);Automático;Diésel;5,9;ES;-/- ;€ 19.533
+Audi A3;42.195 km;may-14;110 kW (150 CV);Manual;Diésel;4,3;ES;-/- ;€ 18.317
+Audi A4;147.624 km;jul-14;130 kW (177 CV);Automático;Diésel;5,3;ES;-/- ;€ 14.990
+Audi A4;140.000 km;dic-14;110 kW (150 CV);Automático;Diésel;4,9;ES;-/- ;€ 13.990
+Audi A3;94.640 km;jun-14;81 kW (110 CV);Manual;Diésel;3,8;ES;-/- ;€ 12.804
+Audi A4;165.000 km;oct-14;110 kW (150 CV);Manual;Diésel;4,5;ES;-/- ;€ 12.900
+Audi A1;93.000 km;ene-14;66 kW (90 CV);Manual;Diésel;3,8;ES;-/- ;€ 10.900
+Audi A3;94.640 km;jun-14;81 kW (110 CV);Manual;Diésel;3,8;ES;-/- ;€ 12.804
+Audi A3;69.300 km;may-14;110 kW (150 CV);Manual;Diésel;4,7;ES;-/- ;€ 18.200
+Audi A3;157.254 km;feb-14;110 kW (150 CV);Manual;Diésel;4,1;ES;-/- ;€ 13.900
+Audi A4;200.000 km;abr-14;110 kW (150 CV);Manual;Diésel;4,5;ES;-/- ;€ 10.990
+Audi A3;94.640 km;jun-14;81 kW (110 CV);Manual;Diésel;3,8;ES;-/- ;€ 12.804
+Audi A3;94.640 km;jun-14;81 kW (110 CV);Manual;Diésel;3,8;ES;-/- ;€ 12.804
+Audi A7;60.905 km;feb-14;150 kW (204 CV);Automático;Diésel;5,8;ES;-/- ;€ 24.532
+Audi A3;94.640 km;jun-14;81 kW (110 CV);Manual;Diésel;3,8;ES;-/- ;€ 12.804
+Audi Q3;87.460 km;oct-14;103 kW (140 CV);Automático;Diésel;5,8;ES;-/- ;€ 16.590
+Audi A3;94.640 km;jun-14;81 kW (110 CV);Manual;Diésel;3,8;ES;-/- ;€ 12.804
+Audi A3;61.000 km;jul-14;77 kW (105 CV);Manual;Diésel;3,8;Unknown;99 g;€ 13.900
+Audi Q5;92.000 km;sep-14;130 kW (177 CV);Automático;Diésel;6 l/;ES;-/- ;€ 28.450
+Audi Q3;87.460 km;oct-14;103 kW (140 CV);Automático;Diésel;5,8;ES;-/- ;€ 16.590
+Audi Q3;81.000 km;sep-14;103 kW (140 CV);Automático;Diésel;5,8;ES;-/- ;€ 20.900
+Audi A5;142.000 km;nov-14;110 kW (150 CV);Automático;Diésel;4,6;Unknown;119;€ 21.500
+Audi Q7;167.000 km;jun-14;180 kW (245 CV);Automático;Diésel;7,4;Unknown;195;€ 26.000
+Audi A1;73.000 km;may-14;66 kW (90 CV);Manual;Diésel;3,8;ES;-/- ;€ 10.490
+Audi Q5;105.000 km;nov-14;130 kW (177 CV);Automático;Diésel;6 l/;ES;-/- ;€ 24.950
+Audi A3;42.195 km;may-14;110 kW (150 CV);Manual;Diésel;4,3;ES;-/- ;€ 18.317
+Audi A7;60.905 km;feb-14;150 kW (204 CV);Automático;Diésel;5,8;ES;-/- ;€ 24.532
+Audi Q5;103.607 km;mar-14;130 kW (177 CV);Automático;Diésel;5,9;ES;-/- ;€ 19.533
+Audi A3;42.195 km;may-14;110 kW (150 CV);Manual;Diésel;4,3;ES;-/- ;€ 18.317
+Audi A7;60.905 km;feb-14;150 kW (204 CV);Automático;Diésel;5,8;ES;-/- ;€ 24.532
+Audi A7;60.905 km;feb-14;150 kW (204 CV);Automático;Diésel;5,8;ES;-/- ;€ 24.532
+Audi A1;86.683 km;feb-14;66 kW (90 CV);Manual;Diésel;3,8;ES;-/- ;€ 10.700
+Audi A3;42.195 km;may-14;110 kW (150 CV);Manual;Diésel;4,3;ES;-/- ;€ 18.317
+Audi A1;83.850 km;feb-14;66 kW (90 CV);Manual;Diésel;3,8;ES;-/- ;€ 12.000
+Audi Q7;68.747 km;may-14;250 kW (340 CV);Automático;Diésel;9,9;ES;-/- ;€ 34.900
+Audi Q5;103.607 km;mar-14;130 kW (177 CV);Automático;Diésel;5,9;ES;-/- ;€ 19.533
+Audi A3;42.195 km;may-14;110 kW (150 CV);Manual;Diésel;4,3;ES;-/- ;€ 18.317
+Audi A7;60.905 km;feb-14;150 kW (204 CV);Automático;Diésel;5,8;ES;-/- ;€ 24.532
+Audi Q5;95.000 km;ago-14;140 kW (190 CV);Manual;Diésel;5,7;Unknown;149;€ 21.900
+Audi A4;164.000 km;ago-14;130 kW (177 CV);Automático;Diésel;5,3;Unknown;144;€ 12.800
+Audi A5;130.000 km;jun-14;140 kW (190 CV);Automático;Diésel;4,5;Unknown;119;€ 18.000
+Audi Q7;155.000 km;ago-14;180 kW (245 CV);Automático;Diésel;7,4;ES;-/- ;€ 23.990
+Audi A4;125.000 km;dic-14;140 kW (190 CV);Manual;Diésel;-/- ;ES;-/- ;€ 17.490
+Audi A6;139.000 km;nov-14;180 kW (245 CV);Automático;Diésel;5,9;ES;-/- ;€ 18.500
+Audi A3;164.756 km;mar-14;77 kW (105 CV);Automático;Diésel;3,9;ES;-/- ;€ 11.990
+Audi A1;175.120 km;mar-14;66 kW (90 CV);Manual;Diésel;3,8;ES;-/- ;€ 9.500
+Audi A8;49.900 km;mar-14;283 kW (385 CV);Automático;Diésel;7,3;ES;-/- ;€ 42.490
+Audi SQ5;200.000 km;may-14;230 kW (313 CV);Automático;Diésel;6,6;ES;-/- ;€ 28.990
+Audi Q5;112.467 km;jun-14;130 kW (177 CV);Automático;Diésel;6 l/;ES;-/- ;€ 20.590
+Audi A7;60.905 km;feb-14;150 kW (204 CV);Automático;Diésel;5,8;ES;-/- ;€ 24.532
+Audi A4;65.896 km;abr-14;110 kW (150 CV);Automático;Diésel;4,9;ES;-/- ;€ 17.700
+Audi Q3;75.000 km;abr-14;103 kW (140 CV);Automático;Diésel;5,8;ES;-/- ;€ 19.990
+Audi A3;76.600 km;jul-14;110 kW (150 CV);Automático;Diésel;4,2;Unknown;119;€ 17.000
+Audi A6;189.000 km;feb-14;130 kW (177 CV);Manual;Diésel;4,9;ES;-/- ;€ 15.500
+Audi Q3;140.000 km;nov-14;103 kW (140 CV);Manual;Diésel;5,7;ES;-/- ;€ 15.900
+Audi A4;150.000 km;dic-14;110 kW (150 CV);Manual;Diésel;4,6;ES;-/- ;€ 12.999
+Audi Q3;137.852 km;feb-14;130 kW (177 CV);Automático;Diésel;5,9;ES;-/- ;€ 23.700
+Audi A5;182.671 km;nov-14;110 kW (150 CV);Automático;Diésel;4,8;ES;-/- ;€ 16.990
+Audi A3;120.000 km;jul-14;81 kW (110 CV);Manual;Diésel;4 l/;ES;105;€ 12.500
+Audi A1;121.500 km;jul-14;77 kW (105 CV);Manual;Diésel;3,9;Unknown;99 g;€ 9.700
+Audi A3;42.195 km;may-14;110 kW (150 CV);Manual;Diésel;4,3;ES;-/- ;€ 18.317
+Audi A7;60.905 km;feb-14;150 kW (204 CV);Automático;Diésel;5,8;ES;-/- ;€ 24.532
+Audi Q7;59.000 km;sep-14;180 kW (245 CV);Automático;Diésel;7,4;ES;195;€ 31.900
+Audi A6;105.312 km;feb-14;130 kW (177 CV);Automático;Diésel;4,9;ES;-/- ;€ 17.900
+Audi Q5;103.607 km;mar-14;130 kW (177 CV);Automático;Diésel;5,9;ES;-/- ;€ 19.533
+Audi Q5;103.607 km;mar-14;130 kW (177 CV);Automático;Diésel;5,9;ES;-/- ;€ 19.533
+Audi A7;137.187 km;ene-14;230 kW (313 CV);Automático;Diésel;6,4;ES;-/- ;€ 32.990
+Audi A1;38.000 km;jun-14;66 kW (90 CV);Manual;Diésel;3,9;Unknown;99 g;€ 14.000
+Audi A3;165.000 km;abr-14;110 kW (150 CV);Manual;Diésel;4,1;ES;-/- ;€ 13.350
+Audi A3;165.000 km;may-14;110 kW (150 CV);Manual;Diésel;4,2;ES;-/- ;€ 13.999
+Audi A6;153.100 km;mar-14;130 kW (177 CV);Automático;Diésel;5 l/;Unknown;135;€ 16.000
+Audi Q5;103.607 km;mar-14;130 kW (177 CV);Automático;Diésel;5,9;ES;-/- ;€ 19.533
+Audi Q3;119.500 km;ene-14;130 kW (177 CV);Automático;Diésel;5,9;ES;-/- ;€ 20.990
+Audi A4;147.624 km;jul-14;130 kW (177 CV);Automático;Diésel;5,3;ES;-/- ;€ 16.490
+Audi A6;126.300 km;abr-14;180 kW (245 CV);Automático;Diésel;6 l/;ES;-/- ;€ 23.990
+Audi Q3;95.000 km;may-14;130 kW (177 CV);Automático;Diésel;5,9;ES;-/- ;€ 21.990
+Audi A3;139.853 km;nov-14;77 kW (105 CV);Automático;Diésel;3,9;ES;-/- ;€ 12.990
+Audi A1;99.000 km;ene-14;77 kW (105 CV);Automático;Diésel;-/- ;ES;-/- ;€ 14.990
+Audi A4;110.000 km;mar-14;110 kW (150 CV);Manual;Diésel;3,8;ES;-/- ;€ 14.990
+Audi A6;42.000 km;ago-14;150 kW (204 CV);Automático;Diésel;5,7;ES;-/- ;€ 19.490
+Audi A3;69.442 km;ene-14;110 kW (150 CV);Automático;Diésel;4,2;ES;-/- ;€ 15.900
+Audi A6;80.472 km;oct-14;140 kW (190 CV);Manual;Diésel;4,6;ES;-/- ;€ 17.900
+Audi A4;140.000 km;jun-14;110 kW (150 CV);Manual;Diésel;4,5;ES;-/- ;€ 13.850
+Audi Q5;163.394 km;nov-14;140 kW (190 CV);Manual;Diésel;5,7;ES;-/- ;€ 23.500
+Audi A4;150.000 km;may-14;100 kW (136 CV);Manual;Diésel;4,4;Unknown;116;€ 11.300
+Audi A5;92.811 km;oct-14;100 kW (136 CV);Automático;Diésel;4,5;ES;119;€ 19.500
+Audi Q5;93.000 km;jul-14;110 kW (150 CV);Manual;Diésel;5,3;ES;-/- ;€ 19.950
+Audi Q5;163.394 km;nov-14;140 kW (190 CV);Manual;Diésel;5,7;ES;-/- ;€ 23.500
+Audi A6;139.500 km;ene-14;150 kW (204 CV);Automático;Diésel;5,2;Unknown;136;€ 23.490
+Audi A3;42.195 km;may-14;110 kW (150 CV);Manual;Diésel;4,3;ES;-/- ;€ 18.317
+Audi A3;42.195 km;may-14;110 kW (150 CV);Manual;Diésel;4,3;ES;-/- ;€ 18.317
+Audi A4;87.045 km;feb-14;110 kW (150 CV);Automático;Diésel;4,8;ES;127;€ 16.800
+Audi A3;164.756 km;mar-14;77 kW (105 CV);Automático;Diésel;3,9;ES;-/- ;€ 13.990
+Audi A6;133.156 km;ene-14;130 kW (177 CV);Automático;Diésel;5 l/;ES;-/- ;€ 17.490
+Audi Q3;138.000 km;jul-14;130 kW (177 CV);Automático;Diésel;5,9;ES;-/- ;€ 22.900
+Audi A4;189.000 km;jun-14;110 kW (150 CV);Manual;Diésel;4,6;ES;-/- ;€ 13.500
+Audi A4;167.000 km;mar-14;150 kW (204 CV);Automático;Diésel;4,9;ES;-/- ;€ 16.850
+Audi A3;179.000 km;sep-14;77 kW (105 CV);Automático;Diésel;3,9;ES;-/- ;€ 11.000
+Audi A4;158.000 km;ago-14;110 kW (150 CV);Automático;Diésel;4,9;ES;-/- ;€ 14.990
+Audi Q5;62.590 km;may-14;130 kW (177 CV);Automático;Diésel;6 l/;ES;-/- ;€ 26.300
+Audi A4;102.000 km;jul-14;110 kW (150 CV);Manual;Diésel;4,5;ES;-/- ;€ 16.900
+Audi A5;123.520 km;nov-14;110 kW (150 CV);Manual;Diésel;4,5;ES;-/- ;€ 18.700
+Audi A3;100.980 km;ene-14;77 kW (105 CV);Manual;Diésel;3,8;ES;-/- ;€ 13.500
+Audi A5;122.742 km;feb-14;180 kW (245 CV);Automático;Diésel;6,1;ES;-/- ;€ 22.990
+Audi A3;55.560 km;may-14;77 kW (105 CV);Manual;Diésel;4,2;ES;-/- ;€ 10.900
+Audi A5;125.000 km;may-14;110 kW (150 CV);Automático;Diésel;4,6;ES;-/- ;€ 17.690
+Audi Q3;110.264 km;jul-14;1 kW (1 CV);-/- (Cambio);Diésel;-/- ;Unknown;-/- ;€ 12.643
+Audi A5;179.000 km;abr-14;150 kW (204 CV);Automático;Diésel;4,9;ES;-/- ;€ 17.950
+Audi Q3;141.724 km;jul-14;103 kW (140 CV);Manual;Diésel;-/- ;ES;-/- ;€ 15.500
+Audi A6;143.000 km;jul-14;231 kW (314 CV);Automático;Diésel;6,4;Unknown;169;€ 25.900
+Audi A8;110.500 km;ene-14;283 kW (385 CV);Automático;Diésel;7,2;Unknown;189;€ 29.900
+Audi A7;60.000 km;sep-14;200 kW (272 CV);Automático;Diésel;5,4;ES;-/- ;€ 33.900
+Audi A3;70.000 km;dic-14;110 kW (150 CV);Manual;Diésel;4,1;ES;-/- ;€ 17.000
+Audi A3;169.225 km;oct-14;81 kW (110 CV);Manual;Diésel;4 l/;ES;-/- ;€ 12.500
+Audi A3;107.000 km;may-14;110 kW (150 CV);Manual;Diésel;4,3;ES;-/- ;€ 17.490
+Audi A3;172.000 km;ene-14;77 kW (105 CV);Manual;Diésel;3,8;Unknown;99 g;€ 10.500
+Audi A5;99.000 km;abr-14;130 kW (177 CV);Manual;Diésel;4,6;ES;-/- ;€ 22.950
+Audi A6;123.500 km;jun-14;150 kW (204 CV);Automático;Diésel;5,7;ES;-/- ;€ 20.800
+Audi A4;135.000 km;dic-14;110 kW (150 CV);Manual;Diésel;5,3;Unknown;139;€ 16.999
+Audi A3;119.000 km;jun-14;135 kW (184 CV);Manual;Diésel;4,2;ES;112;€ 22.990
+Audi A3;155.000 km;ago-14;77 kW (105 CV);Automático;Diésel;3,9;ES;-/- ;€ 12.900
+Audi A5;42.000 km;jul-14;180 kW (245 CV);Automático;Diésel;5,9;Unknown;154;€ 31.990
+Audi Q3;122.213 km;dic-14;103 kW (140 CV);Manual;Diésel;5,2;ES;-/- ;€ 19.100
+Audi A8;86.341 km;abr-14;190 kW (258 CV);Automático;Diésel;5,9;Unknown;155;€ 25.990
+Audi 100;142.000 km;jul-14;1 kW (1 CV);-/- (Cambio);Diésel;-/- ;Unknown;-/- ;€ 10.880
+Audi Q7;52.958 km;abr-14;150 kW (204 CV);Automático;Diésel;7,2;ES;-/- ;€ 29.990
+Audi Q3;87.674 km;abr-14;103 kW (140 CV);Manual;Diésel;5,2;ES;-/- ;€ 16.990
+Audi A3;89.528 km;mar-14;77 kW (105 CV);Automático;Diésel;3,9;ES;-/- ;€ 15.990
+Audi A3;90.586 km;mar-14;77 kW (105 CV);Manual;Diésel;3,8;ES;-/- ;€ 13.190
+Audi A3;52.546 km;dic-14;81 kW (110 CV);Manual;Diésel;4 l/;ES;-/- ;€ 15.990
+Audi A3;53.383 km;abr-14;81 kW (110 CV);Manual;Diésel;4 l/;ES;-/- ;€ 14.450
+Audi A3;100.942 km;abr-14;110 kW (150 CV);Manual;Diésel;-/- ;ES;-/- ;€ 16.900
+Audi A3;107.010 km;nov-14;77 kW (105 CV);Manual;Diésel;-/- ;ES;-/- ;€ 13.500
+Audi A3;139.853 km;nov-14;77 kW (105 CV);Automático;Diésel;3,9;ES;-/- ;€ 14.990
+Audi A7;60.905 km;feb-14;150 kW (204 CV);Automático;Diésel;5,8;ES;-/- ;€ 24.532
+Audi A6;102.778 km;may-14;130 kW (177 CV);Manual;Diésel;4,9;ES;-/- ;€ 20.900
+Audi A5;140.000 km;mar-14;130 kW (177 CV);Automático;Diésel;4,7;Unknown;123;€ 21.900
+Audi A5;140.000 km;ene-14;111 kW (151 CV);Manual;Diésel;5,2;Unknown;119;€ 19.000
+Audi A5;139.000 km;ago-14;110 kW (150 CV);Automático;Diésel;4,8;ES;-/- ;€ 16.500
+Audi Q7;130.000 km;jun-14;180 kW (245 CV);Automático;Diésel;7,4;Unknown;195;€ 30.000
+Audi A5;80.400 km;jun-14;180 kW (245 CV);Automático;Diésel;5,7;ES;-/- ;€ 23.850
+Audi A4;104.000 km;dic-14;110 kW (150 CV);Automático;Diésel;4,8;ES;-/- ;€ 16.850
+Audi A4;104.000 km;dic-14;110 kW (150 CV);Automático;Diésel;4,8;ES;-/- ;€ 16.850
+Audi A5;80.400 km;jun-14;180 kW (245 CV);Automático;Diésel;5,7;ES;-/- ;€ 23.850
+Audi A6 allroad;150.000 km;abr-14;230 kW (313 CV);Automático;Diésel;6,7;ES;-/- ;€ 27.999
+Audi Q3;146.054 km;sep-14;103 kW (140 CV);Automático;Diésel;5,8;ES;-/- ;€ 15.490
+Audi A3;71.500 km;jun-14;77 kW (105 CV);Manual;Diésel;4,3;Unknown;114;€ 14.500
+Audi A5;115.000 km;jul-14;110 kW (150 CV);Automático;Diésel;4,8;ES;-/- ;€ 18.900
+Audi Q3;104.000 km;may-14;103 kW (140 CV);Manual;Diésel;5,2;ES;-/- ;€ 16.400
+Audi A5;73.731 km;sep-14;110 kW (150 CV);Manual;Diésel;4,5;ES;-/- ;€ 21.900
+Audi A3;221.877 km;jun-14;110 kW (150 CV);Manual;Diésel;4,1;ES;-/- ;€ 9.990
+Audi A7;60.905 km;feb-14;150 kW (204 CV);Automático;Diésel;5,8;ES;-/- ;€ 24.532
+Audi A4;139.000 km;jul-14;110 kW (150 CV);Manual;Diésel;4,5;Unknown;119;€ 16.500
+Audi A4;110.000 km;mar-14;110 kW (150 CV);Manual;Diésel;3,8;ES;-/- ;€ 16.490
+Audi A5;145.599 km;oct-14;140 kW (190 CV);Automático;Diésel;5 l/;ES;-/- ;€ 19.998
+Audi A3;58.000 km;ene-14;77 kW (105 CV);Automático;Diésel;3,9;Unknown;102;€ 14.490
+Audi A4;122.000 km;nov-14;103 kW (140 CV);Automático;Diésel;5,8;ES;-/- ;€ 13.750
+Audi A4;130.989 km;jul-14;90 kW (122 CV);Manual;Diésel;4 l/;ES;-/- ;€ 12.150
+Audi A3;160.000 km;may-14;77 kW (105 CV);Manual;Diésel;3,8;ES;-/- ;€ 10.499
+Audi A3;132.358 km;jun-14;110 kW (150 CV);Manual;Diésel;4,8;ES;-/- ;€ 13.900
+Audi A3;132.358 km;jun-14;110 kW (150 CV);Manual;Diésel;4,2;Unknown;108;€ 12.900
+Audi A1;99.000 km;jun-14;66 kW (90 CV);Manual;Diésel;3,9;ES;-/- ;€ 10.500
+Audi A3;107.000 km;may-14;110 kW (150 CV);Manual;Diésel;4,3;ES;-/- ;€ 18.490
+Audi A3;62.000 km;nov-14;81 kW (110 CV);Manual;Diésel;3,3;Unknown;88 g;€ 15.750
+Audi A4;247.000 km;mar-14;110 kW (150 CV);Manual;Diésel;4,5;ES;-/- ;€ 10.490
+Audi A3;120.000 km;jul-14;110 kW (150 CV);Automático;Diésel;4,7;Unknown;122;€ 16.500
+Audi A1;25.300 km;jul-14;66 kW (90 CV);Manual;Diésel;3,8;Unknown;99 g;€ 15.000
+Audi Q7;128.000 km;abr-14;250 kW (340 CV);Automático;Diésel;9,9;Unknown;242;€ 21.990
+Audi Q3;119.000 km;jul-14;103 kW (140 CV);Manual;Diésel;5,7;Unknown;149;€ 14.250
+Audi A3;140.000 km;may-14;110 kW (150 CV);Automático;Diésel;4,2;ES;-/- ;€ 14.500
+Audi A5;139.000 km;ago-14;- kW (- CV);Manual;Diésel;-/- ;ES;-/- ;€ 17.999
+Audi A3;123.500 km;ene-14;77 kW (105 CV);Automático;Diésel;3,9;ES;-/- ;€ 18.900
+Audi A3;172.000 km;mar-14;77 kW (105 CV);Manual;Diésel;3,8;ES;-/- ;€ 12.900
+Audi A3;73.836 km;jul-14;110 kW (150 CV);Automático;Diésel;4,4;ES;-/- ;€ 16.990
+Audi A5;107.000 km;dic-14;130 kW (177 CV);Automático;Diésel;4,7;ES;-/- ;€ 19.990
+Audi A6;140.000 km;abr-14;110 kW (150 CV);Automático;Diésel;4,4;ES;-/- ;€ 18.999
+Audi A1;26.800 km;ago-14;77 kW (105 CV);Manual;Diésel;3,8;Unknown;99 g;€ 16.000
+Audi A4;192.631 km;ago-14;1 kW (1 CV);-/- (Cambio);Diésel;-/- ;Unknown;-/- ;€ 8.547
+Audi SQ5;65.000 km;may-14;230 kW (313 CV);Automático;Diésel;6,6;ES;-/- ;€ 34.000
+Audi A5;99.000 km;may-14;130 kW (177 CV);Automático;Diésel;4,6;ES;-/- ;€ 21.500
+Audi A4;78.000 km;jul-14;88 kW (120 CV);Manual;Diésel;4,7;Unknown;123;€ 14.800
+Audi Q3;122.213 km;dic-14;103 kW (140 CV);Manual;Diésel;5,2;ES;-/- ;€ 20.100
+Audi Q5;106.082 km;jun-14;130 kW (177 CV);Automático;Diésel;6 l/;ES;-/- ;€ 21.400
+Audi A5;190.000 km;ago-14;150 kW (204 CV);Automático;Diésel;4,9;ES;-/- ;€ 20.000
+Audi Q5;102.000 km;jun-14;110 kW (150 CV);Manual;Diésel;5,3;Unknown;139;€ 19.500
+Audi A8;64.215 km;feb-14;190 kW (258 CV);Automático;Diésel;5,9;ES;155;€ 37.500
+Audi A7;99.971 km;mar-14;180 kW (245 CV);Automático;Diésel;5,9;ES;156;€ 28.800
+Audi A3;63.000 km;jun-14;81 kW (110 CV);Automático;Diésel;4 l/;ES;-/- ;€ 16.900
+Audi A3;152.182 km;abr-14;110 kW (150 CV);Manual;Diésel;4,2;ES;-/- ;€ 14.990
+Audi Q3;110.000 km;feb-14;130 kW (177 CV);Automático;Diésel;5,9;ES;-/- ;€ 20.500
+Audi A5;176.691 km;feb-14;150 kW (204 CV);Automático;Diésel;4,9;ES;-/- ;€ 22.500
+Audi A6;137.000 km;nov-14;180 kW (245 CV);Automático;Diésel;5,9;ES;-/- ;€ 17.990
+Audi A4 allroad;230.000 km;mar-14;130 kW (177 CV);Automático;Diésel;5,8;ES;-/- ;€ 13.900
+Audi A6;63.000 km;ene-14;150 kW (204 CV);Automático;Diésel;5,2;ES;-/- ;€ 21.500
+Audi A5;46.000 km;feb-14;130 kW (177 CV);Manual;Diésel;4,6;ES;-/- ;€ 19.490
+Audi A5;120.000 km;sep-14;110 kW (150 CV);Automático;Diésel;4,8;Unknown;127;€ 21.500
+Audi A1;77.000 km;nov-14;66 kW (90 CV);Manual;Diésel;3,8;ES;99 g;€ 11.500
+Audi A5;115.000 km;jun-14;130 kW (177 CV);Automático;Diésel;4,6;Unknown;139;€ 21.900
+Audi A6;240.000 km;mar-14;130 kW (177 CV);Manual;Diésel;4,9;ES;-/- ;€ 15.700
+Audi Q5;124.800 km;oct-14;130 kW (177 CV);Automático;Diésel;6 l/;ES;-/- ;€ 19.650
+Audi Q5;112.100 km;feb-14;130 kW (177 CV);Automático;Diésel;6 l/;ES;-/- ;€ 19.850
+Audi Q5;60.900 km;ene-14;130 kW (177 CV);Automático;Diésel;6 l/;ES;-/- ;€ 23.800
+Audi A5;81.800 km;abr-14;140 kW (190 CV);Automático;Diésel;-/- ;ES;-/- ;€ 21.450
+Audi A4;157.648 km;oct-14;180 kW (245 CV);Automático;Diésel;5,9;Unknown;154;€ 13.669
+Audi A4;80.000 km;nov-14;110 kW (150 CV);Automático;Diésel;4,8;Unknown;127;€ 17.000
+Audi A5;39.000 km;mar-14;180 kW (245 CV);Automático;Diésel;5,9;ES;-/- ;€ 29.500
+Audi A3;220.000 km;ene-14;110 kW (150 CV);Manual;Diésel;4,2;ES;-/- ;€ 10.000
+Audi A3;42.195 km;may-14;110 kW (150 CV);Manual;Diésel;4,3;ES;-/- ;€ 18.317
+Audi A5;122.742 km;feb-14;180 kW (245 CV);Automático;Diésel;6,1;ES;-/- ;€ 23.990
+Audi A3;82.000 km;feb-14;81 kW (110 CV);Automático;Diésel;3,9;ES;-/- ;€ 16.900
+Audi SQ5;65.000 km;may-14;230 kW (313 CV);Automático;Diésel;6,6;ES;174;€ 34.000
+Audi A1;98.365 km;dic-14;66 kW (90 CV);Automático;Diésel;4,2;ES;-/- ;€ 12.900
+Audi A6;88.000 km;jun-14;150 kW (204 CV);Automático;Diésel;5,7;ES;-/- ;€ 22.900
+Audi Q7;139.000 km;nov-14;180 kW (245 CV);Automático;Diésel;7,4;ES;-/- ;€ 27.800
+Audi Q7;136.000 km;jun-14;180 kW (245 CV);Automático;Diésel;7,4;ES;-/- ;€ 27.900
+Audi A4;132.000 km;jun-14;110 kW (150 CV);Manual;Diésel;4,5;ES;-/- ;€ 16.900
+Audi Q5;106.518 km;oct-14;140 kW (190 CV);Automático;Diésel;5,7;ES;-/- ;€ 22.500
+Audi SQ5;65.000 km;may-14;230 kW (313 CV);Automático;Diésel;6,6;ES;-/- ;€ 34.000
+Audi A4;124.000 km;ene-14;100 kW (136 CV);Manual;Diésel;4,4;ES;-/- ;€ 15.500
+Audi A4 allroad;190.000 km;ene-14;130 kW (177 CV);Automático;Diésel;5,8;ES;-/- ;€ 16.500
+Audi A5;70.000 km;ene-14;130 kW (177 CV);Manual;Diésel;-/- ;ES;-/- ;€ 14.000
+Audi A3;85.000 km;may-14;77 kW (105 CV);Manual;Diésel;3,8;Unknown;99 g;€ 13.000
+Audi A1;102.253 km;mar-14;1 kW (1 CV);-/- (Cambio);Diésel;-/- ;Unknown;-/- ;€ 8.217
+Audi A5;122.742 km;feb-14;180 kW (245 CV);Automático;Diésel;6,1;ES;-/- ;€ 22.990
+Audi Q5;234.000 km;jun-14;130 kW (177 CV);Automático;Diésel;6 l/;ES;-/- ;€ 18.999
+Audi A6;196.500 km;may-14;230 kW (313 CV);Automático;Diésel;6,4;ES;-/- ;€ 21.900
+Audi A6;67.000 km;jun-14;150 kW (204 CV);Manual;Diésel;5,3;ES;-/- ;€ 21.900
+Audi A5;124.400 km;ene-14;110 kW (150 CV);Manual;Diésel;4,5;ES;-/- ;€ 16.900
+Audi A3;102.000 km;sep-14;81 kW (110 CV);Automático;Diésel;3,9;ES;-/- ;€ 12.490
+Audi A4;185.500 km;may-14;110 kW (150 CV);Manual;Diésel;4,5;ES;-/- ;€ 10.990
+Audi SQ5;104.000 km;nov-14;230 kW (313 CV);Automático;Diésel;6,6;ES;-/- ;€ 35.800
+Audi Q5;83.000 km;sep-14;130 kW (177 CV);Automático;Diésel;6 l/;ES;-/- ;€ 20.850
+Audi A6;90.000 km;jul-14;150 kW (204 CV);Automático;Diésel;5,8;ES;-/- ;€ 22.750
+Audi Q5;99.950 km;jun-14;130 kW (177 CV);Manual;Diésel;5,9;ES;-/- ;€ 19.950
+Audi A6 allroad;90.000 km;jul-14;150 kW (204 CV);Automático;Diésel;6,1;ES;-/- ;€ 22.750
+Audi A5;93.000 km;may-14;150 kW (204 CV);Automático;Diésel;4,9;ES;-/- ;€ 19.950
+Audi A5;114.000 km;nov-14;140 kW (190 CV);Automático;Diésel;4,5;Unknown;119;€ 22.900
+Audi Q5;149.500 km;abr-14;180 kW (245 CV);Automático;Diésel;6,4;ES;-/- ;€ 24.900
+Audi A4;140.000 km;dic-14;110 kW (150 CV);Automático;Diésel;4,9;ES;-/- ;€ 14.990
+Audi Q3;139.000 km;jul-14;103 kW (140 CV);Manual;Diésel;5,2;ES;-/- ;€ 15.900
+Audi A3;66.000 km;oct-14;81 kW (110 CV);Manual;Diésel;3,3;ES;-/- ;€ 14.990
+Audi Q5;149.500 km;abr-14;180 kW (245 CV);Automático;Diésel;6,4;ES;-/- ;€ 24.900
+Audi A6;148.500 km;jun-14;150 kW (204 CV);Automático;Diésel;5,2;ES;-/- ;€ 22.400
+Audi Q3;165.000 km;ene-14;103 kW (140 CV);Manual;Diésel;5,2;ES;-/- ;€ 14.900
+Audi A6;193.300 km;oct-14;130 kW (177 CV);Automático;Diésel;5 l/;ES;-/- ;€ 14.990
+Audi A4;141.500 km;feb-14;130 kW (177 CV);Automático;Diésel;5,3;ES;-/- ;€ 23.500
+Audi SQ5;141.700 km;oct-14;230 kW (313 CV);Automático;Diésel;6,6;ES;-/- ;€ 32.990
+Audi A6;133.045 km;sep-14;235 kW (320 CV);Automático;Diésel;6 l/;ES;-/- ;€ 20.990
+Audi A6;160.000 km;ene-14;180 kW (245 CV);Automático;Diésel;5,9;ES;-/- ;€ 18.995
+Audi A6;99.998 km;jun-14;150 kW (204 CV);Automático;Diésel;5,7;ES;-/- ;€ 22.000
+Audi A4 allroad;179.900 km;may-14;130 kW (177 CV);Automático;Diésel;5,8;ES;-/- ;€ 17.490
+Audi A4;163.343 km;oct-14;110 kW (150 CV);Manual;Diésel;3,8;ES;-/- ;€ 14.490
+Audi A3;69.153 km;ene-14;110 kW (150 CV);Manual;Diésel;4,2;ES;-/- ;€ 18.999
+Audi A5;133.000 km;ene-14;150 kW (204 CV);Automático;Diésel;4,9;ES;-/- ;€ 21.700
+Audi A6;135.000 km;jun-14;150 kW (204 CV);Automático;Diésel;5,2;ES;-/- ;€ 20.500
+Audi A4;178.000 km;jun-14;140 kW (190 CV);Manual;Diésel;5,1;ES;-/- ;€ 14.200
+Audi A4;99.693 km;ago-14;110 kW (150 CV);Manual;Diésel;4,5;ES;-/- ;€ 14.999
+Audi A4;98.300 km;jun-14;110 kW (150 CV);Automático;Diésel;4,9;ES;-/- ;€ 17.900
+Audi A7;260.000 km;sep-14;235 kW (320 CV);Automático;Diésel;6,3;ES;-/- ;€ 25.500
+Audi A3;97.700 km;jun-14;81 kW (110 CV);Manual;Diésel;3,8;ES;-/- ;€ 13.990
+Audi A1;142.000 km;jun-14;66 kW (90 CV);Manual;Diésel;3,8;ES;-/- ;€ 10.990
+Audi A3;114.900 km;jun-14;77 kW (105 CV);Manual;Diésel;3,8;ES;-/- ;€ 13.500
+Audi A5;158.601 km;abr-14;- kW (- CV);Manual;Diésel;-/- ;ES;-/- ;€ 20.900
+Audi A4 allroad;58.152 km;abr-14;180 kW (245 CV);Automático;Diésel;6 l/;ES;-/- ;€ 29.500
+Audi A3;68.788 km;oct-14;81 kW (110 CV);Automático;Diésel;4 l/;ES;-/- ;€ 14.500
+Audi Q5;88.242 km;jun-14;130 kW (177 CV);Automático;Diésel;6 l/;ES;-/- ;€ 25.100
+Audi Q5;98.673 km;ago-14;110 kW (150 CV);Manual;Diésel;5,3;ES;-/- ;€ 20.400
+Audi A4;89.173 km;oct-14;110 kW (150 CV);Manual;Diésel;4,6;ES;-/- ;€ 17.900
+Audi Q7;58.338 km;jul-14;180 kW (245 CV);Automático;Diésel;7,4;ES;-/- ;€ 37.300
+Audi A6;99.999 km;may-14;130 kW (177 CV);Automático;Diésel;-/- ;ES;-/- ;€ 20.990
+Audi Q7;125.000 km;ene-14;180 kW (245 CV);Automático;Diésel;7,4;ES;-/- ;€ 29.999
+Audi A4 allroad;90.000 km;abr-14;130 kW (177 CV);Manual;Diésel;5,8;ES;-/- ;€ 18.990
+Audi A6;96.847 km;ene-14;130 kW (177 CV);Automático;Diésel;5 l/;ES;-/- ;€ 20.999
+Audi A4;135.000 km;jun-14;140 kW (190 CV);Automático;Diésel;4,7;ES;-/- ;€ 16.800
+Audi A3;211.222 km;feb-14;77 kW (105 CV);Automático;Diésel;3,9;ES;-/- ;€ 9.900
+Audi A6 allroad;79.190 km;feb-14;150 kW (204 CV);Automático;Diésel;6,1;ES;-/- ;€ 27.100
+Audi Q5;31.120 km;ene-14;180 kW (245 CV);Automático;Diésel;6,4;ES;-/- ;€ 30.490
+Audi A4 allroad;29.756 km;abr-14;130 kW (177 CV);Automático;Diésel;5,8;ES;-/- ;€ 22.900
+Audi A6;181.682 km;jun-14;150 kW (204 CV);Automático;Diésel;5,8;ES;-/- ;€ 19.990
+Audi A3;139.950 km;sep-14;81 kW (110 CV);Manual;Diésel;3,8;ES;-/- ;€ 13.800
+Audi A3;139.900 km;sep-14;81 kW (110 CV);Manual;Diésel;4 l/;ES;-/- ;€ 13.800
+Audi A4;120.836 km;oct-14;140 kW (190 CV);Manual;Diésel;4,5;ES;-/- ;€ 16.299
+Audi Q5;112.100 km;feb-14;130 kW (177 CV);Automático;Diésel;6 l/;ES;-/- ;€ 19.850
+Audi Q5;124.800 km;oct-14;130 kW (177 CV);Automático;Diésel;6 l/;ES;-/- ;€ 19.650
+Audi A5;81.800 km;abr-14;140 kW (190 CV);Automático;Diésel;-/- ;ES;-/- ;€ 21.450
+Audi Q5;60.900 km;ene-14;130 kW (177 CV);Automático;Diésel;6 l/;ES;-/- ;€ 23.800
+Audi A5;99.000 km;may-14;130 kW (177 CV);Manual;Diésel;4,6;ES;-/- ;€ 21.500
+Audi A5;122.742 km;feb-14;180 kW (245 CV);Automático;Diésel;6,1;ES;-/- ;€ 22.990
+Audi A7;170.000 km;dic-14;180 kW (245 CV);Automático;Diésel;5,9;ES;-/- ;€ 23.999
+Audi A6;120.000 km;dic-14;140 kW (190 CV);Automático;Diésel;4,4;ES;-/- ;€ 19.999
+Audi Q3;170.000 km;may-14;130 kW (177 CV);Automático;Diésel;5,9;ES;-/- ;€ 14.500
+Audi A5;125.000 km;may-14;130 kW (177 CV);Manual;Diésel;4,6;ES;-/- ;€ 20.900
+Audi A3;140.000 km;jun-14;110 kW (150 CV);Automático;Diésel;4,5;ES;-/- ;€ 14.300
+Audi A6;106.000 km;ago-14;140 kW (190 CV);Automático;Diésel;4,4;ES;-/- ;€ 20.900
+Audi A4 allroad;88.000 km;ene-14;130 kW (177 CV);Automático;Diésel;5,8;ES;-/- ;€ 21.900
+Audi Q7;169.582 km;may-14;180 kW (245 CV);Automático;Diésel;7,4;ES;-/- ;€ 24.000
+Audi Q5;82.400 km;nov-14;180 kW (245 CV);Automático;Diésel;6,4;ES;-/- ;€ 25.100
+Audi A5;100.000 km;nov-14;110 kW (150 CV);Automático;Diésel;4,6;ES;-/- ;€ 21.500
+Audi A6;128.000 km;nov-14;130 kW (177 CV);Automático;Diésel;5 l/;ES;-/- ;€ 20.900
+Audi A5;53.000 km;jun-14;130 kW (177 CV);Automático;Diésel;4,6;ES;-/- ;€ 21.900
+Audi A4;46.000 km;ene-14;180 kW (245 CV);Automático;Diésel;5,9;ES;-/- ;€ 26.900
+Audi A3;35.400 km;jul-14;110 kW (150 CV);Manual;Diésel;4,3;ES;-/- ;€ 22.500
+Audi A5;36.500 km;jun-14;110 kW (150 CV);Manual;Diésel;4,5;ES;-/- ;€ 23.900
+Audi SQ5;60.186 km;sep-14;230 kW (313 CV);Automático;Diésel;6,6;ES;-/- ;€ 35.900
+Audi A3;44.690 km;abr-14;110 kW (150 CV);Automático;Diésel;4,5;ES;-/- ;€ 22.900
+Audi SQ5;79.527 km;may-14;230 kW (313 CV);Automático;Diésel;6,6;ES;-/- ;€ 28.900
+Audi Q7;250.000 km;feb-14;180 kW (245 CV);Automático;Diésel;7,4;ES;-/- ;€ 22.500
+Audi A3;114.000 km;abr-14;110 kW (150 CV);Automático;Diésel;4,1;ES;-/- ;€ 17.890
+Audi A4;108.630 km;abr-14;105 kW (143 CV);Manual;Diésel;4,5;ES;-/- ;€ 17.500
+Audi A4;124.000 km;ene-14;105 kW (143 CV);Manual;Diésel;4,5;ES;-/- ;€ 13.999
+Audi A5;219.000 km;mar-14;110 kW (150 CV);Manual;Diésel;4,5;ES;-/- ;€ 13.990
+Audi A6 allroad;198.000 km;jun-14;150 kW (204 CV);Automático;Diésel;6,1;ES;-/- ;€ 18.990
+Audi A4;165.142 km;jun-14;110 kW (150 CV);Automático;Diésel;4,8;ES;-/- ;€ 14.500
+Audi A6;137.000 km;nov-14;180 kW (245 CV);Automático;Diésel;5,9;ES;-/- ;€ 17.990
+Audi A4;157.309 km;oct-14;110 kW (150 CV);Manual;Diésel;4 l/;ES;-/- ;€ 13.800
+Audi A5;182.135 km;ene-14;110 kW (150 CV);Manual;Diésel;4,5;ES;-/- ;€ 17.800
+Audi A3;63.000 km;jun-14;77 kW (105 CV);Automático;Diésel;3,9;ES;-/- ;€ 15.900
+Audi Q7;148.000 km;nov-14;150 kW (204 CV);Automático;Diésel;7,2;ES;-/- ;€ 26.500
+Audi A5;99.999 km;mar-14;130 kW (177 CV);Automático;Diésel;4,7;ES;-/- ;€ 22.990
+Audi A4 allroad;194.796 km;mar-14;130 kW (177 CV);Automático;Diésel;5,8;ES;-/- ;€ 20.500
+Audi A5;127.200 km;ene-14;130 kW (177 CV);Automático;Diésel;4,8;ES;-/- ;€ 19.950
+Audi A1;73.000 km;mar-14;66 kW (90 CV);Manual;Diésel;3,8;ES;-/- ;€ 11.900
+Audi A3;140.000 km;abr-14;135 kW (184 CV);Automático;Diésel;4,9;ES;-/- ;€ 19.900
+Audi SQ5;161.000 km;jun-14;230 kW (313 CV);Automático;Diésel;6,6;ES;-/- ;€ 27.900
+Audi A6;240.000 km;may-14;140 kW (190 CV);Automático;Diésel;4,4;ES;-/- ;€ 15.700
+Audi A3;100.000 km;jul-14;81 kW (110 CV);Manual;Diésel;3,8;Unknown;99 g;€ 14.800
+Audi A4;158.297 km;sep-14;110 kW (150 CV);Manual;Diésel;4,6;Unknown;119;€ 17.900
+Audi A3;102.000 km;jun-14;1 kW (1 CV);-/- (Cambio);Diésel;-/- ;Unknown;-/- ;€ 10.627
+Audi A5;185.000 km;ene-14;150 kW (204 CV);Manual;Diésel;4,9;Unknown;133;€ 19.250
+Audi A3;148.000 km;dic-14;77 kW (105 CV);Automático;Diésel;3,9;ES;-/- ;€ 13.500
+Audi Q3;129.200 km;may-14;130 kW (177 CV);Automático;Diésel;5,9;Unknown;156;€ 23.400
+Audi A7;120.000 km;ago-14;180 kW (245 CV);Automático;Diésel;5,9;ES;-/- ;€ 26.990
+Audi A6;64.592 km;oct-14;140 kW (190 CV);Manual;Diésel;4,7;ES;-/- ;€ 22.000
+Audi A1;57.000 km;abr-14;66 kW (90 CV);Manual;Diésel;3,9;Unknown;99 g;€ 12.100
+Audi A3;180.000 km;mar-14;77 kW (105 CV);Automático;Diésel;3,9;Unknown;102;€ 10.500
+Audi A3;115.000 km;feb-14;110 kW (150 CV);Automático;Diésel;4,2;ES;-/- ;€ 12.995
+Audi A5;159.000 km;dic-14;110 kW (150 CV);Manual;Diésel;4,5;ES;-/- ;€ 16.990
+Audi A4;65.000 km;jul-14;110 kW (150 CV);Automático;Diésel;4,6;Unknown;119;€ 17.500
+Audi A4;247.000 km;oct-14;110 kW (150 CV);Manual;Diésel;4,5;ES;-/- ;€ 11.499
+Audi A5;149.000 km;jul-14;130 kW (177 CV);Automático;Diésel;4,6;Unknown;139;€ 19.990
+Audi A3;45.000 km;dic-14;81 kW (110 CV);Manual;Diésel;3,8;Unknown;99 g;€ 14.900
+Audi A3;107.339 km;may-14;110 kW (150 CV);Manual;Diésel;3,9;Unknown;104;€ 15.800
+Audi Q3;55.000 km;may-14;103 kW (140 CV);Automático;Diésel;5,8;Unknown;152;€ 18.900
+Audi A3;57.000 km;jun-14;81 kW (110 CV);Manual;Diésel;3,8;Unknown;99 g;€ 15.000
+Audi A6 allroad;46.520 km;nov-14;230 kW (313 CV);Automático;Diésel;-/- ;ES;-/- ;€ 36.500
+Audi A5;70.583 km;mar-14;110 kW (150 CV);Automático;Diésel;4,5;ES;-/- ;€ 23.950
+Audi A1;85.000 km;jul-14;77 kW (105 CV);Manual;Diésel;3,8;Unknown;99 g;€ 13.500
+Audi A3;100.000 km;ene-14;110 kW (150 CV);Manual;Diésel;4,2;Unknown;108;€ 14.000
+Audi A3;67.000 km;ene-14;81 kW (110 CV);Manual;Diésel;3,2;Unknown;85 g;€ 14.900
+Audi A5;155.000 km;mar-14;130 kW (177 CV);Manual;Diésel;4,6;ES;-/- ;€ 17.990
+Audi A4;168.203 km;sep-14;103 kW (140 CV);Manual;Diésel;5,8;ES;-/- ;€ 12.490
+Audi A3;146.659 km;ene-14;110 kW (150 CV);Manual;Diésel;4,2;ES;-/- ;€ 14.490
+Audi A6;171.000 km;dic-14;235 kW (320 CV);Automático;Diésel;6,2;Unknown;164;€ 38.000
+Audi A6;160.000 km;ago-14;150 kW (204 CV);Manual;Diésel;5,3;Unknown;139;€ 17.500
+Audi A4;87.000 km;oct-14;110 kW (150 CV);Automático;Diésel;4,6;Unknown;119;€ 17.999
+Audi SQ5;189.000 km;may-14;230 kW (313 CV);Automático;Diésel;6,6;ES;174;€ 28.900
+Audi A6;75.000 km;dic-14;235 kW (320 CV);Automático;Diésel;6,2;Unknown;164;€ 35.900

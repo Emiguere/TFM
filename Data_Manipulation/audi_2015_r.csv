@@ -1,0 +1,147 @@
+vehicle;  km; year; power; transmision; fuel_type; consume; country;emisions;price 
+Audi A3;69.681 km;oct-15;150 kW (204 CV);Automático;Electro/Gasolina;1,6;ES;-/- ;€ 17.990
+Audi S5;69.281 km;mar-15;245 kW (333 CV);Automático;Gasolina;7,7;ES;-/- ;€ 31.308
+Audi S5;69.281 km;mar-15;245 kW (333 CV);Automático;Gasolina;7,7;ES;-/- ;€ 31.308
+Audi S5;69.281 km;mar-15;245 kW (333 CV);Automático;Gasolina;7,7;ES;-/- ;€ 31.308
+Audi A1;51.000 km;sep-15;70 kW (95 CV);Manual;Gasolina;4,2;ES;-/- ;€ 13.500
+Audi RS3;98.525 km;jun-15;270 kW (367 CV);Automático;Gasolina;8,1;ES;-/- ;€ 42.990
+Audi S5;98.000 km;ago-15;245 kW (333 CV);Automático;Gasolina;7,7;ES;-/- ;€ 35.999
+Audi A4 allroad;54.662 km;feb-15;165 kW (224 CV);Manual;Gasolina;7 l/;ES;-/- ;€ 23.899
+Audi A1;39.683 km;ene-15;63 kW (86 CV);Manual;Gasolina;5 l/;ES;116;€ 12.690
+Audi A1;58.000 km;jun-15;70 kW (95 CV);Automático;Gasolina;4,4;ES;-/- ;€ 15.995
+Audi A6;83.541 km;ago-15;245 kW (333 CV);Automático;Gasolina;7,6;ES;-/- ;€ 26.990
+Audi A6;83.541 km;ago-15;245 kW (333 CV);Automático;Gasolina;7,6;ES;-/- ;€ 26.990
+Audi A3;31.500 km;feb-15;110 kW (150 CV);Automático;Gasolina;4,9;ES;-/- ;€ 21.500
+Audi A6;83.541 km;ago-15;245 kW (333 CV);Automático;Gasolina;7,6;ES;-/- ;€ 26.990
+Audi A6;83.483 km;jul-15;245 kW (333 CV);Automático;Gasolina;7,4;ES;-/- ;€ 25.140
+Audi A5;90.000 km;mar-15;125 kW (170 CV);Manual;Gasolina;5,7;ES;-/- ;€ 18.900
+Audi A1;56.064 km;sep-15;70 kW (95 CV);Manual;Gasolina;4,3;Unknown;98 g;€ 8.400
+Audi RS6;74.252 km;may-15;412 kW (560 CV);Automático;Gasolina;9,6;ES;-/- ;€ 58.000
+Audi A6;83.483 km;jul-15;245 kW (333 CV);Automático;Gasolina;7,4;ES;-/- ;€ 25.140
+Audi S5;69.281 km;mar-15;245 kW (333 CV);Automático;Gasolina;7,7;ES;-/- ;€ 31.308
+Audi A6;83.483 km;jul-15;245 kW (333 CV);Automático;Gasolina;7,4;ES;-/- ;€ 25.140
+Audi S5;69.281 km;mar-15;245 kW (333 CV);Automático;Gasolina;7,7;ES;-/- ;€ 31.308
+Audi A1;78.823 km;mar-15;92 kW (125 CV);Automático;Gasolina;5 l/;ES;-/- ;€ 13.995
+Audi A1;124.210 km;feb-15;63 kW (86 CV);Manual;Gasolina;5,1;ES;-/- ;€ 10.990
+Audi A6;83.483 km;jul-15;245 kW (333 CV);Automático;Gasolina;7,4;ES;-/- ;€ 25.140
+Audi S5;69.281 km;mar-15;245 kW (333 CV);Automático;Gasolina;7,7;ES;-/- ;€ 31.308
+Audi A8;100.000 km;ene-15;368 kW (500 CV);Automático;Gasolina;11 l;ES;-/- ;€ 49.900
+Audi A3;69.900 km;jul-15;150 kW (204 CV);Automático;Gasolina;-/- ;ES;-/- ;€ 18.490
+Audi A5;42.300 km;oct-15;130 kW (177 CV);Automático;Gasolina;5,9;ES;-/- ;€ 22.490
+Audi A4;108.319 km;jun-15;165 kW (224 CV);Automático;Gasolina;6,6;Unknown;153;€ 15.818
+Audi S5;69.281 km;mar-15;245 kW (333 CV);Automático;Gasolina;7,7;ES;-/- ;€ 31.308
+Audi A5;168.300 km;sep-15;130 kW (177 CV);Automático;Gasolina;5,7;ES;-/- ;€ 19.400
+Audi A8;120.000 km;ene-15;320 kW (435 CV);Automático;Gasolina;8,9;ES;-/- ;€ 33.000
+Audi TT;75.000 km;ago-15;169 kW (230 CV);Manual;Gasolina;6,1;ES;-/- ;€ 27.900
+Audi A3;22.000 km;ene-15;92 kW (125 CV);Automático;Gasolina;5,1;ES;-/- ;€ 17.950
+Audi RS6;116.500 km;jun-15;412 kW (560 CV);Automático;Gasolina;9,6;ES;-/- ;€ 64.999
+Audi S3;134.500 km;jun-15;221 kW (300 CV);Automático;Gasolina;6,9;ES;-/- ;€ 33.999
+Audi TT;70.000 km;abr-15;169 kW (230 CV);Automático;Gasolina;6,4;Unknown;149;€ 31.900
+Audi S5;69.281 km;mar-15;245 kW (333 CV);Automático;Gasolina;7,7;ES;-/- ;€ 31.308
+Audi A3;89.000 km;nov-15;150 kW (204 CV);Automático;Gasolina;-/- ;ES;-/- ;€ 20.490
+Audi Q5;88.377 km;abr-15;200 kW (272 CV);Automático;Gasolina;8,5;Unknown;199;€ 22.875
+Audi A3;69.900 km;jul-15;150 kW (204 CV);Automático;Gasolina;-/- ;ES;-/- ;€ 19.490
+Audi A3;153.000 km;jul-15;110 kW (150 CV);Manual;Gasolina;4,8;ES;-/- ;€ 12.900
+Audi A6;83.483 km;jul-15;245 kW (333 CV);Automático;Gasolina;7,4;ES;-/- ;€ 25.140
+Audi S3;60.000 km;may-15;221 kW (300 CV);Automático;Gasolina;6,9;ES;-/- ;€ 33.000
+Audi A3;120.000 km;jun-15;150 kW (204 CV);Automático;Electro/Gasolina;1,6;ES;-/- ;€ 20.875
+Audi A1;54.000 km;may-15;70 kW (95 CV);Manual;Gasolina;4,3;Unknown;98 g;€ 13.900
+Audi A5;56.000 km;jul-15;130 kW (177 CV);Manual;Gasolina;5,5;ES;-/- ;€ 24.490
+Audi A5;42.300 km;oct-15;130 kW (177 CV);Automático;Gasolina;5,9;ES;-/- ;€ 23.490
+Audi A6;83.483 km;jul-15;245 kW (333 CV);Automático;Gasolina;7,4;ES;-/- ;€ 25.140
+Audi RS3;64.000 km;sep-15;270 kW (367 CV);Automático;Gasolina;8,1;ES;-/- ;€ 42.999
+Audi Q3;77.156 km;abr-15;132 kW (179 CV);Automático;Gasolina;7 l/;Unknown;161;€ 15.990
+Audi A1;51.000 km;sep-15;70 kW (95 CV);Manual;Gasolina;4,2;ES;-/- ;€ 12.500
+Audi RS4;69.000 km;jun-15;331 kW (450 CV);Automático;Gasolina;10,7;Unknown;249;€ 49.500
+Audi RS7;39.900 km;ago-15;412 kW (560 CV);Automático;Gasolina;9,5;ES;-/- ;€ 61.900
+Audi A4;100.000 km;ene-15;125 kW (170 CV);Automático;Gasolina;5,6;ES;-/- ;€ 16.900
+Audi S8;119.000 km;sep-15;382 kW (519 CV);Automático;Gasolina;9,4;Unknown;216;€ 54.900
+Audi A6;83.483 km;jul-15;245 kW (333 CV);Automático;Gasolina;7,4;ES;-/- ;€ 25.140
+Audi A3;39.000 km;mar-15;92 kW (125 CV);Automático;Gasolina;5 l/;ES;-/- ;€ 19.490
+Audi A7;82.000 km;jun-15;245 kW (333 CV);Automático;Gasolina;7,7;ES;-/- ;€ 34.995
+Audi S5;69.281 km;mar-15;245 kW (333 CV);Automático;Gasolina;7,7;ES;-/- ;€ 31.308
+Audi S5;69.281 km;mar-15;245 kW (333 CV);Automático;Gasolina;7,7;ES;-/- ;€ 31.308
+Audi A3;89.000 km;nov-15;150 kW (204 CV);Automático;Gasolina;-/- ;ES;-/- ;€ 21.990
+Audi A6;83.541 km;ago-15;245 kW (333 CV);Automático;Gasolina;7,6;ES;-/- ;€ 26.990
+Audi Q3;36.000 km;mar-15;110 kW (150 CV);Automático;Gasolina;6,2;Unknown;143;€ 22.000
+Audi A5;10.200 km;abr-15;125 kW (170 CV);Automático;Gasolina;6,2;ES;143;€ 27.500
+Audi TT;60.845 km;may-15;169 kW (230 CV);Manual;Gasolina;5,9;ES;-/- ;€ 24.900
+Audi A1;51.000 km;sep-15;70 kW (95 CV);Manual;Gasolina;4,2;ES;-/- ;€ 13.500
+Audi A1;99.000 km;jun-15;141 kW (192 CV);Automático;Gasolina;5,6;ES;-/- ;€ 17.990
+Audi S6;130.000 km;jun-15;331 kW (450 CV);Automático;Gasolina;9,4;Unknown;219;€ 45.000
+Audi S8;16.728 km;sep-15;382 kW (519 CV);Automático;Gasolina;9,6;ES;216;€ 79.990
+Audi A8;16.728 km;sep-15;382 kW (519 CV);Automático;Gasolina;9,6;ES;216;€ 79.990
+Audi A3;114.043 km;ago-15;150 kW (204 CV);Automático;Gasolina;-/- ;ES;-/- ;€ 21.490
+Audi TT;66.000 km;jun-15;169 kW (230 CV);Automático;Gasolina;6,4;Unknown;149;€ 30.200
+Audi RS6;72.000 km;ene-15;412 kW (560 CV);Automático;Gasolina;9,6;ES;-/- ;€ 64.990
+Audi A4 allroad;54.626 km;feb-15;165 kW (224 CV);Manual;Gasolina;7 l/;ES;-/- ;€ 28.000
+Audi Q3;60.000 km;nov-15;110 kW (150 CV);Manual;Gasolina;5,5;Unknown;128;€ 20.400
+Audi A3;90.600 km;feb-15;110 kW (150 CV);Manual;Gasolina;5 l/;ES;-/- ;€ 13.850
+Audi A3;19.748 km;abr-15;92 kW (125 CV);Automático;Gasolina;5,1;Unknown;118;€ 18.700
+Audi A6;116.849 km;sep-15;140 kW (190 CV);Automático;Gasolina;5,7;ES;-/- ;€ 23.890
+Audi A5;90.000 km;jun-15;165 kW (224 CV);Automático;Gasolina;6,9;ES;-/- ;€ 23.990
+Audi RS6;49.500 km;sep-15;412 kW (560 CV);Automático;Gasolina;9,6;ES;-/- ;€ 74.899
+Audi A6;83.483 km;jul-15;245 kW (333 CV);Automático;Gasolina;7,4;ES;-/- ;€ 25.140
+Audi A6;117.000 km;ago-15;185 kW (252 CV);Automático;Gasolina;5,9;ES;-/- ;€ 20.900
+Audi A6;116.849 km;sep-15;140 kW (190 CV);Automático;Gasolina;5,7;ES;-/- ;€ 23.890
+Audi A6 allroad;88.000 km;ago-15;245 kW (333 CV);Automático;Gasolina;8 l/;ES;-/- ;€ 36.900
+Audi RS6;110.000 km;jun-15;412 kW (560 CV);Automático;Gasolina;9,6;ES;-/- ;€ 59.999
+Audi Q5;95.000 km;may-15;165 kW (224 CV);Automático;Gasolina;7,2;ES;-/- ;€ 23.950
+Audi Q5;86.300 km;dic-15;169 kW (230 CV);Automático;Gasolina;7,2;ES;-/- ;€ 25.400
+Audi A3;169.000 km;jul-15;150 kW (204 CV);Automático;Electro/Gasolina;1,6;ES;-/- ;€ 15.900
+Audi S3;99.965 km;ene-15;221 kW (300 CV);Automático;Gasolina;6,9;ES;159;€ 27.700
+Audi A3;39.000 km;mar-15;92 kW (125 CV);Automático;Gasolina;5 l/;ES;-/- ;€ 19.490
+Audi Q5;86.300 km;dic-15;169 kW (230 CV);Automático;Gasolina;7,2;ES;-/- ;€ 25.400
+Audi Q3;65.000 km;abr-15;110 kW (150 CV);Automático;Gasolina;6,2;ES;-/- ;€ 20.500
+Audi TT;72.000 km;abr-15;169 kW (230 CV);Automático;Gasolina;6,4;ES;-/- ;€ 26.900
+Audi RS6;65.000 km;jun-15;412 kW (560 CV);Automático;Gasolina;9,6;ES;-/- ;€ 63.900
+Audi A6;80.000 km;jun-15;140 kW (190 CV);Manual;Gasolina;5,9;ES;-/- ;€ 27.900
+Audi A3;77.467 km;oct-15;150 kW (204 CV);Automático;Electro/Gasolina;1,6;ES;-/- ;€ 22.500
+Audi A3;70.628 km;may-15;150 kW (204 CV);Automático;Electro/Gasolina;1,6;ES;-/- ;€ 23.500
+Audi A3;63.572 km;ago-15;150 kW (204 CV);Automático;Electro/Gasolina;1,6;ES;-/- ;€ 23.800
+Audi RS3;46.000 km;ago-15;270 kW (367 CV);Automático;Gasolina;8,1;ES;-/- ;€ 43.900
+Audi A6;60.000 km;nov-15;185 kW (252 CV);Automático;Gasolina;5,9;ES;-/- ;€ 28.000
+Audi A3;34.101 km;mar-15;150 kW (204 CV);Automático;Electro/Gasolina;1,6;ES;-/- ;€ 22.900
+Audi A4 allroad;54.626 km;feb-15;165 kW (224 CV);Manual;Gasolina;7 l/;ES;-/- ;€ 23.999
+Audi A3;90.600 km;feb-15;110 kW (150 CV);Manual;Gasolina;5 l/;ES;-/- ;€ 13.850
+Audi A6;116.849 km;sep-15;140 kW (190 CV);Automático;Gasolina;5,7;ES;-/- ;€ 23.890
+Audi S4;70.000 km;ago-15;245 kW (333 CV);Automático;Gasolina;7,7;ES;-/- ;€ 34.990
+Audi TT;94.000 km;ene-15;169 kW (230 CV);Manual;Gasolina;5,9;ES;-/- ;€ 29.990
+Audi S3;35.200 km;abr-15;221 kW (300 CV);Automático;Gasolina;6,9;ES;-/- ;€ 32.900
+Audi TT;46.000 km;jun-15;169 kW (230 CV);Automático;Gasolina;6,9;ES;-/- ;€ 31.900
+Audi A3;26.826 km;mar-15;92 kW (125 CV);Automático;Gasolina;5,1;ES;-/- ;€ 21.900
+Audi TT;38.500 km;sep-15;228 kW (310 CV);Automático;Gasolina;6,7;ES;-/- ;€ 36.900
+Audi TT;30.802 km;abr-15;228 kW (310 CV);Automático;Gasolina;7,1;ES;-/- ;€ 37.900
+Audi A3;53.004 km;sep-15;150 kW (204 CV);Automático;Electro/Gasolina;1,6;ES;-/- ;€ 23.599
+Audi RS3;112.000 km;jun-15;270 kW (367 CV);Automático;Gasolina;8,1;ES;-/- ;€ 37.900
+Audi A6;65.000 km;jun-15;412 kW (560 CV);Automático;Gasolina;9,6;ES;-/- ;€ 79.990
+Audi S3;79.000 km;may-15;221 kW (300 CV);Automático;Gasolina;6,9;ES;-/- ;€ 31.800
+Audi Q5;86.300 km;dic-15;169 kW (230 CV);Automático;Gasolina;7,2;ES;168;€ 26.400
+Audi R8;20.000 km;ago-15;449 kW (610 CV);Automático;Gasolina;12,9;ES;299;€ 124.990
+Audi Q5;190.000 km;ene-15;180 kW (245 CV);Automático;Electro/Gasolina;6,9;ES;-/- ;€ 20.800
+Audi S8;110.000 km;oct-15;382 kW (519 CV);Automático;Gasolina;9,4;Unknown;216;€ 69.900
+Audi R8;60.000 km;dic-15;449 kW (610 CV);Automático;Gasolina;12,3;ES;287;€ 115.000
+Audi A3;79.000 km;jun-15;150 kW (204 CV);Automático;Electro/Gasolina;1,6;ES;-/- ;€ 22.990
+Audi A3;125.900 km;ene-15;150 kW (204 CV);Automático;Electro/Gasolina;1,6;ES;-/- ;€ 19.500
+Audi RS3;61.000 km;ago-15;270 kW (367 CV);Automático;Gasolina;8,1;Unknown;189;€ 41.500
+Audi A1;34.643 km;ago-15;70 kW (95 CV);Manual;Gasolina;4,3;Unknown;98 g;€ 14.400
+Audi RS Q3;74.000 km;dic-15;228 kW (310 CV);Automático;Gasolina;8,8;Unknown;206;€ 34.900
+Audi A8;71.000 km;jun-15;228 kW (310 CV);Automático;Gasolina;7,6;Unknown;174;€ 45.000
+Audi A1;194.000 km;oct-15;92 kW (125 CV);Manual;Gasolina;5 l/;Unknown;117;€ 9.000
+Audi A3;73.545 km;abr-15;92 kW (125 CV);Manual;Gasolina;5,1;ES;-/- ;€ 14.900
+Audi A4;117.382 km;nov-15;110 kW (150 CV);Automático;Gasolina;5,2;Unknown;128;€ 15.725
+Audi RS6;89.000 km;jul-15;412 kW (560 CV);Automático;Gasolina;9,6;ES;223;€ 72.990
+Audi RS6;41.000 km;sep-15;412 kW (560 CV);Automático;Gasolina;9,6;ES;223;€ 69.999
+Audi A1;61.500 km;nov-15;70 kW (95 CV);Manual;Gasolina;4,3;Unknown;98 g;€ 12.000
+Audi A3;150.000 km;sep-15;150 kW (204 CV);Automático;Electro/Gasolina;1,6;ES;-/- ;€ 15.900
+Audi A1;188.451 km;ene-15;63 kW (86 CV);Manual;Gasolina;5,1;ES;118;€ 9.900
+Audi RS6;99.000 km;mar-15;412 kW (560 CV);Automático;Gasolina;9,6;ES;-/- ;€ 68.900
+Audi A3;120.000 km;oct-15;150 kW (204 CV);Automático;Electro/Gasolina;1,6;ES;37 g;€ 15.490
+Audi TTS;93.500 km;abr-15;228 kW (310 CV);Automático;Gasolina;6,7;ES;155;€ 34.990
+Audi A6;89.194 km;jul-15;245 kW (333 CV);Automático;Gasolina;7,4;ES;-/- ;€ 31.700
+Audi A5;69.000 km;abr-15;165 kW (224 CV);Manual;Gasolina;6,3;Unknown;146;€ 28.000
+Audi A6;116.849 km;sep-15;140 kW (190 CV);Automático;Gasolina;5,7;ES;-/- ;€ 23.890
+Audi A3;39.000 km;mar-15;92 kW (125 CV);Automático;Gasolina;5 l/;Unknown;116;€ 19.490
+Audi A3;35.700 km;ene-15;110 kW (150 CV);Manual;Gasolina;4,7;ES;-/- ;€ 24.900
+Audi A1;65.000 km;jun-15;70 kW (95 CV);Manual;Gasolina;4 l/;ES;-/- ;€ 11.000
+Audi S3;39.000 km;ene-15;221 kW (300 CV);Automático;Gasolina;6,9;ES;159;€ 31.950

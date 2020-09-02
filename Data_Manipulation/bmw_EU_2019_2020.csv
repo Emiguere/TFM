@@ -1,0 +1,401 @@
+vehicle;  km; year; power; transmision; fuel_type; consume; country;emisions;price 
+BMW X2;12.000 km;jul-19;110 kW (150 CV);Automático;Diésel;4,5;ES;119;€ 32.900
+BMW M2;13.000 km;sep-19;302 kW (411 CV);Automático;Gasolina;10 l;ES;227;€ 68.300
+BMW 118;26.086 km;may-19;100 kW (136 CV);Automático;Gasolina;5,9;ES;134;€ 22.900
+BMW 320;6.755 km;jun-19;140 kW (190 CV);Automático;Diésel;4 l/;ES;106;€ 31.900
+BMW 118;16.165 km;may-19;110 kW (150 CV);Automático;Diésel;4,4;ES;115;€ 23.500
+BMW X7;29.000 km;may-19;195 kW (265 CV);Automático;Diésel;6,5;ES;171;€ 96.900
+BMW M4;10.000 km;mar-19;331 kW (450 CV);Manual;Gasolina;9,3;IT;213;€ 62.900
+BMW 118;25.708 km;may-19;100 kW (136 CV);Automático;Gasolina;5,9;ES;134;€ 22.900
+BMW 318;23.200 km;may-19;110 kW (150 CV);Automático;Diésel;4,3;ES;113;€ 31.200
+BMW X5;100 km;ago-20;195 kW (265 CV);Automático;Diésel;6 l/;ES;158;€ 72.500
+BMW 730;100 km;ago-20;195 kW (265 CV);Automático;Diésel;5,3;ES;138;€ 107.000
+BMW X2;12.000 km;ene-19;110 kW (150 CV);Automático;Diésel;4,5;ES;119;€ 36.200
+BMW M2;3.400 km;jun-19;272 kW (370 CV);Automático;Gasolina;8,5;ES;199;€ 58.700
+BMW 330;5.359 km;mar-19;190 kW (258 CV);Automático;Gasolina;5,8;ES;132;€ 48.500
+BMW 118;6.043 km;sep-19;100 kW (136 CV);Automático;Gasolina;5,6;ES;-/- ;€ 22.900
+BMW 225;21.732 km;sep-19;100 kW (136 CV);Automático;Electro/Gasolina;-/- ;BE;42 g;€ 30.900
+BMW M8;8.002 km;oct-19;441 kW (600 CV);Automático;Gasolina;-/- ;BE;242;€ 139.700
+BMW X4 M;6.000 km;ago-20;353 kW (480 CV);Automático;Gasolina;-/- ;BE;239;€ 79.900
+BMW X2;10.000 km;ago-19;141 kW (192 CV);Automático;Gasolina;6,2;Unknown;142;€ 38.700
+BMW 320;10 km;feb-20;140 kW (190 CV);Automático;Diésel;4,6;Unknown;119;€ 44.000
+BMW X2;12.000 km;jul-19;110 kW (150 CV);Automático;Diésel;4,5;ES;119;€ 32.900
+BMW M2;13.000 km;sep-19;302 kW (411 CV);Automático;Gasolina;10 l;ES;227;€ 68.300
+BMW 118;26.086 km;may-19;100 kW (136 CV);Automático;Gasolina;5,9;ES;134;€ 22.900
+BMW 320;6.755 km;jun-19;140 kW (190 CV);Automático;Diésel;4 l/;ES;106;€ 31.900
+BMW 118;16.165 km;may-19;110 kW (150 CV);Automático;Diésel;4,4;ES;115;€ 23.500
+BMW X7;29.000 km;may-19;195 kW (265 CV);Automático;Diésel;6,5;ES;171;€ 96.900
+BMW M4;10.000 km;mar-19;331 kW (450 CV);Manual;Gasolina;9,3;IT;213;€ 62.900
+BMW 118;25.708 km;may-19;100 kW (136 CV);Automático;Gasolina;5,9;ES;134;€ 22.900
+BMW 318;23.200 km;may-19;110 kW (150 CV);Automático;Diésel;4,3;ES;113;€ 31.200
+BMW X5;100 km;ago-20;195 kW (265 CV);Automático;Diésel;6 l/;ES;158;€ 72.500
+BMW 730;100 km;ago-20;195 kW (265 CV);Automático;Diésel;5,3;ES;138;€ 107.000
+BMW X2;12.000 km;ene-19;110 kW (150 CV);Automático;Diésel;4,5;ES;119;€ 36.200
+BMW M2;3.400 km;jun-19;272 kW (370 CV);Automático;Gasolina;8,5;ES;199;€ 58.700
+BMW 330;5.359 km;mar-19;190 kW (258 CV);Automático;Gasolina;5,8;ES;132;€ 48.500
+BMW 118;6.043 km;sep-19;100 kW (136 CV);Automático;Gasolina;5,6;ES;-/- ;€ 22.900
+BMW 225;21.732 km;sep-19;100 kW (136 CV);Automático;Electro/Gasolina;-/- ;BE;42 g;€ 30.900
+BMW M8;8.002 km;oct-19;441 kW (600 CV);Automático;Gasolina;-/- ;BE;242;€ 139.700
+BMW X4 M;6.000 km;ago-20;353 kW (480 CV);Automático;Gasolina;-/- ;BE;239;€ 79.900
+BMW X2;10.000 km;ago-19;141 kW (192 CV);Automático;Gasolina;6,2;Unknown;142;€ 38.700
+BMW 320;10 km;feb-20;140 kW (190 CV);Automático;Diésel;4,6;Unknown;119;€ 44.000
+BMW X2;12.000 km;jul-19;110 kW (150 CV);Automático;Diésel;4,5;ES;119;€ 32.900
+BMW M2;13.000 km;sep-19;302 kW (411 CV);Automático;Gasolina;10 l;ES;227;€ 68.300
+BMW 118;26.086 km;may-19;100 kW (136 CV);Automático;Gasolina;5,9;ES;134;€ 22.900
+BMW 320;6.755 km;jun-19;140 kW (190 CV);Automático;Diésel;4 l/;ES;106;€ 31.900
+BMW 118;16.165 km;may-19;110 kW (150 CV);Automático;Diésel;4,4;ES;115;€ 23.500
+BMW X7;29.000 km;may-19;195 kW (265 CV);Automático;Diésel;6,5;ES;171;€ 96.900
+BMW M4;10.000 km;mar-19;331 kW (450 CV);Manual;Gasolina;9,3;IT;213;€ 62.900
+BMW 118;25.708 km;may-19;100 kW (136 CV);Automático;Gasolina;5,9;ES;134;€ 22.900
+BMW 318;23.200 km;may-19;110 kW (150 CV);Automático;Diésel;4,3;ES;113;€ 31.200
+BMW X5;100 km;ago-20;195 kW (265 CV);Automático;Diésel;6 l/;ES;158;€ 72.500
+BMW 730;100 km;ago-20;195 kW (265 CV);Automático;Diésel;5,3;ES;138;€ 107.000
+BMW X2;12.000 km;ene-19;110 kW (150 CV);Automático;Diésel;4,5;ES;119;€ 36.200
+BMW M2;3.400 km;jun-19;272 kW (370 CV);Automático;Gasolina;8,5;ES;199;€ 58.700
+BMW 330;5.359 km;mar-19;190 kW (258 CV);Automático;Gasolina;5,8;ES;132;€ 48.500
+BMW 118;6.043 km;sep-19;100 kW (136 CV);Automático;Gasolina;5,6;ES;-/- ;€ 22.900
+BMW 225;21.732 km;sep-19;100 kW (136 CV);Automático;Electro/Gasolina;-/- ;BE;42 g;€ 30.900
+BMW M8;8.002 km;oct-19;441 kW (600 CV);Automático;Gasolina;-/- ;BE;242;€ 139.700
+BMW X4 M;6.000 km;ago-20;353 kW (480 CV);Automático;Gasolina;-/- ;BE;239;€ 79.900
+BMW X2;10.000 km;ago-19;141 kW (192 CV);Automático;Gasolina;6,2;Unknown;142;€ 38.700
+BMW 320;10 km;feb-20;140 kW (190 CV);Automático;Diésel;4,6;Unknown;119;€ 44.000
+BMW X2;12.000 km;jul-19;110 kW (150 CV);Automático;Diésel;4,5;ES;119;€ 32.900
+BMW M2;13.000 km;sep-19;302 kW (411 CV);Automático;Gasolina;10 l;ES;227;€ 68.300
+BMW 118;26.086 km;may-19;100 kW (136 CV);Automático;Gasolina;5,9;ES;134;€ 22.900
+BMW 320;6.755 km;jun-19;140 kW (190 CV);Automático;Diésel;4 l/;ES;106;€ 31.900
+BMW 118;16.165 km;may-19;110 kW (150 CV);Automático;Diésel;4,4;ES;115;€ 23.500
+BMW X7;29.000 km;may-19;195 kW (265 CV);Automático;Diésel;6,5;ES;171;€ 96.900
+BMW M4;10.000 km;mar-19;331 kW (450 CV);Manual;Gasolina;9,3;IT;213;€ 62.900
+BMW 118;25.708 km;may-19;100 kW (136 CV);Automático;Gasolina;5,9;ES;134;€ 22.900
+BMW 318;23.200 km;may-19;110 kW (150 CV);Automático;Diésel;4,3;ES;113;€ 31.200
+BMW X5;100 km;ago-20;195 kW (265 CV);Automático;Diésel;6 l/;ES;158;€ 72.500
+BMW 730;100 km;ago-20;195 kW (265 CV);Automático;Diésel;5,3;ES;138;€ 107.000
+BMW X2;12.000 km;ene-19;110 kW (150 CV);Automático;Diésel;4,5;ES;119;€ 36.200
+BMW M2;3.400 km;jun-19;272 kW (370 CV);Automático;Gasolina;8,5;ES;199;€ 58.700
+BMW 330;5.359 km;mar-19;190 kW (258 CV);Automático;Gasolina;5,8;ES;132;€ 48.500
+BMW 118;6.043 km;sep-19;100 kW (136 CV);Automático;Gasolina;5,6;ES;-/- ;€ 22.900
+BMW 225;21.732 km;sep-19;100 kW (136 CV);Automático;Electro/Gasolina;-/- ;BE;42 g;€ 30.900
+BMW M8;8.002 km;oct-19;441 kW (600 CV);Automático;Gasolina;-/- ;BE;242;€ 139.700
+BMW X4 M;6.000 km;ago-20;353 kW (480 CV);Automático;Gasolina;-/- ;BE;239;€ 79.900
+BMW X2;10.000 km;ago-19;141 kW (192 CV);Automático;Gasolina;6,2;Unknown;142;€ 38.700
+BMW 320;10 km;feb-20;140 kW (190 CV);Automático;Diésel;4,6;Unknown;119;€ 44.000
+BMW X2;12.000 km;jul-19;110 kW (150 CV);Automático;Diésel;4,5;ES;119;€ 32.900
+BMW M2;13.000 km;sep-19;302 kW (411 CV);Automático;Gasolina;10 l;ES;227;€ 68.300
+BMW 118;26.086 km;may-19;100 kW (136 CV);Automático;Gasolina;5,9;ES;134;€ 22.900
+BMW 320;6.755 km;jun-19;140 kW (190 CV);Automático;Diésel;4 l/;ES;106;€ 31.900
+BMW 118;16.165 km;may-19;110 kW (150 CV);Automático;Diésel;4,4;ES;115;€ 23.500
+BMW X7;29.000 km;may-19;195 kW (265 CV);Automático;Diésel;6,5;ES;171;€ 96.900
+BMW M4;10.000 km;mar-19;331 kW (450 CV);Manual;Gasolina;9,3;IT;213;€ 62.900
+BMW 118;25.708 km;may-19;100 kW (136 CV);Automático;Gasolina;5,9;ES;134;€ 22.900
+BMW 318;23.200 km;may-19;110 kW (150 CV);Automático;Diésel;4,3;ES;113;€ 31.200
+BMW X5;100 km;ago-20;195 kW (265 CV);Automático;Diésel;6 l/;ES;158;€ 72.500
+BMW 730;100 km;ago-20;195 kW (265 CV);Automático;Diésel;5,3;ES;138;€ 107.000
+BMW X2;12.000 km;ene-19;110 kW (150 CV);Automático;Diésel;4,5;ES;119;€ 36.200
+BMW M2;3.400 km;jun-19;272 kW (370 CV);Automático;Gasolina;8,5;ES;199;€ 58.700
+BMW 330;5.359 km;mar-19;190 kW (258 CV);Automático;Gasolina;5,8;ES;132;€ 48.500
+BMW 118;6.043 km;sep-19;100 kW (136 CV);Automático;Gasolina;5,6;ES;-/- ;€ 22.900
+BMW 225;21.732 km;sep-19;100 kW (136 CV);Automático;Electro/Gasolina;-/- ;BE;42 g;€ 30.900
+BMW M8;8.002 km;oct-19;441 kW (600 CV);Automático;Gasolina;-/- ;BE;242;€ 139.700
+BMW X4 M;6.000 km;ago-20;353 kW (480 CV);Automático;Gasolina;-/- ;BE;239;€ 79.900
+BMW X2;10.000 km;ago-19;141 kW (192 CV);Automático;Gasolina;6,2;Unknown;142;€ 38.700
+BMW 320;10 km;feb-20;140 kW (190 CV);Automático;Diésel;4,6;Unknown;119;€ 44.000
+BMW X2;12.000 km;jul-19;110 kW (150 CV);Automático;Diésel;4,5;ES;119;€ 32.900
+BMW M2;13.000 km;sep-19;302 kW (411 CV);Automático;Gasolina;10 l;ES;227;€ 68.300
+BMW 118;26.086 km;may-19;100 kW (136 CV);Automático;Gasolina;5,9;ES;134;€ 22.900
+BMW 320;6.755 km;jun-19;140 kW (190 CV);Automático;Diésel;4 l/;ES;106;€ 31.900
+BMW 118;16.165 km;may-19;110 kW (150 CV);Automático;Diésel;4,4;ES;115;€ 23.500
+BMW X7;29.000 km;may-19;195 kW (265 CV);Automático;Diésel;6,5;ES;171;€ 96.900
+BMW M4;10.000 km;mar-19;331 kW (450 CV);Manual;Gasolina;9,3;IT;213;€ 62.900
+BMW 118;25.708 km;may-19;100 kW (136 CV);Automático;Gasolina;5,9;ES;134;€ 22.900
+BMW 318;23.200 km;may-19;110 kW (150 CV);Automático;Diésel;4,3;ES;113;€ 31.200
+BMW X5;100 km;ago-20;195 kW (265 CV);Automático;Diésel;6 l/;ES;158;€ 72.500
+BMW 730;100 km;ago-20;195 kW (265 CV);Automático;Diésel;5,3;ES;138;€ 107.000
+BMW X2;12.000 km;ene-19;110 kW (150 CV);Automático;Diésel;4,5;ES;119;€ 36.200
+BMW M2;3.400 km;jun-19;272 kW (370 CV);Automático;Gasolina;8,5;ES;199;€ 58.700
+BMW 330;5.359 km;mar-19;190 kW (258 CV);Automático;Gasolina;5,8;ES;132;€ 48.500
+BMW 118;6.043 km;sep-19;100 kW (136 CV);Automático;Gasolina;5,6;ES;-/- ;€ 22.900
+BMW 225;21.732 km;sep-19;100 kW (136 CV);Automático;Electro/Gasolina;-/- ;BE;42 g;€ 30.900
+BMW M8;8.002 km;oct-19;441 kW (600 CV);Automático;Gasolina;-/- ;BE;242;€ 139.700
+BMW X4 M;6.000 km;ago-20;353 kW (480 CV);Automático;Gasolina;-/- ;BE;239;€ 79.900
+BMW X2;10.000 km;ago-19;141 kW (192 CV);Automático;Gasolina;6,2;Unknown;142;€ 38.700
+BMW 320;10 km;feb-20;140 kW (190 CV);Automático;Diésel;4,6;Unknown;119;€ 44.000
+BMW X2;12.000 km;jul-19;110 kW (150 CV);Automático;Diésel;4,5;ES;119;€ 32.900
+BMW M2;13.000 km;sep-19;302 kW (411 CV);Automático;Gasolina;10 l;ES;227;€ 68.300
+BMW 118;26.086 km;may-19;100 kW (136 CV);Automático;Gasolina;5,9;ES;134;€ 22.900
+BMW 320;6.755 km;jun-19;140 kW (190 CV);Automático;Diésel;4 l/;ES;106;€ 31.900
+BMW 118;16.165 km;may-19;110 kW (150 CV);Automático;Diésel;4,4;ES;115;€ 23.500
+BMW X7;29.000 km;may-19;195 kW (265 CV);Automático;Diésel;6,5;ES;171;€ 96.900
+BMW M4;10.000 km;mar-19;331 kW (450 CV);Manual;Gasolina;9,3;IT;213;€ 62.900
+BMW 118;25.708 km;may-19;100 kW (136 CV);Automático;Gasolina;5,9;ES;134;€ 22.900
+BMW 318;23.200 km;may-19;110 kW (150 CV);Automático;Diésel;4,3;ES;113;€ 31.200
+BMW X5;100 km;ago-20;195 kW (265 CV);Automático;Diésel;6 l/;ES;158;€ 72.500
+BMW 730;100 km;ago-20;195 kW (265 CV);Automático;Diésel;5,3;ES;138;€ 107.000
+BMW X2;12.000 km;ene-19;110 kW (150 CV);Automático;Diésel;4,5;ES;119;€ 36.200
+BMW M2;3.400 km;jun-19;272 kW (370 CV);Automático;Gasolina;8,5;ES;199;€ 58.700
+BMW 330;5.359 km;mar-19;190 kW (258 CV);Automático;Gasolina;5,8;ES;132;€ 48.500
+BMW 118;6.043 km;sep-19;100 kW (136 CV);Automático;Gasolina;5,6;ES;-/- ;€ 22.900
+BMW 225;21.732 km;sep-19;100 kW (136 CV);Automático;Electro/Gasolina;-/- ;BE;42 g;€ 30.900
+BMW M8;8.002 km;oct-19;441 kW (600 CV);Automático;Gasolina;-/- ;BE;242;€ 139.700
+BMW X4 M;6.000 km;ago-20;353 kW (480 CV);Automático;Gasolina;-/- ;BE;239;€ 79.900
+BMW X2;10.000 km;ago-19;141 kW (192 CV);Automático;Gasolina;6,2;Unknown;142;€ 38.700
+BMW 320;10 km;feb-20;140 kW (190 CV);Automático;Diésel;4,6;Unknown;119;€ 44.000
+BMW X2;12.000 km;jul-19;110 kW (150 CV);Automático;Diésel;4,5;ES;119;€ 32.900
+BMW M2;13.000 km;sep-19;302 kW (411 CV);Automático;Gasolina;10 l;ES;227;€ 68.300
+BMW 118;26.086 km;may-19;100 kW (136 CV);Automático;Gasolina;5,9;ES;134;€ 22.900
+BMW 320;6.755 km;jun-19;140 kW (190 CV);Automático;Diésel;4 l/;ES;106;€ 31.900
+BMW 118;16.165 km;may-19;110 kW (150 CV);Automático;Diésel;4,4;ES;115;€ 23.500
+BMW X7;29.000 km;may-19;195 kW (265 CV);Automático;Diésel;6,5;ES;171;€ 96.900
+BMW M4;10.000 km;mar-19;331 kW (450 CV);Manual;Gasolina;9,3;IT;213;€ 62.900
+BMW 118;25.708 km;may-19;100 kW (136 CV);Automático;Gasolina;5,9;ES;134;€ 22.900
+BMW 318;23.200 km;may-19;110 kW (150 CV);Automático;Diésel;4,3;ES;113;€ 31.200
+BMW X5;100 km;ago-20;195 kW (265 CV);Automático;Diésel;6 l/;ES;158;€ 72.500
+BMW 730;100 km;ago-20;195 kW (265 CV);Automático;Diésel;5,3;ES;138;€ 107.000
+BMW X2;12.000 km;ene-19;110 kW (150 CV);Automático;Diésel;4,5;ES;119;€ 36.200
+BMW M2;3.400 km;jun-19;272 kW (370 CV);Automático;Gasolina;8,5;ES;199;€ 58.700
+BMW 330;5.359 km;mar-19;190 kW (258 CV);Automático;Gasolina;5,8;ES;132;€ 48.500
+BMW 118;6.043 km;sep-19;100 kW (136 CV);Automático;Gasolina;5,6;ES;-/- ;€ 22.900
+BMW 225;21.732 km;sep-19;100 kW (136 CV);Automático;Electro/Gasolina;-/- ;BE;42 g;€ 30.900
+BMW M8;8.002 km;oct-19;441 kW (600 CV);Automático;Gasolina;-/- ;BE;242;€ 139.700
+BMW X4 M;6.000 km;ago-20;353 kW (480 CV);Automático;Gasolina;-/- ;BE;239;€ 79.900
+BMW X2;10.000 km;ago-19;141 kW (192 CV);Automático;Gasolina;6,2;Unknown;142;€ 38.700
+BMW 320;10 km;feb-20;140 kW (190 CV);Automático;Diésel;4,6;Unknown;119;€ 44.000
+BMW X2;12.000 km;jul-19;110 kW (150 CV);Automático;Diésel;4,5;ES;119;€ 32.900
+BMW M2;13.000 km;sep-19;302 kW (411 CV);Automático;Gasolina;10 l;ES;227;€ 68.300
+BMW 118;26.086 km;may-19;100 kW (136 CV);Automático;Gasolina;5,9;ES;134;€ 22.900
+BMW 320;6.755 km;jun-19;140 kW (190 CV);Automático;Diésel;4 l/;ES;106;€ 31.900
+BMW 118;16.165 km;may-19;110 kW (150 CV);Automático;Diésel;4,4;ES;115;€ 23.500
+BMW X7;29.000 km;may-19;195 kW (265 CV);Automático;Diésel;6,5;ES;171;€ 96.900
+BMW M4;10.000 km;mar-19;331 kW (450 CV);Manual;Gasolina;9,3;IT;213;€ 62.900
+BMW 118;25.708 km;may-19;100 kW (136 CV);Automático;Gasolina;5,9;ES;134;€ 22.900
+BMW 318;23.200 km;may-19;110 kW (150 CV);Automático;Diésel;4,3;ES;113;€ 31.200
+BMW X5;100 km;ago-20;195 kW (265 CV);Automático;Diésel;6 l/;ES;158;€ 72.500
+BMW 730;100 km;ago-20;195 kW (265 CV);Automático;Diésel;5,3;ES;138;€ 107.000
+BMW X2;12.000 km;ene-19;110 kW (150 CV);Automático;Diésel;4,5;ES;119;€ 36.200
+BMW M2;3.400 km;jun-19;272 kW (370 CV);Automático;Gasolina;8,5;ES;199;€ 58.700
+BMW 330;5.359 km;mar-19;190 kW (258 CV);Automático;Gasolina;5,8;ES;132;€ 48.500
+BMW 118;6.043 km;sep-19;100 kW (136 CV);Automático;Gasolina;5,6;ES;-/- ;€ 22.900
+BMW 225;21.732 km;sep-19;100 kW (136 CV);Automático;Electro/Gasolina;-/- ;BE;42 g;€ 30.900
+BMW M8;8.002 km;oct-19;441 kW (600 CV);Automático;Gasolina;-/- ;BE;242;€ 139.700
+BMW X4 M;6.000 km;ago-20;353 kW (480 CV);Automático;Gasolina;-/- ;BE;239;€ 79.900
+BMW X2;10.000 km;ago-19;141 kW (192 CV);Automático;Gasolina;6,2;Unknown;142;€ 38.700
+BMW 320;10 km;feb-20;140 kW (190 CV);Automático;Diésel;4,6;Unknown;119;€ 44.000
+BMW X2;12.000 km;jul-19;110 kW (150 CV);Automático;Diésel;4,5;ES;119;€ 32.900
+BMW M2;13.000 km;sep-19;302 kW (411 CV);Automático;Gasolina;10 l;ES;227;€ 68.300
+BMW 118;26.086 km;may-19;100 kW (136 CV);Automático;Gasolina;5,9;ES;134;€ 22.900
+BMW 320;6.755 km;jun-19;140 kW (190 CV);Automático;Diésel;4 l/;ES;106;€ 31.900
+BMW 118;16.165 km;may-19;110 kW (150 CV);Automático;Diésel;4,4;ES;115;€ 23.500
+BMW X7;29.000 km;may-19;195 kW (265 CV);Automático;Diésel;6,5;ES;171;€ 96.900
+BMW M4;10.000 km;mar-19;331 kW (450 CV);Manual;Gasolina;9,3;IT;213;€ 62.900
+BMW 118;25.708 km;may-19;100 kW (136 CV);Automático;Gasolina;5,9;ES;134;€ 22.900
+BMW 318;23.200 km;may-19;110 kW (150 CV);Automático;Diésel;4,3;ES;113;€ 31.200
+BMW X5;100 km;ago-20;195 kW (265 CV);Automático;Diésel;6 l/;ES;158;€ 72.500
+BMW 730;100 km;ago-20;195 kW (265 CV);Automático;Diésel;5,3;ES;138;€ 107.000
+BMW X2;12.000 km;ene-19;110 kW (150 CV);Automático;Diésel;4,5;ES;119;€ 36.200
+BMW M2;3.400 km;jun-19;272 kW (370 CV);Automático;Gasolina;8,5;ES;199;€ 58.700
+BMW 330;5.359 km;mar-19;190 kW (258 CV);Automático;Gasolina;5,8;ES;132;€ 48.500
+BMW 118;6.043 km;sep-19;100 kW (136 CV);Automático;Gasolina;5,6;ES;-/- ;€ 22.900
+BMW 225;21.732 km;sep-19;100 kW (136 CV);Automático;Electro/Gasolina;-/- ;BE;42 g;€ 30.900
+BMW M8;8.002 km;oct-19;441 kW (600 CV);Automático;Gasolina;-/- ;BE;242;€ 139.700
+BMW X4 M;6.000 km;ago-20;353 kW (480 CV);Automático;Gasolina;-/- ;BE;239;€ 79.900
+BMW X2;10.000 km;ago-19;141 kW (192 CV);Automático;Gasolina;6,2;Unknown;142;€ 38.700
+BMW 320;10 km;feb-20;140 kW (190 CV);Automático;Diésel;4,6;Unknown;119;€ 44.000
+BMW X2;12.000 km;jul-19;110 kW (150 CV);Automático;Diésel;4,5;ES;119;€ 32.900
+BMW M2;13.000 km;sep-19;302 kW (411 CV);Automático;Gasolina;10 l;ES;227;€ 68.300
+BMW 118;26.086 km;may-19;100 kW (136 CV);Automático;Gasolina;5,9;ES;134;€ 22.900
+BMW 320;6.755 km;jun-19;140 kW (190 CV);Automático;Diésel;4 l/;ES;106;€ 31.900
+BMW 118;16.165 km;may-19;110 kW (150 CV);Automático;Diésel;4,4;ES;115;€ 23.500
+BMW X7;29.000 km;may-19;195 kW (265 CV);Automático;Diésel;6,5;ES;171;€ 96.900
+BMW M4;10.000 km;mar-19;331 kW (450 CV);Manual;Gasolina;9,3;IT;213;€ 62.900
+BMW 118;25.708 km;may-19;100 kW (136 CV);Automático;Gasolina;5,9;ES;134;€ 22.900
+BMW 318;23.200 km;may-19;110 kW (150 CV);Automático;Diésel;4,3;ES;113;€ 31.200
+BMW X5;100 km;ago-20;195 kW (265 CV);Automático;Diésel;6 l/;ES;158;€ 72.500
+BMW 730;100 km;ago-20;195 kW (265 CV);Automático;Diésel;5,3;ES;138;€ 107.000
+BMW X2;12.000 km;ene-19;110 kW (150 CV);Automático;Diésel;4,5;ES;119;€ 36.200
+BMW M2;3.400 km;jun-19;272 kW (370 CV);Automático;Gasolina;8,5;ES;199;€ 58.700
+BMW 330;5.359 km;mar-19;190 kW (258 CV);Automático;Gasolina;5,8;ES;132;€ 48.500
+BMW 118;6.043 km;sep-19;100 kW (136 CV);Automático;Gasolina;5,6;ES;-/- ;€ 22.900
+BMW 225;21.732 km;sep-19;100 kW (136 CV);Automático;Electro/Gasolina;-/- ;BE;42 g;€ 30.900
+BMW M8;8.002 km;oct-19;441 kW (600 CV);Automático;Gasolina;-/- ;BE;242;€ 139.700
+BMW X4 M;6.000 km;ago-20;353 kW (480 CV);Automático;Gasolina;-/- ;BE;239;€ 79.900
+BMW X2;10.000 km;ago-19;141 kW (192 CV);Automático;Gasolina;6,2;Unknown;142;€ 38.700
+BMW 320;10 km;feb-20;140 kW (190 CV);Automático;Diésel;4,6;Unknown;119;€ 44.000
+BMW X2;12.000 km;jul-19;110 kW (150 CV);Automático;Diésel;4,5;ES;119;€ 32.900
+BMW M2;13.000 km;sep-19;302 kW (411 CV);Automático;Gasolina;10 l;ES;227;€ 68.300
+BMW 118;26.086 km;may-19;100 kW (136 CV);Automático;Gasolina;5,9;ES;134;€ 22.900
+BMW 320;6.755 km;jun-19;140 kW (190 CV);Automático;Diésel;4 l/;ES;106;€ 31.900
+BMW 118;16.165 km;may-19;110 kW (150 CV);Automático;Diésel;4,4;ES;115;€ 23.500
+BMW X7;29.000 km;may-19;195 kW (265 CV);Automático;Diésel;6,5;ES;171;€ 96.900
+BMW M4;10.000 km;mar-19;331 kW (450 CV);Manual;Gasolina;9,3;IT;213;€ 62.900
+BMW 118;25.708 km;may-19;100 kW (136 CV);Automático;Gasolina;5,9;ES;134;€ 22.900
+BMW 318;23.200 km;may-19;110 kW (150 CV);Automático;Diésel;4,3;ES;113;€ 31.200
+BMW X5;100 km;ago-20;195 kW (265 CV);Automático;Diésel;6 l/;ES;158;€ 72.500
+BMW 730;100 km;ago-20;195 kW (265 CV);Automático;Diésel;5,3;ES;138;€ 107.000
+BMW X2;12.000 km;ene-19;110 kW (150 CV);Automático;Diésel;4,5;ES;119;€ 36.200
+BMW M2;3.400 km;jun-19;272 kW (370 CV);Automático;Gasolina;8,5;ES;199;€ 58.700
+BMW 330;5.359 km;mar-19;190 kW (258 CV);Automático;Gasolina;5,8;ES;132;€ 48.500
+BMW 118;6.043 km;sep-19;100 kW (136 CV);Automático;Gasolina;5,6;ES;-/- ;€ 22.900
+BMW 225;21.732 km;sep-19;100 kW (136 CV);Automático;Electro/Gasolina;-/- ;BE;42 g;€ 30.900
+BMW M8;8.002 km;oct-19;441 kW (600 CV);Automático;Gasolina;-/- ;BE;242;€ 139.700
+BMW X4 M;6.000 km;ago-20;353 kW (480 CV);Automático;Gasolina;-/- ;BE;239;€ 79.900
+BMW X2;10.000 km;ago-19;141 kW (192 CV);Automático;Gasolina;6,2;Unknown;142;€ 38.700
+BMW 320;10 km;feb-20;140 kW (190 CV);Automático;Diésel;4,6;Unknown;119;€ 44.000
+BMW X2;12.000 km;jul-19;110 kW (150 CV);Automático;Diésel;4,5;ES;119;€ 32.900
+BMW M2;13.000 km;sep-19;302 kW (411 CV);Automático;Gasolina;10 l;ES;227;€ 68.300
+BMW 118;26.086 km;may-19;100 kW (136 CV);Automático;Gasolina;5,9;ES;134;€ 22.900
+BMW 320;6.755 km;jun-19;140 kW (190 CV);Automático;Diésel;4 l/;ES;106;€ 31.900
+BMW 118;16.165 km;may-19;110 kW (150 CV);Automático;Diésel;4,4;ES;115;€ 23.500
+BMW X7;29.000 km;may-19;195 kW (265 CV);Automático;Diésel;6,5;ES;171;€ 96.900
+BMW M4;10.000 km;mar-19;331 kW (450 CV);Manual;Gasolina;9,3;IT;213;€ 62.900
+BMW 118;25.708 km;may-19;100 kW (136 CV);Automático;Gasolina;5,9;ES;134;€ 22.900
+BMW 318;23.200 km;may-19;110 kW (150 CV);Automático;Diésel;4,3;ES;113;€ 31.200
+BMW X5;100 km;ago-20;195 kW (265 CV);Automático;Diésel;6 l/;ES;158;€ 72.500
+BMW 730;100 km;ago-20;195 kW (265 CV);Automático;Diésel;5,3;ES;138;€ 107.000
+BMW X2;12.000 km;ene-19;110 kW (150 CV);Automático;Diésel;4,5;ES;119;€ 36.200
+BMW M2;3.400 km;jun-19;272 kW (370 CV);Automático;Gasolina;8,5;ES;199;€ 58.700
+BMW 330;5.359 km;mar-19;190 kW (258 CV);Automático;Gasolina;5,8;ES;132;€ 48.500
+BMW 118;6.043 km;sep-19;100 kW (136 CV);Automático;Gasolina;5,6;ES;-/- ;€ 22.900
+BMW 225;21.732 km;sep-19;100 kW (136 CV);Automático;Electro/Gasolina;-/- ;BE;42 g;€ 30.900
+BMW M8;8.002 km;oct-19;441 kW (600 CV);Automático;Gasolina;-/- ;BE;242;€ 139.700
+BMW X4 M;6.000 km;ago-20;353 kW (480 CV);Automático;Gasolina;-/- ;BE;239;€ 79.900
+BMW X2;10.000 km;ago-19;141 kW (192 CV);Automático;Gasolina;6,2;Unknown;142;€ 38.700
+BMW 320;10 km;feb-20;140 kW (190 CV);Automático;Diésel;4,6;Unknown;119;€ 44.000
+BMW X2;12.000 km;jul-19;110 kW (150 CV);Automático;Diésel;4,5;ES;119;€ 32.900
+BMW M2;13.000 km;sep-19;302 kW (411 CV);Automático;Gasolina;10 l;ES;227;€ 68.300
+BMW 118;26.086 km;may-19;100 kW (136 CV);Automático;Gasolina;5,9;ES;134;€ 22.900
+BMW 320;6.755 km;jun-19;140 kW (190 CV);Automático;Diésel;4 l/;ES;106;€ 31.900
+BMW 118;16.165 km;may-19;110 kW (150 CV);Automático;Diésel;4,4;ES;115;€ 23.500
+BMW X7;29.000 km;may-19;195 kW (265 CV);Automático;Diésel;6,5;ES;171;€ 96.900
+BMW M4;10.000 km;mar-19;331 kW (450 CV);Manual;Gasolina;9,3;IT;213;€ 62.900
+BMW 118;25.708 km;may-19;100 kW (136 CV);Automático;Gasolina;5,9;ES;134;€ 22.900
+BMW 318;23.200 km;may-19;110 kW (150 CV);Automático;Diésel;4,3;ES;113;€ 31.200
+BMW X5;100 km;ago-20;195 kW (265 CV);Automático;Diésel;6 l/;ES;158;€ 72.500
+BMW 730;100 km;ago-20;195 kW (265 CV);Automático;Diésel;5,3;ES;138;€ 107.000
+BMW X2;12.000 km;ene-19;110 kW (150 CV);Automático;Diésel;4,5;ES;119;€ 36.200
+BMW M2;3.400 km;jun-19;272 kW (370 CV);Automático;Gasolina;8,5;ES;199;€ 58.700
+BMW 330;5.359 km;mar-19;190 kW (258 CV);Automático;Gasolina;5,8;ES;132;€ 48.500
+BMW 118;6.043 km;sep-19;100 kW (136 CV);Automático;Gasolina;5,6;ES;-/- ;€ 22.900
+BMW 225;21.732 km;sep-19;100 kW (136 CV);Automático;Electro/Gasolina;-/- ;BE;42 g;€ 30.900
+BMW M8;8.002 km;oct-19;441 kW (600 CV);Automático;Gasolina;-/- ;BE;242;€ 139.700
+BMW X4 M;6.000 km;ago-20;353 kW (480 CV);Automático;Gasolina;-/- ;BE;239;€ 79.900
+BMW X2;10.000 km;ago-19;141 kW (192 CV);Automático;Gasolina;6,2;Unknown;142;€ 38.700
+BMW 320;10 km;feb-20;140 kW (190 CV);Automático;Diésel;4,6;Unknown;119;€ 44.000
+BMW X2;12.000 km;jul-19;110 kW (150 CV);Automático;Diésel;4,5;ES;119;€ 32.900
+BMW M2;13.000 km;sep-19;302 kW (411 CV);Automático;Gasolina;10 l;ES;227;€ 68.300
+BMW 118;26.086 km;may-19;100 kW (136 CV);Automático;Gasolina;5,9;ES;134;€ 22.900
+BMW 320;6.755 km;jun-19;140 kW (190 CV);Automático;Diésel;4 l/;ES;106;€ 31.900
+BMW 118;16.165 km;may-19;110 kW (150 CV);Automático;Diésel;4,4;ES;115;€ 23.500
+BMW X7;29.000 km;may-19;195 kW (265 CV);Automático;Diésel;6,5;ES;171;€ 96.900
+BMW M4;10.000 km;mar-19;331 kW (450 CV);Manual;Gasolina;9,3;IT;213;€ 62.900
+BMW 118;25.708 km;may-19;100 kW (136 CV);Automático;Gasolina;5,9;ES;134;€ 22.900
+BMW 318;23.200 km;may-19;110 kW (150 CV);Automático;Diésel;4,3;ES;113;€ 31.200
+BMW X5;100 km;ago-20;195 kW (265 CV);Automático;Diésel;6 l/;ES;158;€ 72.500
+BMW 730;100 km;ago-20;195 kW (265 CV);Automático;Diésel;5,3;ES;138;€ 107.000
+BMW X2;12.000 km;ene-19;110 kW (150 CV);Automático;Diésel;4,5;ES;119;€ 36.200
+BMW M2;3.400 km;jun-19;272 kW (370 CV);Automático;Gasolina;8,5;ES;199;€ 58.700
+BMW 330;5.359 km;mar-19;190 kW (258 CV);Automático;Gasolina;5,8;ES;132;€ 48.500
+BMW 118;6.043 km;sep-19;100 kW (136 CV);Automático;Gasolina;5,6;ES;-/- ;€ 22.900
+BMW 225;21.732 km;sep-19;100 kW (136 CV);Automático;Electro/Gasolina;-/- ;BE;42 g;€ 30.900
+BMW M8;8.002 km;oct-19;441 kW (600 CV);Automático;Gasolina;-/- ;BE;242;€ 139.700
+BMW X4 M;6.000 km;ago-20;353 kW (480 CV);Automático;Gasolina;-/- ;BE;239;€ 79.900
+BMW X2;10.000 km;ago-19;141 kW (192 CV);Automático;Gasolina;6,2;Unknown;142;€ 38.700
+BMW 320;10 km;feb-20;140 kW (190 CV);Automático;Diésel;4,6;Unknown;119;€ 44.000
+BMW X2;12.000 km;jul-19;110 kW (150 CV);Automático;Diésel;4,5;ES;119;€ 32.900
+BMW M2;13.000 km;sep-19;302 kW (411 CV);Automático;Gasolina;10 l;ES;227;€ 68.300
+BMW 118;26.086 km;may-19;100 kW (136 CV);Automático;Gasolina;5,9;ES;134;€ 22.900
+BMW 320;6.755 km;jun-19;140 kW (190 CV);Automático;Diésel;4 l/;ES;106;€ 31.900
+BMW 118;16.165 km;may-19;110 kW (150 CV);Automático;Diésel;4,4;ES;115;€ 23.500
+BMW X7;29.000 km;may-19;195 kW (265 CV);Automático;Diésel;6,5;ES;171;€ 96.900
+BMW M4;10.000 km;mar-19;331 kW (450 CV);Manual;Gasolina;9,3;IT;213;€ 62.900
+BMW 118;25.708 km;may-19;100 kW (136 CV);Automático;Gasolina;5,9;ES;134;€ 22.900
+BMW 318;23.200 km;may-19;110 kW (150 CV);Automático;Diésel;4,3;ES;113;€ 31.200
+BMW X5;100 km;ago-20;195 kW (265 CV);Automático;Diésel;6 l/;ES;158;€ 72.500
+BMW 730;100 km;ago-20;195 kW (265 CV);Automático;Diésel;5,3;ES;138;€ 107.000
+BMW X2;12.000 km;ene-19;110 kW (150 CV);Automático;Diésel;4,5;ES;119;€ 36.200
+BMW M2;3.400 km;jun-19;272 kW (370 CV);Automático;Gasolina;8,5;ES;199;€ 58.700
+BMW 330;5.359 km;mar-19;190 kW (258 CV);Automático;Gasolina;5,8;ES;132;€ 48.500
+BMW 118;6.043 km;sep-19;100 kW (136 CV);Automático;Gasolina;5,6;ES;-/- ;€ 22.900
+BMW 225;21.732 km;sep-19;100 kW (136 CV);Automático;Electro/Gasolina;-/- ;BE;42 g;€ 30.900
+BMW M8;8.002 km;oct-19;441 kW (600 CV);Automático;Gasolina;-/- ;BE;242;€ 139.700
+BMW X4 M;6.000 km;ago-20;353 kW (480 CV);Automático;Gasolina;-/- ;BE;239;€ 79.900
+BMW X2;10.000 km;ago-19;141 kW (192 CV);Automático;Gasolina;6,2;Unknown;142;€ 38.700
+BMW 320;10 km;feb-20;140 kW (190 CV);Automático;Diésel;4,6;Unknown;119;€ 44.000
+BMW X2;12.000 km;jul-19;110 kW (150 CV);Automático;Diésel;4,5;ES;119;€ 32.900
+BMW M2;13.000 km;sep-19;302 kW (411 CV);Automático;Gasolina;10 l;ES;227;€ 68.300
+BMW 118;26.086 km;may-19;100 kW (136 CV);Automático;Gasolina;5,9;ES;134;€ 22.900
+BMW 320;6.755 km;jun-19;140 kW (190 CV);Automático;Diésel;4 l/;ES;106;€ 31.900
+BMW 118;16.165 km;may-19;110 kW (150 CV);Automático;Diésel;4,4;ES;115;€ 23.500
+BMW X7;29.000 km;may-19;195 kW (265 CV);Automático;Diésel;6,5;ES;171;€ 96.900
+BMW M4;10.000 km;mar-19;331 kW (450 CV);Manual;Gasolina;9,3;IT;213;€ 62.900
+BMW 118;25.708 km;may-19;100 kW (136 CV);Automático;Gasolina;5,9;ES;134;€ 22.900
+BMW 318;23.200 km;may-19;110 kW (150 CV);Automático;Diésel;4,3;ES;113;€ 31.200
+BMW X5;100 km;ago-20;195 kW (265 CV);Automático;Diésel;6 l/;ES;158;€ 72.500
+BMW 730;100 km;ago-20;195 kW (265 CV);Automático;Diésel;5,3;ES;138;€ 107.000
+BMW X2;12.000 km;ene-19;110 kW (150 CV);Automático;Diésel;4,5;ES;119;€ 36.200
+BMW M2;3.400 km;jun-19;272 kW (370 CV);Automático;Gasolina;8,5;ES;199;€ 58.700
+BMW 330;5.359 km;mar-19;190 kW (258 CV);Automático;Gasolina;5,8;ES;132;€ 48.500
+BMW 118;6.043 km;sep-19;100 kW (136 CV);Automático;Gasolina;5,6;ES;-/- ;€ 22.900
+BMW 225;21.732 km;sep-19;100 kW (136 CV);Automático;Electro/Gasolina;-/- ;BE;42 g;€ 30.900
+BMW M8;8.002 km;oct-19;441 kW (600 CV);Automático;Gasolina;-/- ;BE;242;€ 139.700
+BMW X4 M;6.000 km;ago-20;353 kW (480 CV);Automático;Gasolina;-/- ;BE;239;€ 79.900
+BMW X2;10.000 km;ago-19;141 kW (192 CV);Automático;Gasolina;6,2;Unknown;142;€ 38.700
+BMW 320;10 km;feb-20;140 kW (190 CV);Automático;Diésel;4,6;Unknown;119;€ 44.000
+BMW X2;12.000 km;jul-19;110 kW (150 CV);Automático;Diésel;4,5;ES;119;€ 32.900
+BMW M2;13.000 km;sep-19;302 kW (411 CV);Automático;Gasolina;10 l;ES;227;€ 68.300
+BMW 118;26.086 km;may-19;100 kW (136 CV);Automático;Gasolina;5,9;ES;134;€ 22.900
+BMW 320;6.755 km;jun-19;140 kW (190 CV);Automático;Diésel;4 l/;ES;106;€ 31.900
+BMW 118;16.165 km;may-19;110 kW (150 CV);Automático;Diésel;4,4;ES;115;€ 23.500
+BMW X7;29.000 km;may-19;195 kW (265 CV);Automático;Diésel;6,5;ES;171;€ 96.900
+BMW M4;10.000 km;mar-19;331 kW (450 CV);Manual;Gasolina;9,3;IT;213;€ 62.900
+BMW 118;25.708 km;may-19;100 kW (136 CV);Automático;Gasolina;5,9;ES;134;€ 22.900
+BMW 318;23.200 km;may-19;110 kW (150 CV);Automático;Diésel;4,3;ES;113;€ 31.200
+BMW X5;100 km;ago-20;195 kW (265 CV);Automático;Diésel;6 l/;ES;158;€ 72.500
+BMW 730;100 km;ago-20;195 kW (265 CV);Automático;Diésel;5,3;ES;138;€ 107.000
+BMW X2;12.000 km;ene-19;110 kW (150 CV);Automático;Diésel;4,5;ES;119;€ 36.200
+BMW M2;3.400 km;jun-19;272 kW (370 CV);Automático;Gasolina;8,5;ES;199;€ 58.700
+BMW 330;5.359 km;mar-19;190 kW (258 CV);Automático;Gasolina;5,8;ES;132;€ 48.500
+BMW 118;6.043 km;sep-19;100 kW (136 CV);Automático;Gasolina;5,6;ES;-/- ;€ 22.900
+BMW 225;21.732 km;sep-19;100 kW (136 CV);Automático;Electro/Gasolina;-/- ;BE;42 g;€ 30.900
+BMW M8;8.002 km;oct-19;441 kW (600 CV);Automático;Gasolina;-/- ;BE;242;€ 139.700
+BMW X4 M;6.000 km;ago-20;353 kW (480 CV);Automático;Gasolina;-/- ;BE;239;€ 79.900
+BMW X2;10.000 km;ago-19;141 kW (192 CV);Automático;Gasolina;6,2;Unknown;142;€ 38.700
+BMW 320;10 km;feb-20;140 kW (190 CV);Automático;Diésel;4,6;Unknown;119;€ 44.000
+BMW X2;12.000 km;jul-19;110 kW (150 CV);Automático;Diésel;4,5;ES;119;€ 32.900
+BMW M2;13.000 km;sep-19;302 kW (411 CV);Automático;Gasolina;10 l;ES;227;€ 68.300
+BMW 118;26.086 km;may-19;100 kW (136 CV);Automático;Gasolina;5,9;ES;134;€ 22.900
+BMW 320;6.755 km;jun-19;140 kW (190 CV);Automático;Diésel;4 l/;ES;106;€ 31.900
+BMW 118;16.165 km;may-19;110 kW (150 CV);Automático;Diésel;4,4;ES;115;€ 23.500
+BMW X7;29.000 km;may-19;195 kW (265 CV);Automático;Diésel;6,5;ES;171;€ 96.900
+BMW M4;10.000 km;mar-19;331 kW (450 CV);Manual;Gasolina;9,3;IT;213;€ 62.900
+BMW 118;25.708 km;may-19;100 kW (136 CV);Automático;Gasolina;5,9;ES;134;€ 22.900
+BMW 318;23.200 km;may-19;110 kW (150 CV);Automático;Diésel;4,3;ES;113;€ 31.200
+BMW X5;100 km;ago-20;195 kW (265 CV);Automático;Diésel;6 l/;ES;158;€ 72.500
+BMW 730;100 km;ago-20;195 kW (265 CV);Automático;Diésel;5,3;ES;138;€ 107.000
+BMW X2;12.000 km;ene-19;110 kW (150 CV);Automático;Diésel;4,5;ES;119;€ 36.200
+BMW M2;3.400 km;jun-19;272 kW (370 CV);Automático;Gasolina;8,5;ES;199;€ 58.700
+BMW 330;5.359 km;mar-19;190 kW (258 CV);Automático;Gasolina;5,8;ES;132;€ 48.500
+BMW 118;6.043 km;sep-19;100 kW (136 CV);Automático;Gasolina;5,6;ES;-/- ;€ 22.900
+BMW 225;21.732 km;sep-19;100 kW (136 CV);Automático;Electro/Gasolina;-/- ;BE;42 g;€ 30.900
+BMW M8;8.002 km;oct-19;441 kW (600 CV);Automático;Gasolina;-/- ;BE;242;€ 139.700
+BMW X4 M;6.000 km;ago-20;353 kW (480 CV);Automático;Gasolina;-/- ;BE;239;€ 79.900
+BMW X2;10.000 km;ago-19;141 kW (192 CV);Automático;Gasolina;6,2;Unknown;142;€ 38.700
+BMW 320;10 km;feb-20;140 kW (190 CV);Automático;Diésel;4,6;Unknown;119;€ 44.000
+BMW X2;12.000 km;jul-19;110 kW (150 CV);Automático;Diésel;4,5;ES;119;€ 32.900
+BMW M2;13.000 km;sep-19;302 kW (411 CV);Automático;Gasolina;10 l;ES;227;€ 68.300
+BMW 118;26.086 km;may-19;100 kW (136 CV);Automático;Gasolina;5,9;ES;134;€ 22.900
+BMW 320;6.755 km;jun-19;140 kW (190 CV);Automático;Diésel;4 l/;ES;106;€ 31.900
+BMW 118;16.165 km;may-19;110 kW (150 CV);Automático;Diésel;4,4;ES;115;€ 23.500
+BMW X7;29.000 km;may-19;195 kW (265 CV);Automático;Diésel;6,5;ES;171;€ 96.900
+BMW M4;10.000 km;mar-19;331 kW (450 CV);Manual;Gasolina;9,3;IT;213;€ 62.900
+BMW 118;25.708 km;may-19;100 kW (136 CV);Automático;Gasolina;5,9;ES;134;€ 22.900
+BMW 318;23.200 km;may-19;110 kW (150 CV);Automático;Diésel;4,3;ES;113;€ 31.200
+BMW X5;100 km;ago-20;195 kW (265 CV);Automático;Diésel;6 l/;ES;158;€ 72.500
+BMW 730;100 km;ago-20;195 kW (265 CV);Automático;Diésel;5,3;ES;138;€ 107.000
+BMW X2;12.000 km;ene-19;110 kW (150 CV);Automático;Diésel;4,5;ES;119;€ 36.200
+BMW M2;3.400 km;jun-19;272 kW (370 CV);Automático;Gasolina;8,5;ES;199;€ 58.700
+BMW 330;5.359 km;mar-19;190 kW (258 CV);Automático;Gasolina;5,8;ES;132;€ 48.500
+BMW 118;6.043 km;sep-19;100 kW (136 CV);Automático;Gasolina;5,6;ES;-/- ;€ 22.900
+BMW 225;21.732 km;sep-19;100 kW (136 CV);Automático;Electro/Gasolina;-/- ;BE;42 g;€ 30.900
+BMW M8;8.002 km;oct-19;441 kW (600 CV);Automático;Gasolina;-/- ;BE;242;€ 139.700
+BMW X4 M;6.000 km;ago-20;353 kW (480 CV);Automático;Gasolina;-/- ;BE;239;€ 79.900
+BMW X2;10.000 km;ago-19;141 kW (192 CV);Automático;Gasolina;6,2;Unknown;142;€ 38.700
+BMW 320;10 km;feb-20;140 kW (190 CV);Automático;Diésel;4,6;Unknown;119;€ 44.000
