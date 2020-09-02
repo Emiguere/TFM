@@ -1,0 +1,359 @@
+vehicle;  km; year; power; transmision; fuel_type; consume; country;emisions;price 
+Land Rover Discovery Sport;119.772 km;abr-15;140 kW (190 CV);Automático;Diésel;6,1;ES;-/- ;€ 23.271
+Land Rover Range Rover Evoque;67.960 km;may-14;110 kW (150 CV);Automático;Diésel;5,7;ES;-/- ;€ 23.224
+Land Rover Discovery;87.154 km;feb-15;155 kW (211 CV);Automático;Diésel;7,8;ES;-/- ;€ 27.850
+Land Rover Discovery Sport;119.772 km;abr-15;140 kW (190 CV);Automático;Diésel;6,1;ES;-/- ;€ 23.271
+Land Rover Discovery Sport;119.772 km;abr-15;140 kW (190 CV);Automático;Diésel;6,1;ES;-/- ;€ 23.271
+Land Rover Discovery Sport;119.772 km;abr-15;140 kW (190 CV);Automático;Diésel;6,1;ES;-/- ;€ 23.271
+Land Rover Discovery Sport;119.772 km;abr-15;140 kW (190 CV);Automático;Diésel;6,1;ES;-/- ;€ 23.271
+Land Rover Discovery Sport;119.772 km;abr-15;140 kW (190 CV);Automático;Diésel;6,1;ES;-/- ;€ 23.271
+Land Rover Discovery Sport;119.772 km;abr-15;140 kW (190 CV);Automático;Diésel;6,1;ES;-/- ;€ 23.271
+Land Rover Discovery Sport;119.772 km;abr-15;140 kW (190 CV);Automático;Diésel;6,1;ES;-/- ;€ 23.271
+Land Rover Discovery;87.154 km;feb-15;155 kW (211 CV);Automático;Diésel;7,8;ES;-/- ;€ 27.850
+Land Rover Discovery;87.154 km;feb-15;155 kW (211 CV);Automático;Diésel;7,8;ES;-/- ;€ 27.850
+Land Rover Discovery Sport;119.772 km;abr-15;140 kW (190 CV);Automático;Diésel;6,1;ES;-/- ;€ 23.271
+Land Rover Range Rover Evoque;67.960 km;may-14;110 kW (150 CV);Automático;Diésel;5,7;ES;-/- ;€ 23.224
+Land Rover Freelander;119.000 km;feb-14;110 kW (150 CV);Manual;Diésel;-/- ;ES;-/- ;€ 14.950
+Land Rover Range Rover;65.000 km;sep-14;190 kW (258 CV);Automático;Diésel;6,9;ES;-/- ;€ 49.900
+Land Rover Range Rover Sport;102.000 km;dic-15;225 kW (306 CV);Automático;Diésel;7 l/;Unknown;185;€ 55.000
+Land Rover Range Rover Evoque;67.960 km;may-14;110 kW (150 CV);Automático;Diésel;5,7;ES;-/- ;€ 23.224
+Land Rover Range Rover Sport;172.000 km;feb-14;250 kW (340 CV);Automático;Diésel;8,4;Unknown;219;€ 44.990
+Land Rover Range Rover Evoque;66.700 km;sep-14;140 kW (190 CV);Automático;Diésel;6 l/;Unknown;159;€ 26.899
+Land Rover Range Rover Evoque;163.000 km;sep-14;110 kW (150 CV);Manual;Diésel;5 l/;ES;-/- ;€ 16.290
+Land Rover Range Rover Evoque;67.960 km;may-14;110 kW (150 CV);Automático;Diésel;5,7;ES;-/- ;€ 23.224
+Land Rover Range Rover Evoque;67.960 km;may-14;110 kW (150 CV);Automático;Diésel;5,7;ES;-/- ;€ 23.224
+Land Rover Range Rover Evoque;67.960 km;may-14;110 kW (150 CV);Automático;Diésel;5,7;ES;-/- ;€ 23.224
+Land Rover Range Rover Evoque;88.000 km;abr-15;140 kW (190 CV);Manual;Diésel;5,7;ES;-/- ;€ 21.490
+Land Rover Discovery Sport;124.000 km;abr-15;110 kW (150 CV);Manual;Diésel;5,7;ES;-/- ;€ 19.490
+Land Rover Range Rover Evoque;36.000 km;mar-15;110 kW (150 CV);Automático;Diésel;6 l/;ES;-/- ;€ 26.900
+Land Rover Range Rover Sport;119.000 km;sep-14;190 kW (258 CV);Automático;Diésel;6,9;ES;-/- ;€ 36.500
+Land Rover Range Rover Evoque;163.000 km;sep-14;110 kW (150 CV);Manual;Diésel;5 l/;ES;-/- ;€ 17.590
+Land Rover Range Rover;123.285 km;jul-14;375 kW (510 CV);Automático;Gasolina;13,1;ES;-/- ;€ 54.990
+Land Rover Discovery Sport;112.000 km;may-15;110 kW (150 CV);Manual;Diésel;5,3;ES;-/- ;€ 21.550
+Land Rover Range Rover Evoque;95.782 km;mar-14;110 kW (150 CV);Automático;Diésel;5 l/;Unknown;133;€ 21.000
+Land Rover Discovery Sport;88.244 km;nov-15;110 kW (150 CV);Manual;Diésel;5,1;ES;-/- ;€ 18.500
+Land Rover Range Rover Evoque;84.500 km;may-15;110 kW (150 CV);Manual;Diésel;5 l/;ES;-/- ;€ 19.900
+Land Rover Range Rover Sport;80.000 km;sep-15;250 kW (340 CV);Automático;Diésel;8,4;ES;-/- ;€ 43.890
+Land Rover Range Rover Evoque;110.700 km;abr-15;110 kW (150 CV);Manual;Diésel;5 l/;ES;-/- ;€ 21.490
+Land Rover Defender;50 km;oct-15;110 kW (150 CV);Manual;Diésel;-/- ;ES;-/- ;€ 109.900
+Land Rover Range Rover Evoque;85.000 km;may-15;140 kW (190 CV);Automático;Diésel;6 l/;ES;-/- ;€ 25.800
+Land Rover Range Rover Sport;129.000 km;ene-15;190 kW (258 CV);Automático;Diésel;6,9;ES;-/- ;€ 34.900
+Land Rover Range Rover Evoque;123.000 km;jun-14;110 kW (150 CV);Automático;Diésel;6,4;ES;-/- ;€ 19.990
+Land Rover Range Rover Evoque;65.809 km;nov-15;132 kW (179 CV);Manual;Diésel;7,5;ES;-/- ;€ 24.500
+Land Rover Range Rover Evoque;135.491 km;feb-15;110 kW (150 CV);Manual;Diésel;5,7;ES;-/- ;€ 21.990
+Land Rover Range Rover Sport;125.000 km;may-15;190 kW (258 CV);Automático;Diésel;7,3;ES;194;€ 36.900
+Land Rover Defender;1.300 km;oct-15;90 kW (122 CV);Automático;Diésel;11,1;ES;295;€ 84.900
+Land Rover Range Rover Evoque;67.000 km;jul-15;110 kW (150 CV);Automático;Diésel;6 l/;ES;-/- ;€ 22.990
+Land Rover Range Rover Evoque;56.000 km;jun-15;140 kW (190 CV);Automático;Diésel;-/- ;ES;-/- ;€ 27.980
+Land Rover Range Rover Sport;105.200 km;may-15;225 kW (306 CV);Automático;Diésel;7 l/;ES;-/- ;€ 39.890
+Land Rover Range Rover;129.000 km;abr-14;375 kW (510 CV);Automático;Gasolina;13,1;ES;298;€ 64.990
+Land Rover Range Rover Evoque;66.000 km;jun-15;177 kW (241 CV);Automático;Gasolina;7,8;Unknown;181;€ 22.000
+Land Rover Range Rover Evoque;96.910 km;may-14;140 kW (190 CV);Automático;Diésel;-/- ;ES;-/- ;€ 21.200
+Land Rover Range Rover Evoque;67.960 km;may-14;110 kW (150 CV);Automático;Diésel;5,7;ES;-/- ;€ 23.224
+Land Rover Discovery Sport;76.488 km;nov-15;140 kW (190 CV);Manual;Diésel;6,1;ES;-/- ;€ 24.599
+Land Rover Range Rover Sport;210.500 km;jul-14;215 kW (292 CV);Automático;Diésel;7,5;ES;-/- ;€ 32.490
+Land Rover Range Rover Evoque;67.960 km;may-14;110 kW (150 CV);Automático;Diésel;5,7;ES;-/- ;€ 23.224
+Land Rover Range Rover Evoque;67.960 km;may-14;110 kW (150 CV);Automático;Diésel;5,7;ES;-/- ;€ 23.224
+Land Rover Range Rover Sport;176.900 km;feb-15;190 kW (258 CV);Automático;Diésel;6,9;ES;-/- ;€ 33.990
+Land Rover Range Rover Evoque;67.960 km;may-14;110 kW (150 CV);Automático;Diésel;5,7;ES;-/- ;€ 23.224
+Land Rover Discovery;87.154 km;feb-15;155 kW (211 CV);Automático;Diésel;7,8;ES;-/- ;€ 27.850
+Land Rover Range Rover Evoque;67.960 km;may-14;110 kW (150 CV);Automático;Diésel;5,7;ES;-/- ;€ 23.224
+Land Rover Discovery Sport;135.000 km;jul-15;132 kW (179 CV);Manual;Diésel;5,1;Unknown;134;€ 23.000
+Land Rover Range Rover Sport;21.071 km;sep-14;190 kW (258 CV);Automático;Diésel;6,9;ES;-/- ;€ 46.990
+Land Rover Discovery;198.382 km;jun-14;188 kW (256 CV);Automático;Diésel;8 l/;ES;-/- ;€ 23.990
+Land Rover Range Rover Sport;21.071 km;sep-14;190 kW (258 CV);Automático;Diésel;6,9;ES;-/- ;€ 46.990
+Land Rover Range Rover Sport;72.565 km;jul-15;190 kW (258 CV);Automático;Diésel;6,9;ES;-/- ;€ 34.500
+Land Rover Range Rover Evoque;66.996 km;jun-15;110 kW (150 CV);Manual;Diésel;-/- ;ES;-/- ;€ 20.350
+Land Rover Range Rover Sport;21.071 km;sep-14;190 kW (258 CV);Automático;Diésel;6,9;ES;-/- ;€ 46.990
+Land Rover Discovery Sport;110.300 km;jun-15;110 kW (150 CV);Automático;Diésel;6,2;ES;-/- ;€ 22.650
+Land Rover Range Rover Evoque;77.100 km;ene-15;140 kW (190 CV);Automático;Diésel;-/- ;ES;-/- ;€ 23.850
+Land Rover Discovery;87.154 km;feb-15;155 kW (211 CV);Automático;Diésel;7,8;ES;-/- ;€ 27.850
+Land Rover Range Rover Sport;128.000 km;jun-15;190 kW (258 CV);Automático;Diésel;6,9;ES;-/- ;€ 44.050
+Land Rover Discovery Sport;110.300 km;jun-15;110 kW (150 CV);Automático;Diésel;6,2;ES;-/- ;€ 22.650
+Land Rover Range Rover Evoque;67.132 km;jun-14;140 kW (190 CV);Automático;Diésel;6 l/;ES;-/- ;€ 29.999
+Land Rover Range Rover Evoque;65.000 km;jun-15;140 kW (190 CV);Automático;Diésel;6 l/;Unknown;159;€ 24.000
+Land Rover Range Rover Evoque;39.000 km;dic-14;177 kW (241 CV);Automático;Gasolina;7,8;Unknown;181;€ 30.000
+Land Rover Defender;16.000 km;nov-14;90 kW (122 CV);Manual;Diésel;11,1;ES;295;€ 36.500
+Land Rover Range Rover Evoque;99.823 km;dic-15;110 kW (150 CV);Manual;Diésel;-/- ;ES;-/- ;€ 23.350
+Land Rover Range Rover Evoque;77.100 km;ene-15;140 kW (190 CV);Automático;Diésel;-/- ;ES;-/- ;€ 23.850
+Land Rover Range Rover Evoque;72.000 km;dic-15;132 kW (179 CV);Automático;Diésel;5,1;ES;-/- ;€ 31.950
+Land Rover Defender;19.800 km;may-14;90 kW (122 CV);Manual;Diésel;11,1;Unknown;291;€ 33.500
+Land Rover Range Rover Sport;38.000 km;ago-15;190 kW (258 CV);Automático;Diésel;6,9;ES;-/- ;€ 43.900
+Land Rover Discovery;87.154 km;feb-15;155 kW (211 CV);Automático;Diésel;7,8;ES;-/- ;€ 27.850
+Land Rover Discovery;87.154 km;feb-15;155 kW (211 CV);Automático;Diésel;7,8;ES;-/- ;€ 27.850
+Land Rover Discovery;87.154 km;feb-15;155 kW (211 CV);Automático;Diésel;7,8;ES;-/- ;€ 27.850
+Land Rover Defender;68.000 km;dic-15;90 kW (122 CV);Manual;Diésel;11,1;Unknown;291;€ 49.900
+Land Rover Range Rover;44.000 km;jul-14;250 kW (340 CV);-/- (Cambio);Diésel;-/- ;Unknown;-/- ;€ 78.000
+Land Rover Range Rover Sport;128.843 km;jul-14;225 kW (306 CV);Automático;Diésel;-/- ;ES;-/- ;€ 34.500
+Land Rover Range Rover Sport;98.820 km;ago-14;190 kW (258 CV);Automático;Diésel;6,9;ES;-/- ;€ 38.900
+Land Rover Discovery;223.600 km;feb-14;155 kW (211 CV);Automático;Diésel;8 l/;ES;203;€ 18.900
+Land Rover Range Rover Sport;119.000 km;sep-14;190 kW (258 CV);Automático;Diésel;6,9;ES;-/- ;€ 36.500
+Land Rover Range Rover Sport;99.000 km;sep-14;190 kW (258 CV);Automático;Diésel;6,9;ES;-/- ;€ 34.999
+Land Rover Discovery;207.400 km;oct-15;155 kW (211 CV);Automático;Diésel;8,5;ES;-/- ;€ 20.850
+Land Rover Discovery;207.400 km;oct-15;155 kW (211 CV);Automático;Diésel;8,5;ES;-/- ;€ 20.850
+Land Rover Range Rover Evoque;61.700 km;may-15;110 kW (150 CV);Manual;Diésel;4,1;ES;-/- ;€ 20.900
+Land Rover Range Rover Sport;124.988 km;jul-15;190 kW (258 CV);Automático;Diésel;6,9;Unknown;182;€ 32.989
+Land Rover Range Rover Evoque;94.000 km;dic-15;132 kW (179 CV);Automático;Diésel;-/- ;ES;-/- ;€ 25.850
+Land Rover Range Rover Sport;149.000 km;oct-14;215 kW (292 CV);Automático;Diésel;7,5;ES;-/- ;€ 37.500
+Land Rover Range Rover Evoque;94.000 km;dic-15;132 kW (179 CV);Automático;Diésel;-/- ;ES;-/- ;€ 25.850
+Land Rover Range Rover Evoque;36.000 km;mar-15;110 kW (150 CV);Automático;Diésel;6 l/;ES;-/- ;€ 26.900
+Land Rover Discovery Sport;119.000 km;oct-15;140 kW (190 CV);Automático;Diésel;6,3;ES;-/- ;€ 22.900
+Land Rover Range Rover Evoque;95.000 km;dic-15;110 kW (150 CV);Manual;Diésel;4,3;ES;-/- ;€ 19.900
+Land Rover Range Rover Evoque;65.809 km;dic-15;132 kW (179 CV);Manual;Diésel;4,7;ES;-/- ;€ 24.900
+Land Rover Range Rover Evoque;128.889 km;ago-14;110 kW (150 CV);Manual;Diésel;5,7;Unknown;149;€ 17.200
+Land Rover Range Rover Evoque;129.000 km;may-14;110 kW (150 CV);Automático;Diésel;6 l/;ES;-/- ;€ 20.900
+Land Rover Range Rover Evoque;139.900 km;abr-14;110 kW (150 CV);Manual;Diésel;5 l/;ES;-/- ;€ 17.900
+Land Rover Range Rover Evoque;103.000 km;dic-15;110 kW (150 CV);Automático;Diésel;5,1;Unknown;134;€ 26.500
+Land Rover Range Rover Evoque;129.000 km;may-14;110 kW (150 CV);Automático;Diésel;6 l/;ES;-/- ;€ 20.900
+Land Rover Range Rover Evoque;118.621 km;sep-14;110 kW (150 CV);Manual;Diésel;5,7;ES;149;€ 23.950
+Land Rover Range Rover Sport;103.000 km;ene-15;215 kW (292 CV);Automático;Diésel;7,5;ES;-/- ;€ 39.990
+Land Rover Range Rover Evoque;79.650 km;ene-14;110 kW (150 CV);Automático;Diésel;6 l/;ES;-/- ;€ 21.990
+Land Rover Discovery Sport;90.000 km;nov-15;132 kW (179 CV);Automático;Diésel;5,3;ES;-/- ;€ 24.500
+Land Rover Discovery Sport;135.000 km;jun-15;140 kW (190 CV);Automático;Diésel;6,3;ES;-/- ;€ 24.990
+Land Rover Range Rover Evoque;200.000 km;may-14;110 kW (150 CV);Manual;Diésel;5 l/;ES;-/- ;€ 16.490
+Land Rover Discovery Sport;118.000 km;jun-15;110 kW (150 CV);Automático;Diésel;5,3;ES;-/- ;€ 22.900
+Land Rover Range Rover Evoque;163.000 km;sep-14;110 kW (150 CV);Manual;Diésel;5 l/;ES;-/- ;€ 17.590
+Land Rover Range Rover Sport;147.500 km;jun-15;225 kW (306 CV);Automático;Diésel;7 l/;ES;-/- ;€ 44.999
+Land Rover Discovery;125.000 km;ago-15;188 kW (256 CV);Automático;Diésel;8 l/;Unknown;203;€ 22.800
+Land Rover Range Rover Evoque;37.000 km;may-15;110 kW (150 CV);Automático;Diésel;6 l/;Unknown;159;€ 26.900
+Land Rover Range Rover Evoque;62.000 km;ene-15;110 kW (150 CV);Manual;Diésel;5,7;Unknown;149;€ 27.000
+Land Rover Discovery;87.154 km;feb-15;155 kW (211 CV);Automático;Diésel;7,8;ES;-/- ;€ 27.850
+Land Rover Discovery Sport;90.206 km;nov-15;110 kW (150 CV);Automático;Diésel;5,3;ES;-/- ;€ 22.995
+Land Rover Range Rover Sport;49.540 km;ene-15;215 kW (292 CV);Automático;Diésel;7,5;ES;-/- ;€ 49.900
+Land Rover Discovery;87.154 km;feb-15;155 kW (211 CV);Automático;Diésel;7,8;ES;-/- ;€ 27.850
+Land Rover Range Rover Sport;56.600 km;sep-15;190 kW (258 CV);Automático;Diésel;-/- ;ES;-/- ;€ 41.500
+Land Rover Range Rover Sport;56.600 km;sep-15;190 kW (258 CV);Automático;Diésel;-/- ;ES;-/- ;€ 41.500
+Land Rover Range Rover Sport;89.000 km;jun-14;215 kW (292 CV);Automático;Diésel;7,5;ES;-/- ;€ 37.500
+Land Rover Range Rover Sport;69.000 km;sep-15;225 kW (306 CV);Automático;Diésel;-/- ;ES;-/- ;€ 43.500
+Land Rover Range Rover Evoque;80.000 km;abr-15;140 kW (190 CV);Manual;Diésel;5,7;ES;-/- ;€ 25.000
+Land Rover Range Rover Sport;75.000 km;jun-15;190 kW (258 CV);Automático;Diésel;6,9;ES;-/- ;€ 35.990
+Land Rover Range Rover Evoque;96.600 km;oct-14;110 kW (150 CV);Manual;Diésel;5 l/;ES;-/- ;€ 20.700
+Land Rover Range Rover Evoque;120.000 km;nov-14;140 kW (190 CV);Automático;Diésel;6 l/;ES;-/- ;€ 24.950
+Land Rover Range Rover Evoque;110.000 km;ene-14;140 kW (190 CV);Automático;Diésel;6 l/;ES;-/- ;€ 25.950
+Land Rover Discovery Sport;111.250 km;mar-15;140 kW (190 CV);Automático;Diésel;6,1;ES;161;€ 27.900
+Land Rover Range Rover Evoque;41.081 km;jul-15;140 kW (190 CV);Automático;Diésel;6 l/;ES;159;€ 27.595
+Land Rover Range Rover Evoque;123.100 km;abr-15;140 kW (190 CV);Automático;Diésel;6 l/;Unknown;159;€ 20.000
+Land Rover Range Rover Evoque;119.800 km;sep-15;140 kW (190 CV);Automático;Diésel;6 l/;Unknown;159;€ 20.900
+Land Rover Discovery Sport;87.796 km;jul-15;132 kW (179 CV);Automático;Diésel;5,3;ES;-/- ;€ 25.990
+Land Rover Range Rover Evoque;39.800 km;feb-15;110 kW (150 CV);Automático;Diésel;5,8;ES;-/- ;€ 23.900
+Land Rover Range Rover;70.000 km;ene-14;250 kW (340 CV);Automático;Diésel;8,4;ES;219;€ 69.500
+Land Rover Range Rover;134.000 km;jun-14;215 kW (292 CV);Automático;Diésel;-/- ;ES;-/- ;€ 40.500
+Land Rover Range Rover Sport;49.999 km;may-14;215 kW (292 CV);Automático;Diésel;7,5;ES;-/- ;€ 49.999
+Land Rover Range Rover;151.000 km;may-14;250 kW (340 CV);Automático;Diésel;8,4;ES;-/- ;€ 52.000
+Land Rover Range Rover Evoque;180.000 km;ene-14;110 kW (150 CV);Automático;Diésel;6 l/;ES;-/- ;€ 16.490
+Land Rover Range Rover Sport;240.000 km;nov-14;215 kW (292 CV);Automático;Diésel;7,5;ES;185;€ 31.990
+Land Rover Range Rover Sport;71.000 km;jun-15;250 kW (340 CV);Automático;-/- (Combustible);6,2;ES;-/- ;€ 44.990
+Land Rover Range Rover Sport;109.990 km;jun-14;215 kW (292 CV);Automático;Diésel;7,5;ES;-/- ;€ 34.900
+Land Rover Discovery Sport;166.000 km;sep-15;110 kW (150 CV);Automático;Diésel;6 l/;ES;-/- ;€ 19.990
+Land Rover Series;115.200 km;dic-14;1 kW (1 CV);-/- (Cambio);Diésel;-/- ;Unknown;-/- ;€ 16.880
+Land Rover Range Rover Sport;96.867 km;jun-15;190 kW (258 CV);Automático;Diésel;6,9;ES;182;€ 36.795
+Land Rover Discovery Sport;70.847 km;nov-15;132 kW (179 CV);Automático;Diésel;5,3;ES;-/- ;€ 22.990
+Land Rover Range Rover Evoque;112.548 km;nov-15;110 kW (150 CV);Automático;Diésel;6 l/;ES;-/- ;€ 22.790
+Land Rover Discovery Sport;79.000 km;dic-15;110 kW (150 CV);Automático;Diésel;-/- ;ES;-/- ;€ 21.990
+Land Rover Range Rover;62.000 km;jun-15;190 kW (258 CV);Automático;Diésel;6,9;ES;-/- ;€ 37.900
+Land Rover Range Rover Sport;147.082 km;ene-15;250 kW (340 CV);Automático;Diésel;8,4;Unknown;219;€ 23.000
+Land Rover Range Rover Evoque;182.000 km;jun-15;110 kW (150 CV);Manual;Diésel;5 l/;ES;-/- ;€ 16.500
+Land Rover Freelander;75.802 km;ene-14;140 kW (190 CV);Automático;Diésel;7 l/;Unknown;185;€ 14.500
+Land Rover Range Rover Evoque;64.577 km;jun-15;177 kW (241 CV);Automático;Gasolina;7,8;Unknown;181;€ 19.133
+Land Rover Range Rover Evoque;53.000 km;mar-14;110 kW (150 CV);Automático;Diésel;6 l/;ES;-/- ;€ 27.500
+Land Rover Series;147.000 km;may-14;1 kW (1 CV);-/- (Cambio);Diésel;-/- ;Unknown;-/- ;€ 18.800
+Land Rover Discovery;56.581 km;jun-15;110 kW (150 CV);Automático;Diésel;-/- ;ES;-/- ;€ 26.550
+Land Rover Range Rover Sport;65.000 km;feb-14;190 kW (258 CV);Automático;Diésel;6,9;ES;-/- ;€ 37.900
+Land Rover Discovery Sport;126.000 km;mar-15;140 kW (190 CV);Automático;Diésel;6,1;ES;-/- ;€ 23.990
+Land Rover Range Rover Evoque;127.308 km;abr-15;140 kW (190 CV);Automático;Diésel;5,7;ES;-/- ;€ 24.500
+Land Rover Range Rover Evoque;53.200 km;oct-14;110 kW (150 CV);Manual;Diésel;5 l/;ES;-/- ;€ 22.350
+Land Rover Range Rover Evoque;190.000 km;nov-15;110 kW (150 CV);Manual;Diésel;5 l/;ES;-/- ;€ 16.999
+Land Rover Range Rover Evoque;137.180 km;abr-15;110 kW (150 CV);Automático;Diésel;6 l/;ES;-/- ;€ 19.500
+Land Rover Range Rover Evoque;53.200 km;oct-14;110 kW (150 CV);Manual;Diésel;5 l/;ES;-/- ;€ 22.350
+Land Rover Range Rover Sport;146.300 km;ene-14;190 kW (258 CV);Automático;Diésel;6,9;ES;-/- ;€ 36.900
+Land Rover Range Rover;45.000 km;jun-15;250 kW (340 CV);Automático;Diésel;8,4;ES;219;€ 75.000
+Land Rover Discovery Sport;70.847 km;nov-15;132 kW (179 CV);Automático;Diésel;5,3;ES;-/- ;€ 22.990
+Land Rover Discovery Sport;70.847 km;nov-15;132 kW (179 CV);Automático;Diésel;5,3;ES;-/- ;€ 22.990
+Land Rover Range Rover Evoque;78.000 km;mar-14;110 kW (150 CV);Manual;Diésel;4,9;Unknown;129;€ 21.000
+Land Rover Range Rover Sport;100.000 km;jun-15;190 kW (258 CV);Automático;Diésel;6,9;ES;-/- ;€ 37.500
+Land Rover Discovery;148.000 km;abr-14;188 kW (256 CV);Automático;Diésel;8 l/;Unknown;203;€ 31.900
+Land Rover Range Rover Evoque;39.000 km;jun-14;110 kW (150 CV);Manual;Diésel;5 l/;ES;-/- ;€ 22.900
+Land Rover Range Rover;123.000 km;may-14;375 kW (510 CV);Automático;Gasolina;13,1;ES;-/- ;€ 59.900
+Land Rover Range Rover Sport;199.000 km;ene-15;190 kW (258 CV);Automático;Diésel;6,9;ES;-/- ;€ 27.990
+Land Rover Range Rover Evoque;129.656 km;abr-14;110 kW (150 CV);Manual;Diésel;-/- ;ES;-/- ;€ 19.400
+Land Rover Freelander;180.000 km;jun-14;110 kW (150 CV);Manual;Diésel;6,2;ES;-/- ;€ 14.400
+Land Rover Range Rover Evoque;78.100 km;abr-14;110 kW (150 CV);Automático;Diésel;6,5;Unknown;174;€ 19.000
+Land Rover Discovery Sport;105.000 km;nov-15;132 kW (179 CV);Manual;Diésel;5,1;ES;-/- ;€ 28.800
+Land Rover Discovery Sport;128.207 km;nov-15;110 kW (150 CV);Automático;Diésel;5,3;ES;-/- ;€ 20.990
+Land Rover Range Rover Sport;49.500 km;ene-15;215 kW (292 CV);Automático;Diésel;7,5;ES;-/- ;€ 52.500
+Land Rover Range Rover Evoque;75.000 km;may-15;110 kW (150 CV);Manual;Diésel;5 l/;ES;-/- ;€ 18.990
+Land Rover Range Rover Sport;112.554 km;may-14;215 kW (292 CV);Automático;Diésel;7,5;ES;-/- ;€ 35.998
+Land Rover Range Rover Sport;118.000 km;ene-15;190 kW (258 CV);Automático;Diésel;6,9;ES;-/- ;€ 42.990
+Land Rover Range Rover Sport;210.500 km;jul-14;215 kW (292 CV);Automático;Diésel;7,5;ES;-/- ;€ 36.490
+Land Rover Range Rover Sport;52.000 km;abr-15;225 kW (306 CV);Automático;Diésel;7 l/;Unknown;185;€ 50.000
+Land Rover Discovery Sport;121.337 km;oct-15;132 kW (179 CV);Automático;Diésel;5,3;ES;-/- ;€ 22.250
+Land Rover Range Rover Sport;119.100 km;may-14;250 kW (340 CV);Automático;Diésel;8,4;ES;-/- ;€ 40.900
+Land Rover Range Rover Evoque;50.849 km;dic-15;110 kW (150 CV);Automático;Diésel;5,1;ES;134;€ 27.995
+Land Rover Range Rover;129.934 km;abr-15;110 kW (150 CV);Manual;Diésel;-/- ;ES;-/- ;€ 19.000
+Land Rover Freelander;135.000 km;may-14;140 kW (190 CV);Automático;Diésel;7 l/;ES;-/- ;€ 15.990
+Land Rover Range Rover Evoque;127.400 km;may-15;140 kW (190 CV);Automático;Diésel;-/- ;ES;-/- ;€ 24.500
+Land Rover Range Rover Evoque;127.400 km;may-15;140 kW (190 CV);Automático;Diésel;-/- ;ES;-/- ;€ 24.500
+Land Rover Discovery Sport;79.000 km;dic-15;110 kW (150 CV);Automático;Diésel;-/- ;ES;-/- ;€ 23.490
+Land Rover Range Rover Sport;120.000 km;may-15;190 kW (258 CV);Automático;Diésel;6,9;ES;-/- ;€ 40.990
+Land Rover Range Rover Evoque;182.000 km;oct-14;110 kW (150 CV);Manual;Diésel;5,7;ES;-/- ;€ 18.500
+Land Rover Range Rover Sport;87.692 km;may-15;225 kW (306 CV);Automático;Diésel;7 l/;ES;-/- ;€ 34.490
+Land Rover Range Rover Sport;87.692 km;may-15;225 kW (306 CV);Automático;Diésel;7 l/;ES;-/- ;€ 34.490
+Land Rover Range Rover Sport;87.692 km;may-15;225 kW (306 CV);Automático;Diésel;7 l/;ES;-/- ;€ 34.490
+Land Rover Range Rover Evoque;63.000 km;jul-15;110 kW (150 CV);Automático;Diésel;6 l/;ES;-/- ;€ 22.490
+Land Rover Range Rover Sport;70.000 km;ene-14;190 kW (258 CV);Automático;Diésel;7,3;ES;194;€ 41.500
+Land Rover Range Rover Evoque;70.000 km;abr-14;110 kW (150 CV);Manual;Diésel;-/- ;ES;-/- ;€ 21.350
+Land Rover Range Rover Evoque;73.021 km;jul-15;110 kW (150 CV);Automático;Diésel;6 l/;ES;-/- ;€ 27.399
+Land Rover Range Rover Evoque;95.958 km;oct-15;132 kW (179 CV);Automático;Diésel;5,1;ES;-/- ;€ 29.299
+Land Rover Range Rover Evoque;219.000 km;abr-14;140 kW (190 CV);Automático;Diésel;6 l/;ES;159;€ 20.500
+Land Rover Range Rover Sport;79.900 km;sep-15;250 kW (340 CV);Automático;Diésel;8,4;ES;-/- ;€ 45.890
+Land Rover Range Rover Sport;89.500 km;ene-15;190 kW (258 CV);Automático;Diésel;6,9;ES;-/- ;€ 39.890
+Land Rover Range Rover Evoque;140.000 km;ago-14;110 kW (150 CV);Automático;Diésel;6 l/;Unknown;159;€ 21.900
+Land Rover Range Rover Evoque;104.000 km;dic-15;110 kW (150 CV);Automático;Diésel;-/- ;ES;-/- ;€ 23.750
+Land Rover Range Rover Evoque;104.000 km;dic-15;110 kW (150 CV);Automático;Diésel;-/- ;ES;-/- ;€ 23.750
+Land Rover Range Rover Evoque;103.000 km;jul-15;110 kW (150 CV);Manual;Diésel;4,3;ES;-/- ;€ 21.990
+Land Rover Range Rover Sport;105.000 km;sep-15;225 kW (306 CV);Automático;Diésel;7 l/;Unknown;185;€ 39.000
+Land Rover Range Rover Sport;21.071 km;sep-14;190 kW (258 CV);Automático;Diésel;6,9;ES;-/- ;€ 46.990
+Land Rover Discovery Sport;146.000 km;abr-15;110 kW (150 CV);Automático;Diésel;6 l/;Unknown;159;€ 17.000
+Land Rover Defender;30.684 km;dic-14;90 kW (122 CV);Manual;Diésel;10,2;ES;-/- ;€ 31.950
+Land Rover Range Rover Evoque;66.603 km;jun-15;110 kW (150 CV);Automático;Diésel;-/- ;ES;-/- ;€ 21.900
+Land Rover Range Rover Sport;83.850 km;may-15;250 kW (340 CV);Automático;-/- (Combustible);6,2;ES;-/- ;€ 46.900
+Land Rover Range Rover;73.004 km;jul-15;110 kW (150 CV);Automático;Diésel;-/- ;ES;-/- ;€ 26.400
+Land Rover Range Rover;95.911 km;oct-15;132 kW (179 CV);Automático;Diésel;-/- ;ES;-/- ;€ 28.300
+Land Rover Range Rover Sport;82.000 km;nov-14;215 kW (292 CV);Automático;Diésel;7,5;ES;185;€ 39.999
+Land Rover Range Rover Evoque;95.000 km;jul-14;110 kW (150 CV);Manual;Diésel;5 l/;ES;-/- ;€ 21.500
+Land Rover Discovery;90.719 km;ene-15;155 kW (211 CV);Automático;Diésel;7,8;ES;-/- ;€ 25.980
+Land Rover Range Rover Evoque;66.500 km;sep-15;110 kW (150 CV);Automático;Diésel;-/- ;ES;-/- ;€ 26.990
+Land Rover Range Rover Evoque;60.599 km;oct-14;110 kW (150 CV);Manual;Diésel;5 l/;ES;-/- ;€ 22.890
+Land Rover Range Rover;99.790 km;may-15;250 kW (340 CV);Automático;Diésel;8,4;ES;-/- ;€ 89.990
+Land Rover Range Rover Evoque;91.831 km;jun-15;140 kW (190 CV);Manual;Diésel;-/- ;ES;-/- ;€ 26.990
+Land Rover Range Rover Sport;151.000 km;abr-15;250 kW (340 CV);Automático;Diésel;8,4;ES;219;€ 40.900
+Land Rover Range Rover Evoque;67.000 km;jun-15;110 kW (150 CV);Automático;Diésel;5,1;ES;-/- ;€ 23.990
+Land Rover Range Rover Evoque;72.000 km;oct-15;110 kW (150 CV);Automático;Diésel;5,1;ES;-/- ;€ 23.900
+Land Rover Range Rover Sport;81.000 km;ene-15;225 kW (306 CV);Automático;Diésel;7 l/;ES;-/- ;€ 45.900
+Land Rover Range Rover Evoque;139.000 km;jun-15;110 kW (150 CV);Automático;Diésel;6 l/;ES;-/- ;€ 23.500
+Land Rover Range Rover Evoque;59.000 km;jun-15;110 kW (150 CV);Automático;Diésel;6 l/;ES;-/- ;€ 25.900
+Land Rover Range Rover Sport;87.000 km;jun-15;190 kW (258 CV);Automático;Diésel;6,9;ES;-/- ;€ 39.900
+Land Rover Range Rover Evoque;114.000 km;jun-15;110 kW (150 CV);Automático;Diésel;6 l/;ES;-/- ;€ 23.800
+Land Rover Range Rover Sport;112.000 km;jun-15;225 kW (306 CV);Automático;Diésel;7 l/;Unknown;185;€ 34.999
+Land Rover Range Rover;168.900 km;mar-14;375 kW (510 CV);Automático;Gasolina;12,8;Unknown;298;€ 38.900
+Land Rover Freelander;86.200 km;abr-14;140 kW (190 CV);Automático;Diésel;7 l/;ES;-/- ;€ 20.500
+Land Rover Discovery Sport;73.072 km;sep-15;1 kW (1 CV);-/- (Cambio);Diésel;-/- ;Unknown;-/- ;€ 17.633
+Land Rover Range Rover Evoque;112.548 km;nov-15;110 kW (150 CV);Automático;Diésel;6 l/;ES;-/- ;€ 22.790
+Land Rover Range Rover Evoque;66.500 km;sep-15;110 kW (150 CV);Automático;Diésel;-/- ;ES;-/- ;€ 25.490
+Land Rover Range Rover Evoque;91.831 km;jun-15;140 kW (190 CV);Manual;Diésel;-/- ;ES;-/- ;€ 25.490
+Land Rover Range Rover;99.790 km;may-15;250 kW (340 CV);Automático;Diésel;8,4;ES;-/- ;€ 89.990
+Land Rover Range Rover Evoque;60.599 km;oct-14;110 kW (150 CV);Manual;Diésel;5 l/;ES;-/- ;€ 22.890
+Land Rover Range Rover Evoque;91.831 km;jun-15;140 kW (190 CV);Manual;Diésel;5,7;ES;-/- ;€ 26.990
+Land Rover Range Rover Evoque;66.000 km;jun-14;110 kW (150 CV);Manual;Diésel;5 l/;ES;-/- ;€ 24.999
+Land Rover Range Rover Evoque;128.830 km;jun-15;110 kW (150 CV);Manual;Diésel;5 l/;ES;-/- ;€ 17.490
+Land Rover Range Rover Evoque;61.000 km;may-15;110 kW (150 CV);Automático;Diésel;6 l/;ES;-/- ;€ 25.500
+Land Rover Range Rover Evoque;99.850 km;sep-15;110 kW (150 CV);Manual;Diésel;5 l/;ES;-/- ;€ 19.000
+Land Rover Range Rover Evoque;28.000 km;jul-15;110 kW (150 CV);Manual;Diésel;5 l/;ES;-/- ;€ 22.500
+Land Rover Range Rover Evoque;101.000 km;may-15;110 kW (150 CV);Automático;Diésel;5,8;ES;-/- ;€ 23.500
+Land Rover Range Rover Sport;87.700 km;ene-14;215 kW (292 CV);Automático;Diésel;7,5;ES;-/- ;€ 44.900
+Land Rover Range Rover Sport;182.000 km;oct-15;225 kW (306 CV);Automático;Diésel;7 l/;ES;-/- ;€ 41.800
+Land Rover Range Rover Sport;98.000 km;sep-14;188 kW (256 CV);Automático;Diésel;9,2;ES;-/- ;€ 34.990
+Land Rover Freelander;129.000 km;ene-14;140 kW (190 CV);Automático;Diésel;7 l/;ES;-/- ;€ 13.900
+Land Rover Range Rover Evoque;89.900 km;ago-14;110 kW (150 CV);Manual;Diésel;4,9;ES;-/- ;€ 18.900
+Land Rover Range Rover Sport;79.989 km;ago-14;375 kW (510 CV);Automático;Gasolina;12,8;ES;298;€ 57.750
+Land Rover Range Rover;79.989 km;ago-14;375 kW (510 CV);Automático;Gasolina;12,8;ES;298;€ 57.750
+Land Rover Range Rover Sport;82.180 km;ene-15;190 kW (258 CV);Automático;Diésel;7,3;ES;194;€ 40.800
+Land Rover Range Rover;82.180 km;ene-15;190 kW (258 CV);Automático;Diésel;7,3;ES;194;€ 40.800
+Land Rover Range Rover Evoque;82.000 km;dic-15;110 kW (150 CV);Automático;Diésel;5,1;ES;-/- ;€ 25.995
+Land Rover Range Rover Evoque;85.000 km;ene-15;110 kW (150 CV);Automático;Diésel;6 l/;ES;-/- ;€ 23.900
+Land Rover Range Rover Sport;148.000 km;mar-14;215 kW (292 CV);Automático;Diésel;7,5;ES;-/- ;€ 39.490
+Land Rover Range Rover Sport;128.000 km;jun-14;190 kW (258 CV);Automático;Diésel;6,9;ES;-/- ;€ 34.900
+Land Rover Range Rover Evoque;149.000 km;ene-15;110 kW (150 CV);Manual;Diésel;4,1;ES;-/- ;€ 21.995
+Land Rover Range Rover Sport;89.000 km;ago-15;225 kW (306 CV);Automático;Diésel;7 l/;ES;-/- ;€ 42.900
+Land Rover Range Rover Sport;38.000 km;jun-15;250 kW (340 CV);Automático;Diésel;8,4;ES;-/- ;€ 54.900
+Land Rover Range Rover Evoque;71.771 km;dic-15;110 kW (150 CV);Automático;Diésel;-/- ;ES;-/- ;€ 25.200
+Land Rover Range Rover Sport;114.000 km;sep-14;225 kW (306 CV);Automático;Diésel;7 l/;ES;-/- ;€ 37.999
+Land Rover Range Rover Evoque;104.000 km;jun-14;110 kW (150 CV);Manual;Diésel;5 l/;ES;-/- ;€ 20.500
+Land Rover Range Rover Evoque;65.000 km;nov-15;110 kW (150 CV);Automático;Diésel;5,1;ES;-/- ;€ 24.950
+Land Rover Range Rover Evoque;110.000 km;jul-14;110 kW (150 CV);Manual;Diésel;5 l/;ES;-/- ;€ 23.900
+Land Rover Range Rover Evoque;44.000 km;nov-15;110 kW (150 CV);Automático;Diésel;6 l/;ES;-/- ;€ 31.290
+Land Rover Discovery Sport;72.700 km;sep-15;110 kW (150 CV);Manual;Diésel;5,1;ES;-/- ;€ 26.900
+Land Rover Range Rover Sport;112.000 km;ene-14;215 kW (292 CV);Automático;Diésel;7,5;ES;-/- ;€ 37.999
+Land Rover Range Rover Evoque;99.000 km;oct-15;110 kW (150 CV);Manual;Diésel;4,3;ES;-/- ;€ 19.900
+Land Rover Range Rover;95.000 km;ene-14;250 kW (340 CV);Automático;Diésel;8,4;ES;-/- ;€ 56.900
+Land Rover Range Rover;175.000 km;may-14;190 kW (258 CV);Automático;Diésel;6,9;ES;-/- ;€ 39.000
+Land Rover Range Rover Sport;74.000 km;oct-14;215 kW (292 CV);Automático;Diésel;7,5;ES;-/- ;€ 44.900
+Land Rover Range Rover Sport;100.000 km;oct-14;215 kW (292 CV);Automático;Diésel;7,5;ES;-/- ;€ 41.500
+Land Rover Range Rover Sport;94.000 km;abr-14;215 kW (292 CV);Automático;Diésel;7,5;ES;-/- ;€ 45.000
+Land Rover Range Rover Evoque;185.600 km;ene-15;110 kW (150 CV);Manual;Diésel;5 l/;ES;-/- ;€ 19.900
+Land Rover Range Rover Evoque;98.000 km;ene-14;140 kW (190 CV);Automático;Diésel;6 l/;ES;-/- ;€ 24.900
+Land Rover Range Rover Evoque;89.000 km;abr-14;140 kW (190 CV);Automático;Diésel;6 l/;ES;-/- ;€ 22.900
+Land Rover Range Rover Sport;152.000 km;jun-14;188 kW (256 CV);Automático;Diésel;9,2;ES;-/- ;€ 41.900
+Land Rover Discovery Sport;101.480 km;may-15;140 kW (190 CV);Automático;Diésel;6,3;ES;-/- ;€ 25.750
+Land Rover Range Rover;120.000 km;jun-14;375 kW (510 CV);Automático;Gasolina;13,1;ES;-/- ;€ 58.990
+Land Rover Range Rover Evoque;140.000 km;jun-14;140 kW (190 CV);Automático;Diésel;6 l/;ES;-/- ;€ 24.490
+Land Rover Range Rover Sport;100.000 km;jul-14;215 kW (292 CV);Automático;Diésel;7,5;ES;-/- ;€ 44.900
+Land Rover Discovery Sport;131.572 km;ene-15;110 kW (150 CV);Manual;Diésel;5 l/;ES;-/- ;€ 24.800
+Land Rover Range Rover Evoque;72.000 km;oct-15;110 kW (150 CV);Automático;Diésel;5,1;ES;-/- ;€ 22.900
+Land Rover Range Rover Sport;50.000 km;jul-15;405 kW (551 CV);Automático;Gasolina;12,8;ES;-/- ;€ 71.900
+Land Rover Range Rover Evoque;98.000 km;ene-14;140 kW (190 CV);Automático;Diésel;6 l/;ES;-/- ;€ 24.900
+Land Rover Range Rover Sport;59.700 km;oct-15;190 kW (258 CV);Automático;Diésel;6,9;Unknown;182;€ 46.900
+Land Rover Discovery Sport;49.087 km;nov-15;110 kW (150 CV);Automático;Diésel;6 l/;ES;-/- ;€ 26.750
+Land Rover Discovery Sport;75.000 km;dic-15;110 kW (150 CV);Automático;Diésel;5,3;Unknown;139;€ 24.495
+Land Rover Range Rover Evoque;78.000 km;abr-14;110 kW (150 CV);Manual;Diésel;5 l/;Unknown;133;€ 19.500
+Land Rover Range Rover Sport;86.400 km;ene-15;190 kW (258 CV);Automático;Diésel;6,9;ES;182;€ 38.899
+Land Rover Range Rover Evoque;54.000 km;jul-15;110 kW (150 CV);Automático;Diésel;5,1;ES;-/- ;€ 23.900
+Land Rover Range Rover Evoque;102.000 km;jul-15;110 kW (150 CV);Manual;Diésel;4,7;Unknown;154;€ 21.900
+Land Rover Range Rover Evoque;71.500 km;jul-15;110 kW (150 CV);Manual;Diésel;4,3;ES;-/- ;€ 23.990
+Land Rover Range Rover;152.000 km;mar-15;190 kW (258 CV);Automático;Diésel;6,9;ES;182;€ 47.800
+Land Rover Discovery Sport;149.682 km;jun-15;140 kW (190 CV);Manual;Diésel;-/- ;ES;-/- ;€ 22.200
+Land Rover Range Rover Sport;50.000 km;jun-14;225 kW (306 CV);Automático;Diésel;7 l/;ES;-/- ;€ 49.000
+Land Rover Range Rover;58.000 km;jun-14;250 kW (340 CV);Automático;Diésel;8,4;ES;-/- ;€ 85.000
+Land Rover Range Rover Sport;129.000 km;jun-15;183 kW (249 CV);Automático;Diésel;6,9;Unknown;182;€ 38.900
+Land Rover Range Rover Evoque;135.000 km;ene-14;110 kW (150 CV);Automático;Diésel;6 l/;Unknown;159;€ 20.000
+Land Rover Defender;52.000 km;nov-14;90 kW (122 CV);Manual;Diésel;11,1;ES;-/- ;€ 42.600
+Land Rover Range Rover Sport;89.000 km;jul-14;215 kW (292 CV);Automático;Diésel;7,5;Unknown;185;€ 44.900
+Land Rover Range Rover;63.500 km;oct-15;190 kW (258 CV);Automático;Diésel;7,5;ES;182;€ 45.900
+Land Rover Range Rover Evoque;140.000 km;dic-14;110 kW (150 CV);Manual;Diésel;5,7;Unknown;149;€ 22.500
+Land Rover Range Rover Evoque;150.000 km;jun-14;110 kW (150 CV);Automático;Diésel;6,5;Unknown;174;€ 20.000
+Land Rover Range Rover Evoque;172.247 km;dic-15;110 kW (150 CV);Manual;Diésel;4,3;ES;113;€ 20.400
+Land Rover Range Rover Evoque;93.000 km;ago-14;110 kW (150 CV);Manual;Diésel;5 l/;Unknown;133;€ 18.900
+Land Rover Range Rover Evoque;202.000 km;jul-14;110 kW (150 CV);Manual;Diésel;5 l/;Unknown;133;€ 17.000
+Land Rover Discovery Sport;144.000 km;abr-15;110 kW (150 CV);Automático;Diésel;6 l/;Unknown;159;€ 22.000
+Land Rover Range Rover Evoque;135.000 km;feb-15;110 kW (150 CV);Automático;Diésel;5,7;ES;-/- ;€ 21.900
+Land Rover Range Rover Sport;37.500 km;mar-15;215 kW (292 CV);Automático;Diésel;7,5;Unknown;185;€ 51.770
+Land Rover Range Rover Evoque;96.399 km;jun-15;110 kW (150 CV);Manual;Diésel;5 l/;ES;-/- ;€ 20.800
+Land Rover Range Rover Evoque;90.000 km;jul-14;110 kW (150 CV);Manual;Diésel;5 l/;Unknown;133;€ 26.400
+Land Rover Range Rover Sport;114.000 km;nov-15;190 kW (258 CV);Automático;Diésel;6,9;Unknown;182;€ 37.500
+Land Rover Range Rover Evoque;68.000 km;sep-14;140 kW (190 CV);Manual;Diésel;5,7;Unknown;149;€ 19.500
+Land Rover Range Rover Evoque;150.000 km;feb-14;110 kW (150 CV);Manual;Diésel;5,7;Unknown;149;€ 23.500
+Land Rover Range Rover Evoque;99.000 km;ago-14;140 kW (190 CV);Automático;Diésel;6 l/;Unknown;159;€ 26.500
+Land Rover Defender;190.000 km;ene-14;90 kW (122 CV);Manual;Diésel;11,1;Unknown;291;€ 19.500
+Land Rover Range Rover Sport;69.000 km;jun-14;215 kW (292 CV);Automático;Diésel;7,5;ES;-/- ;€ 35.990
+Land Rover Range Rover Sport;90.000 km;ago-15;225 kW (306 CV);Automático;Diésel;7 l/;Unknown;185;€ 43.000
+Land Rover Range Rover Sport;45.000 km;jun-15;225 kW (306 CV);Automático;Diésel;7 l/;ES;-/- ;€ 47.990
+Land Rover Range Rover Sport;99.000 km;abr-15;190 kW (258 CV);Automático;Diésel;6,9;Unknown;182;€ 32.000
+Land Rover Discovery;140.000 km;sep-15;188 kW (256 CV);Automático;Diésel;8 l/;ES;213;€ 30.900
+Land Rover Range Rover Evoque;66.500 km;sep-15;110 kW (150 CV);Automático;Diésel;-/- ;ES;-/- ;€ 25.490
+Land Rover Range Rover Evoque;110.000 km;ene-15;140 kW (190 CV);Automático;Diésel;6 l/;ES;-/- ;€ 28.500
+Land Rover Discovery Sport;113.000 km;mar-15;110 kW (150 CV);Automático;Diésel;-/- ;ES;-/- ;€ 22.190
+Land Rover Discovery Sport;120.000 km;dic-15;132 kW (179 CV);Automático;Diésel;5,1;ES;134;€ 23.900
+Land Rover Freelander;100.000 km;abr-14;110 kW (150 CV);Manual;Diésel;-/- ;ES;-/- ;€ 16.990
+Land Rover Range Rover;26.542 km;ene-14;375 kW (510 CV);Automático;Gasolina;13,1;ES;298;€ 70.000
+Land Rover Range Rover Sport;155.170 km;mar-15;215 kW (292 CV);Automático;Diésel;7,5;ES;185;€ 39.900
+Land Rover Discovery;144.000 km;abr-14;155 kW (211 CV);Automático;Diésel;7,8;Unknown;203;€ 22.500
+Land Rover Range Rover Sport;190.000 km;ene-14;215 kW (292 CV);Automático;Diésel;7,5;ES;199;€ 32.900
+Land Rover Defender;88.000 km;nov-14;90 kW (122 CV);Manual;Diésel;10,2;ES;-/- ;€ 39.860
+Land Rover Range Rover;82.000 km;dic-14;250 kW (340 CV);Automático;Diésel;8,4;ES;219;€ 57.000
+Land Rover Range Rover Evoque;60.599 km;oct-14;110 kW (150 CV);Manual;Diésel;5 l/;ES;-/- ;€ 22.890
+Land Rover Range Rover;99.790 km;may-15;250 kW (340 CV);Automático;Diésel;8,4;ES;-/- ;€ 89.990
+Land Rover Range Rover Evoque;91.831 km;jun-15;140 kW (190 CV);Manual;Diésel;-/- ;ES;-/- ;€ 25.490
+Land Rover Defender;65.000 km;dic-14;90 kW (122 CV);Manual;Diésel;10,2;ES;-/- ;€ 34.500
+Land Rover Range Rover Sport;97.000 km;oct-14;215 kW (292 CV);Automático;Diésel;7,5;ES;199;€ 42.500
+Land Rover Range Rover Sport;94.533 km;oct-15;190 kW (258 CV);Automático;Diésel;6,9;ES;182;€ 44.500
+Land Rover Range Rover Sport;90.900 km;mar-15;190 kW (258 CV);Automático;Diésel;6,9;Unknown;182;€ 39.300
+Land Rover Range Rover Sport;84.000 km;ene-15;190 kW (258 CV);Automático;Diésel;-/- ;ES;-/- ;€ 37.600
+Land Rover Range Rover Sport;69.365 km;jun-14;215 kW (292 CV);Automático;Diésel;7,5;ES;-/- ;€ 35.990
+Land Rover Discovery Sport;113.123 km;mar-15;110 kW (150 CV);Automático;Diésel;-/- ;ES;-/- ;€ 23.190
+Land Rover Range Rover Sport;111.000 km;ene-14;215 kW (292 CV);Automático;Diésel;7,5;ES;185;€ 38.300
+Land Rover Range Rover Sport;72.000 km;jun-15;250 kW (340 CV);Automático;Diésel;8,4;ES;-/- ;€ 49.000
+Land Rover Discovery Sport;55.000 km;oct-15;110 kW (150 CV);Automático;Diésel;6,1;Unknown;160;€ 28.900
+Land Rover Range Rover Evoque;80.000 km;oct-15;110 kW (150 CV);Manual;Diésel;4,3;Unknown;113;€ 25.500
+Land Rover Range Rover Evoque;69.500 km;jun-15;110 kW (150 CV);Automático;Diésel;5,1;Unknown;134;€ 24.950
+Land Rover Range Rover Sport;59.800 km;ene-14;375 kW (510 CV);Automático;Gasolina;-/- ;ES;-/- ;€ 54.900
+Land Rover Discovery;19.100 km;mar-15;140 kW (190 CV);Automático;Diésel;6,1;ES;161;€ 48.500

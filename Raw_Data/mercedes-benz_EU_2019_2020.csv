@@ -1,0 +1,401 @@
+vehicle;  km; year; power; transmision; fuel_type; consume; country;emisions;price 
+Mercedes-Benz V 300;3.000 km;jun-20;176 kW (239 CV);Automático;Diésel;6,6;DE;175;€ 77.500
+Mercedes-Benz E 300;3.000 km;oct-19;143 kW (194 CV);Automático;Electro/Diésel;1,6;DE;41 g;€ 60.900
+Mercedes-Benz CLA 180;5.700 km;ene-19;90 kW (122 CV);Manual;Gasolina;6 l/;DE;142;€ 19.990
+Mercedes-Benz E 220;21.200 km;mar-19;143 kW (194 CV);Automático;Diésel;5,1;DE;135;€ 37.990
+Mercedes-Benz CLA 200;19.000 km;sep-19;110 kW (150 CV);Automático;Diésel;4,2;Unknown;110;€ 45.000
+Mercedes-Benz A 180;25.000 km;mar-19;80 kW (109 CV);Automático;Diésel;-/- ;IT;-/- ;€ 23.500
+Mercedes-Benz A 250;#¿NOMBRE?;-/- (Año);118 kW (160 CV);Automático;Electro/Gasolina;-/- ;IT;32 g;€ 42.500
+Mercedes-Benz GLB 200;#¿NOMBRE?;-/- (Año);110 kW (150 CV);Automático;Diésel;-/- ;IT;126;€ 46.600
+Mercedes-Benz AMG GT;14.500 km;ene-19;470 kW (639 CV);Automático;Gasolina;11,3;DE;257;€ 145.800
+Mercedes-Benz E 220;21.550 km;mar-19;143 kW (194 CV);Automático;Diésel;5,1;DE;135;€ 39.990
+Mercedes-Benz GLA 200;1.500 km;ago-20;120 kW (163 CV);Automático;Gasolina;6,7;ES;130;€ 44.500
+Mercedes-Benz GLE 350;500 km;ago-20;200 kW (272 CV);Automático;Diésel;7,2;ES;177;€ 86.900
+Mercedes-Benz E 220;21.450 km;mar-19;143 kW (194 CV);Automático;Diésel;5,1;DE;135;€ 38.990
+Mercedes-Benz GLC 350;31.000 km;ene-19;190 kW (258 CV);Automático;Diésel;6,7;Unknown;177;€ 57.000
+Mercedes-Benz A 200;13.785 km;oct-19;120 kW (163 CV);Manual;Gasolina;5,3;DE;121;€ 27.500
+Mercedes-Benz B 180;26.850 km;abr-19;85 kW (116 CV);Automático;Diésel;4,4;DE;115;€ 29.990
+Mercedes-Benz E 200;23.200 km;may-19;118 kW (160 CV);Automático;Diésel;3,9;IT;102;€ 31.900
+Mercedes-Benz GLA 180;17.370 km;may-19;90 kW (122 CV);Manual;Gasolina;5,6;IT;131;€ 21.700
+Mercedes-Benz GLC 220;#¿NOMBRE?;-/- (Año);143 kW (194 CV);Automático;Diésel;5,2;IT;137;€ 57.080
+Mercedes-Benz GLC 220;#¿NOMBRE?;-/- (Año);143 kW (194 CV);Automático;Diésel;5,2;IT;137;€ 57.951
+Mercedes-Benz V 300;3.000 km;jun-20;176 kW (239 CV);Automático;Diésel;6,6;DE;175;€ 77.500
+Mercedes-Benz E 300;3.000 km;oct-19;143 kW (194 CV);Automático;Electro/Diésel;1,6;DE;41 g;€ 60.900
+Mercedes-Benz CLA 180;5.700 km;ene-19;90 kW (122 CV);Manual;Gasolina;6 l/;DE;142;€ 19.990
+Mercedes-Benz E 220;21.200 km;mar-19;143 kW (194 CV);Automático;Diésel;5,1;DE;135;€ 37.990
+Mercedes-Benz CLA 200;19.000 km;sep-19;110 kW (150 CV);Automático;Diésel;4,2;Unknown;110;€ 45.000
+Mercedes-Benz A 180;25.000 km;mar-19;80 kW (109 CV);Automático;Diésel;-/- ;IT;-/- ;€ 23.500
+Mercedes-Benz A 250;#¿NOMBRE?;-/- (Año);118 kW (160 CV);Automático;Electro/Gasolina;-/- ;IT;32 g;€ 42.500
+Mercedes-Benz GLB 200;#¿NOMBRE?;-/- (Año);110 kW (150 CV);Automático;Diésel;-/- ;IT;126;€ 46.600
+Mercedes-Benz AMG GT;14.500 km;ene-19;470 kW (639 CV);Automático;Gasolina;11,3;DE;257;€ 145.800
+Mercedes-Benz E 220;21.550 km;mar-19;143 kW (194 CV);Automático;Diésel;5,1;DE;135;€ 39.990
+Mercedes-Benz GLA 200;1.500 km;ago-20;120 kW (163 CV);Automático;Gasolina;6,7;ES;130;€ 44.500
+Mercedes-Benz GLE 350;500 km;ago-20;200 kW (272 CV);Automático;Diésel;7,2;ES;177;€ 86.900
+Mercedes-Benz E 220;21.450 km;mar-19;143 kW (194 CV);Automático;Diésel;5,1;DE;135;€ 38.990
+Mercedes-Benz GLC 350;31.000 km;ene-19;190 kW (258 CV);Automático;Diésel;6,7;Unknown;177;€ 57.000
+Mercedes-Benz A 200;13.785 km;oct-19;120 kW (163 CV);Manual;Gasolina;5,3;DE;121;€ 27.500
+Mercedes-Benz B 180;26.850 km;abr-19;85 kW (116 CV);Automático;Diésel;4,4;DE;115;€ 29.990
+Mercedes-Benz E 200;23.200 km;may-19;118 kW (160 CV);Automático;Diésel;3,9;IT;102;€ 31.900
+Mercedes-Benz GLA 180;17.370 km;may-19;90 kW (122 CV);Manual;Gasolina;5,6;IT;131;€ 21.700
+Mercedes-Benz GLC 220;#¿NOMBRE?;-/- (Año);143 kW (194 CV);Automático;Diésel;5,2;IT;137;€ 57.080
+Mercedes-Benz GLC 220;#¿NOMBRE?;-/- (Año);143 kW (194 CV);Automático;Diésel;5,2;IT;137;€ 57.951
+Mercedes-Benz V 300;3.000 km;jun-20;176 kW (239 CV);Automático;Diésel;6,6;DE;175;€ 77.500
+Mercedes-Benz E 300;3.000 km;oct-19;143 kW (194 CV);Automático;Electro/Diésel;1,6;DE;41 g;€ 60.900
+Mercedes-Benz CLA 180;5.700 km;ene-19;90 kW (122 CV);Manual;Gasolina;6 l/;DE;142;€ 19.990
+Mercedes-Benz E 220;21.200 km;mar-19;143 kW (194 CV);Automático;Diésel;5,1;DE;135;€ 37.990
+Mercedes-Benz CLA 200;19.000 km;sep-19;110 kW (150 CV);Automático;Diésel;4,2;Unknown;110;€ 45.000
+Mercedes-Benz A 180;25.000 km;mar-19;80 kW (109 CV);Automático;Diésel;-/- ;IT;-/- ;€ 23.500
+Mercedes-Benz A 250;#¿NOMBRE?;-/- (Año);118 kW (160 CV);Automático;Electro/Gasolina;-/- ;IT;32 g;€ 42.500
+Mercedes-Benz GLB 200;#¿NOMBRE?;-/- (Año);110 kW (150 CV);Automático;Diésel;-/- ;IT;126;€ 46.600
+Mercedes-Benz AMG GT;14.500 km;ene-19;470 kW (639 CV);Automático;Gasolina;11,3;DE;257;€ 145.800
+Mercedes-Benz E 220;21.550 km;mar-19;143 kW (194 CV);Automático;Diésel;5,1;DE;135;€ 39.990
+Mercedes-Benz GLA 200;1.500 km;ago-20;120 kW (163 CV);Automático;Gasolina;6,7;ES;130;€ 44.500
+Mercedes-Benz GLE 350;500 km;ago-20;200 kW (272 CV);Automático;Diésel;7,2;ES;177;€ 86.900
+Mercedes-Benz E 220;21.450 km;mar-19;143 kW (194 CV);Automático;Diésel;5,1;DE;135;€ 38.990
+Mercedes-Benz GLC 350;31.000 km;ene-19;190 kW (258 CV);Automático;Diésel;6,7;Unknown;177;€ 57.000
+Mercedes-Benz A 200;13.785 km;oct-19;120 kW (163 CV);Manual;Gasolina;5,3;DE;121;€ 27.500
+Mercedes-Benz B 180;26.850 km;abr-19;85 kW (116 CV);Automático;Diésel;4,4;DE;115;€ 29.990
+Mercedes-Benz E 200;23.200 km;may-19;118 kW (160 CV);Automático;Diésel;3,9;IT;102;€ 31.900
+Mercedes-Benz GLA 180;17.370 km;may-19;90 kW (122 CV);Manual;Gasolina;5,6;IT;131;€ 21.700
+Mercedes-Benz GLC 220;#¿NOMBRE?;-/- (Año);143 kW (194 CV);Automático;Diésel;5,2;IT;137;€ 57.080
+Mercedes-Benz GLC 220;#¿NOMBRE?;-/- (Año);143 kW (194 CV);Automático;Diésel;5,2;IT;137;€ 57.951
+Mercedes-Benz V 300;3.000 km;jun-20;176 kW (239 CV);Automático;Diésel;6,6;DE;175;€ 77.500
+Mercedes-Benz E 300;3.000 km;oct-19;143 kW (194 CV);Automático;Electro/Diésel;1,6;DE;41 g;€ 60.900
+Mercedes-Benz CLA 180;5.700 km;ene-19;90 kW (122 CV);Manual;Gasolina;6 l/;DE;142;€ 19.990
+Mercedes-Benz E 220;21.200 km;mar-19;143 kW (194 CV);Automático;Diésel;5,1;DE;135;€ 37.990
+Mercedes-Benz CLA 200;19.000 km;sep-19;110 kW (150 CV);Automático;Diésel;4,2;Unknown;110;€ 45.000
+Mercedes-Benz A 180;25.000 km;mar-19;80 kW (109 CV);Automático;Diésel;-/- ;IT;-/- ;€ 23.500
+Mercedes-Benz A 250;#¿NOMBRE?;-/- (Año);118 kW (160 CV);Automático;Electro/Gasolina;-/- ;IT;32 g;€ 42.500
+Mercedes-Benz GLB 200;#¿NOMBRE?;-/- (Año);110 kW (150 CV);Automático;Diésel;-/- ;IT;126;€ 46.600
+Mercedes-Benz AMG GT;14.500 km;ene-19;470 kW (639 CV);Automático;Gasolina;11,3;DE;257;€ 145.800
+Mercedes-Benz E 220;21.550 km;mar-19;143 kW (194 CV);Automático;Diésel;5,1;DE;135;€ 39.990
+Mercedes-Benz GLA 200;1.500 km;ago-20;120 kW (163 CV);Automático;Gasolina;6,7;ES;130;€ 44.500
+Mercedes-Benz GLE 350;500 km;ago-20;200 kW (272 CV);Automático;Diésel;7,2;ES;177;€ 86.900
+Mercedes-Benz E 220;21.450 km;mar-19;143 kW (194 CV);Automático;Diésel;5,1;DE;135;€ 38.990
+Mercedes-Benz GLC 350;31.000 km;ene-19;190 kW (258 CV);Automático;Diésel;6,7;Unknown;177;€ 57.000
+Mercedes-Benz A 200;13.785 km;oct-19;120 kW (163 CV);Manual;Gasolina;5,3;DE;121;€ 27.500
+Mercedes-Benz B 180;26.850 km;abr-19;85 kW (116 CV);Automático;Diésel;4,4;DE;115;€ 29.990
+Mercedes-Benz E 200;23.200 km;may-19;118 kW (160 CV);Automático;Diésel;3,9;IT;102;€ 31.900
+Mercedes-Benz GLA 180;17.370 km;may-19;90 kW (122 CV);Manual;Gasolina;5,6;IT;131;€ 21.700
+Mercedes-Benz GLC 220;#¿NOMBRE?;-/- (Año);143 kW (194 CV);Automático;Diésel;5,2;IT;137;€ 57.080
+Mercedes-Benz GLC 220;#¿NOMBRE?;-/- (Año);143 kW (194 CV);Automático;Diésel;5,2;IT;137;€ 57.951
+Mercedes-Benz V 300;3.000 km;jun-20;176 kW (239 CV);Automático;Diésel;6,6;DE;175;€ 77.500
+Mercedes-Benz E 300;3.000 km;oct-19;143 kW (194 CV);Automático;Electro/Diésel;1,6;DE;41 g;€ 60.900
+Mercedes-Benz CLA 180;5.700 km;ene-19;90 kW (122 CV);Manual;Gasolina;6 l/;DE;142;€ 19.990
+Mercedes-Benz E 220;21.200 km;mar-19;143 kW (194 CV);Automático;Diésel;5,1;DE;135;€ 37.990
+Mercedes-Benz CLA 200;19.000 km;sep-19;110 kW (150 CV);Automático;Diésel;4,2;Unknown;110;€ 45.000
+Mercedes-Benz A 180;25.000 km;mar-19;80 kW (109 CV);Automático;Diésel;-/- ;IT;-/- ;€ 23.500
+Mercedes-Benz A 250;#¿NOMBRE?;-/- (Año);118 kW (160 CV);Automático;Electro/Gasolina;-/- ;IT;32 g;€ 42.500
+Mercedes-Benz GLB 200;#¿NOMBRE?;-/- (Año);110 kW (150 CV);Automático;Diésel;-/- ;IT;126;€ 46.600
+Mercedes-Benz AMG GT;14.500 km;ene-19;470 kW (639 CV);Automático;Gasolina;11,3;DE;257;€ 145.800
+Mercedes-Benz E 220;21.550 km;mar-19;143 kW (194 CV);Automático;Diésel;5,1;DE;135;€ 39.990
+Mercedes-Benz GLA 200;1.500 km;ago-20;120 kW (163 CV);Automático;Gasolina;6,7;ES;130;€ 44.500
+Mercedes-Benz GLE 350;500 km;ago-20;200 kW (272 CV);Automático;Diésel;7,2;ES;177;€ 86.900
+Mercedes-Benz E 220;21.450 km;mar-19;143 kW (194 CV);Automático;Diésel;5,1;DE;135;€ 38.990
+Mercedes-Benz GLC 350;31.000 km;ene-19;190 kW (258 CV);Automático;Diésel;6,7;Unknown;177;€ 57.000
+Mercedes-Benz A 200;13.785 km;oct-19;120 kW (163 CV);Manual;Gasolina;5,3;DE;121;€ 27.500
+Mercedes-Benz B 180;26.850 km;abr-19;85 kW (116 CV);Automático;Diésel;4,4;DE;115;€ 29.990
+Mercedes-Benz E 200;23.200 km;may-19;118 kW (160 CV);Automático;Diésel;3,9;IT;102;€ 31.900
+Mercedes-Benz GLA 180;17.370 km;may-19;90 kW (122 CV);Manual;Gasolina;5,6;IT;131;€ 21.700
+Mercedes-Benz GLC 220;#¿NOMBRE?;-/- (Año);143 kW (194 CV);Automático;Diésel;5,2;IT;137;€ 57.080
+Mercedes-Benz GLC 220;#¿NOMBRE?;-/- (Año);143 kW (194 CV);Automático;Diésel;5,2;IT;137;€ 57.951
+Mercedes-Benz V 300;3.000 km;jun-20;176 kW (239 CV);Automático;Diésel;6,6;DE;175;€ 77.500
+Mercedes-Benz E 300;3.000 km;oct-19;143 kW (194 CV);Automático;Electro/Diésel;1,6;DE;41 g;€ 60.900
+Mercedes-Benz CLA 180;5.700 km;ene-19;90 kW (122 CV);Manual;Gasolina;6 l/;DE;142;€ 19.990
+Mercedes-Benz E 220;21.200 km;mar-19;143 kW (194 CV);Automático;Diésel;5,1;DE;135;€ 37.990
+Mercedes-Benz CLA 200;19.000 km;sep-19;110 kW (150 CV);Automático;Diésel;4,2;Unknown;110;€ 45.000
+Mercedes-Benz A 180;25.000 km;mar-19;80 kW (109 CV);Automático;Diésel;-/- ;IT;-/- ;€ 23.500
+Mercedes-Benz A 250;#¿NOMBRE?;-/- (Año);118 kW (160 CV);Automático;Electro/Gasolina;-/- ;IT;32 g;€ 42.500
+Mercedes-Benz GLB 200;#¿NOMBRE?;-/- (Año);110 kW (150 CV);Automático;Diésel;-/- ;IT;126;€ 46.600
+Mercedes-Benz AMG GT;14.500 km;ene-19;470 kW (639 CV);Automático;Gasolina;11,3;DE;257;€ 145.800
+Mercedes-Benz E 220;21.550 km;mar-19;143 kW (194 CV);Automático;Diésel;5,1;DE;135;€ 39.990
+Mercedes-Benz GLA 200;1.500 km;ago-20;120 kW (163 CV);Automático;Gasolina;6,7;ES;130;€ 44.500
+Mercedes-Benz GLE 350;500 km;ago-20;200 kW (272 CV);Automático;Diésel;7,2;ES;177;€ 86.900
+Mercedes-Benz E 220;21.450 km;mar-19;143 kW (194 CV);Automático;Diésel;5,1;DE;135;€ 38.990
+Mercedes-Benz GLC 350;31.000 km;ene-19;190 kW (258 CV);Automático;Diésel;6,7;Unknown;177;€ 57.000
+Mercedes-Benz A 200;13.785 km;oct-19;120 kW (163 CV);Manual;Gasolina;5,3;DE;121;€ 27.500
+Mercedes-Benz B 180;26.850 km;abr-19;85 kW (116 CV);Automático;Diésel;4,4;DE;115;€ 29.990
+Mercedes-Benz E 200;23.200 km;may-19;118 kW (160 CV);Automático;Diésel;3,9;IT;102;€ 31.900
+Mercedes-Benz GLA 180;17.370 km;may-19;90 kW (122 CV);Manual;Gasolina;5,6;IT;131;€ 21.700
+Mercedes-Benz GLC 220;#¿NOMBRE?;-/- (Año);143 kW (194 CV);Automático;Diésel;5,2;IT;137;€ 57.080
+Mercedes-Benz GLC 220;#¿NOMBRE?;-/- (Año);143 kW (194 CV);Automático;Diésel;5,2;IT;137;€ 57.951
+Mercedes-Benz V 300;3.000 km;jun-20;176 kW (239 CV);Automático;Diésel;6,6;DE;175;€ 77.500
+Mercedes-Benz E 300;3.000 km;oct-19;143 kW (194 CV);Automático;Electro/Diésel;1,6;DE;41 g;€ 60.900
+Mercedes-Benz CLA 180;5.700 km;ene-19;90 kW (122 CV);Manual;Gasolina;6 l/;DE;142;€ 19.990
+Mercedes-Benz E 220;21.200 km;mar-19;143 kW (194 CV);Automático;Diésel;5,1;DE;135;€ 37.990
+Mercedes-Benz CLA 200;19.000 km;sep-19;110 kW (150 CV);Automático;Diésel;4,2;Unknown;110;€ 45.000
+Mercedes-Benz A 180;25.000 km;mar-19;80 kW (109 CV);Automático;Diésel;-/- ;IT;-/- ;€ 23.500
+Mercedes-Benz A 250;#¿NOMBRE?;-/- (Año);118 kW (160 CV);Automático;Electro/Gasolina;-/- ;IT;32 g;€ 42.500
+Mercedes-Benz GLB 200;#¿NOMBRE?;-/- (Año);110 kW (150 CV);Automático;Diésel;-/- ;IT;126;€ 46.600
+Mercedes-Benz AMG GT;14.500 km;ene-19;470 kW (639 CV);Automático;Gasolina;11,3;DE;257;€ 145.800
+Mercedes-Benz E 220;21.550 km;mar-19;143 kW (194 CV);Automático;Diésel;5,1;DE;135;€ 39.990
+Mercedes-Benz GLA 200;1.500 km;ago-20;120 kW (163 CV);Automático;Gasolina;6,7;ES;130;€ 44.500
+Mercedes-Benz GLE 350;500 km;ago-20;200 kW (272 CV);Automático;Diésel;7,2;ES;177;€ 86.900
+Mercedes-Benz E 220;21.450 km;mar-19;143 kW (194 CV);Automático;Diésel;5,1;DE;135;€ 38.990
+Mercedes-Benz GLC 350;31.000 km;ene-19;190 kW (258 CV);Automático;Diésel;6,7;Unknown;177;€ 57.000
+Mercedes-Benz A 200;13.785 km;oct-19;120 kW (163 CV);Manual;Gasolina;5,3;DE;121;€ 27.500
+Mercedes-Benz B 180;26.850 km;abr-19;85 kW (116 CV);Automático;Diésel;4,4;DE;115;€ 29.990
+Mercedes-Benz E 200;23.200 km;may-19;118 kW (160 CV);Automático;Diésel;3,9;IT;102;€ 31.900
+Mercedes-Benz GLA 180;17.370 km;may-19;90 kW (122 CV);Manual;Gasolina;5,6;IT;131;€ 21.700
+Mercedes-Benz GLC 220;#¿NOMBRE?;-/- (Año);143 kW (194 CV);Automático;Diésel;5,2;IT;137;€ 57.080
+Mercedes-Benz GLC 220;#¿NOMBRE?;-/- (Año);143 kW (194 CV);Automático;Diésel;5,2;IT;137;€ 57.951
+Mercedes-Benz V 300;3.000 km;jun-20;176 kW (239 CV);Automático;Diésel;6,6;DE;175;€ 77.500
+Mercedes-Benz E 300;3.000 km;oct-19;143 kW (194 CV);Automático;Electro/Diésel;1,6;DE;41 g;€ 60.900
+Mercedes-Benz CLA 180;5.700 km;ene-19;90 kW (122 CV);Manual;Gasolina;6 l/;DE;142;€ 19.990
+Mercedes-Benz E 220;21.200 km;mar-19;143 kW (194 CV);Automático;Diésel;5,1;DE;135;€ 37.990
+Mercedes-Benz CLA 200;19.000 km;sep-19;110 kW (150 CV);Automático;Diésel;4,2;Unknown;110;€ 45.000
+Mercedes-Benz A 180;25.000 km;mar-19;80 kW (109 CV);Automático;Diésel;-/- ;IT;-/- ;€ 23.500
+Mercedes-Benz A 250;#¿NOMBRE?;-/- (Año);118 kW (160 CV);Automático;Electro/Gasolina;-/- ;IT;32 g;€ 42.500
+Mercedes-Benz GLB 200;#¿NOMBRE?;-/- (Año);110 kW (150 CV);Automático;Diésel;-/- ;IT;126;€ 46.600
+Mercedes-Benz AMG GT;14.500 km;ene-19;470 kW (639 CV);Automático;Gasolina;11,3;DE;257;€ 145.800
+Mercedes-Benz E 220;21.550 km;mar-19;143 kW (194 CV);Automático;Diésel;5,1;DE;135;€ 39.990
+Mercedes-Benz GLA 200;1.500 km;ago-20;120 kW (163 CV);Automático;Gasolina;6,7;ES;130;€ 44.500
+Mercedes-Benz GLE 350;500 km;ago-20;200 kW (272 CV);Automático;Diésel;7,2;ES;177;€ 86.900
+Mercedes-Benz E 220;21.450 km;mar-19;143 kW (194 CV);Automático;Diésel;5,1;DE;135;€ 38.990
+Mercedes-Benz GLC 350;31.000 km;ene-19;190 kW (258 CV);Automático;Diésel;6,7;Unknown;177;€ 57.000
+Mercedes-Benz A 200;13.785 km;oct-19;120 kW (163 CV);Manual;Gasolina;5,3;DE;121;€ 27.500
+Mercedes-Benz B 180;26.850 km;abr-19;85 kW (116 CV);Automático;Diésel;4,4;DE;115;€ 29.990
+Mercedes-Benz E 200;23.200 km;may-19;118 kW (160 CV);Automático;Diésel;3,9;IT;102;€ 31.900
+Mercedes-Benz GLA 180;17.370 km;may-19;90 kW (122 CV);Manual;Gasolina;5,6;IT;131;€ 21.700
+Mercedes-Benz GLC 220;#¿NOMBRE?;-/- (Año);143 kW (194 CV);Automático;Diésel;5,2;IT;137;€ 57.080
+Mercedes-Benz GLC 220;#¿NOMBRE?;-/- (Año);143 kW (194 CV);Automático;Diésel;5,2;IT;137;€ 57.951
+Mercedes-Benz V 300;3.000 km;jun-20;176 kW (239 CV);Automático;Diésel;6,6;DE;175;€ 77.500
+Mercedes-Benz E 300;3.000 km;oct-19;143 kW (194 CV);Automático;Electro/Diésel;1,6;DE;41 g;€ 60.900
+Mercedes-Benz CLA 180;5.700 km;ene-19;90 kW (122 CV);Manual;Gasolina;6 l/;DE;142;€ 19.990
+Mercedes-Benz E 220;21.200 km;mar-19;143 kW (194 CV);Automático;Diésel;5,1;DE;135;€ 37.990
+Mercedes-Benz CLA 200;19.000 km;sep-19;110 kW (150 CV);Automático;Diésel;4,2;Unknown;110;€ 45.000
+Mercedes-Benz A 180;25.000 km;mar-19;80 kW (109 CV);Automático;Diésel;-/- ;IT;-/- ;€ 23.500
+Mercedes-Benz A 250;#¿NOMBRE?;-/- (Año);118 kW (160 CV);Automático;Electro/Gasolina;-/- ;IT;32 g;€ 42.500
+Mercedes-Benz GLB 200;#¿NOMBRE?;-/- (Año);110 kW (150 CV);Automático;Diésel;-/- ;IT;126;€ 46.600
+Mercedes-Benz AMG GT;14.500 km;ene-19;470 kW (639 CV);Automático;Gasolina;11,3;DE;257;€ 145.800
+Mercedes-Benz E 220;21.550 km;mar-19;143 kW (194 CV);Automático;Diésel;5,1;DE;135;€ 39.990
+Mercedes-Benz GLA 200;1.500 km;ago-20;120 kW (163 CV);Automático;Gasolina;6,7;ES;130;€ 44.500
+Mercedes-Benz GLE 350;500 km;ago-20;200 kW (272 CV);Automático;Diésel;7,2;ES;177;€ 86.900
+Mercedes-Benz E 220;21.450 km;mar-19;143 kW (194 CV);Automático;Diésel;5,1;DE;135;€ 38.990
+Mercedes-Benz GLC 350;31.000 km;ene-19;190 kW (258 CV);Automático;Diésel;6,7;Unknown;177;€ 57.000
+Mercedes-Benz A 200;13.785 km;oct-19;120 kW (163 CV);Manual;Gasolina;5,3;DE;121;€ 27.500
+Mercedes-Benz B 180;26.850 km;abr-19;85 kW (116 CV);Automático;Diésel;4,4;DE;115;€ 29.990
+Mercedes-Benz E 200;23.200 km;may-19;118 kW (160 CV);Automático;Diésel;3,9;IT;102;€ 31.900
+Mercedes-Benz GLA 180;17.370 km;may-19;90 kW (122 CV);Manual;Gasolina;5,6;IT;131;€ 21.700
+Mercedes-Benz GLC 220;#¿NOMBRE?;-/- (Año);143 kW (194 CV);Automático;Diésel;5,2;IT;137;€ 57.080
+Mercedes-Benz GLC 220;#¿NOMBRE?;-/- (Año);143 kW (194 CV);Automático;Diésel;5,2;IT;137;€ 57.951
+Mercedes-Benz V 300;3.000 km;jun-20;176 kW (239 CV);Automático;Diésel;6,6;DE;175;€ 77.500
+Mercedes-Benz E 300;3.000 km;oct-19;143 kW (194 CV);Automático;Electro/Diésel;1,6;DE;41 g;€ 60.900
+Mercedes-Benz CLA 180;5.700 km;ene-19;90 kW (122 CV);Manual;Gasolina;6 l/;DE;142;€ 19.990
+Mercedes-Benz E 220;21.200 km;mar-19;143 kW (194 CV);Automático;Diésel;5,1;DE;135;€ 37.990
+Mercedes-Benz CLA 200;19.000 km;sep-19;110 kW (150 CV);Automático;Diésel;4,2;Unknown;110;€ 45.000
+Mercedes-Benz A 180;25.000 km;mar-19;80 kW (109 CV);Automático;Diésel;-/- ;IT;-/- ;€ 23.500
+Mercedes-Benz A 250;#¿NOMBRE?;-/- (Año);118 kW (160 CV);Automático;Electro/Gasolina;-/- ;IT;32 g;€ 42.500
+Mercedes-Benz GLB 200;#¿NOMBRE?;-/- (Año);110 kW (150 CV);Automático;Diésel;-/- ;IT;126;€ 46.600
+Mercedes-Benz AMG GT;14.500 km;ene-19;470 kW (639 CV);Automático;Gasolina;11,3;DE;257;€ 145.800
+Mercedes-Benz E 220;21.550 km;mar-19;143 kW (194 CV);Automático;Diésel;5,1;DE;135;€ 39.990
+Mercedes-Benz GLA 200;1.500 km;ago-20;120 kW (163 CV);Automático;Gasolina;6,7;ES;130;€ 44.500
+Mercedes-Benz GLE 350;500 km;ago-20;200 kW (272 CV);Automático;Diésel;7,2;ES;177;€ 86.900
+Mercedes-Benz E 220;21.450 km;mar-19;143 kW (194 CV);Automático;Diésel;5,1;DE;135;€ 38.990
+Mercedes-Benz GLC 350;31.000 km;ene-19;190 kW (258 CV);Automático;Diésel;6,7;Unknown;177;€ 57.000
+Mercedes-Benz A 200;13.785 km;oct-19;120 kW (163 CV);Manual;Gasolina;5,3;DE;121;€ 27.500
+Mercedes-Benz B 180;26.850 km;abr-19;85 kW (116 CV);Automático;Diésel;4,4;DE;115;€ 29.990
+Mercedes-Benz E 200;23.200 km;may-19;118 kW (160 CV);Automático;Diésel;3,9;IT;102;€ 31.900
+Mercedes-Benz GLA 180;17.370 km;may-19;90 kW (122 CV);Manual;Gasolina;5,6;IT;131;€ 21.700
+Mercedes-Benz GLC 220;#¿NOMBRE?;-/- (Año);143 kW (194 CV);Automático;Diésel;5,2;IT;137;€ 57.080
+Mercedes-Benz GLC 220;#¿NOMBRE?;-/- (Año);143 kW (194 CV);Automático;Diésel;5,2;IT;137;€ 57.951
+Mercedes-Benz V 300;3.000 km;jun-20;176 kW (239 CV);Automático;Diésel;6,6;DE;175;€ 77.500
+Mercedes-Benz E 300;3.000 km;oct-19;143 kW (194 CV);Automático;Electro/Diésel;1,6;DE;41 g;€ 60.900
+Mercedes-Benz CLA 180;5.700 km;ene-19;90 kW (122 CV);Manual;Gasolina;6 l/;DE;142;€ 19.990
+Mercedes-Benz E 220;21.200 km;mar-19;143 kW (194 CV);Automático;Diésel;5,1;DE;135;€ 37.990
+Mercedes-Benz CLA 200;19.000 km;sep-19;110 kW (150 CV);Automático;Diésel;4,2;Unknown;110;€ 45.000
+Mercedes-Benz A 180;25.000 km;mar-19;80 kW (109 CV);Automático;Diésel;-/- ;IT;-/- ;€ 23.500
+Mercedes-Benz A 250;#¿NOMBRE?;-/- (Año);118 kW (160 CV);Automático;Electro/Gasolina;-/- ;IT;32 g;€ 42.500
+Mercedes-Benz GLB 200;#¿NOMBRE?;-/- (Año);110 kW (150 CV);Automático;Diésel;-/- ;IT;126;€ 46.600
+Mercedes-Benz AMG GT;14.500 km;ene-19;470 kW (639 CV);Automático;Gasolina;11,3;DE;257;€ 145.800
+Mercedes-Benz E 220;21.550 km;mar-19;143 kW (194 CV);Automático;Diésel;5,1;DE;135;€ 39.990
+Mercedes-Benz GLA 200;1.500 km;ago-20;120 kW (163 CV);Automático;Gasolina;6,7;ES;130;€ 44.500
+Mercedes-Benz GLE 350;500 km;ago-20;200 kW (272 CV);Automático;Diésel;7,2;ES;177;€ 86.900
+Mercedes-Benz E 220;21.450 km;mar-19;143 kW (194 CV);Automático;Diésel;5,1;DE;135;€ 38.990
+Mercedes-Benz GLC 350;31.000 km;ene-19;190 kW (258 CV);Automático;Diésel;6,7;Unknown;177;€ 57.000
+Mercedes-Benz A 200;13.785 km;oct-19;120 kW (163 CV);Manual;Gasolina;5,3;DE;121;€ 27.500
+Mercedes-Benz B 180;26.850 km;abr-19;85 kW (116 CV);Automático;Diésel;4,4;DE;115;€ 29.990
+Mercedes-Benz E 200;23.200 km;may-19;118 kW (160 CV);Automático;Diésel;3,9;IT;102;€ 31.900
+Mercedes-Benz GLA 180;17.370 km;may-19;90 kW (122 CV);Manual;Gasolina;5,6;IT;131;€ 21.700
+Mercedes-Benz GLC 220;#¿NOMBRE?;-/- (Año);143 kW (194 CV);Automático;Diésel;5,2;IT;137;€ 57.080
+Mercedes-Benz GLC 220;#¿NOMBRE?;-/- (Año);143 kW (194 CV);Automático;Diésel;5,2;IT;137;€ 57.951
+Mercedes-Benz V 300;3.000 km;jun-20;176 kW (239 CV);Automático;Diésel;6,6;DE;175;€ 77.500
+Mercedes-Benz E 300;3.000 km;oct-19;143 kW (194 CV);Automático;Electro/Diésel;1,6;DE;41 g;€ 60.900
+Mercedes-Benz CLA 180;5.700 km;ene-19;90 kW (122 CV);Manual;Gasolina;6 l/;DE;142;€ 19.990
+Mercedes-Benz E 220;21.200 km;mar-19;143 kW (194 CV);Automático;Diésel;5,1;DE;135;€ 37.990
+Mercedes-Benz CLA 200;19.000 km;sep-19;110 kW (150 CV);Automático;Diésel;4,2;Unknown;110;€ 45.000
+Mercedes-Benz A 180;25.000 km;mar-19;80 kW (109 CV);Automático;Diésel;-/- ;IT;-/- ;€ 23.500
+Mercedes-Benz A 250;#¿NOMBRE?;-/- (Año);118 kW (160 CV);Automático;Electro/Gasolina;-/- ;IT;32 g;€ 42.500
+Mercedes-Benz GLB 200;#¿NOMBRE?;-/- (Año);110 kW (150 CV);Automático;Diésel;-/- ;IT;126;€ 46.600
+Mercedes-Benz AMG GT;14.500 km;ene-19;470 kW (639 CV);Automático;Gasolina;11,3;DE;257;€ 145.800
+Mercedes-Benz E 220;21.550 km;mar-19;143 kW (194 CV);Automático;Diésel;5,1;DE;135;€ 39.990
+Mercedes-Benz GLA 200;1.500 km;ago-20;120 kW (163 CV);Automático;Gasolina;6,7;ES;130;€ 44.500
+Mercedes-Benz GLE 350;500 km;ago-20;200 kW (272 CV);Automático;Diésel;7,2;ES;177;€ 86.900
+Mercedes-Benz E 220;21.450 km;mar-19;143 kW (194 CV);Automático;Diésel;5,1;DE;135;€ 38.990
+Mercedes-Benz GLC 350;31.000 km;ene-19;190 kW (258 CV);Automático;Diésel;6,7;Unknown;177;€ 57.000
+Mercedes-Benz A 200;13.785 km;oct-19;120 kW (163 CV);Manual;Gasolina;5,3;DE;121;€ 27.500
+Mercedes-Benz B 180;26.850 km;abr-19;85 kW (116 CV);Automático;Diésel;4,4;DE;115;€ 29.990
+Mercedes-Benz E 200;23.200 km;may-19;118 kW (160 CV);Automático;Diésel;3,9;IT;102;€ 31.900
+Mercedes-Benz GLA 180;17.370 km;may-19;90 kW (122 CV);Manual;Gasolina;5,6;IT;131;€ 21.700
+Mercedes-Benz GLC 220;#¿NOMBRE?;-/- (Año);143 kW (194 CV);Automático;Diésel;5,2;IT;137;€ 57.080
+Mercedes-Benz GLC 220;#¿NOMBRE?;-/- (Año);143 kW (194 CV);Automático;Diésel;5,2;IT;137;€ 57.951
+Mercedes-Benz V 300;3.000 km;jun-20;176 kW (239 CV);Automático;Diésel;6,6;DE;175;€ 77.500
+Mercedes-Benz E 300;3.000 km;oct-19;143 kW (194 CV);Automático;Electro/Diésel;1,6;DE;41 g;€ 60.900
+Mercedes-Benz CLA 180;5.700 km;ene-19;90 kW (122 CV);Manual;Gasolina;6 l/;DE;142;€ 19.990
+Mercedes-Benz E 220;21.200 km;mar-19;143 kW (194 CV);Automático;Diésel;5,1;DE;135;€ 37.990
+Mercedes-Benz CLA 200;19.000 km;sep-19;110 kW (150 CV);Automático;Diésel;4,2;Unknown;110;€ 45.000
+Mercedes-Benz A 180;25.000 km;mar-19;80 kW (109 CV);Automático;Diésel;-/- ;IT;-/- ;€ 23.500
+Mercedes-Benz A 250;#¿NOMBRE?;-/- (Año);118 kW (160 CV);Automático;Electro/Gasolina;-/- ;IT;32 g;€ 42.500
+Mercedes-Benz GLB 200;#¿NOMBRE?;-/- (Año);110 kW (150 CV);Automático;Diésel;-/- ;IT;126;€ 46.600
+Mercedes-Benz AMG GT;14.500 km;ene-19;470 kW (639 CV);Automático;Gasolina;11,3;DE;257;€ 145.800
+Mercedes-Benz E 220;21.550 km;mar-19;143 kW (194 CV);Automático;Diésel;5,1;DE;135;€ 39.990
+Mercedes-Benz GLA 200;1.500 km;ago-20;120 kW (163 CV);Automático;Gasolina;6,7;ES;130;€ 44.500
+Mercedes-Benz GLE 350;500 km;ago-20;200 kW (272 CV);Automático;Diésel;7,2;ES;177;€ 86.900
+Mercedes-Benz E 220;21.450 km;mar-19;143 kW (194 CV);Automático;Diésel;5,1;DE;135;€ 38.990
+Mercedes-Benz GLC 350;31.000 km;ene-19;190 kW (258 CV);Automático;Diésel;6,7;Unknown;177;€ 57.000
+Mercedes-Benz A 200;13.785 km;oct-19;120 kW (163 CV);Manual;Gasolina;5,3;DE;121;€ 27.500
+Mercedes-Benz B 180;26.850 km;abr-19;85 kW (116 CV);Automático;Diésel;4,4;DE;115;€ 29.990
+Mercedes-Benz E 200;23.200 km;may-19;118 kW (160 CV);Automático;Diésel;3,9;IT;102;€ 31.900
+Mercedes-Benz GLA 180;17.370 km;may-19;90 kW (122 CV);Manual;Gasolina;5,6;IT;131;€ 21.700
+Mercedes-Benz GLC 220;#¿NOMBRE?;-/- (Año);143 kW (194 CV);Automático;Diésel;5,2;IT;137;€ 57.080
+Mercedes-Benz GLC 220;#¿NOMBRE?;-/- (Año);143 kW (194 CV);Automático;Diésel;5,2;IT;137;€ 57.951
+Mercedes-Benz V 300;3.000 km;jun-20;176 kW (239 CV);Automático;Diésel;6,6;DE;175;€ 77.500
+Mercedes-Benz E 300;3.000 km;oct-19;143 kW (194 CV);Automático;Electro/Diésel;1,6;DE;41 g;€ 60.900
+Mercedes-Benz CLA 180;5.700 km;ene-19;90 kW (122 CV);Manual;Gasolina;6 l/;DE;142;€ 19.990
+Mercedes-Benz E 220;21.200 km;mar-19;143 kW (194 CV);Automático;Diésel;5,1;DE;135;€ 37.990
+Mercedes-Benz CLA 200;19.000 km;sep-19;110 kW (150 CV);Automático;Diésel;4,2;Unknown;110;€ 45.000
+Mercedes-Benz A 180;25.000 km;mar-19;80 kW (109 CV);Automático;Diésel;-/- ;IT;-/- ;€ 23.500
+Mercedes-Benz A 250;#¿NOMBRE?;-/- (Año);118 kW (160 CV);Automático;Electro/Gasolina;-/- ;IT;32 g;€ 42.500
+Mercedes-Benz GLB 200;#¿NOMBRE?;-/- (Año);110 kW (150 CV);Automático;Diésel;-/- ;IT;126;€ 46.600
+Mercedes-Benz AMG GT;14.500 km;ene-19;470 kW (639 CV);Automático;Gasolina;11,3;DE;257;€ 145.800
+Mercedes-Benz E 220;21.550 km;mar-19;143 kW (194 CV);Automático;Diésel;5,1;DE;135;€ 39.990
+Mercedes-Benz GLA 200;1.500 km;ago-20;120 kW (163 CV);Automático;Gasolina;6,7;ES;130;€ 44.500
+Mercedes-Benz GLE 350;500 km;ago-20;200 kW (272 CV);Automático;Diésel;7,2;ES;177;€ 86.900
+Mercedes-Benz E 220;21.450 km;mar-19;143 kW (194 CV);Automático;Diésel;5,1;DE;135;€ 38.990
+Mercedes-Benz GLC 350;31.000 km;ene-19;190 kW (258 CV);Automático;Diésel;6,7;Unknown;177;€ 57.000
+Mercedes-Benz A 200;13.785 km;oct-19;120 kW (163 CV);Manual;Gasolina;5,3;DE;121;€ 27.500
+Mercedes-Benz B 180;26.850 km;abr-19;85 kW (116 CV);Automático;Diésel;4,4;DE;115;€ 29.990
+Mercedes-Benz E 200;23.200 km;may-19;118 kW (160 CV);Automático;Diésel;3,9;IT;102;€ 31.900
+Mercedes-Benz GLA 180;17.370 km;may-19;90 kW (122 CV);Manual;Gasolina;5,6;IT;131;€ 21.700
+Mercedes-Benz GLC 220;#¿NOMBRE?;-/- (Año);143 kW (194 CV);Automático;Diésel;5,2;IT;137;€ 57.080
+Mercedes-Benz GLC 220;#¿NOMBRE?;-/- (Año);143 kW (194 CV);Automático;Diésel;5,2;IT;137;€ 57.951
+Mercedes-Benz V 300;3.000 km;jun-20;176 kW (239 CV);Automático;Diésel;6,6;DE;175;€ 77.500
+Mercedes-Benz E 300;3.000 km;oct-19;143 kW (194 CV);Automático;Electro/Diésel;1,6;DE;41 g;€ 60.900
+Mercedes-Benz CLA 180;5.700 km;ene-19;90 kW (122 CV);Manual;Gasolina;6 l/;DE;142;€ 19.990
+Mercedes-Benz E 220;21.200 km;mar-19;143 kW (194 CV);Automático;Diésel;5,1;DE;135;€ 37.990
+Mercedes-Benz CLA 200;19.000 km;sep-19;110 kW (150 CV);Automático;Diésel;4,2;Unknown;110;€ 45.000
+Mercedes-Benz A 180;25.000 km;mar-19;80 kW (109 CV);Automático;Diésel;-/- ;IT;-/- ;€ 23.500
+Mercedes-Benz A 250;#¿NOMBRE?;-/- (Año);118 kW (160 CV);Automático;Electro/Gasolina;-/- ;IT;32 g;€ 42.500
+Mercedes-Benz GLB 200;#¿NOMBRE?;-/- (Año);110 kW (150 CV);Automático;Diésel;-/- ;IT;126;€ 46.600
+Mercedes-Benz AMG GT;14.500 km;ene-19;470 kW (639 CV);Automático;Gasolina;11,3;DE;257;€ 145.800
+Mercedes-Benz E 220;21.550 km;mar-19;143 kW (194 CV);Automático;Diésel;5,1;DE;135;€ 39.990
+Mercedes-Benz GLA 200;1.500 km;ago-20;120 kW (163 CV);Automático;Gasolina;6,7;ES;130;€ 44.500
+Mercedes-Benz GLE 350;500 km;ago-20;200 kW (272 CV);Automático;Diésel;7,2;ES;177;€ 86.900
+Mercedes-Benz E 220;21.450 km;mar-19;143 kW (194 CV);Automático;Diésel;5,1;DE;135;€ 38.990
+Mercedes-Benz GLC 350;31.000 km;ene-19;190 kW (258 CV);Automático;Diésel;6,7;Unknown;177;€ 57.000
+Mercedes-Benz A 200;13.785 km;oct-19;120 kW (163 CV);Manual;Gasolina;5,3;DE;121;€ 27.500
+Mercedes-Benz B 180;26.850 km;abr-19;85 kW (116 CV);Automático;Diésel;4,4;DE;115;€ 29.990
+Mercedes-Benz E 200;23.200 km;may-19;118 kW (160 CV);Automático;Diésel;3,9;IT;102;€ 31.900
+Mercedes-Benz GLA 180;17.370 km;may-19;90 kW (122 CV);Manual;Gasolina;5,6;IT;131;€ 21.700
+Mercedes-Benz GLC 220;#¿NOMBRE?;-/- (Año);143 kW (194 CV);Automático;Diésel;5,2;IT;137;€ 57.080
+Mercedes-Benz GLC 220;#¿NOMBRE?;-/- (Año);143 kW (194 CV);Automático;Diésel;5,2;IT;137;€ 57.951
+Mercedes-Benz V 300;3.000 km;jun-20;176 kW (239 CV);Automático;Diésel;6,6;DE;175;€ 77.500
+Mercedes-Benz E 300;3.000 km;oct-19;143 kW (194 CV);Automático;Electro/Diésel;1,6;DE;41 g;€ 60.900
+Mercedes-Benz CLA 180;5.700 km;ene-19;90 kW (122 CV);Manual;Gasolina;6 l/;DE;142;€ 19.990
+Mercedes-Benz E 220;21.200 km;mar-19;143 kW (194 CV);Automático;Diésel;5,1;DE;135;€ 37.990
+Mercedes-Benz CLA 200;19.000 km;sep-19;110 kW (150 CV);Automático;Diésel;4,2;Unknown;110;€ 45.000
+Mercedes-Benz A 180;25.000 km;mar-19;80 kW (109 CV);Automático;Diésel;-/- ;IT;-/- ;€ 23.500
+Mercedes-Benz A 250;#¿NOMBRE?;-/- (Año);118 kW (160 CV);Automático;Electro/Gasolina;-/- ;IT;32 g;€ 42.500
+Mercedes-Benz GLB 200;#¿NOMBRE?;-/- (Año);110 kW (150 CV);Automático;Diésel;-/- ;IT;126;€ 46.600
+Mercedes-Benz AMG GT;14.500 km;ene-19;470 kW (639 CV);Automático;Gasolina;11,3;DE;257;€ 145.800
+Mercedes-Benz E 220;21.550 km;mar-19;143 kW (194 CV);Automático;Diésel;5,1;DE;135;€ 39.990
+Mercedes-Benz GLA 200;1.500 km;ago-20;120 kW (163 CV);Automático;Gasolina;6,7;ES;130;€ 44.500
+Mercedes-Benz GLE 350;500 km;ago-20;200 kW (272 CV);Automático;Diésel;7,2;ES;177;€ 86.900
+Mercedes-Benz E 220;21.450 km;mar-19;143 kW (194 CV);Automático;Diésel;5,1;DE;135;€ 38.990
+Mercedes-Benz GLC 350;31.000 km;ene-19;190 kW (258 CV);Automático;Diésel;6,7;Unknown;177;€ 57.000
+Mercedes-Benz A 200;13.785 km;oct-19;120 kW (163 CV);Manual;Gasolina;5,3;DE;121;€ 27.500
+Mercedes-Benz B 180;26.850 km;abr-19;85 kW (116 CV);Automático;Diésel;4,4;DE;115;€ 29.990
+Mercedes-Benz E 200;23.200 km;may-19;118 kW (160 CV);Automático;Diésel;3,9;IT;102;€ 31.900
+Mercedes-Benz GLA 180;17.370 km;may-19;90 kW (122 CV);Manual;Gasolina;5,6;IT;131;€ 21.700
+Mercedes-Benz GLC 220;#¿NOMBRE?;-/- (Año);143 kW (194 CV);Automático;Diésel;5,2;IT;137;€ 57.080
+Mercedes-Benz GLC 220;#¿NOMBRE?;-/- (Año);143 kW (194 CV);Automático;Diésel;5,2;IT;137;€ 57.951
+Mercedes-Benz V 300;3.000 km;jun-20;176 kW (239 CV);Automático;Diésel;6,6;DE;175;€ 77.500
+Mercedes-Benz E 300;3.000 km;oct-19;143 kW (194 CV);Automático;Electro/Diésel;1,6;DE;41 g;€ 60.900
+Mercedes-Benz CLA 180;5.700 km;ene-19;90 kW (122 CV);Manual;Gasolina;6 l/;DE;142;€ 19.990
+Mercedes-Benz E 220;21.200 km;mar-19;143 kW (194 CV);Automático;Diésel;5,1;DE;135;€ 37.990
+Mercedes-Benz CLA 200;19.000 km;sep-19;110 kW (150 CV);Automático;Diésel;4,2;Unknown;110;€ 45.000
+Mercedes-Benz A 180;25.000 km;mar-19;80 kW (109 CV);Automático;Diésel;-/- ;IT;-/- ;€ 23.500
+Mercedes-Benz A 250;#¿NOMBRE?;-/- (Año);118 kW (160 CV);Automático;Electro/Gasolina;-/- ;IT;32 g;€ 42.500
+Mercedes-Benz GLB 200;#¿NOMBRE?;-/- (Año);110 kW (150 CV);Automático;Diésel;-/- ;IT;126;€ 46.600
+Mercedes-Benz AMG GT;14.500 km;ene-19;470 kW (639 CV);Automático;Gasolina;11,3;DE;257;€ 145.800
+Mercedes-Benz E 220;21.550 km;mar-19;143 kW (194 CV);Automático;Diésel;5,1;DE;135;€ 39.990
+Mercedes-Benz GLA 200;1.500 km;ago-20;120 kW (163 CV);Automático;Gasolina;6,7;ES;130;€ 44.500
+Mercedes-Benz GLE 350;500 km;ago-20;200 kW (272 CV);Automático;Diésel;7,2;ES;177;€ 86.900
+Mercedes-Benz E 220;21.450 km;mar-19;143 kW (194 CV);Automático;Diésel;5,1;DE;135;€ 38.990
+Mercedes-Benz GLC 350;31.000 km;ene-19;190 kW (258 CV);Automático;Diésel;6,7;Unknown;177;€ 57.000
+Mercedes-Benz A 200;13.785 km;oct-19;120 kW (163 CV);Manual;Gasolina;5,3;DE;121;€ 27.500
+Mercedes-Benz B 180;26.850 km;abr-19;85 kW (116 CV);Automático;Diésel;4,4;DE;115;€ 29.990
+Mercedes-Benz E 200;23.200 km;may-19;118 kW (160 CV);Automático;Diésel;3,9;IT;102;€ 31.900
+Mercedes-Benz GLA 180;17.370 km;may-19;90 kW (122 CV);Manual;Gasolina;5,6;IT;131;€ 21.700
+Mercedes-Benz GLC 220;#¿NOMBRE?;-/- (Año);143 kW (194 CV);Automático;Diésel;5,2;IT;137;€ 57.080
+Mercedes-Benz GLC 220;#¿NOMBRE?;-/- (Año);143 kW (194 CV);Automático;Diésel;5,2;IT;137;€ 57.951
+Mercedes-Benz V 300;3.000 km;jun-20;176 kW (239 CV);Automático;Diésel;6,6;DE;175;€ 77.500
+Mercedes-Benz E 300;3.000 km;oct-19;143 kW (194 CV);Automático;Electro/Diésel;1,6;DE;41 g;€ 60.900
+Mercedes-Benz CLA 180;5.700 km;ene-19;90 kW (122 CV);Manual;Gasolina;6 l/;DE;142;€ 19.990
+Mercedes-Benz E 220;21.200 km;mar-19;143 kW (194 CV);Automático;Diésel;5,1;DE;135;€ 37.990
+Mercedes-Benz CLA 200;19.000 km;sep-19;110 kW (150 CV);Automático;Diésel;4,2;Unknown;110;€ 45.000
+Mercedes-Benz A 180;25.000 km;mar-19;80 kW (109 CV);Automático;Diésel;-/- ;IT;-/- ;€ 23.500
+Mercedes-Benz A 250;#¿NOMBRE?;-/- (Año);118 kW (160 CV);Automático;Electro/Gasolina;-/- ;IT;32 g;€ 42.500
+Mercedes-Benz GLB 200;#¿NOMBRE?;-/- (Año);110 kW (150 CV);Automático;Diésel;-/- ;IT;126;€ 46.600
+Mercedes-Benz AMG GT;14.500 km;ene-19;470 kW (639 CV);Automático;Gasolina;11,3;DE;257;€ 145.800
+Mercedes-Benz E 220;21.550 km;mar-19;143 kW (194 CV);Automático;Diésel;5,1;DE;135;€ 39.990
+Mercedes-Benz GLA 200;1.500 km;ago-20;120 kW (163 CV);Automático;Gasolina;6,7;ES;130;€ 44.500
+Mercedes-Benz GLE 350;500 km;ago-20;200 kW (272 CV);Automático;Diésel;7,2;ES;177;€ 86.900
+Mercedes-Benz E 220;21.450 km;mar-19;143 kW (194 CV);Automático;Diésel;5,1;DE;135;€ 38.990
+Mercedes-Benz GLC 350;31.000 km;ene-19;190 kW (258 CV);Automático;Diésel;6,7;Unknown;177;€ 57.000
+Mercedes-Benz A 200;13.785 km;oct-19;120 kW (163 CV);Manual;Gasolina;5,3;DE;121;€ 27.500
+Mercedes-Benz B 180;26.850 km;abr-19;85 kW (116 CV);Automático;Diésel;4,4;DE;115;€ 29.990
+Mercedes-Benz E 200;23.200 km;may-19;118 kW (160 CV);Automático;Diésel;3,9;IT;102;€ 31.900
+Mercedes-Benz GLA 180;17.370 km;may-19;90 kW (122 CV);Manual;Gasolina;5,6;IT;131;€ 21.700
+Mercedes-Benz GLC 220;#¿NOMBRE?;-/- (Año);143 kW (194 CV);Automático;Diésel;5,2;IT;137;€ 57.080
+Mercedes-Benz GLC 220;#¿NOMBRE?;-/- (Año);143 kW (194 CV);Automático;Diésel;5,2;IT;137;€ 57.951
+Mercedes-Benz V 300;3.000 km;jun-20;176 kW (239 CV);Automático;Diésel;6,6;DE;175;€ 77.500
+Mercedes-Benz E 300;3.000 km;oct-19;143 kW (194 CV);Automático;Electro/Diésel;1,6;DE;41 g;€ 60.900
+Mercedes-Benz CLA 180;5.700 km;ene-19;90 kW (122 CV);Manual;Gasolina;6 l/;DE;142;€ 19.990
+Mercedes-Benz E 220;21.200 km;mar-19;143 kW (194 CV);Automático;Diésel;5,1;DE;135;€ 37.990
+Mercedes-Benz CLA 200;19.000 km;sep-19;110 kW (150 CV);Automático;Diésel;4,2;Unknown;110;€ 45.000
+Mercedes-Benz A 180;25.000 km;mar-19;80 kW (109 CV);Automático;Diésel;-/- ;IT;-/- ;€ 23.500
+Mercedes-Benz A 250;#¿NOMBRE?;-/- (Año);118 kW (160 CV);Automático;Electro/Gasolina;-/- ;IT;32 g;€ 42.500
+Mercedes-Benz GLB 200;#¿NOMBRE?;-/- (Año);110 kW (150 CV);Automático;Diésel;-/- ;IT;126;€ 46.600
+Mercedes-Benz AMG GT;14.500 km;ene-19;470 kW (639 CV);Automático;Gasolina;11,3;DE;257;€ 145.800
+Mercedes-Benz E 220;21.550 km;mar-19;143 kW (194 CV);Automático;Diésel;5,1;DE;135;€ 39.990
+Mercedes-Benz GLA 200;1.500 km;ago-20;120 kW (163 CV);Automático;Gasolina;6,7;ES;130;€ 44.500
+Mercedes-Benz GLE 350;500 km;ago-20;200 kW (272 CV);Automático;Diésel;7,2;ES;177;€ 86.900
+Mercedes-Benz E 220;21.450 km;mar-19;143 kW (194 CV);Automático;Diésel;5,1;DE;135;€ 38.990
+Mercedes-Benz GLC 350;31.000 km;ene-19;190 kW (258 CV);Automático;Diésel;6,7;Unknown;177;€ 57.000
+Mercedes-Benz A 200;13.785 km;oct-19;120 kW (163 CV);Manual;Gasolina;5,3;DE;121;€ 27.500
+Mercedes-Benz B 180;26.850 km;abr-19;85 kW (116 CV);Automático;Diésel;4,4;DE;115;€ 29.990
+Mercedes-Benz E 200;23.200 km;may-19;118 kW (160 CV);Automático;Diésel;3,9;IT;102;€ 31.900
+Mercedes-Benz GLA 180;17.370 km;may-19;90 kW (122 CV);Manual;Gasolina;5,6;IT;131;€ 21.700
+Mercedes-Benz GLC 220;#¿NOMBRE?;-/- (Año);143 kW (194 CV);Automático;Diésel;5,2;IT;137;€ 57.080
+Mercedes-Benz GLC 220;#¿NOMBRE?;-/- (Año);143 kW (194 CV);Automático;Diésel;5,2;IT;137;€ 57.951
+Mercedes-Benz V 300;3.000 km;jun-20;176 kW (239 CV);Automático;Diésel;6,6;DE;175;€ 77.500
+Mercedes-Benz E 300;3.000 km;oct-19;143 kW (194 CV);Automático;Electro/Diésel;1,6;DE;41 g;€ 60.900
+Mercedes-Benz CLA 180;5.700 km;ene-19;90 kW (122 CV);Manual;Gasolina;6 l/;DE;142;€ 19.990
+Mercedes-Benz E 220;21.200 km;mar-19;143 kW (194 CV);Automático;Diésel;5,1;DE;135;€ 37.990
+Mercedes-Benz CLA 200;19.000 km;sep-19;110 kW (150 CV);Automático;Diésel;4,2;Unknown;110;€ 45.000
+Mercedes-Benz A 180;25.000 km;mar-19;80 kW (109 CV);Automático;Diésel;-/- ;IT;-/- ;€ 23.500
+Mercedes-Benz A 250;#¿NOMBRE?;-/- (Año);118 kW (160 CV);Automático;Electro/Gasolina;-/- ;IT;32 g;€ 42.500
+Mercedes-Benz GLB 200;#¿NOMBRE?;-/- (Año);110 kW (150 CV);Automático;Diésel;-/- ;IT;126;€ 46.600
+Mercedes-Benz AMG GT;14.500 km;ene-19;470 kW (639 CV);Automático;Gasolina;11,3;DE;257;€ 145.800
+Mercedes-Benz E 220;21.550 km;mar-19;143 kW (194 CV);Automático;Diésel;5,1;DE;135;€ 39.990
+Mercedes-Benz GLA 200;1.500 km;ago-20;120 kW (163 CV);Automático;Gasolina;6,7;ES;130;€ 44.500
+Mercedes-Benz GLE 350;500 km;ago-20;200 kW (272 CV);Automático;Diésel;7,2;ES;177;€ 86.900
+Mercedes-Benz E 220;21.450 km;mar-19;143 kW (194 CV);Automático;Diésel;5,1;DE;135;€ 38.990
+Mercedes-Benz GLC 350;31.000 km;ene-19;190 kW (258 CV);Automático;Diésel;6,7;Unknown;177;€ 57.000
+Mercedes-Benz A 200;13.785 km;oct-19;120 kW (163 CV);Manual;Gasolina;5,3;DE;121;€ 27.500
+Mercedes-Benz B 180;26.850 km;abr-19;85 kW (116 CV);Automático;Diésel;4,4;DE;115;€ 29.990
+Mercedes-Benz E 200;23.200 km;may-19;118 kW (160 CV);Automático;Diésel;3,9;IT;102;€ 31.900
+Mercedes-Benz GLA 180;17.370 km;may-19;90 kW (122 CV);Manual;Gasolina;5,6;IT;131;€ 21.700
+Mercedes-Benz GLC 220;#¿NOMBRE?;-/- (Año);143 kW (194 CV);Automático;Diésel;5,2;IT;137;€ 57.080
+Mercedes-Benz GLC 220;#¿NOMBRE?;-/- (Año);143 kW (194 CV);Automático;Diésel;5,2;IT;137;€ 57.951

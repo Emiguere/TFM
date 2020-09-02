@@ -1,0 +1,158 @@
+vehicle;  km; year; power; transmision; fuel_type; consume; country;emisions;price 
+Porsche Cayenne;#¿NOMBRE?;-/- (Año);404 kW (549 CV);Automático;Gasolina;11,9;ES;-/- ;€ 163.32
+Porsche Cayenne;#¿NOMBRE?;-/- (Año);250 kW (340 CV);Automático;Gasolina;9,2;ES;-/- ;€ 89.208
+Porsche 911;#¿NOMBRE?;-/- (Año);331 kW (450 CV);Manual;Gasolina;10,1;ES;-/- ;€ 148.96
+Porsche Macan;5.000 km;jul-20;180 kW (245 CV);Semiautomático;Gasolina;8,1;Unknown;185;€ 715.000
+Porsche Cayenne;#¿NOMBRE?;-/- (Año);338 kW (460 CV);Automático;Gasolina;11,2;ES;-/- ;€ 136.85
+Porsche Cayenne;#¿NOMBRE?;-/- (Año);500 kW (680 CV);Automático;Electro/Gasolina;3,7;ES;-/- ;€ 180.79
+Porsche Taycan;#¿NOMBRE?;-/- (Año);560 kW (761 CV);Automático;Eléctrico;-/- ;ES;0 g ;€ 189.52
+Porsche Boxster;#¿NOMBRE?;-/- (Año);257 kW (349 CV);Manual;Gasolina;9,2;ES;-/- ;€ 81.955
+Porsche Panamera;#¿NOMBRE?;-/- (Año);243 kW (330 CV);Automático;Gasolina;7,7;ES;-/- ;€ 116.21
+Porsche 991;#¿NOMBRE?;-/- (Año);331 kW (450 CV);Automático;Gasolina;8,8;ES;-/- ;€ 164.71
+Porsche Cayenne;6.733 km;ene-20;324 kW (441 CV);Automático;Gasolina;-/- ;ES;-/- ;€ 122.900
+Porsche Taycan;6.000 km;mar-20;390 kW (530 CV);Automático;Eléctrico;-/- ;ES;0 g ;€ 125.000
+Porsche Cayenne;#¿NOMBRE?;-/- (Año);338 kW (460 CV);Automático;Gasolina;11,2;ES;-/- ;€ 131.83
+Porsche Panamera;#¿NOMBRE?;-/- (Año);340 kW (462 CV);Automático;Electro/Gasolina;2,7;ES;-/- ;€ 131.29
+Porsche Panamera;#¿NOMBRE?;-/- (Año);243 kW (330 CV);Automático;Gasolina;8,4;ES;-/- ;€ 127.23
+Porsche Cayman;#¿NOMBRE?;-/- (Año);257 kW (349 CV);Manual;Gasolina;9,2;ES;-/- ;€ 79.648
+Porsche 911;#¿NOMBRE?;-/- (Año);283 kW (385 CV);Automático;Gasolina;9,8;ES;-/- ;€ 147.60
+Porsche 911;#¿NOMBRE?;-/- (Año);331 kW (450 CV);Manual;Gasolina;10 l;ES;-/- ;€ 140.00
+Porsche 911;#¿NOMBRE?;-/- (Año);478 kW (650 CV);Automático;Gasolina;11,1;ES;-/- ;€ 249.96
+Porsche Taycan;#¿NOMBRE?;-/- (Año);500 kW (680 CV);Automático;Eléctrico;-/- ;ES;0 g ;€ 155.64
+Porsche Cayenne;#¿NOMBRE?;-/- (Año);250 kW (340 CV);Automático;Gasolina;9,3;ES;-/- ;€ 97.217
+Porsche Cayenne;#¿NOMBRE?;-/- (Año);404 kW (549 CV);Automático;Gasolina;11,3;ES;-/- ;€ 169.02
+Porsche 991;#¿NOMBRE?;-/- (Año);331 kW (450 CV);Automático;Gasolina;8,8;ES;-/- ;€ 149.78
+Porsche Boxster;100 km;jun-20;220 kW (299 CV);Automático;Gasolina;8,1;ES;-/- ;€ 75.900
+Porsche Panamera;#¿NOMBRE?;-/- (Año);243 kW (330 CV);Automático;Gasolina;8,4;ES;-/- ;€ 108.79
+Porsche Cayman;#¿NOMBRE?;-/- (Año);220 kW (299 CV);Automático;Gasolina;7,9;ES;-/- ;€ 66.124
+Porsche Boxster;#¿NOMBRE?;-/- (Año);220 kW (299 CV);Automático;Gasolina;7,9;ES;-/- ;€ 78.493
+Porsche Macan;3.950 km;abr-20;180 kW (245 CV);Automático;Gasolina;8,1;ES;-/- ;€ 71.900
+Porsche 992;11.000 km;ene-20;331 kW (450 CV);Automático;Gasolina;9,6;ES;-/- ;€ 135.700
+Porsche 911;20 km;ago-20;478 kW (650 CV);Automático;Gasolina;11,1;ES;-/- ;€ 254.000
+Porsche Cayman;2.500 km;may-20;309 kW (420 CV);Manual;Gasolina;10,9;ES;-/- ;€ 115.000
+Porsche 911;#¿NOMBRE?;-/- (Año);331 kW (450 CV);Manual;Gasolina;10,2;ES;-/- ;€ 165.25
+Porsche 911;#¿NOMBRE?;-/- (Año);331 kW (450 CV);Manual;Gasolina;10,1;ES;-/- ;€ 156.29
+Porsche Boxster;#¿NOMBRE?;-/- (Año);294 kW (400 CV);Manual;Gasolina;10,8;ES;-/- ;€ 97.838
+Porsche Cayman;#¿NOMBRE?;-/- (Año);294 kW (400 CV);Manual;Gasolina;10,8;ES;-/- ;€ 95.530
+Porsche Taycan;#¿NOMBRE?;-/- (Año);390 kW (530 CV);Automático;Eléctrico;-/- ;ES;0 g ;€ 108.33
+Porsche Cayman;#¿NOMBRE?;-/- (Año);309 kW (420 CV);Manual;Gasolina;10,9;ES;-/- ;€ 112.22
+Porsche Boxster;#¿NOMBRE?;-/- (Año);309 kW (420 CV);Manual;Gasolina;10,9;ES;-/- ;€ 108.97
+Porsche Cayenne;#¿NOMBRE?;-/- (Año);404 kW (549 CV);Automático;Gasolina;11,9;ES;-/- ;€ 163.32
+Porsche Cayenne;#¿NOMBRE?;-/- (Año);250 kW (340 CV);Automático;Gasolina;9,2;ES;-/- ;€ 89.208
+Porsche Macan;8.999 km;ene-20;260 kW (354 CV);Automático;Gasolina;8,9;ES;-/- ;€ 76.900
+Porsche 911;#¿NOMBRE?;-/- (Año);478 kW (650 CV);Automático;Gasolina;11,3;ES;-/- ;€ 265.43
+Porsche 992;#¿NOMBRE?;-/- (Año);283 kW (385 CV);Automático;Gasolina;9,6;ES;-/- ;€ 138.64
+Porsche 992;#¿NOMBRE?;-/- (Año);283 kW (385 CV);Automático;Gasolina;9,4;ES;-/- ;€ 122.35
+Porsche Cayenne;#¿NOMBRE?;-/- (Año);340 kW (462 CV);Automático;Electro/Gasolina;3,1;ES;-/- ;€ 99.117
+Porsche 992;#¿NOMBRE?;-/- (Año);331 kW (450 CV);Automático;Gasolina;9,6;ES;-/- ;€ 148.96
+Porsche 992;#¿NOMBRE?;-/- (Año);331 kW (450 CV);Automático;Gasolina;8,9;ES;-/- ;€ 140.00
+Porsche Panamera;1.500 km;jul-20;243 kW (330 CV);Automático;Gasolina;7,7;ES;200;€ 122.900
+Porsche 911;7.000 km;ene-20;283 kW (385 CV);Automático;Gasolina;9,6;ES;218;€ 139.950
+Porsche Taycan;800 km;ene-20;560 kW (761 CV);Automático;Eléctrico;-/- ;ES;0 g ;€ 192.900
+Porsche Macan;1.000 km;ene-20;260 kW (354 CV);Automático;Gasolina;8,9;ES;204;€ 85.000
+Porsche 911;100 km;may-20;515 kW (700 CV);Automático;Gasolina;-/- ;ES;-/- ;€ 193.100
+Porsche 911;10 km;jul-20;478 kW (650 CV);Automático;Gasolina;11,1;ES;-/- ;€ 275.000
+Porsche Macan;5.000 km;feb-20;180 kW (245 CV);Automático;Gasolina;8,1;ES;-/- ;€ 72.900
+Porsche Macan;#¿NOMBRE?;-/- (Año);280 kW (381 CV);Automático;Gasolina;9,6;ES;-/- ;€ 90.354
+Porsche Cayenne;#¿NOMBRE?;-/- (Año);324 kW (441 CV);Automático;Gasolina;9,3;ES;-/- ;€ 115.40
+Porsche Cayenne;#¿NOMBRE?;-/- (Año);500 kW (680 CV);Automático;Electro/Gasolina;3,7;ES;-/- ;€ 177.04
+Porsche Macan;#¿NOMBRE?;-/- (Año);324 kW (441 CV);Automático;Gasolina;9,8;ES;-/- ;€ 106.37
+Porsche Panamera;#¿NOMBRE?;-/- (Año);243 kW (330 CV);Automático;Gasolina;7,8;ES;-/- ;€ 119.38
+Porsche Panamera;#¿NOMBRE?;-/- (Año);340 kW (462 CV);Automático;Electro/Gasolina;2,9;ES;-/- ;€ 133.59
+Porsche 991;#¿NOMBRE?;-/- (Año);331 kW (450 CV);Automático;Gasolina;8,9;ES;-/- ;€ 158.19
+Porsche Cayman;#¿NOMBRE?;-/- (Año);220 kW (299 CV);Automático;Gasolina;7,9;ES;-/- ;€ 76.270
+Porsche Boxster;#¿NOMBRE?;-/- (Año);220 kW (299 CV);Automático;Gasolina;7,9;ES;-/- ;€ 68.346
+Porsche Macan;3.250 km;feb-20;280 kW (381 CV);Automático;Gasolina;9,6;ES;-/- ;€ 99.900
+Porsche Taycan;2.500 km;feb-20;390 kW (530 CV);Automático;Eléctrico;-/- ;ES;0 g ;€ 127.900
+Porsche 911;63 km;-/- (Año);368 kW (500 CV);Automático;Gasolina;12,7;ES;288;€ 248.000
+Porsche Cayenne;14.900 km;ene-20;500 kW (680 CV);Automático;Electro/Gasolina;3,7;ES;-/- ;€ 178.900
+Porsche Macan;26.000 km;mar-20;260 kW (354 CV);Automático;Gasolina;8,9;ES;-/- ;€ 82.900
+Porsche Taycan;1.500 km;mar-20;500 kW (680 CV);-/- (Cambio);Eléctrico;-/- ;ES;0 g ;€ 155.900
+Porsche Macan;1.500 km;jul-20;180 kW (245 CV);Automático;Gasolina;8,1;ES;185;€ 78.500
+Porsche Cayenne;900 km;abr-20;324 kW (441 CV);Automático;Gasolina;9,3;ES;212;€ 136.900
+Porsche Cayman;2.700 km;ene-20;220 kW (299 CV);Automático;Gasolina;7,9;ES;-/- ;€ 74.900
+Porsche Cayenne;5.500 km;ene-20;340 kW (462 CV);Automático;Electro/Gasolina;3,2;ES;-/- ;€ 102.900
+Porsche Cayenne;18.000 km;ene-20;324 kW (441 CV);Automático;Gasolina;9,4;ES;-/- ;€ 130.000
+Porsche Taycan;1.000 km;feb-20;500 kW (680 CV);Automático;Eléctrico;-/- ;ES;0 g ;€ 156.900
+Porsche 992;4.000 km;ene-20;283 kW (385 CV);Automático;Gasolina;9,4;ES;-/- ;€ 133.900
+Porsche 992;3.000 km;ene-20;283 kW (385 CV);Automático;Gasolina;9,6;ES;-/- ;€ 145.900
+Porsche 911;50 km;jul-20;478 kW (650 CV);Automático;Gasolina;11,1;ES;-/- ;€ 259.000
+Porsche Taycan;13.900 km;ene-20;500 kW (680 CV);Automático;Eléctrico;-/- ;ES;0 g ;€ 149.900
+Porsche Cayenne;5 km;jul-20;340 kW (462 CV);Automático;Electro/Gasolina;3,2;ES;-/- ;€ 103.500
+Porsche Taycan;1.500 km;feb-20;500 kW (680 CV);Automático;Eléctrico;-/- ;ES;0 g ;€ 151.500
+Porsche Macan;1 km;feb-20;180 kW (245 CV);Automático;Gasolina;8,1;ES;-/- ;€ 75.200
+Porsche 992;150 km;may-20;331 kW (450 CV);Automático;Gasolina;9,9;ES;-/- ;€ 179.990
+Porsche Cayenne;500 km;may-20;340 kW (462 CV);Automático;Electro/Gasolina;3,2;ES;-/- ;€ 109.990
+Porsche Macan;10 km;jun-20;260 kW (354 CV);Automático;Gasolina;8,9;ES;-/- ;€ 89.000
+Porsche Cayenne;10 km;jun-20;340 kW (462 CV);Automático;Electro/Gasolina;3,2;ES;-/- ;€ 97.000
+Porsche Cayenne;10 km;jun-20;340 kW (462 CV);Automático;Electro/Gasolina;3,2;ES;-/- ;€ 98.000
+Porsche Cayenne;10 km;jun-20;340 kW (462 CV);Automático;Electro/Gasolina;3,2;ES;-/- ;€ 104.000
+Porsche Cayenne;10 km;jun-20;340 kW (462 CV);Automático;Electro/Gasolina;3,2;ES;-/- ;€ 101.500
+Porsche Cayenne;10 km;jun-20;340 kW (462 CV);Automático;Electro/Gasolina;3,1;ES;-/- ;€ 124.000
+Porsche Cayenne;10 km;may-20;340 kW (462 CV);Automático;Electro/Gasolina;3,1;ES;-/- ;€ 123.000
+Porsche Cayenne;10 km;jun-20;340 kW (462 CV);Automático;Electro/Gasolina;3,1;ES;-/- ;€ 121.000
+Porsche Panamera;10 km;jun-20;243 kW (330 CV);Automático;-/- (Combustible);-/- ;ES;-/- ;€ 122.000
+Porsche Cayenne;10 km;jun-20;340 kW (462 CV);Automático;Electro/Gasolina;3,1;ES;-/- ;€ 123.000
+Porsche Cayenne;10 km;jun-20;340 kW (462 CV);Automático;Electro/Gasolina;3,1;ES;-/- ;€ 126.000
+Porsche Cayenne;10 km;jun-20;340 kW (462 CV);Automático;Electro/Gasolina;3,1;ES;-/- ;€ 132.000
+Porsche Macan;10 km;may-20;280 kW (381 CV);Automático;Gasolina;9,6;ES;-/- ;€ 109.900
+Porsche Taycan;8.061 km;ene-20;560 kW (761 CV);Automático;Eléctrico;-/- ;ES;0 g ;€ 181.900
+Porsche Boxster;40 km;may-20;309 kW (420 CV);Manual;Gasolina;10,9;ES;-/- ;€ 115.900
+Porsche 992;100 km;jun-20;478 kW (650 CV);Automático;Gasolina;-/- ;ES;-/- ;€ 259.990
+Porsche Macan;10 km;may-20;260 kW (354 CV);Automático;Gasolina;8,9;ES;-/- ;€ 99.900
+Porsche Cayenne;10 km;may-20;404 kW (549 CV);Automático;Gasolina;11,3;ES;-/- ;€ 172.900
+Porsche Macan;10 km;may-20;260 kW (354 CV);Automático;Gasolina;8,9;ES;-/- ;€ 98.900
+Porsche Macan;10 km;may-20;324 kW (441 CV);Automático;Gasolina;9,8;ES;-/- ;€ 119.900
+Porsche 992;10 km;may-20;331 kW (450 CV);Automático;Gasolina;9,6;ES;-/- ;€ 169.900
+Porsche Taycan;2.900 km;ene-20;500 kW (680 CV);Automático;Eléctrico;-/- ;ES;0 g ;€ 168.900
+Porsche Cayenne;10 km;mar-20;324 kW (441 CV);Automático;Gasolina;9,3;ES;-/- ;€ 146.900
+Porsche 991;10 km;ene-20;383 kW (521 CV);Automático;Gasolina;12,8;ES;-/- ;€ 262.900
+Porsche Macan;10 km;ene-20;280 kW (381 CV);Automático;Gasolina;9,6;ES;-/- ;€ 103.500
+Porsche Macan;10 km;ene-20;280 kW (381 CV);Automático;Gasolina;9,6;ES;-/- ;€ 117.900
+Porsche Cayenne;10 km;ene-20;340 kW (462 CV);Automático;Electro/Gasolina;3,1;ES;-/- ;€ 120.900
+Porsche Taycan;80 km;mar-20;390 kW (530 CV);Automático;Eléctrico;-/- ;ES;0 g ;€ 189.900
+Porsche 992;8.800 km;ene-20;331 kW (450 CV);Automático;Gasolina;8,9;ES;-/- ;€ 149.000
+Porsche Cayenne;2.500 km;feb-20;250 kW (340 CV);Automático;Gasolina;9,3;ES;-/- ;€ 99.900
+Porsche 911;9.900 km;ene-20;331 kW (450 CV);Automático;Gasolina;-/- ;ES;-/- ;€ 141.900
+Porsche Cayenne;2.500 km;may-20;250 kW (340 CV);Automático;Gasolina;-/- ;ES;-/- ;€ 99.900
+Porsche Taycan;8.000 km;abr-20;390 kW (530 CV);Automático;Eléctrico;-/- ;ES;0 g ;€ 130.000
+Porsche Taycan;25 km;jun-20;390 kW (530 CV);-/- (Cambio);Eléctrico;-/- ;Unknown;0 g ;€ 174.900
+Porsche 911;1 km;-/- (Año);478 kW (650 CV);Automático;Gasolina;-/- ;ES;-/- ;€ 269.990
+Porsche Cayenne;10 km;mar-20;340 kW (462 CV);Automático;Electro/Gasolina;3,2;ES;74 g;€ 106.910
+Porsche 992;2.300 km;mar-20;283 kW (385 CV);Automático;Gasolina;9,2;ES;-/- ;€ 124.500
+Porsche Taycan;50 km;mar-20;500 kW (680 CV);Automático;Eléctrico;-/- ;ES;0 g ;€ 159.000
+Porsche Panamera;5.000 km;ene-20;338 kW (460 CV);Automático;Gasolina;10,3;ES;235;€ 150.000
+Porsche 992;#¿NOMBRE?;-/- (Año);283 kW (385 CV);Automático;Gasolina;9,2;ES;-/- ;€ 131.31
+Porsche Panamera;#¿NOMBRE?;-/- (Año);243 kW (330 CV);Automático;Gasolina;7,7;ES;-/- ;€ 134.810
+Porsche Cayman;978 km;ene-20;309 kW (420 CV);Manual;Gasolina;10,9;ES;-/- ;€ 134.000
+Porsche 992;#¿NOMBRE?;-/- (Año);283 kW (385 CV);Automático;Gasolina;9,7;ES;-/- ;€ 147.600
+Porsche 911;10 km;abr-20;208 kW (283 CV);Automático;Gasolina;-/- ;ES;-/- ;€ 129.800
+Porsche Panamera;2.500 km;feb-20;324 kW (441 CV);Automático;Gasolina;8,1;ES;-/- ;€ 124.500
+Porsche Panamera;2.500 km;mar-20;340 kW (462 CV);Automático;Electro/Gasolina;2,9;ES;-/- ;€ 114.700
+Porsche Cayenne;8.000 km;ene-20;324 kW (441 CV);Automático;Gasolina;9,4;ES;-/- ;€ 97.900
+Porsche Cayenne;2.800 km;mar-20;340 kW (462 CV);Automático;Electro/Gasolina;3,2;ES;-/- ;€ 98.500
+Porsche Panamera;2.500 km;mar-20;404 kW (549 CV);Automático;Gasolina;10,4;ES;-/- ;€ 159.900
+Porsche Panamera;2.400 km;feb-20;338 kW (460 CV);Automático;Gasolina;10,6;ES;-/- ;€ 145.900
+Porsche Macan;2.500 km;feb-20;324 kW (441 CV);Automático;Gasolina;9,8;ES;-/- ;€ 113.900
+Porsche Panamera;2.500 km;feb-20;243 kW (330 CV);Automático;Gasolina;8,4;ES;-/- ;€ 109.900
+Porsche 992;10 km;mar-20;331 kW (450 CV);Automático;Gasolina;9,8;ES;-/- ;€ 158.500
+Porsche Taycan;3.000 km;mar-20;560 kW (761 CV);Automático;Eléctrico;-/- ;ES;0 g ;€ 219.800
+Porsche Taycan;2.800 km;mar-20;390 kW (530 CV);Automático;Eléctrico;-/- ;ES;0 g ;€ 124.900
+Porsche Taycan;3.500 km;mar-20;390 kW (530 CV);Automático;Eléctrico;-/- ;ES;0 g ;€ 124.500
+Porsche Macan;2.500 km;ene-20;280 kW (381 CV);Automático;Gasolina;9,6;ES;-/- ;€ 104.900
+Porsche Cayenne;3.000 km;ene-20;500 kW (680 CV);Automático;Electro/Gasolina;3,7;ES;-/- ;€ 188.500
+Porsche Cayenne;2.500 km;ene-20;404 kW (549 CV);Automático;Gasolina;11,3;ES;-/- ;€ 163.500
+Porsche Macan;3.000 km;ene-20;280 kW (381 CV);Automático;Gasolina;9,6;ES;-/- ;€ 106.900
+Porsche 992;4.000 km;mar-20;283 kW (385 CV);Automático;Gasolina;9,2;ES;-/- ;€ 134.900
+Porsche 992;3.500 km;feb-20;283 kW (385 CV);Automático;Gasolina;9,2;ES;-/- ;€ 153.900
+Porsche 992;3.500 km;feb-20;331 kW (450 CV);Automático;Gasolina;9 l/;ES;-/- ;€ 147.500
+Porsche 992;3.500 km;feb-20;283 kW (385 CV);Automático;Gasolina;9,2;ES;-/- ;€ 139.600
+Porsche 992;2.500 km;ene-20;331 kW (450 CV);Automático;Gasolina;9 l/;ES;-/- ;€ 167.900
+Porsche 992;2.500 km;feb-20;283 kW (385 CV);Automático;Gasolina;9,7;ES;-/- ;€ 149.900
+Porsche 992;3.000 km;ene-20;331 kW (450 CV);Automático;Gasolina;9 l/;ES;-/- ;€ 152.900
+Porsche 992;4.000 km;feb-20;331 kW (450 CV);Automático;Gasolina;9 l/;ES;-/- ;€ 142.500
+Porsche Panamera;10 km;mar-20;340 kW (462 CV);Automático;Electro/Gasolina;2,7;ES;-/- ;€ 136.300
+Porsche 992;10 km;mar-20;331 kW (450 CV);Automático;Gasolina;8,9;ES;-/- ;€ 151.500
+Porsche 992;10 km;mar-20;331 kW (450 CV);Automático;Gasolina;9,9;ES;-/- ;€ 181.500
+Porsche Taycan;15 km;mar-20;500 kW (680 CV);Automático;Eléctrico;-/- ;ES;0 g ;€ 180.900
+Porsche 992;450 km;mar-20;283 kW (385 CV);Automático;Gasolina;9,4;ES;-/- ;€ 122.700

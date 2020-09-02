@@ -1,0 +1,400 @@
+vehicle;  km; year; power; transmision; fuel_type; consume; country;emisions;price 
+Porsche 997;3.000 km;dic-10;390 kW (530 CV);Automático;Gasolina;11,4;Unknown;268;€ 285.000
+Porsche Cayenne;174.000 km;nov-12;180 kW (245 CV);Automático;Diésel;7,2;Unknown;189;€ 23.850
+Porsche 911;16.958 km;ene-12;254 kW (345 CV);Automático;Gasolina;10,1;BE;230;€ 69.950
+Porsche Panamera;58.500 km;feb-12;368 kW (500 CV);Automático;Gasolina;12,9;DE;303;€ 54.900
+Porsche Panamera;210.000 km;ene-12;294 kW (400 CV);Automático;Gasolina;11,5;DE;275;€ 25.850
+Porsche Panamera;130.000 km;dic-11;294 kW (400 CV);Automático;Gasolina;11,5;DE;275;€ 30.999
+Porsche Cayenne;215.000 km;jul-10;176 kW (239 CV);Automático;Diésel;7,4;Unknown;195;€ 24.000
+Porsche Cayenne;109.800 km;jul-12;294 kW (400 CV);Automático;Gasolina;10,5;Unknown;245;€ 28.999
+Porsche Cayenne;166.000 km;ago-12;180 kW (245 CV);Automático;Diésel;7,2;Unknown;189;€ 24.800
+Porsche Cayenne;112.000 km;ago-12;180 kW (245 CV);Automático;Diésel;7,2;Unknown;189;€ 27.900
+Porsche Cayenne;139.600 km;nov-10;368 kW (500 CV);Automático;Gasolina;11,5;AT;-/- ;€ 34.950
+Porsche Cayenne;189.654 km;jul-12;180 kW (245 CV);Automático;Diésel;7,2;IT;189;€ 24.990
+Porsche Cayenne;263.000 km;feb-11;176 kW (239 CV);Automático;Diésel;7,4;IT;195;€ 20.600
+Porsche Cayenne;224.000 km;ago-10;245 kW (333 CV);Automático;Electro/Gasolina;8,2;Unknown;193;€ 19.900
+Porsche Panamera;21.000 km;sep-12;316 kW (430 CV);Semiautomático;Gasolina;10,9;IT;256;€ 59.000
+Porsche 911;11.220 km;may-11;300 kW (408 CV);Automático;Gasolina;10,7;BE;251;€ 269.000
+Porsche Cayenne;176.228 km;may-10;368 kW (500 CV);Automático;Gasolina;11,5;NL;270;€ 29.990
+Porsche Panamera;159.000 km;jul-10;294 kW (400 CV);Automático;Gasolina;10,5;Unknown;247;€ 34.499
+Porsche Panamera;117.400 km;ago-12;404 kW (549 CV);Automático;Gasolina;11,5;DE;273;€ 41.970
+Porsche Panamera;227.000 km;ago-11;220 kW (299 CV);Automático;Gasolina;9,6;Unknown;225;€ 29.000
+Porsche Cayenne;224.500 km;jun-12;180 kW (245 CV);Automático;Diésel;7,2;Unknown;189;€ 22.800
+Porsche Cayenne;93.365 km;jul-10;368 kW (500 CV);Automático;Gasolina;11,5;ES;-/- ;€ 34.900
+Porsche 911;84.000 km;abr-10;283 kW (385 CV);Manual;Gasolina;10,8;Unknown;254;€ 61.000
+Porsche Panamera;70.820 km;sep-11;294 kW (400 CV);Semiautomático;Gasolina;11,1;Unknown;260;€ 45.000
+Porsche Cayenne;93.365 km;jul-10;368 kW (500 CV);Automático;Gasolina;11,5;ES;-/- ;€ 34.900
+Porsche 911;84.999 km;jun-10;283 kW (385 CV);Automático;Gasolina;-/- ;ES;-/- ;€ 69.000
+Porsche Cayenne;176.000 km;mar-11;176 kW (239 CV);Automático;Diésel;6,6;DE;175;€ 23.999
+Porsche Panamera;104.500 km;jul-10;294 kW (400 CV);Automático;Gasolina;10,5;Unknown;247;€ 33.500
+Porsche 997;89.800 km;ago-11;300 kW (408 CV);Manual;Gasolina;10,8;DE;254;€ 66.900
+Porsche Panamera;103.969 km;jul-10;294 kW (400 CV);Automático;Gasolina;11,4;DE;268;€ 29.900
+Porsche Cayman;111.000 km;may-12;235 kW (320 CV);Automático;Gasolina;9,4;DE;221;€ 31.900
+Porsche Cayenne;98.000 km;jun-11;- kW (- CV);Semiautomático;Diésel;-/- ;FR;-/- ;€ 28.990
+Porsche Panamera;99.942 km;oct-11;- kW (- CV);Automático;Gasolina;-/- ;FR;-/- ;€ 38.950
+Porsche 911;51.991 km;dic-12;261 kW (355 CV);-/- (Cambio);Gasolina;-/- ;FR;198;€ 80.991
+Porsche 991;111.000 km;nov-12;257 kW (349 CV);Automático;Gasolina;8,2;DE;194;€ 59.990
+Porsche Cayenne;211.700 km;jun-10;176 kW (239 CV);Automático;Diésel;6,6;DE;175;€ 21.490
+Porsche Cayenne;258.600 km;jul-10;176 kW (239 CV);Automático;Diésel;7,4;IT;195;€ 21.900
+Porsche 911;163.000 km;abr-11;283 kW (385 CV);Automático;Gasolina;10,7;Unknown;251;€ 65.000
+Porsche Panamera;94.000 km;nov-10;368 kW (500 CV);Automático;Gasolina;12,2;Unknown;286;€ 59.999
+Porsche 997;34.200 km;oct-10;283 kW (385 CV);Automático;Gasolina;11,2;Unknown;263;€ 71.000
+Porsche Panamera;139.866 km;mar-11;368 kW (500 CV);Automático;Gasolina;12,2;AT;270;€ 38.890
+Porsche Panamera;142.748 km;dic-11;368 kW (500 CV);Automático;Gasolina;11,5;Unknown;270;€ 34.700
+Porsche Panamera;168.000 km;dic-12;155 kW (211 CV);Automático;Diésel;6,5;BE;172;€ 29.900
+Porsche Cayenne;200.000 km;nov-10;294 kW (400 CV);Automático;Gasolina;-/- ;Unknown;-/- ;€ 22.300
+Porsche 911;84.315 km;jul-11;300 kW (408 CV);Manual;Gasolina;11,2;Unknown;263;€ 60.000
+Porsche Cayenne;122.000 km;oct-12;180 kW (245 CV);Automático;Diésel;7,2;Unknown;189;€ 24.400
+Porsche Panamera;194.750 km;ene-12;155 kW (211 CV);Automático;Diésel;6,3;NL;167;€ 34.750
+Porsche 911;94.473 km;feb-12;294 kW (400 CV);Automático;Gasolina;9,5;IT;224;€ 67.500
+Porsche 911;56.100 km;ene-10;283 kW (385 CV);Automático;Gasolina;10,7;DE;251;€ 75.000
+Porsche Cayenne;211.200 km;feb-11;176 kW (239 CV);Automático;Diésel;7,4;NL;195;€ 24.900
+Porsche 997;53.900 km;jun-11;283 kW (385 CV);Automático;Gasolina;10,3;DE;242;€ 65.500
+Porsche Cayenne;160.000 km;jun-12;180 kW (245 CV);Automático;Diésel;7,2;Unknown;189;€ 26.000
+Porsche Panamera;140.000 km;feb-12;316 kW (430 CV);Automático;Gasolina;10,9;Unknown;256;€ 32.900
+Porsche 911;36.500 km;may-12;390 kW (530 CV);Automático;Gasolina;11,5;Unknown;270;€ 99.500
+Porsche Cayenne;180.000 km;ago-12;180 kW (245 CV);Automático;Diésel;7,2;IT;189;€ 24.000
+Porsche Cayenne;159.000 km;dic-12;180 kW (245 CV);Automático;Diésel;7,2;BE;189;€ 24.999
+Porsche Cayenne;69.790 km;feb-12;294 kW (400 CV);Automático;Gasolina;10,5;DE;245;€ 33.890
+Porsche Cayenne;219.500 km;jun-12;180 kW (245 CV);Automático;Diésel;-/- ;DE;-/- ;€ 22.900
+Porsche Cayman;133.000 km;abr-10;235 kW (320 CV);Manual;Gasolina;9,8;DE;230;€ 29.980
+Porsche 991;15.582 km;may-12;257 kW (349 CV);Automático;Gasolina;8,4;DE;198;€ 79.900
+Porsche Cayenne;245.000 km;abr-10;176 kW (239 CV);Automático;Diésel;9,3;IT;244;€ 12.900
+Porsche 997;69.879 km;jun-11;390 kW (530 CV);Automático;Gasolina;11,5;DE;270;€ 98.890
+Porsche 911;69.879 km;jun-11;390 kW (530 CV);Automático;Gasolina;11,5;DE;270;€ 98.890
+Porsche Cayenne;153.000 km;nov-11;294 kW (400 CV);Automático;Gasolina;10,5;DE;249;€ 26.990
+Porsche Panamera;216.000 km;jun-10;294 kW (400 CV);Automático;Gasolina;11,5;DE;275;€ 19.900
+Porsche 911;41.646 km;may-12;390 kW (530 CV);Automático;Gasolina;-/- ;DE;-/- ;€ 125.900
+Porsche Cayenne;145.000 km;abr-11;279 kW (379 CV);Automático;Electro/Gasolina;8,2;ES;-/- ;€ 33.900
+Porsche 997;49.137 km;mar-11;300 kW (408 CV);Automático;Gasolina;10,2;DE;240;€ 71.899
+Porsche Cayenne;163.000 km;oct-11;180 kW (245 CV);Automático;Diésel;7,2;IT;189;€ 24.900
+Porsche Panamera;72.500 km;mar-12;184 kW (250 CV);Automático;Diésel;6,5;BE;172;€ 34.750
+Porsche Panamera;195.000 km;nov-10;368 kW (500 CV);Automático;Gasolina;12,2;ES;-/- ;€ 36.500
+Porsche Cayenne;145.000 km;abr-11;279 kW (379 CV);Automático;Electro/Gasolina;8,2;ES;-/- ;€ 33.900
+Porsche Cayenne;82.000 km;ene-11;176 kW (239 CV);Automático;Diésel;7,4;Unknown;195;€ 31.999
+Porsche Boxster;21.270 km;may-12;232 kW (315 CV);Automático;Gasolina;8 l/;NL;188;€ 57.888
+Porsche Panamera;69.000 km;mar-12;155 kW (211 CV);Automático;Diésel;6,5;BE;167;€ 38.990
+Porsche Cayenne;94.000 km;abr-11;368 kW (500 CV);Automático;Gasolina;11,5;IT;270;€ 31.000
+Porsche 997;89.635 km;dic-10;283 kW (385 CV);Automático;Gasolina;-/- ;DE;-/- ;€ 64.900
+Porsche 997;42.748 km;dic-10;368 kW (500 CV);Automático;Gasolina;-/- ;DE;-/- ;€ 94.900
+Porsche 997;87.365 km;dic-10;390 kW (530 CV);Automático;Gasolina;-/- ;DE;-/- ;€ 89.900
+Porsche 997;34.829 km;dic-11;300 kW (408 CV);Automático;Gasolina;-/- ;DE;-/- ;€ 79.900
+Porsche 911;9.784 km;dic-11;283 kW (385 CV);Manual;Gasolina;-/- ;DE;-/- ;€ 84.900
+Porsche 911;38.470 km;dic-11;283 kW (385 CV);Automático;Gasolina;-/- ;DE;-/- ;€ 79.900
+Porsche Cayenne;67.000 km;may-11;180 kW (245 CV);Automático;Diésel;7,2;Unknown;189;€ 32.500
+Porsche Cayenne;77.900 km;jun-10;213 kW (290 CV);Automático;Gasolina;12,9;DE;310;€ 21.800
+Porsche Cayenne;170.000 km;sep-11;176 kW (239 CV);Automático;Diésel;7,4;Unknown;195;€ 26.500
+Porsche Cayenne;142.835 km;jun-10;293 kW (398 CV);Automático;Gasolina;10,5;NL;245;€ 31.950
+Porsche Cayenne;214.000 km;mar-11;176 kW (239 CV);Automático;Diésel;7,4;BE;195;€ 21.250
+Porsche Panamera;69.330 km;ago-10;221 kW (300 CV);Automático;Gasolina;9,3;NL;218;€ 32.995
+Porsche Boxster;49.110 km;feb-12;195 kW (265 CV);Automático;Gasolina;7,9;Unknown;183;€ 31.500
+Porsche 997;49.137 km;mar-11;300 kW (408 CV);Automático;Gasolina;10,2;DE;240;€ 71.899
+Porsche Cayenne;239.000 km;jul-10;176 kW (239 CV);Automático;Diésel;7,7;AT;195;€ 20.900
+Porsche Cayenne;144.000 km;dic-12;180 kW (245 CV);Automático;Diésel;7,2;DE;189;€ 28.495
+Porsche Cayenne;144.000 km;dic-12;180 kW (245 CV);Automático;Diésel;7,2;DE;189;€ 28.495
+Porsche Boxster;95.000 km;abr-10;228 kW (310 CV);Automático;Gasolina;9,8;IT;230;€ 35.000
+Porsche 911;44.235 km;ago-12;299 kW (407 CV);Manual;Gasolina;-/- ;FR;-/- ;€ 92.900
+Porsche Cayman;128.000 km;mar-10;195 kW (265 CV);Automático;Gasolina;9,4;DE;223;€ 27.999
+Porsche Cayenne;125.000 km;nov-12;180 kW (245 CV);Automático;Diésel;7,2;Unknown;189;€ 28.999
+Porsche Cayenne;93.365 km;jul-10;368 kW (500 CV);Automático;Gasolina;11,5;ES;-/- ;€ 34.900
+Porsche Cayenne;129.580 km;may-11;180 kW (245 CV);Automático;Diésel;-/- ;FR;-/- ;€ 26.990
+Porsche Panamera;320.000 km;jun-12;184 kW (250 CV);Automático;Diésel;6,5;Unknown;172;€ 23.000
+Porsche Cayenne;118.941 km;dic-12;220 kW (299 CV);Automático;Gasolina;9,9;NL;236;€ 32.890
+Porsche Cayenne;160.000 km;nov-11;368 kW (500 CV);Automático;Gasolina;11,5;ES;-/- ;€ 39.800
+Porsche Boxster;42.000 km;jun-12;195 kW (265 CV);Manual;Gasolina;8,2;Unknown;192;€ 41.000
+Porsche 911;39.500 km;dic-10;368 kW (500 CV);Automático;Gasolina;11,4;AT;268;€ 109.990
+Porsche Cayenne;43.000 km;jul-11;279 kW (379 CV);Automático;Electro/Gasolina;8,2;ES;-/- ;€ 46.000
+Porsche 991;122.000 km;feb-12;257 kW (349 CV);Automático;Gasolina;8,2;NL;194;€ 64.991
+Porsche Cayenne;110.000 km;ago-12;180 kW (245 CV);Automático;Diésel;-/- ;IT;-/- ;€ 28.600
+Porsche Boxster;99.000 km;oct-12;232 kW (315 CV);Automático;Gasolina;8,8;IT;206;€ 39.900
+Porsche 997;91.000 km;feb-10;283 kW (385 CV);Automático;Gasolina;10,2;DE;240;€ 57.774
+Porsche Boxster;69.627 km;jul-12;155 kW (211 CV);Automático;Gasolina;7,7;FR;180;€ 37.990
+Porsche Cayenne;251.000 km;may-11;176 kW (239 CV);Automático;Diésel;7,4;IT;195;€ 22.500
+Porsche Panamera;135.000 km;jul-12;184 kW (250 CV);Automático;Diésel;6,5;BE;172;€ 31.999
+Porsche 911;88.000 km;mar-10;368 kW (500 CV);Automático;Gasolina;11,4;BE;268;€ 95.117
+Porsche Cayenne;135.000 km;jun-11;294 kW (400 CV);Automático;Gasolina;10,5;IT;245;€ 16.900
+Porsche 997;88.000 km;mar-10;368 kW (500 CV);Automático;Gasolina;11,4;NL;268;€ 81.997
+Porsche Cayenne;120.000 km;jul-10;155 kW (211 CV);Automático;Diésel;7,4;Unknown;195;€ 18.000
+Porsche Cayenne;192.000 km;may-10;294 kW (400 CV);Automático;Gasolina;10,5;Unknown;245;€ 25.000
+Porsche Cayenne;117.000 km;ene-11;368 kW (500 CV);Automático;Gasolina;-/- ;ES;-/- ;€ 37.900
+Porsche 997;34.896 km;sep-11;254 kW (345 CV);Automático;Gasolina;9,8;Unknown;230;€ 62.911
+Porsche Cayenne;148.000 km;may-11;294 kW (400 CV);Automático;Gasolina;10,5;DE;245;€ 23.850
+Porsche Boxster;76.000 km;dic-11;188 kW (256 CV);Automático;Gasolina;9,4;IT;221;€ 28.700
+Porsche Panamera;92.243 km;dic-11;184 kW (250 CV);Automático;Diésel;6,5;Unknown;172;€ 31.790
+Porsche Cayenne;159.000 km;sep-11;180 kW (245 CV);Automático;Diésel;7,2;IT;189;€ 24.000
+Porsche 911;53.828 km;mar-12;299 kW (407 CV);Automático;Gasolina;-/- ;FR;210;€ 89.990
+Porsche Panamera;177.000 km;abr-11;368 kW (500 CV);Automático;Gasolina;12,9;DE;303;€ 30.890
+Porsche Cayenne;157.998 km;jun-12;368 kW (500 CV);Automático;Gasolina;-/- ;DE;-/- ;€ 39.870
+Porsche Cayenne;149.000 km;may-12;368 kW (500 CV);Automático;Gasolina;11,5;DE;273;€ 36.000
+Porsche Cayenne;183.000 km;oct-12;368 kW (500 CV);Automático;Gasolina;11,5;DE;273;€ 28.900
+Porsche Cayenne;190.000 km;ene-11;245 kW (333 CV);Automático;Electro/Gasolina;8,2;IT;193;€ 29.500
+Porsche Panamera;164.000 km;ene-12;294 kW (400 CV);Automático;Gasolina;10,8;Unknown;254;€ 29.800
+Porsche Cayman;38.700 km;jul-10;195 kW (265 CV);Automático;Gasolina;9,1;Unknown;214;€ 32.900
+Porsche Cayenne;108.580 km;ago-10;294 kW (400 CV);Automático;Gasolina;10,5;DE;245;€ 29.958
+Porsche Cayenne;175.000 km;abr-10;279 kW (379 CV);Automático;Electro/Gasolina;8,2;ES;-/- ;€ 25.875
+Porsche 997;94.507 km;mar-12;390 kW (530 CV);Automático;Gasolina;11,5;ES;-/- ;€ 98.900
+Porsche 991;84.920 km;nov-12;257 kW (349 CV);Automático;Gasolina;8,6;ES;-/- ;€ 55.990
+Porsche Cayenne;145.484 km;jun-12;180 kW (245 CV);Automático;Diésel;7,2;ES;-/- ;€ 33.990
+Porsche Cayenne;126.000 km;ene-11;180 kW (245 CV);Automático;Diésel;7,2;ES;-/- ;€ 28.900
+Porsche Cayenne;120.000 km;may-11;294 kW (400 CV);Automático;Gasolina;10,5;ES;-/- ;€ 32.000
+Porsche Boxster;70.000 km;may-12;232 kW (315 CV);Automático;Gasolina;8 l/;ES;-/- ;€ 36.975
+Porsche Panamera;124.000 km;abr-10;368 kW (500 CV);Automático;Gasolina;12,2;ES;-/- ;€ 39.999
+Porsche Cayenne;127.978 km;nov-12;309 kW (420 CV);Automático;Gasolina;10,7;ES;-/- ;€ 44.900
+Porsche 911;140.750 km;mar-10;283 kW (385 CV);Semiautomático;Gasolina;10,5;Unknown;240;€ 54.900
+Porsche Panamera;180.000 km;ene-11;294 kW (400 CV);Semiautomático;Gasolina;11,1;Unknown;260;€ 27.900
+Porsche Cayman;86.900 km;mar-11;195 kW (265 CV);Manual;Gasolina;9,4;DE;223;€ 30.300
+Porsche Panamera;117.500 km;abr-11;294 kW (400 CV);Automático;Gasolina;10,8;Unknown;254;€ 35.500
+Porsche 997;140.750 km;mar-10;283 kW (385 CV);Semiautomático;Gasolina;10,5;Unknown;240;€ 54.900
+Porsche Panamera;225.000 km;may-12;155 kW (211 CV);Automático;Diésel;6,5;Unknown;172;€ 25.000
+Porsche Boxster;81.000 km;jul-11;188 kW (256 CV);Manual;Gasolina;9,4;Unknown;221;€ 32.900
+Porsche Cayenne;168.918 km;may-12;294 kW (400 CV);Automático;Gasolina;10,5;Unknown;245;€ 30.000
+Porsche Cayenne;168.000 km;nov-11;176 kW (239 CV);Automático;Diésel;7,4;BE;195;€ 26.900
+Porsche Cayenne;142.000 km;dic-10;176 kW (239 CV);Automático;Diésel;7,4;Unknown;195;€ 21.499
+Porsche 911;107.520 km;mar-12;294 kW (400 CV);Automático;Gasolina;8,7;AT;-/- ;€ 79.000
+Porsche Cayenne;194.000 km;oct-12;309 kW (420 CV);Automático;Gasolina;10,7;DE;251;€ 24.990
+Porsche 997;77.433 km;feb-12;391 kW (532 CV);Automático;Gasolina;11,5;NL;0 g ;€ 109.910
+Porsche 997;82.000 km;ago-11;300 kW (408 CV);Automático;Gasolina;10 l;Unknown;240;€ 98.000
+Porsche 997;53.274 km;ago-10;320 kW (435 CV);Manual;Gasolina;12,8;BE;303;€ 94.950
+Porsche 911;62.000 km;dic-10;254 kW (345 CV);-/- (Cambio);Gasolina;-/- ;IT;-/- ;€ 59.000
+Porsche 997;75.462 km;abr-11;254 kW (345 CV);Manual;Gasolina;10,1;DE;237;€ 59.900
+Porsche Panamera;124.999 km;dic-11;184 kW (250 CV);Automático;Diésel;6,5;DE;172;€ 34.999
+Porsche Cayenne;145.000 km;feb-11;213 kW (290 CV);Automático;Gasolina;12,9;DE;310;€ 19.999
+Porsche Cayenne;97.000 km;feb-11;213 kW (290 CV);Automático;Gasolina;11,9;DE;310;€ 21.999
+Porsche Cayenne;132.000 km;feb-12;294 kW (400 CV);Automático;Gasolina;10,5;DE;249;€ 25.990
+Porsche 997;29.500 km;abr-11;300 kW (408 CV);Automático;Gasolina;10,3;DE;242;€ 89.490
+Porsche Cayenne;86.982 km;may-11;176 kW (239 CV);Automático;Diésel;7,4;DE;195;€ 32.850
+Porsche 997;49.900 km;ene-11;283 kW (385 CV);Automático;Gasolina;10,8;IT;254;€ 67.997
+Porsche 997;29.400 km;abr-10;331 kW (450 CV);Manual;Gasolina;13,2;Unknown;314;€ 149.900
+Porsche Cayenne;242.909 km;ago-11;155 kW (211 CV);Automático;Diésel;7,4;BE;195;€ 17.950
+Porsche Panamera;186.000 km;mar-11;294 kW (400 CV);Automático;Gasolina;11,1;ES;-/- ;€ 32.900
+Porsche Panamera;125.000 km;jun-10;220 kW (299 CV);Automático;Gasolina;9,6;ES;-/- ;€ 38.990
+Porsche Cayenne;158.000 km;may-12;294 kW (400 CV);Automático;Gasolina;10,5;ES;-/- ;€ 32.990
+Porsche Cayenne;203.000 km;ene-11;180 kW (245 CV);Automático;Diésel;7,2;ES;-/- ;€ 26.300
+Porsche Cayenne;86.500 km;dic-11;397 kW (540 CV);Automático;Gasolina;11,5;FR;270;€ 52.900
+Porsche Boxster;83.600 km;mar-12;195 kW (265 CV);Automático;Gasolina;7,9;Unknown;183;€ 29.987
+Porsche Boxster;69.627 km;jul-12;155 kW (211 CV);Automático;Gasolina;7,7;BE;180;€ 37.990
+Porsche Cayenne;170.000 km;oct-12;180 kW (245 CV);Automático;Diésel;7,2;IT;189;€ 25.000
+Porsche Boxster;19.894 km;nov-12;232 kW (315 CV);Manual;Gasolina;9 l/;Unknown;211;€ 33.000
+Porsche Cayenne;86.500 km;dic-11;397 kW (540 CV);Automático;Gasolina;11,5;BE;270;€ 52.900
+Porsche 997;67.000 km;ene-12;300 kW (408 CV);Manual;Gasolina;-/- ;NL;-/- ;€ 89.900
+Porsche Panamera;155.000 km;mar-12;184 kW (250 CV);Automático;Diésel;6,5;AT;172;€ 33.490
+Porsche 911;85.000 km;jun-10;283 kW (385 CV);Automático;Gasolina;10,8;Unknown;254;€ 55.000
+Porsche Boxster;99.000 km;jun-12;195 kW (265 CV);Automático;Gasolina;8,2;DE;194;€ 36.490
+Porsche Cayenne;199.800 km;ene-12;294 kW (400 CV);Automático;Gasolina;10,5;DE;249;€ 24.900
+Porsche Cayenne;129.883 km;sep-12;180 kW (245 CV);Automático;Diésel;7,2;Unknown;189;€ 27.000
+Porsche Cayenne;222.969 km;jul-11;294 kW (400 CV);Automático;Gasolina;10,5;NL;245;€ 23.400
+Porsche Cayenne;166.934 km;nov-10;294 kW (400 CV);Automático;Gasolina;10,5;NL;245;€ 29.945
+Porsche Panamera;145.434 km;jun-10;221 kW (300 CV);Automático;Gasolina;9,6;IT;225;€ 29.900
+Porsche Cayenne;184.000 km;ene-11;245 kW (333 CV);Automático;Gasolina;8,2;AT;193;€ 23.900
+Porsche 991;55.000 km;jul-12;257 kW (349 CV);Automático;Gasolina;9,2;DE;218;€ 69.850
+Porsche Boxster;65.000 km;dic-10;188 kW (256 CV);Automático;Gasolina;9,4;DE;221;€ 29.899
+Porsche Cayenne;152.403 km;dic-12;294 kW (400 CV);Automático;Gasolina;-/- ;DE;-/- ;€ 26.900
+Porsche Cayenne;121.500 km;sep-12;180 kW (245 CV);Automático;Diésel;7,2;DE;191;€ 28.890
+Porsche Cayenne;152.813 km;may-10;368 kW (500 CV);Automático;Gasolina;11,5;NL;270;€ 34.495
+Porsche 911;90.600 km;may-12;257 kW (349 CV);Automático;Gasolina;9,2;DE;218;€ 65.900
+Porsche 991;90.600 km;may-12;257 kW (349 CV);Automático;Gasolina;9,2;DE;218;€ 65.900
+Porsche 997;52.542 km;jun-10;261 kW (355 CV);Automático;Gasolina;11,9;BE;286;€ 64.997
+Porsche Cayenne;95.000 km;abr-12;180 kW (245 CV);Automático;Diésel;7,2;Unknown;189;€ 29.950
+Porsche Panamera;109.000 km;may-11;397 kW (540 CV);Automático;Gasolina;11,5;Unknown;270;€ 42.000
+Porsche Cayenne;135.400 km;abr-11;176 kW (239 CV);Automático;Diésel;7,4;Unknown;195;€ 23.500
+Porsche 911;99.999 km;feb-12;294 kW (400 CV);Automático;Gasolina;9,5;IT;223;€ 65.991
+Porsche 991;99.999 km;feb-12;294 kW (400 CV);Automático;Gasolina;9,5;IT;223;€ 65.991
+Porsche Cayenne;134.000 km;sep-11;180 kW (245 CV);Automático;Diésel;7,2;IT;189;€ 25.000
+Porsche Cayenne;74.000 km;ene-11;176 kW (239 CV);Automático;Diésel;-/- ;BE;-/- ;€ 33.950
+Porsche 911;82.522 km;ene-10;368 kW (500 CV);Automático;Gasolina;11,5;Unknown;270;€ 81.450
+Porsche 997;54.100 km;sep-10;331 kW (450 CV);Manual;Gasolina;12,8;Unknown;309;€ 190.000
+Porsche Cayenne;93.365 km;jul-10;368 kW (500 CV);Automático;Gasolina;11,5;ES;-/- ;€ 34.900
+Porsche 911;88.890 km;ago-12;294 kW (400 CV);Automático;Gasolina;9,5;DE;205;€ 61.900
+Porsche Cayenne;155.000 km;oct-11;176 kW (239 CV);Automático;Diésel;7,4;Unknown;195;€ 24.999
+Porsche 911;39.650 km;dic-11;390 kW (530 CV);Automático;Gasolina;11,4;Unknown;268;€ 88.800
+Porsche 911;74.130 km;dic-11;300 kW (408 CV);Automático;Gasolina;10,3;Unknown;242;€ 63.700
+Porsche Cayenne;195.471 km;dic-11;176 kW (239 CV);Automático;Diésel;7,4;Unknown;195;€ 18.000
+Porsche Cayenne;200.000 km;jun-11;245 kW (333 CV);Automático;Electro/Gasolina;8,2;Unknown;193;€ 30.500
+Porsche 997;42.700 km;jun-11;300 kW (408 CV);Automático;Gasolina;10,3;Unknown;242;€ 87.500
+Porsche 997;105.800 km;ene-12;390 kW (530 CV);Automático;Gasolina;11,4;ES;-/- ;€ 109.850
+Porsche 911;20.500 km;may-10;283 kW (385 CV);Automático;Gasolina;10,7;Unknown;251;€ 76.900
+Porsche Cayenne;145.000 km;nov-12;245 kW (333 CV);Automático;Otros;8,2;FR;193;€ 31.490
+Porsche Boxster;36.000 km;jul-12;232 kW (315 CV);Automático;Gasolina;8 l/;Unknown;190;€ 51.900
+Porsche 997;46.000 km;may-10;283 kW (385 CV);Automático;Gasolina;10,7;DE;251;€ 69.997
+Porsche Panamera;89.000 km;ago-10;368 kW (500 CV);Automático;Gasolina;12,2;ES;-/- ;€ 49.900
+Porsche Panamera;166.700 km;dic-11;294 kW (400 CV);Automático;Gasolina;-/- ;ES;-/- ;€ 33.490
+Porsche Cayenne;106.400 km;oct-12;180 kW (245 CV);Automático;Diésel;7,2;DE;190;€ 28.950
+Porsche Boxster;49.700 km;abr-10;235 kW (320 CV);Semiautomático;Gasolina;-/- ;BE;-/- ;€ 69.350
+Porsche 911;53.000 km;jun-12;294 kW (400 CV);Automático;Gasolina;9,5;Unknown;224;€ 75.000
+Porsche Cayman;22.500 km;oct-11;243 kW (330 CV);Manual;Gasolina;9,7;Unknown;228;€ 41.900
+Porsche Cayman;130.000 km;oct-12;235 kW (320 CV);Automático;Gasolina;9,2;Unknown;221;€ 38.000
+Porsche Cayenne;278.500 km;ene-11;176 kW (239 CV);Automático;Diésel;7,7;Unknown;195;€ 20.900
+Porsche 911;53.800 km;feb-10;320 kW (435 CV);Manual;Gasolina;12,8;Unknown;303;€ 105.000
+Porsche Boxster;63.000 km;nov-10;228 kW (310 CV);Automático;Gasolina;9,4;Unknown;221;€ 34.900
+Porsche Panamera;298.565 km;jul-11;279 kW (379 CV);Automático;Electro/Gasolina;-/- ;DE;-/- ;€ 26.990
+Porsche Cayman;79.700 km;mar-10;195 kW (265 CV);Automático;Gasolina;9,1;Unknown;214;€ 31.750
+Porsche Cayenne;134.000 km;mar-12;180 kW (245 CV);Automático;Diésel;7,2;BE;189;€ 29.900
+Porsche Cayenne;121.500 km;jul-12;180 kW (245 CV);Automático;Diésel;7,2;DE;191;€ 24.990
+Porsche Cayenne;294.000 km;may-12;181 kW (246 CV);Automático;Diésel;7,2;BE;189;€ 17.750
+Porsche Cayman;83.962 km;jul-11;198 kW (269 CV);-/- (Cambio);Gasolina;-/- ;FR;214;€ 33.700
+Porsche 911;54.000 km;nov-12;283 kW (385 CV);Automático;Gasolina;10,7;DE;251;€ 63.000
+Porsche 997;11.700 km;may-12;368 kW (500 CV);Manual;Gasolina;13,8;DE;327;€ 399.560
+Porsche Panamera;137.903 km;mar-12;155 kW (211 CV);Automático;Diésel;-/- ;BE;167;€ 31.990
+Porsche Cayenne;133.775 km;may-11;176 kW (239 CV);Automático;Diésel;7,4;FR;195;€ 26.900
+Porsche Cayenne;176.000 km;ene-12;180 kW (245 CV);Automático;Diésel;7,2;ES;-/- ;€ 28.999
+Porsche Cayenne;230.000 km;ene-12;180 kW (245 CV);Automático;Diésel;7,2;ES;-/- ;€ 29.900
+Porsche Cayenne;249.000 km;dic-11;245 kW (333 CV);Automático;Gasolina;8,2;Unknown;193;€ 18.500
+Porsche Cayenne;249.000 km;dic-11;245 kW (333 CV);Automático;Gasolina;8,2;Unknown;193;€ 18.500
+Porsche Cayenne;123.000 km;jun-12;180 kW (245 CV);Automático;Diésel;7,2;Unknown;189;€ 29.500
+Porsche 991;47.510 km;jul-12;257 kW (349 CV);Automático;Gasolina;8,2;DE;191;€ 69.999
+Porsche Cayenne;203.000 km;dic-10;368 kW (500 CV);Automático;Gasolina;11,5;DE;273;€ 25.900
+Porsche Panamera;236.000 km;mar-11;294 kW (400 CV);Automático;Gasolina;11,1;Unknown;260;€ 52.000
+Porsche Panamera;163.662 km;mar-10;368 kW (500 CV);Automático;Gasolina;12,2;Unknown;270;€ 39.900
+Porsche Panamera;229.000 km;ene-12;184 kW (250 CV);Automático;Diésel;6,3;IT;166;€ 24.900
+Porsche Cayenne;125.000 km;ago-11;294 kW (400 CV);Automático;Gasolina;10,5;Unknown;245;€ 30.000
+Porsche Boxster;71.823 km;ago-12;232 kW (315 CV);Automático;Gasolina;8 l/;NL;0 g ;€ 49.950
+Porsche Panamera;66.700 km;ene-12;220 kW (299 CV);Automático;Gasolina;-/- ;DE;-/- ;€ 40.799
+Porsche 997;40.000 km;may-10;283 kW (385 CV);Semiautomático;Gasolina;11,2;NL;0 g ;€ 73.997
+Porsche Cayenne;133.775 km;may-11;176 kW (239 CV);Automático;Diésel;7,4;BE;195;€ 26.900
+Porsche Panamera;97.000 km;mar-10;368 kW (500 CV);Automático;Gasolina;11,5;Unknown;270;€ 37.000
+Porsche Cayenne;91.500 km;nov-11;294 kW (400 CV);Automático;Gasolina;10,5;DE;245;€ 31.990
+Porsche 997;241.000 km;ene-10;283 kW (385 CV);Automático;Gasolina;10,7;DE;251;€ 42.900
+Porsche Cayenne;180.000 km;feb-10;176 kW (239 CV);Automático;Diésel;9,3;Unknown;244;€ 18.900
+Porsche Cayenne;148.000 km;ene-11;176 kW (239 CV);Automático;Diésel;7,4;Unknown;195;€ 25.800
+Porsche Cayenne;93.365 km;jul-10;368 kW (500 CV);Automático;Gasolina;11,5;ES;-/- ;€ 34.900
+Porsche Cayenne;280.000 km;jun-12;180 kW (245 CV);Automático;Diésel;7,2;IT;189;€ 19.000
+Porsche Cayman;54.000 km;mar-12;246 kW (334 CV);Automático;Gasolina;-/- ;FR;218;€ 59.990
+Porsche 997;88.900 km;mar-10;254 kW (345 CV);Automático;Gasolina;10,3;DE;242;€ 57.900
+Porsche 911;127.687 km;oct-10;254 kW (345 CV);Automático;Gasolina;9,9;DE;233;€ 47.497
+Porsche 997;63.000 km;jul-11;254 kW (345 CV);Automático;Gasolina;-/- ;DE;-/- ;€ 66.250
+Porsche 911;61.390 km;nov-10;331 kW (450 CV);Manual;Gasolina;13,2;DE;309;€ 109.990
+Porsche 911;31.967 km;jul-10;283 kW (385 CV);Automático;Gasolina;-/- ;DE;-/- ;€ 69.800
+Porsche Cayenne;93.365 km;jul-10;368 kW (500 CV);Automático;Gasolina;11,5;ES;-/- ;€ 34.900
+Porsche Cayenne;170.000 km;sep-10;245 kW (333 CV);Automático;Electro/Gasolina;8,2;Unknown;193;€ 30.000
+Porsche Boxster;125.457 km;ene-10;228 kW (310 CV);Automático;Gasolina;9,4;Unknown;221;€ 28.994
+Porsche Cayenne;171.000 km;oct-12;180 kW (245 CV);Automático;Diésel;7,2;Unknown;189;€ 24.800
+Porsche Panamera;95.000 km;nov-12;184 kW (250 CV);Automático;Diésel;6,5;Unknown;172;€ 32.400
+Porsche Cayenne;80.000 km;oct-12;220 kW (299 CV);Automático;Gasolina;9,9;Unknown;236;€ 32.000
+Porsche Boxster;10.950 km;abr-11;235 kW (320 CV);Automático;Gasolina;9,4;Unknown;221;€ 45.900
+Porsche 911;52.452 km;jun-10;261 kW (355 CV);Automático;Gasolina;11,9;BE;286;€ 64.997
+Porsche Panamera;128.500 km;oct-10;220 kW (299 CV);Automático;Gasolina;9,3;BE;218;€ 27.950
+Porsche Cayenne;108.000 km;oct-11;180 kW (245 CV);Automático;Diésel;7,2;Unknown;189;€ 28.500
+Porsche Cayenne;191.000 km;mar-11;176 kW (239 CV);Automático;Diésel;6,6;DE;175;€ 22.499
+Porsche 911;26.900 km;mar-11;390 kW (530 CV);Automático;Gasolina;11,4;Unknown;268;€ 98.900
+Porsche 997;59.366 km;jun-10;283 kW (385 CV);Automático;Gasolina;10,5;NL;247;€ 66.997
+Porsche 997;67.000 km;mar-11;283 kW (385 CV);Automático;Gasolina;10,7;IT;263;€ 70.000
+Porsche Cayenne;167.000 km;sep-11;221 kW (300 CV);Automático;Gasolina;9,9;NL;236;€ 26.444
+Porsche Boxster;142.000 km;mar-10;228 kW (310 CV);Automático;Gasolina;9,4;DE;221;€ 29.990
+Porsche Cayenne;98.000 km;ago-10;368 kW (500 CV);Automático;Gasolina;11,5;DE;272;€ 36.900
+Porsche Cayenne;56.680 km;sep-12;180 kW (245 CV);Automático;Diésel;7,2;DE;191;€ 31.990
+Porsche Cayenne;118.500 km;ene-11;220 kW (299 CV);Automático;Gasolina;11,2;Unknown;236;€ 29.500
+Porsche Cayenne;143.000 km;jun-12;155 kW (211 CV);Automático;Diésel;7,4;Unknown;195;€ 26.900
+Porsche Cayenne;85.900 km;jul-12;180 kW (245 CV);Automático;Diésel;7,4;DE;195;€ 33.940
+Porsche Panamera;141.697 km;ago-10;220 kW (299 CV);Automático;Gasolina;11,3;DE;265;€ 25.749
+Porsche 991;33.000 km;oct-12;257 kW (349 CV);Manual;Gasolina;8,2;DE;194;€ 69.900
+Porsche 997;101 km;abr-11;300 kW (408 CV);Automático;Gasolina;10,3;DE;242;€ 299.900
+Porsche 911;68.000 km;mar-12;- kW (- CV);Automático;Gasolina;8,9;BE;210;€ 96.270
+Porsche 911;6.400 km;oct-10;456 kW (620 CV);Manual;Gasolina;11,9;AT;284;€ 399.900
+Porsche Cayenne;249.000 km;jul-12;180 kW (245 CV);Automático;Diésel;7,2;Unknown;189;€ 24.000
+Porsche Cayenne;134.000 km;ago-11;155 kW (211 CV);Automático;Diésel;7,4;Unknown;195;€ 30.000
+Porsche Boxster;41.800 km;sep-11;228 kW (310 CV);Automático;Gasolina;9,4;DE;221;€ 39.900
+Porsche 991;68.000 km;mar-12;294 kW (400 CV);Automático;Gasolina;8,9;NL;210;€ 82.991
+Porsche Boxster;117.500 km;mar-10;188 kW (256 CV);Manual;Gasolina;9,4;BE;221;€ 29.950
+Porsche Panamera;140.000 km;abr-11;220 kW (299 CV);Automático;Gasolina;9,6;FR;225;€ 26.950
+Porsche Cayenne;148.000 km;may-11;155 kW (211 CV);Automático;Diésel;7,4;BE;195;€ 24.999
+Porsche Cayman;38.000 km;jul-11;243 kW (330 CV);Manual;Gasolina;9,7;IT;228;€ 58.000
+Porsche 991;51.463 km;may-12;257 kW (349 CV);Automático;Gasolina;8,2;NL;194;€ 71.991
+Porsche Boxster;16.000 km;ene-10;188 kW (256 CV);Manual;Gasolina;9,4;Unknown;221;€ 34.000
+Porsche Panamera;82.500 km;jun-10;294 kW (400 CV);Automático;Gasolina;-/- ;BE;260;€ 38.000
+Porsche 991;80.068 km;abr-12;257 kW (349 CV);Automático;Gasolina;8,2;NL;194;€ 74.750
+Porsche 997;69.500 km;mar-11;300 kW (408 CV);Semiautomático;Gasolina;10,3;Unknown;242;€ 81.997
+Porsche Cayman;115.000 km;may-10;196 kW (266 CV);Automático;Gasolina;9,1;NL;214;€ 32.500
+Porsche Panamera;140.000 km;abr-11;220 kW (299 CV);Automático;Gasolina;9,6;BE;225;€ 26.950
+Porsche Panamera;180.327 km;mar-10;294 kW (400 CV);Automático;Gasolina;10,8;NL;260;€ 34.890
+Porsche Cayenne;212.000 km;ago-11;180 kW (245 CV);Automático;Diésel;7,2;IT;189;€ 19.999
+Porsche Cayenne;98.000 km;abr-12;180 kW (245 CV);Automático;Diésel;7,2;AT;189;€ 37.990
+Porsche Panamera;133.000 km;nov-12;184 kW (250 CV);Automático;Diésel;6,5;Unknown;172;€ 28.000
+Porsche Cayenne;89.000 km;ene-11;176 kW (239 CV);Automático;Diésel;7,4;IT;195;€ 27.900
+Porsche Boxster;42.500 km;mar-11;235 kW (320 CV);Manual;Gasolina;9,7;DE;230;€ 59.901
+Porsche 997;66.821 km;nov-10;283 kW (385 CV);Automático;Gasolina;10,8;DE;254;€ 67.900
+Porsche Boxster;117.500 km;feb-10;228 kW (310 CV);Automático;Gasolina;9,4;DE;221;€ 29.990
+Porsche Cayenne;215.515 km;jul-10;294 kW (400 CV);Automático;Gasolina;10,5;DE;249;€ 19.700
+Porsche Cayenne;200.876 km;nov-12;245 kW (333 CV);Automático;Electro/Gasolina;8,2;DE;-/- ;€ 24.800
+Porsche Panamera;140.121 km;oct-10;294 kW (400 CV);Automático;Gasolina;10,8;Unknown;254;€ 34.999
+Porsche Boxster;60.700 km;ago-10;188 kW (256 CV);Automático;Gasolina;9,4;Unknown;221;€ 32.000
+Porsche Panamera;40.500 km;mar-11;220 kW (299 CV);Automático;Gasolina;11,3;DE;268;€ 40.990
+Porsche Panamera;164.900 km;jul-12;368 kW (500 CV);Automático;Gasolina;12,9;AT;303;€ 42.900
+Porsche Cayenne;235.000 km;jun-10;279 kW (379 CV);Automático;Electro/Gasolina;8,2;ES;-/- ;€ 25.000
+Porsche Cayenne;170.000 km;oct-12;180 kW (245 CV);Automático;Diésel;7,2;ES;-/- ;€ 29.000
+Porsche 911;70.500 km;jul-10;390 kW (530 CV);Automático;Gasolina;11,5;Unknown;270;€ 99.000
+Porsche Panamera;242.000 km;ago-11;294 kW (400 CV);Automático;Gasolina;11,1;ES;-/- ;€ 31.999
+Porsche 911;74.500 km;ene-10;368 kW (500 CV);-/- (Cambio);-/- (Combustible);-/- ;FR;-/- ;€ 82.900
+Porsche 991;53.300 km;abr-12;294 kW (400 CV);Automático;Gasolina;8,7;DE;205;€ 81.900
+Porsche Cayenne;347.000 km;jul-11;180 kW (245 CV);Automático;Diésel;7,3;DE;189;€ 19.899
+Porsche Panamera;37.990 km;jun-11;368 kW (500 CV);Automático;Gasolina;-/- ;DE;-/- ;€ 48.698
+Porsche Panamera;199.888 km;sep-11;184 kW (250 CV);Automático;Diésel;6,5;DE;172;€ 27.950
+Porsche Panamera;113.762 km;mar-12;155 kW (211 CV);Automático;Diésel;6,5;BE;172;€ 35.999
+Porsche Cayenne;143.780 km;jul-11;180 kW (245 CV);Automático;Diésel;7,2;IT;189;€ 27.000
+Porsche Cayenne;162.000 km;sep-11;176 kW (239 CV);Automático;Diésel;7,4;IT;195;€ 26.500
+Porsche;86.900 km;ene-11;283 kW (385 CV);Automático;Gasolina;10,7;NL;263;€ 74.950
+Porsche Cayenne;133.000 km;jul-12;368 kW (500 CV);Automático;Gasolina;11,5;Unknown;270;€ 37.000
+Porsche 997;103.750 km;jul-12;390 kW (530 CV);Semiautomático;Gasolina;11,4;IT;268;€ 185.000
+Porsche Cayenne;221.567 km;jul-10;294 kW (400 CV);Automático;Gasolina;10,5;BE;245;€ 18.000
+Porsche Cayman;50.000 km;abr-12;195 kW (265 CV);Manual;Gasolina;9,4;DE;223;€ 29.499
+Porsche 997;60.200 km;mar-10;283 kW (385 CV);Automático;Gasolina;10,5;NL;247;€ 64.950
+Porsche Boxster;60.050 km;mar-11;231 kW (314 CV);-/- (Cambio);Gasolina;-/- ;FR;221;€ 37.700
+Porsche Cayenne;129.700 km;jun-11;294 kW (400 CV);Automático;Gasolina;10,5;DE;249;€ 27.200
+Porsche Cayenne;109.500 km;ene-11;294 kW (400 CV);Automático;Gasolina;10,5;DE;245;€ 26.980
+Porsche Panamera;147.500 km;mar-12;184 kW (250 CV);Automático;Diésel;6,5;DE;172;€ 31.900
+Porsche Cayenne;185.000 km;ene-11;176 kW (239 CV);Automático;Diésel;7,4;DE;195;€ 23.490
+Porsche Cayenne;155.900 km;feb-12;180 kW (245 CV);Automático;Diésel;7,2;DE;191;€ 31.900
+Porsche Panamera;216.000 km;jul-11;368 kW (500 CV);Automático;Gasolina;12,9;DE;303;€ 29.850
+Porsche Cayenne;10.000 km;jul-12;180 kW (245 CV);Automático;Diésel;7,2;ES;-/- ;€ 33.000
+Porsche Cayenne;172.300 km;sep-12;309 kW (420 CV);Automático;Gasolina;10,7;DE;254;€ 29.800
+Porsche 991;109.000 km;dic-12;257 kW (349 CV);Automático;Gasolina;8,2;BE;194;€ 64.900
+Porsche Boxster;99.800 km;jun-10;188 kW (256 CV);Manual;Gasolina;8 l/;BE;221;€ 29.900
+Porsche 997;49.800 km;ene-11;368 kW (500 CV);Automático;Gasolina;11,5;BE;270;€ 84.990
+Porsche 911;49.800 km;ene-11;368 kW (500 CV);Automático;Gasolina;11,5;BE;270;€ 84.990
+Porsche Cayenne;284.531 km;ago-11;155 kW (211 CV);Automático;Diésel;7,4;BE;189;€ 18.300
+Porsche Panamera;98.977 km;may-12;405 kW (551 CV);Automático;Gasolina;11,5;Unknown;270;€ 65.000
+Porsche 997;94.521 km;jul-11;254 kW (345 CV);Automático;Gasolina;-/- ;DE;-/- ;€ 55.997
+Porsche 911;66.700 km;abr-10;254 kW (345 CV);Manual;Gasolina;10,4;DE;245;€ 56.850
+Porsche 911;41.834 km;oct-10;368 kW (500 CV);Automático;Gasolina;11,5;BE;270;€ 94.900
+Porsche Cayenne;162.730 km;jun-11;155 kW (211 CV);Automático;Diésel;7,4;BE;195;€ 24.990
+Porsche 911;51.000 km;jul-12;257 kW (349 CV);Automático;Gasolina;8,4;Unknown;195;€ 77.900
+Porsche Cayenne;72.000 km;nov-12;220 kW (299 CV);Automático;Gasolina;9,9;DE;236;€ 34.790
+Porsche 911;75.000 km;abr-12;294 kW (400 CV);Automático;Gasolina;8,9;Unknown;210;€ 75.000
+Porsche Cayenne;120.000 km;may-10;213 kW (290 CV);Automático;Gasolina;12,9;Unknown;310;€ 17.700
+Porsche 991;39.000 km;sep-12;257 kW (349 CV);Manual;Gasolina;9 l/;Unknown;211;€ 65.000
+Porsche Panamera;57.600 km;dic-11;184 kW (250 CV);Automático;Diésel;6,5;Unknown;172;€ 39.990
+Porsche Panamera;96.700 km;oct-11;220 kW (299 CV);Automático;Gasolina;9,5;AT;225;€ 36.200
+Porsche Panamera;109.000 km;abr-11;220 kW (299 CV);Manual;Gasolina;-/- ;DE;-/- ;€ 34.998
+Porsche Panamera;155.000 km;sep-11;294 kW (400 CV);Automático;Gasolina;10,5;Unknown;247;€ 34.999
+Porsche Cayenne;141.000 km;abr-11;294 kW (400 CV);Automático;Gasolina;10,5;Unknown;245;€ 25.500
+Porsche 991;62.000 km;nov-12;294 kW (400 CV);Automático;Gasolina;9 l/;Unknown;215;€ 82.900
+Porsche 911;96.000 km;mar-12;257 kW (349 CV);Automático;Gasolina;8,4;Unknown;195;€ 74.000
+Porsche 911;48.500 km;jul-12;294 kW (400 CV);Automático;Gasolina;8,9;FR;210;€ 78.750
+Porsche 911;37.228 km;ago-12;261 kW (355 CV);Automático;Gasolina;-/- ;FR;198;€ 82.990
+Porsche 911;109.850 km;may-11;368 kW (500 CV);Manual;Gasolina;11,6;DE;272;€ 74.890
+Porsche Cayenne;70.000 km;dic-12;180 kW (245 CV);Automático;Diésel;7,2;DE;191;€ 31.990
+Porsche Cayenne;133.000 km;oct-12;180 kW (245 CV);Automático;Diésel;7,2;Unknown;189;€ 29.950
+Porsche Panamera;133.000 km;feb-12;155 kW (211 CV);Automático;Diésel;6,5;Unknown;172;€ 32.500
+Porsche 911;78.000 km;abr-12;257 kW (349 CV);Automático;Gasolina;8,2;Unknown;194;€ 66.500
+Porsche Cayenne;164.000 km;dic-11;368 kW (500 CV);Automático;Gasolina;-/- ;ES;-/- ;€ 35.000
+Porsche Panamera;119.000 km;ene-11;294 kW (400 CV);Automático;Gasolina;-/- ;ES;-/- ;€ 37.500
+Porsche Panamera;144.000 km;jun-10;294 kW (400 CV);Automático;Gasolina;10,8;Unknown;254;€ 39.000
+Porsche Panamera;269.000 km;oct-11;184 kW (250 CV);Automático;Diésel;6,5;ES;-/- ;€ 30.900
+Porsche 911;82.000 km;may-11;300 kW (408 CV);Automático;Gasolina;10,2;Unknown;240;€ 69.997
+Porsche Panamera;130.000 km;ene-11;368 kW (500 CV);Automático;Gasolina;12,2;ES;-/- ;€ 39.999
+Porsche Cayenne;168.000 km;jul-10;368 kW (500 CV);Automático;Gasolina;11,5;Unknown;270;€ 28.900
+Porsche Cayenne;214.842 km;ene-11;177 kW (241 CV);Automático;Diésel;7,4;NL;195;€ 23.950
+Porsche Cayenne;128.000 km;jun-12;180 kW (245 CV);Automático;Diésel;7,2;Unknown;189;€ 32.900
+Porsche 911;76.000 km;jul-11;300 kW (408 CV);Automático;Gasolina;10,2;DE;240;€ 54.990
+Porsche Cayenne;203.874 km;may-12;309 kW (420 CV);Automático;Gasolina;10,7;Unknown;251;€ 22.290
+Porsche Cayenne;132.050 km;may-11;368 kW (500 CV);Automático;Gasolina;11,5;NL;270;€ 39.900
+Porsche Cayenne;146.493 km;jul-10;294 kW (400 CV);Automático;Gasolina;10,5;NL;245;€ 29.950
+Porsche 911;78.719 km;ene-11;373 kW (507 CV);-/- (Cambio);Gasolina;-/- ;FR;268;€ 79.700
+Porsche 991;40.000 km;abr-12;299 kW (407 CV);Manual;Gasolina;-/- ;FR;224;€ 34.800
+Porsche Panamera;93.900 km;ene-10;368 kW (500 CV);Automático;Gasolina;12,9;DE;303;€ 44.900
+Porsche Panamera;196.000 km;may-10;294 kW (400 CV);Automático;Gasolina;11,5;DE;275;€ 25.990
+Porsche 997;26.056 km;mar-10;320 kW (435 CV);Manual;Gasolina;12,6;DE;298;€ 109.910
+Porsche Cayenne;172.000 km;jul-10;245 kW (333 CV);Automático;Electro/Gasolina;8,2;DE;-/- ;€ 21.899
+Porsche Panamera;188.521 km;may-10;294 kW (400 CV);Automático;Gasolina;11,5;DE;275;€ 25.990
+Porsche 991;89.000 km;nov-12;257 kW (349 CV);Manual;Gasolina;9,2;IT;216;€ 73.900
+Porsche 911;89.000 km;nov-12;257 kW (349 CV);Manual;Gasolina;9,2;IT;216;€ 73.900
+Porsche 991;57.000 km;mar-12;257 kW (349 CV);Automático;Gasolina;8,2;DE;194;€ 75.900

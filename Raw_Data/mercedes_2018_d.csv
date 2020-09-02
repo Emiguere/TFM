@@ -1,0 +1,380 @@
+vehicle;  km; year; power; transmision; fuel_type; consume; country;emisions;price 
+Mercedes-Benz Sprinter;11.033 km;jun-18;120 kW (163 CV);Automático;Diésel;-/- ;ES;-/- ;€ 31.400
+Mercedes-Benz Sprinter;2.883 km;jun-18;105 kW (143 CV);Automático;Diésel;-/- ;ES;-/- ;€ 30.300
+Mercedes-Benz C 220;51.020 km;mar-18;143 kW (194 CV);Automático;Diésel;4,7;ES;-/- ;€ 25.908
+Mercedes-Benz GLA 200;22.398 km;ene-18;100 kW (136 CV);Manual;Diésel;4,2;ES;-/- ;€ 28.900
+Mercedes-Benz Vito;39.996 km;jul-18;140 kW (190 CV);Manual;Diésel;5,8;ES;153;€ 28.000
+Mercedes-Benz GLC 220;11.047 km;feb-18;125 kW (170 CV);Automático;Diésel;5 l/;ES;-/- ;€ 37.900
+Mercedes-Benz SLC 250;5.000 km;oct-18;150 kW (204 CV);Automático;Diésel;4,4;ES;-/- ;€ 38.500
+Mercedes-Benz C 220;21.240 km;nov-18;125 kW (170 CV);Automático;Diésel;4,6;ES;-/- ;€ 39.495
+Mercedes-Benz Citan;49.000 km;jun-18;66 kW (90 CV);Manual;Diésel;5 l/;ES;-/- ;€ 9.490,00
+Mercedes-Benz GLC 220;51.950 km;may-18;125 kW (170 CV);Automático;Diésel;5 l/;ES;-/- ;€ 34.900
+Mercedes-Benz CLA 200;46.031 km;feb-18;100 kW (136 CV);Automático;Diésel;4 l/;ES;-/- ;€ 24.800
+Mercedes-Benz GLE 250;29.800 km;mar-18;150 kW (204 CV);Automático;Diésel;5,6;ES;-/- ;€ 44.300
+Mercedes-Benz GLE 250;77.313 km;feb-18;150 kW (204 CV);Automático;Diésel;5,6;ES;-/- ;€ 45.200
+Mercedes-Benz GLA 200;79.981 km;dic-18;100 kW (136 CV);Manual;Diésel;4,2;ES;-/- ;€ 23.900
+Mercedes-Benz E 220;19.848 km;jul-18;143 kW (194 CV);Automático;Diésel;3,9;ES;-/- ;€ 36.900
+Mercedes-Benz B 180;55.598 km;mar-18;80 kW (109 CV);Automático;Diésel;4 l/;ES;-/- ;€ 18.400
+Mercedes-Benz A 180;12.500 km;sep-18;85 kW (116 CV);Automático;Diésel;3,9;ES;-/- ;€ 26.700
+Mercedes-Benz C 220;22.000 km;jul-18;125 kW (170 CV);Automático;Diésel;4,4;ES;-/- ;€ 33.020
+Mercedes-Benz Vito;95.632 km;jun-18;84 kW (114 CV);Manual;Diésel;6,4;ES;-/- ;€ 19.999
+Mercedes-Benz B 200;25.000 km;mar-18;100 kW (136 CV);Automático;Diésel;4 l/;ES;-/- ;€ 20.890
+Mercedes-Benz A 200;26.200 km;ago-18;100 kW (136 CV);Automático;Diésel;3,8;ES;-/- ;€ 23.000
+Mercedes-Benz Vito;29.998 km;jun-18;100 kW (136 CV);Manual;Diésel;6,4;ES;-/- ;€ 22.561
+Mercedes-Benz C 220;40.784 km;sep-18;125 kW (170 CV);Automático;Diésel;4,4;ES;-/- ;€ 34.300
+Mercedes-Benz V 220;22.373 km;feb-18;120 kW (163 CV);Automático;Diésel;5,9;ES;-/- ;€ 32.045
+Mercedes-Benz V 220;22.373 km;feb-18;120 kW (163 CV);Automático;Diésel;5,9;ES;-/- ;€ 32.045
+Mercedes-Benz V 220;22.373 km;feb-18;120 kW (163 CV);Automático;Diésel;5,9;ES;-/- ;€ 32.045
+Mercedes-Benz CLA 200;40.454 km;abr-18;100 kW (136 CV);Automático;Diésel;5,4;ES;-/- ;€ 27.900
+Mercedes-Benz C 220;17.000 km;feb-18;125 kW (170 CV);Automático;Diésel;4,6;ES;121;€ 34.990
+Mercedes-Benz C 200;16.200 km;nov-18;110 kW (150 CV);Automático;Diésel;4,8;ES;-/- ;€ 30.900
+Mercedes-Benz;99.000 km;ene-18;431 kW (586 CV);Automático;Diésel;-/- ;ES;-/- ;€ 79.990
+Mercedes-Benz C 220;52.000 km;ago-18;125 kW (170 CV);Automático;Diésel;4,4;Unknown;112;€ 26.100
+Mercedes-Benz V 220;22.373 km;feb-18;120 kW (163 CV);Automático;Diésel;5,9;ES;-/- ;€ 32.045
+Mercedes-Benz V 220;22.373 km;feb-18;120 kW (163 CV);Automático;Diésel;5,9;ES;-/- ;€ 32.045
+Mercedes-Benz V 220;22.373 km;feb-18;120 kW (163 CV);Automático;Diésel;5,9;ES;-/- ;€ 32.045
+Mercedes-Benz V 220;22.373 km;feb-18;120 kW (163 CV);Automático;Diésel;5,9;ES;-/- ;€ 32.045
+Mercedes-Benz C 220;87.490 km;jun-18;125 kW (170 CV);Automático;Diésel;4,4;Unknown;112;€ 31.900
+Mercedes-Benz GLE 350;94.500 km;jun-18;190 kW (258 CV);Automático;Diésel;7,5;ES;-/- ;€ 55.000
+Mercedes-Benz C 220;18.000 km;oct-18;143 kW (194 CV);Automático;Diésel;4,7;ES;-/- ;€ 31.875
+Mercedes-Benz A 200;21.000 km;abr-18;100 kW (136 CV);Automático;Diésel;3,8;ES;-/- ;€ 24.200
+Mercedes-Benz C 220;18.720 km;ene-18;125 kW (170 CV);Automático;Diésel;4,4;ES;-/- ;€ 31.690
+Mercedes-Benz Sprinter;24.312 km;jun-18;105 kW (143 CV);Manual;Diésel;7,5;ES;-/- ;€ 20.900
+Mercedes-Benz Sprinter;19.781 km;jun-18;105 kW (143 CV);Manual;Diésel;7,5;ES;-/- ;€ 20.900
+Mercedes-Benz Sprinter;40.600 km;jun-18;105 kW (143 CV);Manual;Diésel;-/- ;ES;-/- ;€ 19.900
+Mercedes-Benz GLC 220;60.000 km;jun-18;125 kW (170 CV);Automático;Diésel;6,1;ES;-/- ;€ 42.890
+Mercedes-Benz E 220;25.500 km;jun-18;143 kW (194 CV);Automático;Diésel;3,9;ES;-/- ;€ 40.500
+Mercedes-Benz C 200;54.450 km;sep-18;110 kW (150 CV);Automático;Diésel;-/- ;ES;-/- ;€ 30.990
+Mercedes-Benz V 220;22.373 km;feb-18;120 kW (163 CV);Automático;Diésel;5,9;ES;-/- ;€ 32.045
+Mercedes-Benz Sprinter;180.000 km;jun-18;105 kW (143 CV);Automático;Diésel;7,9;ES;-/- ;€ 18.500
+Mercedes-Benz V 220;22.373 km;feb-18;120 kW (163 CV);Automático;Diésel;5,9;ES;-/- ;€ 32.045
+Mercedes-Benz GLA 200;29.300 km;ene-18;100 kW (136 CV);Automático;Diésel;4,2;Unknown;108;€ 27.000
+Mercedes-Benz B 200;19.000 km;mar-18;100 kW (136 CV);Automático;Diésel;4 l/;ES;-/- ;€ 23.440
+Mercedes-Benz B 200;36.000 km;mar-18;100 kW (136 CV);Automático;Diésel;4 l/;ES;-/- ;€ 22.990
+Mercedes-Benz CLA 220;13.900 km;nov-18;130 kW (177 CV);Automático;Diésel;4,2;ES;-/- ;€ 30.990
+Mercedes-Benz GLE 350;94.500 km;jun-18;190 kW (258 CV);Automático;Diésel;7,5;ES;-/- ;€ 55.000
+Mercedes-Benz A 180;2.000 km;jun-18;80 kW (109 CV);Automático;Diésel;3,7;ES;-/- ;€ 24.990
+Mercedes-Benz Vito;30.988 km;jun-18;100 kW (136 CV);Manual;Diésel;6,4;ES;-/- ;€ 26.800
+Mercedes-Benz E 220;26.500 km;jun-18;143 kW (194 CV);Automático;Diésel;4 l/;ES;-/- ;€ 39.990
+Mercedes-Benz GLC 220;93.700 km;ene-18;125 kW (170 CV);Automático;Diésel;5 l/;ES;-/- ;€ 33.400
+Mercedes-Benz V;32.000 km;dic-18;120 kW (163 CV);Automático;Diésel;5,9;ES;-/- ;€ 40.900
+Mercedes-Benz B 200;19.500 km;jun-18;100 kW (136 CV);Automático;Diésel;4 l/;ES;-/- ;€ 19.890
+Mercedes-Benz B 200;19.500 km;jun-18;100 kW (136 CV);Automático;Diésel;4 l/;ES;-/- ;€ 19.890
+Mercedes-Benz B 200;25.000 km;sep-18;100 kW (136 CV);Automático;Diésel;4 l/;ES;-/- ;€ 19.480
+Mercedes-Benz CLA 200;13.500 km;jul-18;100 kW (136 CV);Automático;Diésel;5,4;ES;-/- ;€ 25.890
+Mercedes-Benz CLA 200;12.500 km;jul-18;100 kW (136 CV);Automático;Diésel;5,4;ES;-/- ;€ 25.890
+Mercedes-Benz CLA 200;13.500 km;jul-18;100 kW (136 CV);Automático;Diésel;5,4;ES;-/- ;€ 25.890
+Mercedes-Benz CLA 200;10.500 km;jul-18;100 kW (136 CV);Automático;Diésel;5,4;ES;-/- ;€ 25.890
+Mercedes-Benz CLA 200;13.000 km;jul-18;100 kW (136 CV);Automático;Diésel;5,4;ES;-/- ;€ 25.890
+Mercedes-Benz B 200;26.500 km;mar-18;100 kW (136 CV);Automático;Diésel;4 l/;ES;-/- ;€ 20.890
+Mercedes-Benz V;45.669 km;jul-18;120 kW (163 CV);Automático;Diésel;5,9;ES;-/- ;€ 31.400
+Mercedes-Benz GLC 220;13.689 km;dic-18;125 kW (170 CV);Automático;Diésel;5 l/;ES;-/- ;€ 57.900
+Mercedes-Benz A 180;35.000 km;jun-18;80 kW (109 CV);Automático;Diésel;3,7;ES;-/- ;€ 27.890
+Mercedes-Benz C 220;45.987 km;ene-18;125 kW (170 CV);Automático;Diésel;4,4;ES;-/- ;€ 29.500
+Mercedes-Benz C 220;71.000 km;jul-18;143 kW (194 CV);Automático;Diésel;4,8;ES;-/- ;€ 30.600
+Mercedes-Benz GLE 250;44.000 km;ene-18;150 kW (204 CV);Automático;Diésel;5,6;ES;155;€ 40.900
+Mercedes-Benz GLC 250;130.000 km;ene-18;150 kW (204 CV);Automático;Diésel;6,1;ES;-/- ;€ 32.999
+Mercedes-Benz Vito;12.500 km;mar-18;65 kW (88 CV);Manual;Diésel;6,4;ES;169;€ 19.800
+Mercedes-Benz V 220;37.749 km;feb-18;120 kW (163 CV);Automático;Diésel;5,9;ES;154;€ 38.800
+Mercedes-Benz A 200;45.784 km;ene-18;100 kW (136 CV);Automático;Diésel;3,8;ES;-/- ;€ 21.990
+Mercedes-Benz V 220;41.000 km;jun-18;120 kW (163 CV);Automático;Diésel;6 l/;ES;159;€ 30.500
+Mercedes-Benz V 220;25.103 km;oct-18;120 kW (163 CV);Automático;Diésel;5,9;ES;-/- ;€ 40.300
+Mercedes-Benz GLC 220;13.689 km;dic-18;125 kW (170 CV);Automático;Diésel;5 l/;ES;-/- ;€ 53.900
+Mercedes-Benz C 220;40.000 km;mar-18;125 kW (170 CV);Automático;Diésel;4,4;ES;-/- ;€ 28.875
+Mercedes-Benz CLA 220;31.600 km;ago-18;130 kW (177 CV);Automático;Diésel;4,1;ES;-/- ;€ 31.500
+Mercedes-Benz Sprinter;17.652 km;jun-18;105 kW (143 CV);Manual;Diésel;7,8;ES;-/- ;€ 19.256
+Mercedes-Benz V 220;63.240 km;ene-18;120 kW (163 CV);Manual;Diésel;6,1;ES;-/- ;€ 35.900
+Mercedes-Benz GLE 250;9.000 km;mar-18;150 kW (204 CV);Automático;Diésel;5,6;ES;-/- ;€ 48.500
+Mercedes-Benz X 350;57.000 km;jun-18;190 kW (258 CV);Automático;Diésel;8,8;ES;-/- ;€ 42.000
+Mercedes-Benz Vito;77.000 km;jun-18;84 kW (114 CV);Manual;Diésel;6,4;ES;-/- ;€ 15.206
+Mercedes-Benz GLE 250;9.000 km;mar-18;150 kW (204 CV);Automático;Diésel;5,6;ES;-/- ;€ 48.500
+Mercedes-Benz Vito;77.000 km;jun-18;84 kW (114 CV);Manual;Diésel;6,4;ES;-/- ;€ 16.446
+Mercedes-Benz C 220;19.586 km;abr-18;125 kW (170 CV);Automático;Diésel;4,2;Unknown;127;€ 22.586
+Mercedes-Benz C 200;52.000 km;jun-18;110 kW (150 CV);Automático;Diésel;4,4;Unknown;118;€ 26.000
+Mercedes-Benz 250;72.700 km;ago-18;1 kW (1 CV);-/- (Cambio);Diésel;-/- ;Unknown;-/- ;€ 30.800
+Mercedes-Benz GLC 250;75.000 km;dic-18;150 kW (204 CV);Automático;Diésel;6,1;Unknown;161;€ 40.000
+Mercedes-Benz 220;12.000 km;may-18;143 kW (194 CV);Automático;Diésel;3,9;ES;-/- ;€ 36.900
+Mercedes-Benz E 220;41.728 km;feb-18;143 kW (194 CV);Automático;Diésel;5,6;ES;149;€ 42.900
+Mercedes-Benz A 180;32.888 km;nov-18;80 kW (109 CV);Automático;Diésel;5,2;ES;-/- ;€ 23.990
+Mercedes-Benz GLA 200;44.000 km;feb-18;100 kW (136 CV);Automático;Diésel;4,2;ES;-/- ;€ 25.800
+Mercedes-Benz GLE 350;94.500 km;jun-18;190 kW (258 CV);Automático;Diésel;7,5;ES;-/- ;€ 55.000
+Mercedes-Benz C 220;49.000 km;ago-18;143 kW (194 CV);Automático;Diésel;4,3;ES;-/- ;€ 35.990
+Mercedes-Benz C 220;48.100 km;ene-18;125 kW (170 CV);Automático;Diésel;-/- ;ES;-/- ;€ 35.900
+Mercedes-Benz C 220;17.500 km;sep-18;125 kW (170 CV);Manual;Diésel;4 l/;ES;-/- ;€ 31.500
+Mercedes-Benz Citan;25.900 km;jun-18;66 kW (90 CV);Manual;Diésel;5 l/;ES;-/- ;€ 12.990
+Mercedes-Benz Vito;60.938 km;jun-18;100 kW (136 CV);Automático;Diésel;6,4;ES;-/- ;€ 28.900
+Mercedes-Benz Sprinter;15.735 km;jun-18;105 kW (143 CV);Manual;Diésel;7,8;ES;-/- ;€ 24.500
+Mercedes-Benz V 220;21.301 km;may-18;120 kW (163 CV);Automático;Diésel;5,9;ES;-/- ;€ 36.500
+Mercedes-Benz V 220;31.000 km;mar-18;120 kW (163 CV);Manual;Diésel;6,1;ES;-/- ;€ 38.500
+Mercedes-Benz GLC 220;17.000 km;may-18;125 kW (170 CV);Automático;Diésel;5,9;ES;-/- ;€ 41.900
+Mercedes-Benz GLC 220;17.000 km;may-18;125 kW (170 CV);Automático;Diésel;5,9;ES;-/- ;€ 41.900
+Mercedes-Benz X 250;90.458 km;jun-18;140 kW (190 CV);Automático;Diésel;7,5;ES;-/- ;€ 32.100
+Mercedes-Benz X 350;20.179 km;jun-18;190 kW (258 CV);Automático;Diésel;8,8;ES;-/- ;€ 43.700
+Mercedes-Benz C 220;50.000 km;ene-18;125 kW (170 CV);Automático;Diésel;4,4;ES;-/- ;€ 31.500
+Mercedes-Benz E 220;53.000 km;feb-18;143 kW (194 CV);Automático;Diésel;4,9;ES;-/- ;€ 46.900
+Mercedes-Benz C 220;50.000 km;ene-18;125 kW (170 CV);Automático;Diésel;4,4;ES;-/- ;€ 29.990
+Mercedes-Benz CLA 220;56.000 km;dic-18;125 kW (170 CV);Automático;Diésel;5,4;ES;-/- ;€ 31.999
+Mercedes-Benz B 180;53.000 km;may-18;80 kW (109 CV);Automático;Diésel;4 l/;ES;-/- ;€ 22.300
+Mercedes-Benz V 220;25.702 km;may-18;120 kW (163 CV);Automático;Diésel;5,9;ES;-/- ;€ 36.500
+Mercedes-Benz V;56.757 km;feb-18;140 kW (190 CV);Automático;Diésel;6 l/;ES;-/- ;€ 42.900
+Mercedes-Benz V 220;41.650 km;mar-18;120 kW (163 CV);Automático;Diésel;5,9;ES;154;€ 38.800
+Mercedes-Benz A 180;31.295 km;dic-18;80 kW (109 CV);Automático;Diésel;5,2;ES;-/- ;€ 29.490
+Mercedes-Benz Sprinter;39.491 km;jun-18;84 kW (114 CV);Manual;Diésel;8 l/;ES;-/- ;€ 19.500
+Mercedes-Benz Citan;15.000 km;may-18;66 kW (90 CV);Manual;Diésel;4,8;ES;-/- ;€ 16.500
+Mercedes-Benz Vito;44.100 km;jun-18;100 kW (136 CV);Automático;Diésel;6,5;ES;-/- ;€ 26.500
+Mercedes-Benz V 220;27.056 km;jun-18;120 kW (163 CV);Automático;Diésel;5,9;ES;-/- ;€ 30.493
+Mercedes-Benz GLC 220;67.000 km;feb-18;125 kW (170 CV);Automático;Diésel;5,9;ES;-/- ;€ 35.900
+Mercedes-Benz A 180;37.990 km;oct-18;85 kW (116 CV);Automático;Diésel;3,9;ES;-/- ;€ 26.890
+Mercedes-Benz GLC 220;46.500 km;jun-18;125 kW (170 CV);Automático;Diésel;5,9;ES;-/- ;€ 37.900
+Mercedes-Benz X 250;15.470 km;jun-18;140 kW (190 CV);Automático;Diésel;7,7;ES;-/- ;€ 79.900
+Mercedes-Benz GLC 250;59.267 km;oct-18;150 kW (204 CV);Automático;Diésel;5 l/;ES;-/- ;€ 43.900
+Mercedes-Benz CLA 200;27.515 km;sep-18;100 kW (136 CV);Automático;Diésel;5,4;ES;-/- ;€ 29.900
+Mercedes-Benz GLA 200;10.394 km;oct-18;100 kW (136 CV);Automático;Diésel;4,2;ES;-/- ;€ 31.900
+Mercedes-Benz CLA 200;9.500 km;jul-18;100 kW (136 CV);Automático;Diésel;5,4;ES;-/- ;€ 23.950
+Mercedes-Benz B 200;69.900 km;ene-18;100 kW (136 CV);Automático;Diésel;4 l/;ES;-/- ;€ 19.900
+Mercedes-Benz V 220;29.006 km;feb-18;120 kW (163 CV);Automático;Diésel;5,9;ES;-/- ;€ 31.000
+Mercedes-Benz V 220;23.245 km;feb-18;120 kW (163 CV);Automático;Diésel;5,9;ES;-/- ;€ 31.000
+Mercedes-Benz C 200;14.587 km;dic-18;110 kW (150 CV);Automático;Diésel;4,4;ES;-/- ;€ 30.452
+Mercedes-Benz GLE 350;18.500 km;ene-18;190 kW (258 CV);Automático;Diésel;7,5;ES;-/- ;€ 53.000
+Mercedes-Benz C 250;19.772 km;jul-18;150 kW (204 CV);Automático;Diésel;4,6;ES;-/- ;€ 36.990
+Mercedes-Benz Citan;32.000 km;jun-18;66 kW (90 CV);Manual;Diésel;4,8;ES;-/- ;€ 11.320
+Mercedes-Benz V 220;54.680 km;may-18;120 kW (163 CV);Manual;Diésel;6,1;ES;-/- ;€ 35.452
+Mercedes-Benz Citan;25.900 km;oct-18;70 kW (95 CV);Manual;Diésel;4,8;ES;-/- ;€ 10.733
+Mercedes-Benz V 220;60.900 km;may-18;120 kW (163 CV);Manual;Diésel;6,1;ES;-/- ;€ 35.452
+Mercedes-Benz Vito;51.192 km;jun-18;100 kW (136 CV);Automático;Diésel;6,4;ES;-/- ;€ 23.882
+Mercedes-Benz Vito;63.123 km;jun-18;100 kW (136 CV);Automático;Diésel;6,4;ES;-/- ;€ 23.882
+Mercedes-Benz Vito;60.900 km;jun-18;100 kW (136 CV);Automático;Diésel;6,4;ES;-/- ;€ 23.882
+Mercedes-Benz E 220;17.590 km;ago-18;143 kW (194 CV);Automático;Diésel;4,9;Unknown;129;€ 53.500
+Mercedes-Benz V 220;21.624 km;feb-18;120 kW (163 CV);Automático;Diésel;5,9;ES;-/- ;€ 31.000
+Mercedes-Benz Vito;30.901 km;jun-18;100 kW (136 CV);Manual;Diésel;6,4;ES;-/- ;€ 29.800
+Mercedes-Benz Vito;47.000 km;jun-18;100 kW (136 CV);Manual;Diésel;6,4;ES;-/- ;€ 22.934
+Mercedes-Benz A 180;37.066 km;dic-18;85 kW (116 CV);Automático;Diésel;-/- ;ES;-/- ;€ 27.500
+Mercedes-Benz C 220;12.593 km;jun-18;125 kW (170 CV);Automático;Diésel;4 l/;ES;-/- ;€ 28.900
+Mercedes-Benz B 200;20.964 km;may-18;100 kW (136 CV);Automático;Diésel;4 l/;ES;-/- ;€ 21.900
+Mercedes-Benz C 220;29.774 km;jul-18;125 kW (170 CV);Automático;Diésel;4,4;ES;-/- ;€ 31.900
+Mercedes-Benz C 220;37.065 km;feb-18;125 kW (170 CV);Automático;Diésel;4,4;ES;-/- ;€ 29.900
+Mercedes-Benz B 200;23.607 km;mar-18;100 kW (136 CV);Automático;Diésel;4 l/;ES;-/- ;€ 19.200
+Mercedes-Benz GLC 250;10.500 km;nov-18;150 kW (204 CV);Automático;Diésel;6,1;ES;161;€ 48.500
+Mercedes-Benz CLA 200;46.205 km;feb-18;100 kW (136 CV);Automático;Diésel;4,1;Unknown;106;€ 21.881
+Mercedes-Benz C 220;42.219 km;jul-18;143 kW (194 CV);Automático;Diésel;-/- ;ES;-/- ;€ 30.000
+Mercedes-Benz Citan;45.000 km;jun-18;66 kW (90 CV);Manual;Diésel;5 l/;ES;-/- ;€ 12.900
+Mercedes-Benz E 280;14.333 km;oct-18;139 kW (189 CV);Automático;Diésel;7,5;ES;-/- ;€ 36.490
+Mercedes-Benz C 200;14.779 km;dic-18;110 kW (150 CV);Automático;Diésel;4,8;ES;-/- ;€ 29.900
+Mercedes-Benz C 220;9.124 km;mar-18;143 kW (194 CV);Automático;Diésel;5 l/;ES;-/- ;€ 37.800
+Mercedes-Benz E 220;88.882 km;ene-18;143 kW (194 CV);Automático;Diésel;3,9;ES;-/- ;€ 37.900
+Mercedes-Benz B 200;27.000 km;ago-18;100 kW (136 CV);Automático;Diésel;4 l/;ES;-/- ;€ 18.500
+Mercedes-Benz GLE 350;74.828 km;oct-18;190 kW (258 CV);Automático;Diésel;7,5;ES;191;€ 49.900
+Mercedes-Benz Vito;33.535 km;jun-18;100 kW (136 CV);Manual;Diésel;6,4;ES;-/- ;€ 22.148
+Mercedes-Benz A 200;30.500 km;jul-18;100 kW (136 CV);Automático;Diésel;3,8;Unknown;99 g;€ 22.000
+Mercedes-Benz C 220;45.280 km;may-18;125 kW (170 CV);Automático;Diésel;4,2;ES;-/- ;€ 26.990
+Mercedes-Benz C 220;42.663 km;mar-18;125 kW (170 CV);Automático;Diésel;4,4;ES;-/- ;€ 25.990
+Mercedes-Benz GLE 350;17 km;jun-18;190 kW (258 CV);Automático;Diésel;7,5;ES;-/- ;€ 54.499
+Mercedes-Benz GLE 250;8.954 km;mar-18;150 kW (204 CV);Automático;Diésel;-/- ;ES;-/- ;€ 49.900
+Mercedes-Benz B 200;23.006 km;ago-18;100 kW (136 CV);Automático;Diésel;5,4;ES;-/- ;€ 23.094
+Mercedes-Benz Citan;45.807 km;ago-18;66 kW (90 CV);Manual;Diésel;4,8;ES;-/- ;€ 13.300
+Mercedes-Benz C 200;36.000 km;oct-18;110 kW (150 CV);Automático;Diésel;4,4;Unknown;117;€ 26.500
+Mercedes-Benz C 220;9.100 km;ago-18;143 kW (194 CV);Automático;Diésel;5 l/;Unknown;132;€ 45.550
+Mercedes-Benz V;84.000 km;may-18;140 kW (190 CV);Automático;Diésel;6 l/;ES;-/- ;€ 39.900
+Mercedes-Benz E 220;190.000 km;may-18;143 kW (194 CV);Automático;Diésel;3,9;Unknown;102;€ 28.800
+Mercedes-Benz GLA 220;41.700 km;may-18;125 kW (170 CV);Automático;Diésel;5,5;ES;-/- ;€ 26.700
+Mercedes-Benz C 220;44.757 km;mar-18;125 kW (170 CV);Manual;Diésel;4,1;ES;-/- ;€ 28.000
+Mercedes-Benz V;25.000 km;jun-18;120 kW (163 CV);Automático;Diésel;6,3;ES;-/- ;€ 54.990
+Mercedes-Benz C 220;21.755 km;abr-18;125 kW (170 CV);Automático;Diésel;-/- ;ES;-/- ;€ 30.695
+Mercedes-Benz GLA 220;41.700 km;may-18;125 kW (170 CV);Automático;Diésel;5,5;ES;-/- ;€ 26.700
+Mercedes-Benz E 220;26.553 km;ene-18;143 kW (194 CV);Automático;Diésel;4,2;ES;-/- ;€ 43.999
+Mercedes-Benz A 180;32.888 km;nov-18;80 kW (109 CV);Automático;Diésel;5,2;ES;-/- ;€ 25.990
+Mercedes-Benz C 220;35.000 km;mar-18;125 kW (170 CV);Automático;Diésel;-/- ;ES;-/- ;€ 34.950
+Mercedes-Benz A 180;22.000 km;mar-18;80 kW (109 CV);Automático;Diésel;-/- ;ES;-/- ;€ 25.950
+Mercedes-Benz B 200;22.185 km;mar-18;100 kW (136 CV);Automático;Diésel;4 l/;ES;-/- ;€ 23.200
+Mercedes-Benz Vito;64.000 km;jun-18;84 kW (114 CV);Manual;Diésel;6,4;ES;-/- ;€ 17.400
+Mercedes-Benz A 180;46.729 km;feb-18;80 kW (109 CV);Automático;Diésel;3,7;Unknown;98 g;€ 18.400
+Mercedes-Benz GLC 250;16.000 km;feb-18;150 kW (204 CV);Automático;Diésel;5 l/;ES;129;€ 39.900
+Mercedes-Benz GLC 250;13.200 km;sep-18;150 kW (204 CV);Automático;Diésel;-/- ;ES;-/- ;€ 39.900
+Mercedes-Benz GLE 350;31.000 km;jun-18;200 kW (272 CV);Automático;Diésel;7,5;ES;-/- ;€ 60.395
+Mercedes-Benz GLA 200;16.227 km;dic-18;100 kW (136 CV);Automático;Diésel;5,7;ES;-/- ;€ 30.900
+Mercedes-Benz C 220;7.524 km;jul-18;125 kW (170 CV);Automático;Diésel;6,8;ES;-/- ;€ 32.295
+Mercedes-Benz B 200;34.535 km;jun-18;100 kW (136 CV);Automático;Diésel;4,1;ES;-/- ;€ 22.495
+Mercedes-Benz B 200;29.831 km;jun-18;100 kW (136 CV);Automático;Diésel;4,1;ES;-/- ;€ 22.595
+Mercedes-Benz B 200;32.843 km;may-18;100 kW (136 CV);Automático;Diésel;4,1;ES;-/- ;€ 23.795
+Mercedes-Benz B 200;22.984 km;abr-18;100 kW (136 CV);Automático;Diésel;4,1;ES;-/- ;€ 23.995
+Mercedes-Benz A 180;21.068 km;nov-18;85 kW (116 CV);Automático;Diésel;4,3;ES;-/- ;€ 28.095
+Mercedes-Benz B 200;30.901 km;jun-18;100 kW (136 CV);Automático;Diésel;4,1;ES;-/- ;€ 22.695
+Mercedes-Benz B 180;24.000 km;abr-18;80 kW (109 CV);Automático;Diésel;4,1;ES;-/- ;€ 20.245
+Mercedes-Benz Sprinter;59.888 km;jun-18;120 kW (163 CV);Manual;Diésel;7,8;ES;-/- ;€ 34.590
+Mercedes-Benz E 220;57.000 km;abr-18;143 kW (194 CV);Automático;Diésel;5,6;ES;-/- ;€ 39.900
+Mercedes-Benz E 220;26.000 km;mar-18;143 kW (194 CV);Automático;Diésel;-/- ;ES;-/- ;€ 36.490
+Mercedes-Benz GLC 250;13.200 km;sep-18;150 kW (204 CV);Automático;Diésel;-/- ;ES;-/- ;€ 39.900
+Mercedes-Benz CLA 200;14.800 km;sep-18;100 kW (136 CV);Automático;Diésel;5,6;ES;-/- ;€ 24.900
+Mercedes-Benz CLA 200;14.800 km;sep-18;100 kW (136 CV);Automático;Diésel;5,6;Unknown;148;€ 25.900
+Mercedes-Benz A 200;50.000 km;mar-18;100 kW (136 CV);Automático;Diésel;3,8;ES;-/- ;€ 23.350
+Mercedes-Benz Vito;54.200 km;jun-18;100 kW (136 CV);Manual;Diésel;6,4;ES;-/- ;€ 24.500
+Mercedes-Benz GLA 200;56.547 km;mar-18;100 kW (136 CV);Manual;Diésel;4,2;ES;-/- ;€ 20.990
+Mercedes-Benz A 200;16.000 km;ago-18;100 kW (136 CV);Automático;Diésel;3,8;ES;-/- ;€ 25.500
+Mercedes-Benz E 220;29.000 km;feb-18;143 kW (194 CV);Automático;Diésel;5 l/;Unknown;131;€ 35.900
+Mercedes-Benz Citan;12.777 km;abr-18;66 kW (90 CV);Manual;Diésel;-/- ;ES;-/- ;€ 15.950
+Mercedes-Benz C 220;27.900 km;ene-18;125 kW (170 CV);Automático;Diésel;4,6;Unknown;122;€ 27.800
+Mercedes-Benz E 220;26.553 km;ene-18;143 kW (194 CV);Automático;Diésel;4,2;ES;-/- ;€ 43.999
+Mercedes-Benz Sprinter;13.462 km;jun-18;105 kW (143 CV);Manual;Diésel;7,5;ES;-/- ;€ 20.400
+Mercedes-Benz A 200;20.268 km;sep-18;100 kW (136 CV);Manual;Diésel;4,1;ES;-/- ;€ 21.900
+Mercedes-Benz Citan;26.000 km;oct-18;66 kW (90 CV);Manual;Diésel;4,3;ES;121;€ 10.750
+Mercedes-Benz Sprinter;9.647 km;jun-18;105 kW (143 CV);Manual;Diésel;7,8;ES;-/- ;€ 21.500
+Mercedes-Benz Vito;21.782 km;jun-18;84 kW (114 CV);Manual;Diésel;6,4;ES;-/- ;€ 24.900
+Mercedes-Benz C 220;87.920 km;ene-18;125 kW (170 CV);Automático;Diésel;4,4;ES;-/- ;€ 26.900
+Mercedes-Benz V 220;55.000 km;may-18;120 kW (163 CV);Automático;Diésel;6 l/;ES;159;€ 35.500
+Mercedes-Benz CLS 350;11.500 km;dic-18;210 kW (286 CV);Automático;Diésel;5,7;ES;-/- ;€ 55.900
+Mercedes-Benz Vito;67.000 km;may-18;100 kW (136 CV);Automático;Diésel;6,9;ES;159;€ 21.100
+Mercedes-Benz V;20.289 km;feb-18;100 kW (136 CV);Automático;Diésel;6,5;ES;-/- ;€ 54.410
+Mercedes-Benz Vito;51.000 km;may-18;100 kW (136 CV);Automático;Diésel;6,9;ES;159;€ 23.900
+Mercedes-Benz Vito;51.000 km;may-18;100 kW (136 CV);Automático;Diésel;6,9;ES;159;€ 23.900
+Mercedes-Benz Citan;17.578 km;ago-18;66 kW (90 CV);Manual;Diésel;4,8;Unknown;126;€ 16.500
+Mercedes-Benz B 200;54.400 km;mar-18;100 kW (136 CV);Automático;Diésel;4 l/;ES;104;€ 21.900
+Mercedes-Benz GLC 220;50.000 km;abr-18;125 kW (170 CV);Automático;Diésel;5,9;ES;-/- ;€ 43.700
+Mercedes-Benz B 200;70.940 km;feb-18;100 kW (136 CV);Automático;Diésel;4 l/;ES;104;€ 22.500
+Mercedes-Benz V 220;31.202 km;feb-18;120 kW (163 CV);Automático;Diésel;5,9;ES;-/- ;€ 32.000
+Mercedes-Benz B 200;17.480 km;oct-18;100 kW (136 CV);Manual;Diésel;4,2;ES;-/- ;€ 19.990
+Mercedes-Benz GLC 250;26.570 km;sep-18;150 kW (204 CV);Automático;Diésel;6,1;ES;-/- ;€ 51.900
+Mercedes-Benz Vito;35 km;jun-18;100 kW (136 CV);Manual;Diésel;6,8;ES;-/- ;€ 24.200
+Mercedes-Benz E 220;26.500 km;jun-18;143 kW (194 CV);Automático;Diésel;4 l/;ES;-/- ;€ 39.990
+Mercedes-Benz B 200;14.055 km;oct-18;100 kW (136 CV);Manual;Diésel;4,2;ES;-/- ;€ 19.990
+Mercedes-Benz E 220;29.300 km;abr-18;143 kW (194 CV);Automático;Diésel;4,2;Unknown;109;€ 36.000
+Mercedes-Benz B 200;30.403 km;ago-18;100 kW (136 CV);Automático;Diésel;5,4;ES;-/- ;€ 23.695
+Mercedes-Benz B 180;21.767 km;jun-18;80 kW (109 CV);Automático;Diésel;4,1;ES;-/- ;€ 21.095
+Mercedes-Benz B 200;20.264 km;dic-18;100 kW (136 CV);Automático;Diésel;4 l/;ES;-/- ;€ 22.900
+Mercedes-Benz Sprinter;40.000 km;jun-18;105 kW (143 CV);Manual;Diésel;-/- ;ES;-/- ;€ 29.900
+Mercedes-Benz V 220;25.970 km;abr-18;120 kW (163 CV);Manual;Diésel;6,1;ES;-/- ;€ 28.900
+Mercedes-Benz V 220;44.375 km;abr-18;120 kW (163 CV);Manual;Diésel;6,1;ES;-/- ;€ 34.969
+Mercedes-Benz GLE 350;16.573 km;ago-18;190 kW (258 CV);Automático;Diésel;7,5;ES;-/- ;€ 57.499
+Mercedes-Benz GLA 200;26.605 km;oct-18;100 kW (136 CV);Automático;Diésel;4,2;ES;-/- ;€ 28.795
+Mercedes-Benz GLA 200;18.020 km;oct-18;100 kW (136 CV);Automático;Diésel;4,2;ES;-/- ;€ 28.595
+Mercedes-Benz C 220;37.345 km;dic-18;143 kW (194 CV);Automático;Diésel;4,4;ES;-/- ;€ 33.995
+Mercedes-Benz CLA 200;30.087 km;sep-18;100 kW (136 CV);Automático;Diésel;5,6;ES;-/- ;€ 27.500
+Mercedes-Benz B 200;27.117 km;may-18;100 kW (136 CV);Automático;Diésel;4,1;ES;-/- ;€ 23.700
+Mercedes-Benz C 220;13.824 km;jul-18;125 kW (170 CV);Automático;Diésel;6,8;ES;-/- ;€ 32.200
+Mercedes-Benz B 200;25.198 km;oct-18;100 kW (136 CV);Automático;Diésel;5,4;ES;-/- ;€ 24.095
+Mercedes-Benz A 200;32.502 km;abr-18;100 kW (136 CV);Automático;Diésel;4 l/;ES;-/- ;€ 22.295
+Mercedes-Benz A 180;15.343 km;dic-18;85 kW (116 CV);Automático;Diésel;4,1;ES;-/- ;€ 29.100
+Mercedes-Benz B 200;20.000 km;sep-18;100 kW (136 CV);Automático;Diésel;4 l/;ES;-/- ;€ 20.500
+Mercedes-Benz CLA 200;84.005 km;ene-18;100 kW (136 CV);Manual;Diésel;4,1;ES;-/- ;€ 25.395
+Mercedes-Benz C 220;33.893 km;jun-18;125 kW (170 CV);Automático;Diésel;4 l/;ES;-/- ;€ 30.800
+Mercedes-Benz GLC 220;42.001 km;jul-18;125 kW (170 CV);Automático;Diésel;5 l/;ES;-/- ;€ 42.495
+Mercedes-Benz GLC 220;11.577 km;sep-18;125 kW (170 CV);Automático;Diésel;6,2;ES;-/- ;€ 50.395
+Mercedes-Benz A 200;28.179 km;ene-18;100 kW (136 CV);Automático;Diésel;3,8;ES;99 g;€ 22.500
+Mercedes-Benz GLC 220;6.372 km;ago-18;125 kW (170 CV);Automático;Diésel;5,9;ES;-/- ;€ 41.395
+Mercedes-Benz 220;71.965 km;mar-18;125 kW (170 CV);Automático;Diésel;-/- ;ES;-/- ;€ 35.900
+Mercedes-Benz 350;30.486 km;may-18;190 kW (258 CV);Automático;Diésel;-/- ;ES;-/- ;€ 56.500
+Mercedes-Benz 220;23.682 km;abr-18;143 kW (194 CV);Automático;Diésel;-/- ;ES;-/- ;€ 52.500
+Mercedes-Benz 350;29.970 km;dic-18;190 kW (258 CV);Automático;Diésel;-/- ;ES;-/- ;€ 56.500
+Mercedes-Benz Vito;48.290 km;may-18;100 kW (136 CV);Manual;Diésel;6,8;ES;179;€ 17.700
+Mercedes-Benz V;22.919 km;nov-18;140 kW (190 CV);Automático;Diésel;6 l/;ES;-/- ;€ 47.438
+Mercedes-Benz C 250;6.029 km;jun-18;150 kW (204 CV);Automático;Diésel;4,6;ES;-/- ;€ 42.500
+Mercedes-Benz Vito;23 km;jun-18;85 kW (116 CV);Manual;Diésel;-/- ;ES;-/- ;€ 19.950
+Mercedes-Benz Vito;23 km;jun-18;85 kW (116 CV);Manual;Diésel;-/- ;ES;-/- ;€ 19.950
+Mercedes-Benz Vito;67.000 km;jun-18;100 kW (136 CV);Automático;Diésel;6,4;ES;-/- ;€ 21.072
+Mercedes-Benz Vito;55.000 km;jun-18;100 kW (136 CV);Automático;Diésel;6,4;ES;-/- ;€ 21.402
+Mercedes-Benz Vito;23.211 km;jun-18;100 kW (136 CV);Manual;Diésel;6,8;ES;-/- ;€ 16.528
+Mercedes-Benz GLA 200;7.024 km;oct-18;100 kW (136 CV);Automático;Diésel;5,5;ES;-/- ;€ 32.900
+Mercedes-Benz C 220;10.200 km;jun-18;125 kW (170 CV);Automático;Diésel;4 l/;ES;-/- ;€ 33.500
+Mercedes-Benz C 220;8.177 km;jul-18;125 kW (170 CV);Automático;Diésel;4 l/;ES;-/- ;€ 32.500
+Mercedes-Benz GLA 200;35.252 km;mar-18;100 kW (136 CV);Automático;Diésel;4,2;ES;-/- ;€ 29.950
+Mercedes-Benz GLA 200;17.575 km;oct-18;100 kW (136 CV);Automático;Diésel;4,2;ES;-/- ;€ 33.250
+Mercedes-Benz C 220;27.128 km;mar-18;125 kW (170 CV);Automático;Diésel;4,4;ES;-/- ;€ 29.950
+Mercedes-Benz GLA 200;10.178 km;oct-18;100 kW (136 CV);Automático;Diésel;5,5;ES;-/- ;€ 32.550
+Mercedes-Benz GLS 350;6.497 km;may-18;190 kW (258 CV);Automático;Diésel;7,1;ES;-/- ;€ 79.500
+Mercedes-Benz GLA 200;13.620 km;oct-18;100 kW (136 CV);Automático;Diésel;5,5;ES;-/- ;€ 31.900
+Mercedes-Benz E 350;66.251 km;sep-18;190 kW (258 CV);Automático;Diésel;5,5;ES;-/- ;€ 43.950
+Mercedes-Benz A 180;23.803 km;nov-18;80 kW (109 CV);Automático;Diésel;5,2;ES;-/- ;€ 26.900
+Mercedes-Benz CLS 350;13.626 km;ago-18;210 kW (286 CV);Automático;Diésel;5,7;ES;-/- ;€ 64.900
+Mercedes-Benz E 220;26.000 km;mar-18;143 kW (194 CV);Automático;Diésel;-/- ;ES;-/- ;€ 37.990
+Mercedes-Benz A 180;25.000 km;sep-18;85 kW (116 CV);Automático;Diésel;3,9;Unknown;103;€ 30.600
+Mercedes-Benz A 180;31.295 km;dic-18;80 kW (109 CV);Automático;Diésel;5,2;ES;-/- ;€ 29.490
+Mercedes-Benz A 180;22.079 km;dic-18;85 kW (116 CV);Automático;Diésel;3,9;ES;103;€ 29.990
+Mercedes-Benz V 220;11.189 km;jun-18;120 kW (163 CV);Automático;Diésel;6,1;Unknown;159;€ 36.999
+Mercedes-Benz A 180;36.680 km;jun-18;85 kW (116 CV);Automático;Diésel;3,9;Unknown;103;€ 20.600
+Mercedes-Benz E 220;33.000 km;feb-18;143 kW (194 CV);Automático;Diésel;4,6;ES;-/- ;€ 42.900
+Mercedes-Benz GLA 200;21.850 km;nov-18;100 kW (136 CV);Automático;Diésel;4,2;ES;-/- ;€ 30.900
+Mercedes-Benz GLA 200;14.805 km;nov-18;100 kW (136 CV);Automático;Diésel;4,2;ES;-/- ;€ 30.900
+Mercedes-Benz GLS 350;12.000 km;ago-18;190 kW (258 CV);Automático;Diésel;8 l/;ES;-/- ;€ 58.500
+Mercedes-Benz C 250;36.000 km;ene-18;150 kW (204 CV);Automático;Diésel;4,8;ES;-/- ;€ 37.950
+Mercedes-Benz E 220;11.000 km;jun-18;143 kW (194 CV);Automático;Diésel;4,9;ES;-/- ;€ 56.800
+Mercedes-Benz GLE 350;115.000 km;ene-18;190 kW (258 CV);Automático;Diésel;7,2;ES;-/- ;€ 55.900
+Mercedes-Benz Sprinter;22.944 km;jun-18;105 kW (143 CV);Manual;Diésel;7,8;ES;-/- ;€ 24.100
+Mercedes-Benz A 200;22.149 km;may-18;100 kW (136 CV);Automático;Diésel;3,8;ES;-/- ;€ 23.900
+Mercedes-Benz C 220;27.500 km;jul-18;125 kW (170 CV);Automático;Diésel;4,4;Unknown;114;€ 29.900
+Mercedes-Benz Vito;41.000 km;jun-18;100 kW (136 CV);Manual;Diésel;6,4;ES;-/- ;€ 24.900
+Mercedes-Benz Vito;22.842 km;jun-18;84 kW (114 CV);Manual;Diésel;6,4;ES;-/- ;€ 18.900
+Mercedes-Benz B 200;19.000 km;dic-18;100 kW (136 CV);Automático;Diésel;4 l/;Unknown;104;€ 24.900
+Mercedes-Benz A 200;44.076 km;mar-18;100 kW (136 CV);Automático;Diésel;3,8;ES;-/- ;€ 27.900
+Mercedes-Benz GLA 220;28.336 km;abr-18;130 kW (177 CV);Automático;Diésel;4,2;Unknown;110;€ 33.000
+Mercedes-Benz GLA 200;20.000 km;ene-18;100 kW (136 CV);Automático;Diésel;-/- ;ES;-/- ;€ 27.950
+Mercedes-Benz E 350;38.000 km;mar-18;190 kW (258 CV);Automático;Diésel;6,1;ES;162;€ 54.990
+Mercedes-Benz C 250;3.000 km;nov-18;150 kW (204 CV);Automático;Diésel;4,5;ES;-/- ;€ 45.500
+Mercedes-Benz C 220;26.500 km;abr-18;125 kW (170 CV);Automático;Diésel;4,4;ES;-/- ;€ 32.900
+Mercedes-Benz GLA 200;17.000 km;nov-18;100 kW (136 CV);Automático;Diésel;4,2;ES;-/- ;€ 33.900
+Mercedes-Benz GLC 220;2.090 km;dic-18;125 kW (170 CV);Automático;Diésel;5,9;ES;-/- ;€ 43.589
+Mercedes-Benz CLA 200;29.302 km;oct-18;100 kW (136 CV);Automático;Diésel;4 l/;ES;-/- ;€ 33.295
+Mercedes-Benz B 200;62.500 km;oct-18;100 kW (136 CV);Automático;Diésel;4 l/;ES;-/- ;€ 18.400
+Mercedes-Benz GLA 200;21.850 km;nov-18;100 kW (136 CV);Automático;Diésel;5,5;ES;-/- ;€ 30.900
+Mercedes-Benz C 220;6.725 km;feb-18;125 kW (170 CV);Manual;Diésel;4,1;ES;-/- ;€ 32.669
+Mercedes-Benz C 220;18.662 km;jul-18;125 kW (170 CV);Automático;Diésel;4 l/;ES;-/- ;€ 29.939
+Mercedes-Benz E 220;8.405 km;ene-18;143 kW (194 CV);Automático;Diésel;3,9;ES;-/- ;€ 40.859
+Mercedes-Benz B 200;20 km;ene-18;100 kW (136 CV);Automático;Diésel;4,2;ES;-/- ;€ 22.659
+Mercedes-Benz B 200;20 km;jun-18;100 kW (136 CV);Automático;Diésel;4,2;ES;-/- ;€ 22.659
+Mercedes-Benz C 220;8.200 km;abr-18;125 kW (170 CV);Automático;Diésel;-/- ;ES;-/- ;€ 35.850
+Mercedes-Benz Vito;36.000 km;jun-18;100 kW (136 CV);Manual;Diésel;6,4;ES;-/- ;€ 25.900
+Mercedes-Benz A 180;48.000 km;nov-18;85 kW (116 CV);Automático;Diésel;3,9;ES;-/- ;€ 25.495
+Mercedes-Benz Vito;43.700 km;jun-18;100 kW (136 CV);Manual;Diésel;6,4;ES;-/- ;€ 28.900
+Mercedes-Benz E 220;32.336 km;mar-18;143 kW (194 CV);Automático;Diésel;3,9;ES;-/- ;€ 34.490
+Mercedes-Benz E 220;13.240 km;nov-18;143 kW (194 CV);Automático;Diésel;4,6;ES;-/- ;€ 43.800
+Mercedes-Benz V 220;32.000 km;feb-18;120 kW (163 CV);Automático;Diésel;6,2;ES;-/- ;€ 35.900
+Mercedes-Benz Citan;57.829 km;may-18;66 kW (90 CV);Manual;Diésel;4,8;ES;-/- ;€ 13.200
+Mercedes-Benz B 200;32.438 km;abr-18;100 kW (136 CV);Automático;Diésel;4,1;ES;-/- ;€ 22.195
+Mercedes-Benz A 180;5.749 km;sep-18;85 kW (116 CV);Automático;Diésel;4 l/;ES;-/- ;€ 27.500
+Mercedes-Benz GLC 350;29.900 km;nov-18;190 kW (258 CV);Automático;Diésel;6,7;ES;-/- ;€ 55.900
+Mercedes-Benz C 220;31.000 km;feb-18;125 kW (170 CV);Automático;Diésel;5 l/;ES;-/- ;€ 36.900
+Mercedes-Benz CLS 350;8.000 km;jul-18;210 kW (286 CV);Automático;Diésel;5,7;ES;-/- ;€ 63.900
+Mercedes-Benz B 180;75.717 km;abr-18;80 kW (109 CV);Automático;Diésel;5,6;ES;-/- ;€ 18.490
+Mercedes-Benz E 220;13.915 km;abr-18;143 kW (194 CV);Automático;Diésel;5,2;ES;-/- ;€ 61.254
+Mercedes-Benz GLE 350;7.699 km;ene-18;190 kW (258 CV);Automático;Diésel;7,5;ES;-/- ;€ 81.324
+Mercedes-Benz C 220;17.965 km;jul-18;125 kW (170 CV);Automático;Diésel;-/- ;ES;-/- ;€ 51.254
+Mercedes-Benz A 180;79.871 km;abr-18;80 kW (109 CV);Manual;Diésel;3,7;ES;-/- ;€ 23.900
+Mercedes-Benz Citan;52.000 km;jun-18;66 kW (90 CV);Manual;Diésel;4,8;ES;-/- ;€ 11.900
+Mercedes-Benz Citan;20.402 km;jun-18;66 kW (90 CV);Manual;Diésel;5 l/;ES;-/- ;€ 11.200
+Mercedes-Benz E 220;8.500 km;abr-18;143 kW (194 CV);Automático;Diésel;3,9;ES;102;€ 36.900
+Mercedes-Benz CLA 220;18.250 km;may-18;130 kW (177 CV);Automático;Diésel;4,2;ES;-/- ;€ 30.900
+Mercedes-Benz CLS;7.886 km;jul-18;210 kW (286 CV);Automático;Diésel;5 l/;ES;-/- ;€ 66.271
+Mercedes-Benz GLA 200;28.000 km;abr-18;100 kW (136 CV);Manual;Diésel;4,2;Unknown;110;€ 26.000
+Mercedes-Benz V 220;25.032 km;jun-18;120 kW (163 CV);Automático;Diésel;5,9;ES;-/- ;€ 54.450
+Mercedes-Benz C 220;26.500 km;mar-18;125 kW (170 CV);Manual;Diésel;4,1;ES;-/- ;€ 34.499
+Mercedes-Benz C 220;21.155 km;ago-18;143 kW (194 CV);Automático;Diésel;4,7;ES;-/- ;€ 43.900
+Mercedes-Benz C 220;9.716 km;may-18;125 kW (170 CV);Automático;Diésel;4,4;ES;-/- ;€ 36.900
+Mercedes-Benz E 220;25.674 km;abr-18;143 kW (194 CV);Automático;Diésel;3,9;ES;-/- ;€ 39.900
+Mercedes-Benz E 220;20.689 km;abr-18;143 kW (194 CV);Automático;Diésel;4,9;ES;-/- ;€ 48.900
+Mercedes-Benz CLA 200;23.133 km;jun-18;100 kW (136 CV);Manual;Diésel;4,4;ES;-/- ;€ 23.490
+Mercedes-Benz A 180;21.478 km;sep-18;85 kW (116 CV);Automático;Diésel;3,9;ES;-/- ;€ 25.900
+Mercedes-Benz GLA 200;10.732 km;dic-18;100 kW (136 CV);Automático;Diésel;4,2;ES;-/- ;€ 32.900
+Mercedes-Benz B 200;20.122 km;may-18;100 kW (136 CV);Manual;Diésel;4,2;ES;-/- ;€ 19.900
+Mercedes-Benz CLA 200;23 km;dic-18;100 kW (136 CV);Automático;Diésel;5,4;ES;-/- ;€ 31.900
+Mercedes-Benz GLA 200;5.883 km;jul-18;100 kW (136 CV);Automático;Diésel;5,5;ES;-/- ;€ 29.900
+Mercedes-Benz GLA 220;13.669 km;jul-18;125 kW (170 CV);Automático;Diésel;5,5;ES;-/- ;€ 31.900
+Mercedes-Benz GLC 250;40.283 km;oct-18;150 kW (204 CV);Automático;Diésel;6,1;ES;-/- ;€ 35.290
+Mercedes-Benz GLA 220;20.984 km;ago-18;130 kW (177 CV);Automático;Diésel;5,9;ES;-/- ;€ 26.190
+Mercedes-Benz Vito;28.597 km;jun-18;100 kW (136 CV);Automático;Diésel;-/- ;ES;-/- ;€ 24.400
+Mercedes-Benz Vito;31.157 km;jun-18;100 kW (136 CV);Manual;Diésel;6,4;ES;-/- ;€ 21.600
+Mercedes-Benz 220;26.112 km;sep-18;143 kW (194 CV);Automático;Diésel;-/- ;ES;-/- ;€ 41.900
+Mercedes-Benz 350;33.828 km;abr-18;190 kW (258 CV);Automático;Diésel;-/- ;ES;-/- ;€ 53.900
+Mercedes-Benz Vito;75.000 km;jun-18;100 kW (136 CV);Manual;Diésel;6,4;ES;-/- ;€ 23.900
+Mercedes-Benz GLE 350;7.699 km;ene-18;190 kW (258 CV);Automático;Diésel;7,5;ES;-/- ;€ 81.324
+Mercedes-Benz E 220;13.915 km;abr-18;143 kW (194 CV);Automático;Diésel;5,2;ES;-/- ;€ 61.254
+Mercedes-Benz C 220;17.965 km;jul-18;125 kW (170 CV);Automático;Diésel;-/- ;ES;-/- ;€ 51.254
+Mercedes-Benz B 180;75.717 km;abr-18;80 kW (109 CV);Automático;Diésel;5,6;ES;-/- ;€ 18.490
+Mercedes-Benz A 180;31.295 km;dic-18;80 kW (109 CV);Automático;Diésel;5,2;ES;-/- ;€ 29.490
+Mercedes-Benz A 180;31.295 km;jun-18;85 kW (116 CV);Automático;Diésel;3,9;ES;-/- ;€ 29.490
+Mercedes-Benz GLC 220;84.850 km;jun-18;125 kW (170 CV);Automático;Diésel;5,9;ES;-/- ;€ 32.490
+Mercedes-Benz GLA 220;34.930 km;abr-18;125 kW (170 CV);Automático;Diésel;5,9;ES;-/- ;€ 25.999
+Mercedes-Benz C 200;12.300 km;oct-18;100 kW (136 CV);Automático;Diésel;4,3;ES;-/- ;€ 33.900
+Mercedes-Benz GLA 200;3.800 km;nov-18;100 kW (136 CV);Automático;Diésel;5,5;ES;-/- ;€ 32.900
+Mercedes-Benz A 200;20.900 km;jun-18;100 kW (136 CV);Automático;Diésel;3,8;ES;-/- ;€ 24.900
+Mercedes-Benz A 180;14.432 km;dic-18;85 kW (116 CV);Automático;Diésel;4,1;ES;-/- ;€ 28.685
+Mercedes-Benz A 180;19.025 km;dic-18;85 kW (116 CV);Automático;Diésel;4,2;ES;-/- ;€ 28.685
+Mercedes-Benz A 180;13.186 km;dic-18;85 kW (116 CV);Automático;Diésel;4,2;ES;-/- ;€ 28.685
+Mercedes-Benz A 180;9.796 km;dic-18;85 kW (116 CV);Automático;Diésel;4,1;ES;-/- ;€ 28.685
