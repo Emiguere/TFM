@@ -1,0 +1,401 @@
+vehicle;  km; year; power; transmision; fuel_type; consume; country;emisions;price 
+Audi A1;61.000 km;may-18;85 kW (116 CV);Manual;Diésel;3,7;ES;98 g;€ 16.500
+Audi A1;53.000 km;may-18;85 kW (116 CV);Manual;Diésel;3,7;ES;98 g;€ 16.500
+Audi A1;67.000 km;mar-18;85 kW (116 CV);Manual;Diésel;3,7;ES;98 g;€ 16.500
+Audi Q3;38.537 km;abr-18;110 kW (150 CV);Automático;Diésel;4,7;Unknown;128;€ 24.990
+Audi Q2;87.370 km;may-18;85 kW (116 CV);Manual;Diésel;4,6;ES;-/- ;€ 19.500
+Audi A4;89.000 km;abr-18;110 kW (150 CV);Automático;Diésel;4 l/;ES;-/- ;€ 27.900
+Audi Q3;34.956 km;feb-18;110 kW (150 CV);Automático;Diésel;4,9;ES;-/- ;€ 27.400
+Audi A6;59.000 km;ago-18;140 kW (190 CV);Automático;Diésel;4,4;ES;-/- ;€ 32.000
+Audi A3;66.500 km;ene-18;85 kW (116 CV);Manual;Diésel;4,1;ES;108;€ 18.900
+Audi A1;46.000 km;may-18;85 kW (116 CV);Manual;Diésel;3,7;ES;98 g;€ 16.500
+Audi Q7;18.235 km;jul-18;160 kW (218 CV);Automático;Diésel;5,5;ES;-/- ;€ 42.636
+Audi Q7;18.235 km;jul-18;160 kW (218 CV);Automático;Diésel;5,5;ES;-/- ;€ 42.636
+Audi A1;30.042 km;jul-18;66 kW (90 CV);Manual;Diésel;3,7;ES;-/- ;€ 15.690
+Audi A8;28.560 km;abr-18;210 kW (286 CV);Automático;Diésel;5,6;ES;-/- ;€ 56.390
+Audi Q7;18.235 km;jul-18;160 kW (218 CV);Automático;Diésel;5,5;ES;-/- ;€ 42.636
+Audi Q7;18.235 km;jul-18;160 kW (218 CV);Automático;Diésel;5,5;ES;-/- ;€ 42.636
+Audi A1;18.980 km;jun-18;85 kW (116 CV);Manual;Diésel;3,7;ES;-/- ;€ 15.500
+Audi A1;30.042 km;jul-18;66 kW (90 CV);Manual;Diésel;3,7;ES;-/- ;€ 15.690
+Audi Q7;18.235 km;jul-18;160 kW (218 CV);Automático;Diésel;5,5;ES;-/- ;€ 42.636
+Audi A1;40.900 km;may-18;85 kW (116 CV);Manual;Diésel;3,7;ES;-/- ;€ 16.990
+Audi A3;75.119 km;jun-18;110 kW (150 CV);Manual;Diésel;4,2;ES;-/- ;€ 18.900
+Audi Q5;29.878 km;ago-18;140 kW (190 CV);Automático;Diésel;5,1;ES;-/- ;€ 37.500
+Audi A3;23.000 km;ene-18;135 kW (184 CV);Automático;Diésel;5 l/;ES;-/- ;€ 35.900
+Audi Q2;18.652 km;may-18;85 kW (116 CV);Manual;Diésel;4,6;ES;-/- ;€ 20.900
+Audi Q2;30.538 km;feb-18;85 kW (116 CV);Manual;Diésel;4,6;ES;-/- ;€ 20.700
+Audi A4;5.740 km;mar-18;110 kW (150 CV);Manual;Diésel;4 l/;ES;-/- ;€ 24.800
+Audi A8;28.349 km;ene-18;210 kW (286 CV);Automático;Diésel;5,6;ES;-/- ;€ 65.500
+Audi Q5;9.952 km;jul-18;120 kW (163 CV);Automático;Diésel;5,1;ES;-/- ;€ 35.700
+Audi Q5;3.505 km;jul-18;120 kW (163 CV);Automático;Diésel;5,1;ES;-/- ;€ 39.000
+Audi Q2;14.150 km;abr-18;110 kW (150 CV);Automático;Diésel;4,9;ES;-/- ;€ 36.500
+Audi Q5;26.990 km;dic-18;140 kW (190 CV);Automático;Diésel;-/- ;ES;-/- ;€ 39.900
+Audi A3;31.000 km;may-18;85 kW (116 CV);Automático;Diésel;4 l/;ES;-/- ;€ 20.900
+Audi A4;39.999 km;ene-18;110 kW (150 CV);Automático;Diésel;4 l/;ES;-/- ;€ 26.490
+Audi Q2;38.085 km;ago-18;85 kW (116 CV);Manual;Diésel;4,6;ES;-/- ;€ 21.890
+Audi A3;230 km;may-18;85 kW (116 CV);Manual;Diésel;4,1;ES;-/- ;€ 19.990
+Audi Q5;29.878 km;ago-18;140 kW (190 CV);Automático;Diésel;5,1;ES;-/- ;€ 37.500
+Audi Q5;20.116 km;may-18;110 kW (150 CV);Manual;Diésel;-/- ;ES;-/- ;€ 31.600
+Audi Q5;29.878 km;ago-18;140 kW (190 CV);Automático;Diésel;5,1;ES;133;€ 38.900
+Audi Q3;35.486 km;ene-18;110 kW (150 CV);Automático;Diésel;5,1;ES;133;€ 25.500
+Audi Q5;14.000 km;ago-18;120 kW (163 CV);Automático;Diésel;5 l/;Unknown;132;€ 36.500
+Audi A5;29.368 km;ago-18;110 kW (150 CV);Automático;Diésel;4,2;ES;-/- ;€ 33.500
+Audi Q7;18.235 km;jul-18;160 kW (218 CV);Automático;Diésel;5,5;ES;-/- ;€ 42.636
+Audi A7;5.663 km;feb-18;210 kW (286 CV);Automático;Diésel;5,6;ES;-/- ;€ 51.727
+Audi Q2;25.287 km;mar-18;85 kW (116 CV);Manual;Diésel;4,6;ES;-/- ;€ 20.990
+Audi A1;32.547 km;jul-18;85 kW (116 CV);Manual;Diésel;3,7;ES;-/- ;€ 14.000
+Audi Q3;56.540 km;ene-18;110 kW (150 CV);Automático;Diésel;4,9;ES;-/- ;€ 23.900
+Audi A4;18.491 km;mar-18;110 kW (150 CV);Semiautomático;Diésel;3,8;Unknown;99 g;€ 18.491
+Audi A3;28.136 km;abr-18;110 kW (150 CV);Semiautomático;Diésel;4,4;Unknown;114;€ 19.136
+Audi Q2;8.250 km;dic-18;85 kW (116 CV);Automático;Diésel;4,3;ES;-/- ;€ 26.800
+Audi A4;15.915 km;jul-18;110 kW (150 CV);Manual;Diésel;3,8;ES;-/- ;€ 24.900
+Audi Q2;10.821 km;dic-18;85 kW (116 CV);Automático;Diésel;4,3;ES;-/- ;€ 27.100
+Audi A3;21.065 km;jul-18;110 kW (150 CV);Automático;Diésel;4,8;ES;-/- ;€ 29.400
+Audi A4;89.000 km;sep-18;110 kW (150 CV);Automático;Diésel;4,3;ES;-/- ;€ 25.900
+Audi A3;59.900 km;jun-18;110 kW (150 CV);Manual;Diésel;4,2;ES;-/- ;€ 18.400
+Audi A4;32.100 km;mar-18;110 kW (150 CV);Manual;Diésel;3,8;ES;106;€ 27.500
+Audi A4;15.200 km;mar-18;110 kW (150 CV);Manual;Diésel;3,8;ES;106;€ 29.000
+Audi A3;19.600 km;dic-18;85 kW (116 CV);Manual;Diésel;4,1;ES;108;€ 24.500
+Audi A4 allroad;24.000 km;abr-18;140 kW (190 CV);Automático;Diésel;4,9;Unknown;132;€ 37.000
+Audi A4;68.219 km;dic-18;110 kW (150 CV);Automático;Diésel;4,6;Unknown;121;€ 24.700
+Audi A7;5.663 km;feb-18;210 kW (286 CV);Automático;Diésel;5,6;ES;-/- ;€ 51.727
+Audi A1;30.042 km;jul-18;66 kW (90 CV);Manual;Diésel;3,7;ES;-/- ;€ 15.690
+Audi A3;59.900 km;jun-18;110 kW (150 CV);Manual;Diésel;4,2;ES;-/- ;€ 18.400
+Audi Q2;7.700 km;feb-18;110 kW (150 CV);Automático;Diésel;4,9;ES;-/- ;€ 29.890
+Audi A1;30.042 km;jul-18;66 kW (90 CV);Manual;Diésel;3,7;ES;-/- ;€ 15.690
+Audi A7;19.138 km;feb-18;210 kW (286 CV);Automático;Diésel;5,6;ES;-/- ;€ 61.900
+Audi A4;116.500 km;feb-18;110 kW (150 CV);Manual;Diésel;3,8;ES;-/- ;€ 19.900
+Audi A1;59.208 km;feb-18;85 kW (116 CV);Manual;Diésel;-/- ;ES;-/- ;€ 14.900
+Audi A6;21.578 km;ago-18;140 kW (190 CV);Automático;Diésel;4,4;ES;-/- ;€ 32.000
+Audi Q2;9.608 km;nov-18;85 kW (116 CV);Manual;Diésel;4,7;ES;-/- ;€ 23.500
+Audi A3;28.737 km;abr-18;110 kW (150 CV);Semiautomático;Diésel;4,4;Unknown;114;€ 19.737
+Audi Q7;18.235 km;jul-18;160 kW (218 CV);Automático;Diésel;5,5;ES;-/- ;€ 42.636
+Audi A7;5.663 km;feb-18;210 kW (286 CV);Automático;Diésel;5,6;ES;-/- ;€ 51.727
+Audi Q2;7.700 km;feb-18;110 kW (150 CV);Automático;Diésel;4,9;ES;-/- ;€ 29.890
+Audi A6;24.214 km;ene-18;140 kW (190 CV);Automático;Diésel;4,4;ES;-/- ;€ 31.400
+Audi Q7;18.235 km;jul-18;160 kW (218 CV);Automático;Diésel;5,5;ES;-/- ;€ 42.636
+Audi SQ7;97.000 km;ene-18;320 kW (435 CV);Automático;Diésel;7,2;Unknown;189;€ 67.999
+Audi A4;49.700 km;sep-18;110 kW (150 CV);Automático;Diésel;3,9;ES;-/- ;€ 22.490
+Audi Q7;18.235 km;jul-18;160 kW (218 CV);Automático;Diésel;5,5;ES;-/- ;€ 42.636
+Audi Q8;25.275 km;sep-18;210 kW (286 CV);Automático;Diésel;6,6;ES;175;€ 114.990
+Audi A5;20.000 km;ago-18;140 kW (190 CV);Automático;Diésel;4,7;Unknown;124;€ 42.000
+Audi A1;26.800 km;mar-18;85 kW (116 CV);Automático;Diésel;3,9;ES;-/- ;€ 18.400
+Audi Q8;25.275 km;sep-18;210 kW (286 CV);Automático;Diésel;6,6;ES;-/- ;€ 111.990
+Audi A8;115.000 km;jul-18;210 kW (286 CV);Automático;Diésel;5,6;ES;-/- ;€ 42.990
+Audi Q5;119.990 km;ene-18;110 kW (150 CV);Manual;Diésel;4,5;ES;-/- ;€ 27.490
+Audi A3;71.000 km;may-18;110 kW (150 CV);Manual;Diésel;4,5;ES;-/- ;€ 21.750
+Audi A4;29.851 km;jul-18;110 kW (150 CV);Automático;Diésel;4 l/;ES;-/- ;€ 21.900
+Audi Q2;8.250 km;dic-18;85 kW (116 CV);Automático;Diésel;4,3;ES;-/- ;€ 26.800
+Audi A4;26.535 km;may-18;110 kW (150 CV);Automático;Diésel;3,9;ES;-/- ;€ 25.800
+Audi A3;18.565 km;dic-18;85 kW (116 CV);Automático;Diésel;4 l/;ES;-/- ;€ 23.600
+Audi A3;21.065 km;jul-18;110 kW (150 CV);Automático;Diésel;4,8;ES;-/- ;€ 29.400
+Audi A6;45.500 km;abr-18;140 kW (190 CV);Automático;Diésel;4,5;ES;-/- ;€ 28.500
+Audi A4;57.822 km;ene-18;110 kW (150 CV);Manual;Diésel;4 l/;ES;-/- ;€ 23.990
+Audi A7;5.663 km;feb-18;210 kW (286 CV);Automático;Diésel;5,6;ES;-/- ;€ 51.727
+Audi A4;31.115 km;may-18;110 kW (150 CV);Automático;Diésel;4 l/;ES;-/- ;€ 25.300
+Audi A4;60.876 km;mar-18;110 kW (150 CV);Manual;Diésel;4 l/;ES;-/- ;€ 23.900
+Audi A5;89.500 km;ago-18;140 kW (190 CV);Automático;Diésel;4,2;ES;-/- ;€ 29.900
+Audi Q3;10.000 km;dic-18;110 kW (150 CV);Automático;Diésel;4,7;ES;-/- ;€ 37.900
+Audi A3;24.550 km;jun-18;85 kW (116 CV);Manual;Diésel;4,1;ES;-/- ;€ 18.500
+Audi Q3;31.000 km;abr-18;135 kW (184 CV);Automático;Diésel;5,2;ES;-/- ;€ 28.990
+Audi Q5;26.700 km;ago-18;120 kW (163 CV);Automático;Diésel;5,1;Unknown;136;€ 35.800
+Audi A6;76.218 km;may-18;140 kW (190 CV);Automático;Diésel;4,2;ES;-/- ;€ 25.590
+Audi Q2;23.524 km;feb-18;85 kW (116 CV);Manual;Diésel;4,6;ES;118;€ 22.900
+Audi A6;130 km;sep-18;150 kW (204 CV);Automático;Diésel;4,9;ES;124;€ 56.600
+Audi A3;11.000 km;dic-18;85 kW (116 CV);Manual;Diésel;4,2;ES;109;€ 25.900
+Audi A3;36.833 km;ene-18;85 kW (116 CV);Manual;Diésel;4,1;ES;-/- ;€ 18.990
+Audi A3;11.000 km;dic-18;85 kW (116 CV);Manual;Diésel;4,2;ES;-/- ;€ 23.300
+Audi Q5;13.825 km;jul-18;210 kW (286 CV);Automático;Diésel;5,8;ES;-/- ;€ 52.000
+Audi Q8;11.200 km;sep-18;210 kW (286 CV);Automático;Diésel;6,6;ES;-/- ;€ 78.900
+Audi Q5;17.487 km;dic-18;140 kW (190 CV);Automático;Diésel;5,1;ES;-/- ;€ 38.900
+Audi Q8;40.000 km;sep-18;210 kW (286 CV);Automático;Diésel;6,6;ES;-/- ;€ 83.900
+Audi A3;11.000 km;dic-18;85 kW (116 CV);Manual;Diésel;4,2;ES;-/- ;€ 23.300
+Audi A6;43.000 km;jul-18;160 kW (218 CV);Automático;Diésel;5 l/;ES;-/- ;€ 29.000
+Audi A1;57.439 km;feb-18;85 kW (116 CV);Manual;Diésel;3,7;ES;-/- ;€ 13.995
+Audi A4;15.000 km;abr-18;110 kW (150 CV);Automático;Diésel;4 l/;ES;-/- ;€ 29.800
+Audi A4;49.700 km;sep-18;110 kW (150 CV);Automático;Diésel;3,9;ES;-/- ;€ 23.490
+Audi A7;22.000 km;oct-18;210 kW (286 CV);Automático;Diésel;-/- ;ES;-/- ;€ 53.500
+Audi Q2;7.700 km;feb-18;110 kW (150 CV);Automático;Diésel;4,9;ES;-/- ;€ 29.890
+Audi Q3;10.770 km;dic-18;110 kW (150 CV);Automático;Diésel;4,7;ES;-/- ;€ 33.900
+Audi A7;5.663 km;feb-18;210 kW (286 CV);Automático;Diésel;5,6;ES;-/- ;€ 51.727
+Audi Q3;41.554 km;mar-18;110 kW (150 CV);Automático;Diésel;4,9;ES;-/- ;€ 24.800
+Audi Q7;18.235 km;jul-18;160 kW (218 CV);Automático;Diésel;5,5;ES;-/- ;€ 42.636
+Audi Q7;50.346 km;may-18;200 kW (272 CV);Automático;Diésel;5,7;ES;-/- ;€ 48.290
+Audi A3;121.000 km;abr-18;85 kW (116 CV);Manual;Diésel;4 l/;Unknown;104;€ 13.710
+Audi Q5;81.500 km;ene-18;140 kW (190 CV);Automático;Diésel;4,9;ES;-/- ;€ 29.990
+Audi Q7;33.000 km;mar-18;200 kW (272 CV);Automático;Diésel;6,2;ES;-/- ;€ 53.900
+Audi Q2;7.700 km;feb-18;110 kW (150 CV);Automático;Diésel;4,9;ES;-/- ;€ 29.890
+Audi A4;194.000 km;ene-18;110 kW (150 CV);Automático;Diésel;4,6;Unknown;121;€ 19.900
+Audi Q3;10.770 km;dic-18;110 kW (150 CV);Automático;Diésel;4,7;ES;124;€ 36.900
+Audi A3;27.776 km;nov-18;110 kW (150 CV);Automático;Diésel;4,5;ES;-/- ;€ 19.990
+Audi A3;73.031 km;jun-18;110 kW (150 CV);Manual;Diésel;4,2;ES;-/- ;€ 16.790
+Audi A7;5.663 km;feb-18;210 kW (286 CV);Automático;Diésel;5,6;ES;-/- ;€ 51.727
+Audi A7;60.000 km;jun-18;210 kW (286 CV);Automático;Diésel;5,6;ES;145;€ 59.900
+Audi A4;47.000 km;ene-18;110 kW (150 CV);Automático;Diésel;4 l/;ES;-/- ;€ 24.900
+Audi Q7;21 km;dic-18;170 kW (231 CV);Automático;Diésel;6,5;ES;-/- ;€ 55.900
+Audi Q3;79.949 km;jul-18;110 kW (150 CV);Manual;Diésel;5 l/;ES;-/- ;€ 21.500
+Audi A3;64.222 km;ene-18;85 kW (116 CV);Automático;Diésel;4 l/;ES;-/- ;€ 17.388
+Audi A3;64.222 km;ene-18;85 kW (116 CV);Automático;Diésel;4 l/;ES;-/- ;€ 17.388
+Audi A3;64.222 km;ene-18;85 kW (116 CV);Automático;Diésel;4 l/;ES;-/- ;€ 17.388
+Audi A3;64.222 km;ene-18;85 kW (116 CV);Automático;Diésel;4 l/;ES;-/- ;€ 17.388
+Audi A3;64.222 km;ene-18;85 kW (116 CV);Automático;Diésel;4 l/;ES;-/- ;€ 17.388
+Audi A3;64.222 km;ene-18;85 kW (116 CV);Automático;Diésel;4 l/;ES;-/- ;€ 17.388
+Audi A3;64.222 km;ene-18;85 kW (116 CV);Automático;Diésel;4 l/;ES;-/- ;€ 17.388
+Audi A4;7.780 km;abr-18;110 kW (150 CV);Manual;Diésel;3,8;ES;106;€ 28.500
+Audi Q2;15.420 km;jun-18;110 kW (150 CV);Automático;Diésel;4,9;ES;-/- ;€ 32.000
+Audi Q8;22.500 km;nov-18;210 kW (286 CV);Automático;Diésel;6,6;ES;-/- ;€ 75.500
+Audi A8;115.000 km;jul-18;210 kW (286 CV);Automático;Diésel;5,6;ES;-/- ;€ 46.990
+Audi Q5;51.200 km;mar-18;140 kW (190 CV);Automático;Diésel;5,1;ES;133;€ 39.900
+Audi A4;110 km;dic-18;110 kW (150 CV);Automático;Diésel;3,9;ES;101;€ 31.900
+Audi A5;114.000 km;ene-18;140 kW (190 CV);Automático;Diésel;4,2;ES;-/- ;€ 32.950
+Audi Q2;6.225 km;may-18;85 kW (116 CV);Automático;Diésel;-/- ;ES;-/- ;€ 27.300
+Audi Q5;119.990 km;ene-18;110 kW (150 CV);Manual;Diésel;4,5;ES;-/- ;€ 29.990
+Audi A1;36.575 km;mar-18;85 kW (116 CV);Manual;Diésel;3,7;ES;-/- ;€ 16.790
+Audi A4;45.890 km;jun-18;140 kW (190 CV);Automático;Diésel;4,4;ES;114;€ 32.600
+Audi A6;17.925 km;sep-18;150 kW (204 CV);Automático;Diésel;4,5;ES;-/- ;€ 38.650
+Audi A4;25.000 km;may-18;110 kW (150 CV);Automático;Diésel;4,4;ES;112;€ 33.900
+Audi A4;25.276 km;ago-18;110 kW (150 CV);Automático;Diésel;-/- ;ES;-/- ;€ 30.900
+Audi A5;145.000 km;mar-18;140 kW (190 CV);Automático;Diésel;5 l/;ES;-/- ;€ 23.999
+Audi A4;150 km;dic-18;110 kW (150 CV);Manual;Diésel;-/- ;ES;-/- ;€ 34.900
+Audi A6;2.500 km;sep-18;150 kW (204 CV);Automático;Diésel;4,5;ES;-/- ;€ 47.900
+Audi A1;35.000 km;jul-18;66 kW (90 CV);Manual;Diésel;3,7;ES;-/- ;€ 14.000
+Audi SQ7;30.374 km;mar-18;320 kW (435 CV);Automático;Diésel;7,2;ES;-/- ;€ 73.700
+Audi Q2;20.000 km;ene-18;140 kW (190 CV);Automático;Diésel;5 l/;ES;-/- ;€ 33.900
+Audi A5;62.127 km;jun-18;160 kW (218 CV);Automático;Diésel;-/- ;ES;-/- ;€ 43.900
+Audi Q2;23.000 km;jun-18;85 kW (116 CV);Manual;Diésel;4,7;ES;-/- ;€ 23.000
+Audi A1;54.000 km;mar-18;85 kW (116 CV);Manual;Diésel;3,7;ES;-/- ;€ 13.990
+Audi A1;84.001 km;mar-18;66 kW (90 CV);Manual;Diésel;3,7;ES;-/- ;€ 11.300
+Audi A1;91.453 km;mar-18;66 kW (90 CV);Manual;Diésel;3,7;ES;-/- ;€ 11.300
+Audi A3;33.523 km;mar-18;85 kW (116 CV);Manual;Diésel;4,1;ES;-/- ;€ 19.000
+Audi Q5;24.571 km;dic-18;140 kW (190 CV);Automático;Diésel;5,1;ES;-/- ;€ 38.000
+Audi Q5;66.000 km;jun-18;140 kW (190 CV);Automático;Diésel;4,9;ES;-/- ;€ 39.500
+Audi Q7;50.346 km;may-18;200 kW (272 CV);Automático;Diésel;5,7;ES;-/- ;€ 48.290
+Audi Q7;50.346 km;may-18;200 kW (272 CV);Automático;Diésel;5,7;ES;-/- ;€ 48.290
+Audi A4;74.724 km;abr-18;140 kW (190 CV);Automático;Diésel;4,4;Unknown;118;€ 21.973
+Audi A4;19.677 km;jun-18;140 kW (190 CV);Automático;Diésel;4,1;ES;111;€ 25.900
+Audi A4;98.651 km;oct-18;110 kW (150 CV);Automático;Diésel;4 l/;ES;109;€ 23.900
+Audi Q8;7.200 km;sep-18;210 kW (286 CV);Automático;Diésel;6,6;ES;-/- ;€ 72.900
+Audi A7;5.663 km;feb-18;210 kW (286 CV);Automático;Diésel;5,6;ES;-/- ;€ 51.727
+Audi A3;31.549 km;jul-18;110 kW (150 CV);Manual;Diésel;4,3;ES;-/- ;€ 22.490
+Audi Q2;25.000 km;ago-18;85 kW (116 CV);Manual;Diésel;4,6;ES;-/- ;€ 23.999
+Audi Q8;15.500 km;nov-18;210 kW (286 CV);Automático;Diésel;6,6;Unknown;178;€ 72.000
+Audi A3;29.625 km;ene-18;85 kW (116 CV);Automático;Diésel;4 l/;ES;-/- ;€ 20.900
+Audi A3;134.722 km;ene-18;85 kW (116 CV);Manual;Diésel;4,2;ES;-/- ;€ 15.900
+Audi A3;27.776 km;jun-18;85 kW (116 CV);Automático;Diésel;4 l/;ES;-/- ;€ 20.500
+Audi Q5;53.000 km;jun-18;110 kW (150 CV);Manual;Diésel;4,5;ES;-/- ;€ 28.990
+Audi A8;28.560 km;abr-18;210 kW (286 CV);Automático;Diésel;5,6;ES;-/- ;€ 56.390
+Audi A8;28.560 km;abr-18;210 kW (286 CV);Automático;Diésel;5,6;ES;-/- ;€ 56.390
+Audi A4;30.000 km;ago-18;140 kW (190 CV);Automático;Diésel;4,5;ES;-/- ;€ 33.000
+Audi Q5;35.000 km;dic-18;140 kW (190 CV);Automático;Diésel;5,1;ES;-/- ;€ 45.200
+Audi A4;40.000 km;dic-18;110 kW (150 CV);Automático;Diésel;4 l/;ES;-/- ;€ 25.850
+Audi A3;27.776 km;nov-18;110 kW (150 CV);Automático;Diésel;4,5;ES;-/- ;€ 19.990
+Audi Q2;8.000 km;ene-18;110 kW (150 CV);Automático;Diésel;4,9;ES;-/- ;€ 29.850
+Audi A3;61.305 km;may-18;85 kW (116 CV);Manual;Diésel;4,1;ES;-/- ;€ 18.400
+Audi A1;36.000 km;oct-18;66 kW (90 CV);Manual;Diésel;3,7;ES;-/- ;€ 16.550
+Audi Q5;13.039 km;dic-18;120 kW (163 CV);Automático;Diésel;5 l/;ES;-/- ;€ 36.600
+Audi A7;5.663 km;feb-18;210 kW (286 CV);Automático;Diésel;5,6;ES;-/- ;€ 51.727
+Audi Q8;17.500 km;sep-18;210 kW (286 CV);Automático;Diésel;6,6;ES;-/- ;€ 74.900
+Audi Q8;17.500 km;sep-18;210 kW (286 CV);Automático;Diésel;6,6;ES;-/- ;€ 74.900
+Audi Q2;15.000 km;oct-18;85 kW (116 CV);Manual;Diésel;4,6;ES;-/- ;€ 23.000
+Audi Q7;38.000 km;may-18;200 kW (272 CV);Automático;Diésel;6,2;ES;-/- ;€ 59.000
+Audi A4;28.970 km;may-18;110 kW (150 CV);Automático;Diésel;4 l/;ES;-/- ;€ 29.400
+Audi Q8;17.500 km;sep-18;210 kW (286 CV);Automático;Diésel;6,6;ES;175;€ 77.900
+Audi Q3;43.027 km;ene-18;110 kW (150 CV);Manual;Diésel;4,6;ES;-/- ;€ 18.990
+Audi A5;30.500 km;mar-18;140 kW (190 CV);Manual;Diésel;4,4;ES;-/- ;€ 31.400
+Audi Q5;33.000 km;jun-18;140 kW (190 CV);Automático;Diésel;5 l/;ES;-/- ;€ 43.300
+Audi A4;18.900 km;jul-18;90 kW (122 CV);Manual;Diésel;3,8;ES;-/- ;€ 23.700
+Audi A4;28.022 km;jun-18;110 kW (150 CV);Automático;Diésel;4 l/;ES;-/- ;€ 22.000
+Audi A6;22.157 km;sep-18;150 kW (204 CV);Automático;Diésel;4,5;ES;-/- ;€ 52.400
+Audi A5;74.500 km;abr-18;140 kW (190 CV);Automático;Diésel;4,2;ES;-/- ;€ 32.480
+Audi Q8;33.000 km;dic-18;210 kW (286 CV);Automático;Diésel;6,6;ES;-/- ;€ 78.000
+Audi Q5;30.000 km;feb-18;120 kW (163 CV);Automático;Diésel;5,1;ES;-/- ;€ 34.900
+Audi A3;31.800 km;jul-18;135 kW (184 CV);Automático;Diésel;5,1;ES;-/- ;€ 34.900
+Audi A7;30.060 km;feb-18;210 kW (286 CV);Automático;Diésel;5,6;ES;-/- ;€ 54.900
+Audi A7;17.427 km;dic-18;210 kW (286 CV);Automático;Diésel;5,6;ES;-/- ;€ 64.000
+Audi A1;30.200 km;mar-18;85 kW (116 CV);Manual;Diésel;3,7;ES;98 g;€ 17.900
+Audi A3;15.100 km;dic-18;85 kW (116 CV);Automático;Diésel;4 l/;ES;-/- ;€ 22.500
+Audi A3;15.100 km;dic-18;85 kW (116 CV);Automático;Diésel;4 l/;ES;-/- ;€ 22.500
+Audi Q5;20.500 km;may-18;210 kW (286 CV);Automático;Diésel;5,7;ES;-/- ;€ 43.400
+Audi A8;41.800 km;feb-18;210 kW (286 CV);Automático;Diésel;5,6;ES;-/- ;€ 61.800
+Audi A7;5.663 km;feb-18;210 kW (286 CV);Automático;Diésel;5,6;ES;-/- ;€ 51.727
+Audi A3;15.100 km;dic-18;85 kW (116 CV);Automático;Diésel;4 l/;ES;105;€ 24.300
+Audi A1;30.000 km;may-18;85 kW (116 CV);Manual;Diésel;3,7;ES;-/- ;€ 16.800
+Audi A3;50.000 km;feb-18;85 kW (116 CV);Manual;Diésel;3,9;ES;101;€ 18.500
+Audi Q2;25.840 km;dic-18;85 kW (116 CV);Automático;Diésel;4,8;Unknown;125;€ 19.990
+Audi A3;2.770 km;sep-18;85 kW (116 CV);Manual;Diésel;-/- ;ES;-/- ;€ 23.000
+Audi A3;25.807 km;jul-18;85 kW (116 CV);Automático;Diésel;3,9;ES;-/- ;€ 19.300
+Audi A3;90.000 km;mar-18;85 kW (116 CV);Manual;Diésel;4,1;ES;-/- ;€ 18.900
+Audi A1;51.400 km;jul-18;85 kW (116 CV);Manual;Diésel;3,9;ES;-/- ;€ 15.500
+Audi Q2;36.300 km;mar-18;140 kW (190 CV);Automático;Diésel;5,1;ES;-/- ;€ 25.850
+Audi A3;27.776 km;nov-18;110 kW (150 CV);Automático;Diésel;4,5;ES;-/- ;€ 19.990
+Audi Q2;21.000 km;jun-18;85 kW (116 CV);Automático;Diésel;4,3;ES;-/- ;€ 25.990
+Audi A3;40.000 km;ene-18;85 kW (116 CV);Automático;Diésel;4 l/;Unknown;106;€ 22.000
+Audi A4;56.200 km;may-18;140 kW (190 CV);Automático;Diésel;4,6;ES;-/- ;€ 31.000
+Audi A1;53.314 km;mar-18;85 kW (116 CV);Manual;Diésel;3,7;ES;-/- ;€ 14.900
+Audi Q5;57.712 km;abr-18;110 kW (150 CV);Manual;Diésel;4,5;ES;-/- ;€ 30.690
+Audi A3;66.419 km;jun-18;110 kW (150 CV);Manual;Diésel;4,2;ES;-/- ;€ 16.500
+Audi A5;30.500 km;jul-18;110 kW (150 CV);Automático;Diésel;4,2;ES;-/- ;€ 32.000
+Audi A3;62.543 km;jun-18;110 kW (150 CV);Manual;Diésel;4,8;ES;-/- ;€ 16.500
+Audi Q3;56.153 km;feb-18;88 kW (120 CV);Manual;Diésel;4,8;ES;-/- ;€ 18.400
+Audi Q2;21.524 km;jun-18;85 kW (116 CV);Manual;Diésel;4,6;ES;-/- ;€ 20.900
+Audi Q8;6.113 km;nov-18;210 kW (286 CV);Automático;Diésel;6,6;ES;-/- ;€ 85.900
+Audi Q8;14.500 km;nov-18;210 kW (286 CV);Automático;Diésel;6,6;ES;-/- ;€ 81.900
+Audi A6;7.886 km;jul-18;210 kW (286 CV);Automático;Diésel;5,6;ES;-/- ;€ 59.500
+Audi A7;2.900 km;may-18;210 kW (286 CV);Automático;Diésel;5,6;ES;-/- ;€ 62.900
+Audi Q8;19.950 km;sep-18;210 kW (286 CV);Automático;Diésel;6,6;ES;-/- ;€ 78.900
+Audi A5;9.800 km;feb-18;140 kW (190 CV);Automático;Diésel;4,5;ES;-/- ;€ 43.900
+Audi Q7;16.479 km;ago-18;200 kW (272 CV);Automático;Diésel;6,1;ES;-/- ;€ 53.400
+Audi Q7;15.220 km;ago-18;200 kW (272 CV);Automático;Diésel;5,9;ES;-/- ;€ 51.800
+Audi Q7;30.000 km;ago-18;160 kW (218 CV);Automático;Diésel;6,2;Unknown;161;€ 54.000
+Audi Q7;40.000 km;abr-18;160 kW (218 CV);Automático;Diésel;6,2;Unknown;161;€ 55.000
+Audi Q5;24.210 km;ene-18;120 kW (163 CV);Automático;Diésel;5 l/;ES;-/- ;€ 34.900
+Audi A6;76.218 km;may-18;140 kW (190 CV);Automático;Diésel;4,2;ES;-/- ;€ 25.590
+Audi A3;25.000 km;ene-18;81 kW (110 CV);Manual;Diésel;4 l/;ES;-/- ;€ 20.000
+Audi Q5;57.712 km;abr-18;110 kW (150 CV);Manual;Diésel;4,5;ES;-/- ;€ 30.690
+Audi Q5;57.712 km;jun-18;110 kW (150 CV);Manual;Diésel;4,5;ES;-/- ;€ 30.690
+Audi Q3;36.000 km;mar-18;110 kW (150 CV);Automático;Diésel;5,1;ES;-/- ;€ 28.500
+Audi A5;88.000 km;abr-18;140 kW (190 CV);Automático;Diésel;4,2;ES;-/- ;€ 27.990
+Audi A3;41.750 km;ene-18;85 kW (116 CV);Manual;Diésel;4,1;ES;-/- ;€ 15.990
+Audi A1;92.892 km;mar-18;66 kW (90 CV);Manual;Diésel;3,7;ES;-/- ;€ 10.990
+Audi Q3;11.300 km;dic-18;110 kW (150 CV);Automático;Diésel;5,7;ES;-/- ;€ 35.600
+Audi A4;25.000 km;may-18;110 kW (150 CV);Automático;Diésel;4 l/;ES;-/- ;€ 27.400
+Audi A4;24.100 km;abr-18;110 kW (150 CV);Automático;Diésel;4 l/;ES;-/- ;€ 27.400
+Audi A4;27.300 km;jul-18;110 kW (150 CV);Automático;Diésel;4,4;ES;-/- ;€ 29.000
+Audi A4;200 km;dic-18;140 kW (190 CV);Automático;Diésel;4,1;ES;-/- ;€ 34.900
+Audi A6;13.000 km;sep-18;170 kW (231 CV);Automático;Diésel;5,6;ES;-/- ;€ 58.300
+Audi A8;48.000 km;ene-18;210 kW (286 CV);Automático;Diésel;5,6;ES;-/- ;€ 90.500
+Audi Q3;16.000 km;dic-18;110 kW (150 CV);Automático;Diésel;4,7;ES;-/- ;€ 33.000
+Audi Q3;1.700 km;dic-18;110 kW (150 CV);Automático;Diésel;4,7;ES;-/- ;€ 34.400
+Audi A4;13.000 km;ene-18;110 kW (150 CV);Automático;Diésel;4 l/;ES;-/- ;€ 27.200
+Audi Q5;15.000 km;jul-18;120 kW (163 CV);Automático;Diésel;5,1;ES;-/- ;€ 39.800
+Audi A7;28.000 km;feb-18;210 kW (286 CV);Automático;Diésel;5,6;ES;-/- ;€ 60.400
+Audi SQ7;46.900 km;sep-18;320 kW (435 CV);Automático;Diésel;7,2;ES;-/- ;€ 85.900
+Audi Q3;11.300 km;dic-18;110 kW (150 CV);Automático;Diésel;5,7;ES;-/- ;€ 35.600
+Audi A4;24.100 km;abr-18;110 kW (150 CV);Automático;Diésel;4 l/;ES;-/- ;€ 27.400
+Audi A4;25.000 km;may-18;110 kW (150 CV);Automático;Diésel;4 l/;ES;-/- ;€ 27.400
+Audi A8;48.000 km;ene-18;210 kW (286 CV);Automático;Diésel;5,6;ES;-/- ;€ 90.500
+Audi A4;13.000 km;ene-18;110 kW (150 CV);Automático;Diésel;4 l/;ES;-/- ;€ 27.200
+Audi A6;13.000 km;sep-18;170 kW (231 CV);Automático;Diésel;5,6;ES;-/- ;€ 58.300
+Audi Q3;16.000 km;dic-18;110 kW (150 CV);Automático;Diésel;4,7;ES;-/- ;€ 33.000
+Audi A4;27.300 km;jul-18;110 kW (150 CV);Automático;Diésel;4,4;ES;-/- ;€ 29.000
+Audi A4;200 km;dic-18;140 kW (190 CV);Automático;Diésel;4,1;ES;-/- ;€ 34.900
+Audi Q3;1.700 km;dic-18;110 kW (150 CV);Automático;Diésel;4,7;ES;-/- ;€ 34.400
+Audi Q5;15.000 km;jul-18;120 kW (163 CV);Automático;Diésel;5,1;ES;-/- ;€ 39.800
+Audi A7;28.000 km;feb-18;210 kW (286 CV);Automático;Diésel;5,6;ES;-/- ;€ 60.400
+Audi Q8;5.000 km;oct-18;210 kW (286 CV);Automático;Diésel;6,6;ES;-/- ;€ 87.000
+Audi A3;24.200 km;may-18;85 kW (116 CV);Manual;Diésel;4,1;ES;-/- ;€ 21.900
+Audi A3;33.000 km;may-18;85 kW (116 CV);Manual;Diésel;4,1;ES;-/- ;€ 18.500
+Audi A6;5.900 km;jun-18;150 kW (204 CV);Automático;Diésel;4,5;ES;-/- ;€ 43.900
+Audi A3;24.200 km;jun-18;85 kW (116 CV);Manual;Diésel;4,2;ES;-/- ;€ 24.500
+Audi A3;30.000 km;jun-18;85 kW (116 CV);Automático;Diésel;4 l/;ES;-/- ;€ 22.100
+Audi Q5;13.508 km;nov-18;110 kW (150 CV);Manual;Diésel;4,5;ES;-/- ;€ 32.499
+Audi A4;54.000 km;oct-18;110 kW (150 CV);Automático;Diésel;4,3;ES;-/- ;€ 22.200
+Audi A5;25.100 km;abr-18;140 kW (190 CV);Automático;Diésel;4,9;ES;128;€ 37.899
+Audi A7;51.000 km;jul-18;210 kW (286 CV);Automático;Diésel;5,6;ES;-/- ;€ 53.900
+Audi A3;25.900 km;jul-18;85 kW (116 CV);Automático;Diésel;-/- ;ES;-/- ;€ 23.800
+Audi Q5;11.582 km;jul-18;120 kW (163 CV);Automático;Diésel;5,1;ES;-/- ;€ 35.400
+Audi Q7;24.624 km;ene-18;200 kW (272 CV);Automático;Diésel;6,2;ES;-/- ;€ 53.900
+Audi A3;11.880 km;jul-18;85 kW (116 CV);Automático;Diésel;4 l/;ES;-/- ;€ 19.500
+Audi A3;29.013 km;ene-18;85 kW (116 CV);Automático;Diésel;4 l/;ES;-/- ;€ 22.000
+Audi A3;44.242 km;feb-18;85 kW (116 CV);Manual;Diésel;4,2;ES;-/- ;€ 20.300
+Audi Q5;5.116 km;jul-18;120 kW (163 CV);Automático;Diésel;5,1;ES;-/- ;€ 35.800
+Audi Q2;22.020 km;ene-18;85 kW (116 CV);Manual;Diésel;4,6;ES;-/- ;€ 21.700
+Audi Q3;58.360 km;jun-18;88 kW (120 CV);Manual;Diésel;4,8;ES;-/- ;€ 23.000
+Audi A3;19.000 km;ene-18;85 kW (116 CV);Automático;Diésel;4 l/;ES;-/- ;€ 19.800
+Audi Q2;34.679 km;mar-18;85 kW (116 CV);Manual;Diésel;4,6;ES;-/- ;€ 20.900
+Audi A3;20.238 km;jul-18;110 kW (150 CV);Automático;Diésel;4,6;ES;-/- ;€ 26.000
+Audi A4;47.520 km;feb-18;110 kW (150 CV);Automático;Diésel;4,1;ES;-/- ;€ 25.600
+Audi Q8;25.302 km;sep-18;210 kW (286 CV);Automático;Diésel;6,6;ES;-/- ;€ 74.000
+Audi A4;17.678 km;nov-18;110 kW (150 CV);Automático;Diésel;4,3;ES;-/- ;€ 29.400
+Audi Q5;12.265 km;jul-18;120 kW (163 CV);Automático;Diésel;5,1;ES;-/- ;€ 35.900
+Audi Q5;18.681 km;jul-18;120 kW (163 CV);Automático;Diésel;5,1;ES;-/- ;€ 35.800
+Audi A5;15.479 km;abr-18;140 kW (190 CV);Automático;Diésel;4,5;ES;-/- ;€ 38.700
+Audi Q5;12.923 km;jul-18;120 kW (163 CV);Automático;Diésel;5,1;ES;-/- ;€ 35.700
+Audi A4;19.435 km;ene-18;110 kW (150 CV);Automático;Diésel;4 l/;ES;-/- ;€ 27.300
+Audi A4;14.348 km;ene-18;110 kW (150 CV);Automático;Diésel;4 l/;ES;-/- ;€ 27.300
+Audi A6;8.761 km;sep-18;150 kW (204 CV);Automático;Diésel;4,5;ES;-/- ;€ 41.900
+Audi A7;24.184 km;feb-18;210 kW (286 CV);Automático;Diésel;5,6;ES;-/- ;€ 58.400
+Audi A1;15.000 km;jun-18;85 kW (116 CV);Manual;Diésel;3,7;ES;-/- ;€ 16.950
+Audi A6;15.700 km;sep-18;150 kW (204 CV);Automático;Diésel;4,5;ES;-/- ;€ 41.200
+Audi A3;23.500 km;jul-18;85 kW (116 CV);Automático;Diésel;4 l/;ES;-/- ;€ 23.500
+Audi A4;10.400 km;may-18;110 kW (150 CV);Manual;Diésel;3,8;ES;-/- ;€ 27.400
+Audi A4;7.260 km;jun-18;110 kW (150 CV);Automático;Diésel;4,4;ES;-/- ;€ 33.400
+Audi Q8;21.100 km;nov-18;210 kW (286 CV);Automático;Diésel;-/- ;ES;-/- ;€ 76.000
+Audi A3;26.982 km;jul-18;110 kW (150 CV);Manual;Diésel;-/- ;ES;-/- ;€ 24.500
+Audi A3;7.123 km;oct-18;85 kW (116 CV);Manual;Diésel;-/- ;ES;-/- ;€ 24.500
+Audi A4;16.049 km;jul-18;110 kW (150 CV);Automático;Diésel;-/- ;ES;-/- ;€ 35.000
+Audi A3;20.477 km;ago-18;85 kW (116 CV);Manual;Diésel;-/- ;ES;-/- ;€ 23.000
+Audi A4;16.787 km;may-18;110 kW (150 CV);Automático;Diésel;-/- ;ES;-/- ;€ 35.000
+Audi A3;28.263 km;abr-18;85 kW (116 CV);Manual;Diésel;-/- ;ES;-/- ;€ 22.500
+Audi A7;6.500 km;feb-18;210 kW (286 CV);Automático;Diésel;5,6;ES;-/- ;€ 54.333
+Audi A8;6.100 km;ene-18;210 kW (286 CV);Automático;Diésel;5,6;ES;-/- ;€ 67.461
+Audi A6;76.218 km;may-18;140 kW (190 CV);Automático;Diésel;4,2;ES;-/- ;€ 25.590
+Audi A1;51.400 km;jul-18;85 kW (116 CV);Manual;Diésel;3,9;ES;-/- ;€ 15.500
+Audi Q2;36.300 km;mar-18;140 kW (190 CV);Automático;Diésel;5,1;ES;-/- ;€ 25.850
+Audi Q2;15.000 km;oct-18;85 kW (116 CV);Manual;Diésel;4,6;ES;-/- ;€ 23.000
+Audi Q2;28.000 km;feb-18;85 kW (116 CV);Manual;Diésel;4,6;ES;-/- ;€ 22.300
+Audi Q7;38.000 km;may-18;200 kW (272 CV);Automático;Diésel;6,2;ES;-/- ;€ 59.000
+Audi SQ7;19.900 km;jun-18;320 kW (435 CV);Automático;Diésel;7,2;ES;-/- ;€ 79.999
+Audi Q5;29.989 km;may-18;140 kW (190 CV);Automático;Diésel;5 l/;ES;-/- ;€ 41.500
+Audi A4;10.525 km;may-18;110 kW (150 CV);Manual;Diésel;3,8;ES;-/- ;€ 28.900
+Audi Q5;57.712 km;abr-18;110 kW (150 CV);Manual;Diésel;4,5;ES;-/- ;€ 30.690
+Audi A4;21.201 km;jun-18;110 kW (150 CV);Automático;Diésel;4,4;ES;-/- ;€ 30.890
+Audi A4;15.318 km;jun-18;110 kW (150 CV);Automático;Diésel;4,4;ES;-/- ;€ 30.890
+Audi A3;10 km;jun-18;85 kW (116 CV);Manual;Diésel;4,1;ES;-/- ;€ 23.390
+Audi A4;54.000 km;jul-18;110 kW (150 CV);Automático;Diésel;4 l/;ES;-/- ;€ 22.200
+Audi A6;15.000 km;dic-18;150 kW (204 CV);Automático;Diésel;4,5;ES;-/- ;€ 55.230
+Audi A7;7.500 km;mar-18;210 kW (286 CV);Manual;Diésel;-/- ;ES;-/- ;€ 60.900
+Audi Q8;19.743 km;oct-18;210 kW (286 CV);Automático;Diésel;6,6;ES;-/- ;€ 69.500
+Audi A5;49.808 km;mar-18;160 kW (218 CV);Automático;Diésel;-/- ;ES;-/- ;€ 37.500
+Audi A5;40.000 km;jun-18;140 kW (190 CV);Automático;Diésel;4,2;ES;-/- ;€ 33.900
+Audi A3;17.500 km;jun-18;85 kW (116 CV);Manual;Diésel;4,4;ES;-/- ;€ 24.990
+Audi A3;10.000 km;jun-18;85 kW (116 CV);Manual;Diésel;4,4;ES;-/- ;€ 20.900
+Audi Q5;23.600 km;sep-18;140 kW (190 CV);Automático;Diésel;5,1;Unknown;133;€ 42.600
+Audi Q8;34.892 km;nov-18;210 kW (286 CV);Automático;Diésel;6,6;Unknown;178;€ 73.000
+Audi A3;61.305 km;may-18;85 kW (116 CV);Manual;Diésel;4,1;ES;108;€ 19.900
+Audi Q2;39.000 km;feb-18;110 kW (150 CV);Automático;Diésel;4,9;ES;-/- ;€ 27.900
+Audi A3;40.000 km;dic-18;85 kW (116 CV);Manual;Diésel;4,2;Unknown;109;€ 23.500
+Audi A5;35.800 km;abr-18;140 kW (190 CV);Automático;Diésel;4,5;Unknown;121;€ 39.000
+Audi A4;13.200 km;mar-18;110 kW (150 CV);Manual;Diésel;3,8;ES;106;€ 29.000
+Audi A3;17.600 km;dic-18;85 kW (116 CV);Manual;Diésel;4,4;ES;118;€ 24.500
+Audi A3;14.400 km;dic-18;85 kW (116 CV);Manual;Diésel;4,1;ES;108;€ 25.500
+Audi A3;24.400 km;dic-18;85 kW (116 CV);Automático;Diésel;4 l/;ES;104;€ 23.500
+Audi Q2;28.000 km;jun-18;85 kW (116 CV);Manual;Diésel;4,6;ES;118;€ 25.500
+Audi A3;59.900 km;jun-18;110 kW (150 CV);Manual;Diésel;4,2;ES;109;€ 19.900
+Audi Q5;30.301 km;mar-18;120 kW (163 CV);Automático;Diésel;5 l/;ES;132;€ 31.900
+Audi Q2;29.160 km;feb-18;85 kW (116 CV);Automático;Diésel;4,3;Unknown;113;€ 27.500
+Audi A3;27.931 km;dic-18;85 kW (116 CV);Manual;Diésel;4,4;ES;117;€ 24.900
+Audi A6;170.000 km;sep-18;160 kW (218 CV);Automático;Diésel;5,3;Unknown;138;€ 24.900
+Audi A3;16.500 km;dic-18;85 kW (116 CV);Automático;Diésel;4 l/;Unknown;105;€ 23.000
+Audi Q2;22.000 km;jun-18;85 kW (116 CV);Manual;Diésel;4,6;ES;118;€ 25.500
+Audi Q5;18.996 km;abr-18;110 kW (150 CV);Manual;Diésel;4,5;Unknown;120;€ 36.900
+Audi A4;43.000 km;ene-18;110 kW (150 CV);Manual;Diésel;4,3;Unknown;116;€ 27.500
+Audi A3;54.000 km;ene-18;111 kW (151 CV);Automático;Diésel;4,5;Unknown;116;€ 32.000
+Audi A3;31.942 km;dic-18;85 kW (116 CV);Manual;Diésel;4,4;ES;117;€ 24.000
+Audi Q2;15.000 km;oct-18;85 kW (116 CV);Manual;Diésel;4,6;ES;118;€ 26.000
+Audi Q3;31.000 km;dic-18;110 kW (150 CV);Automático;Diésel;5,1;Unknown;134;€ 27.500
+Audi Q2;31.000 km;abr-18;85 kW (116 CV);Automático;Diésel;4,6;Unknown;118;€ 19.999
+Audi A4 allroad;47.000 km;ene-18;120 kW (163 CV);Automático;Diésel;4,9;Unknown;132;€ 31.000
+Audi Q2;59.000 km;ene-18;85 kW (116 CV);Manual;Diésel;4,6;Unknown;118;€ 19.990
+Audi SQ7;90.000 km;abr-18;320 kW (435 CV);Automático;Diésel;7,2;Unknown;189;€ 88.500
+Audi Q3;11.300 km;dic-18;110 kW (150 CV);Manual;Diésel;5,7;ES;146;€ 38.600
+Audi Q2;24.750 km;jun-18;85 kW (116 CV);Automático;Diésel;4,3;ES;-/- ;€ 22.500
+Audi Q2;45 km;oct-18;85 kW (116 CV);Manual;Diésel;4,6;ES;-/- ;€ 27.400
+Audi A3;19.598 km;abr-18;110 kW (150 CV);Automático;Diésel;4,3;ES;-/- ;€ 28.300
+Audi Q2;70.000 km;oct-18;85 kW (116 CV);Manual;Diésel;4,6;Unknown;118;€ 20.900
+Audi Q3;34.420 km;jul-18;110 kW (150 CV);Manual;Diésel;4,6;Unknown;119;€ 24.900
+Audi A1;11.300 km;jul-18;66 kW (90 CV);Manual;Diésel;3,7;Unknown;97 g;€ 15.000
+Audi A4 allroad;30.502 km;jun-18;140 kW (190 CV);Automático;Diésel;4,9;Unknown;128;€ 35.900
+Audi Q5;18.000 km;jul-18;120 kW (163 CV);Automático;Diésel;5,1;Unknown;133;€ 38.750
+Audi A5;84.000 km;ene-18;140 kW (190 CV);Automático;Diésel;4,2;ES;113;€ 29.900
+Audi A3;60.000 km;sep-18;85 kW (116 CV);Automático;Diésel;4 l/;Unknown;107;€ 23.000
+Audi A4;44.852 km;jul-18;110 kW (150 CV);Automático;Diésel;3,9;Unknown;102;€ 23.999
+Audi A5;79.000 km;ene-18;140 kW (190 CV);Automático;Diésel;-/- ;ES;-/- ;€ 33.900
+Audi A3;22.361 km;jul-18;110 kW (150 CV);Manual;Diésel;4,3;ES;-/- ;€ 22.000
+Audi A3;27.000 km;jul-18;110 kW (150 CV);Manual;Diésel;4,3;ES;112;€ 22.900
+Audi A3;22.361 km;jul-18;110 kW (150 CV);Manual;Diésel;4,3;ES;111;€ 23.500
+Audi A3;27.000 km;jul-18;110 kW (150 CV);Manual;Diésel;4,3;ES;-/- ;€ 21.400
+Audi Q8;24.700 km;oct-18;210 kW (286 CV);Automático;Diésel;6,6;ES;-/- ;€ 81.100
+Audi Q8;7.465 km;jul-18;210 kW (286 CV);Automático;Diésel;6,6;ES;-/- ;€ 79.750
+Audi A8;29.200 km;mar-18;210 kW (286 CV);Automático;Diésel;5,6;ES;-/- ;€ 59.600
+Audi Q8;12.350 km;nov-18;210 kW (286 CV);Automático;Diésel;6,6;ES;-/- ;€ 76.900

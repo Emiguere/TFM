@@ -1,0 +1,220 @@
+vehicle;  km; year; power; transmision; fuel_type; consume; country;emisions;price 
+Audi A1;#¿NOMBRE?;feb-20;85 kW (116 CV);Manual;Gasolina;5,2;ES;-/- ;€ 22.400
+Audi Q3;1 km;ene-20;110 kW (150 CV);Manual;Gasolina;6,1;ES;-/- ;€ 32.000
+Audi Q3;1 km;ene-20;110 kW (150 CV);Manual;Gasolina;6,1;ES;-/- ;€ 35.000
+Audi Q3;5 km;may-20;110 kW (150 CV);Automático;Diésel;4,7;ES;-/- ;€ 39.000
+Audi RS6;8 km;may-20;441 kW (600 CV);Automático;Gasolina;7,2;ES;-/- ;€ 160.000
+Audi A4;9 km;feb-20;110 kW (150 CV);Manual;Gasolina;5,7;ES;-/- ;€ 33.200
+Audi A5;9 km;feb-20;140 kW (190 CV);Automático;Diésel;4,2;ES;-/- ;€ 45.200
+Audi A3;9 km;jun-20;85 kW (116 CV);Manual;Diésel;4,4;ES;-/- ;€ 27.300
+Audi A6;10 km;jul-20;170 kW (231 CV);Automático;Diésel;5,8;ES;-/- ;€ 64.523
+Audi S5;10 km;jul-20;255 kW (347 CV);Automático;Diésel;6,1;ES;-/- ;€ 72.042
+Audi A5;10 km;jul-20;180 kW (245 CV);Automático;Gasolina;6,9;ES;-/- ;€ 67.947
+Audi RS6;10 km;ago-20;441 kW (600 CV);Automático;Gasolina;7,2;ES;-/- ;€ 169.900
+Audi A3;10 km;jun-20;110 kW (150 CV);Automático;Gasolina;4,9;ES;-/- ;€ 28.500
+Audi e-tron;10 km;feb-20;300 kW (408 CV);Automático;Eléctrico;-/- ;ES;0 g ;€ 80.000
+Audi RS6;10 km;feb-20;441 kW (600 CV);Automático;Gasolina;7,2;ES;-/- ;€ 169.900
+Audi A4;10 km;feb-20;120 kW (163 CV);Automático;Diésel;3,9;ES;-/- ;€ 42.890
+Audi A3;10 km;feb-20;150 kW (204 CV);Automático;Electro/Gasolina;1,9;ES;-/- ;€ 30.890
+Audi RS6;10 km;ago-20;441 kW (600 CV);Automático;Gasolina;7,2;ES;-/- ;€ 161.900
+Audi RS6;10 km;ago-20;441 kW (600 CV);Automático;Gasolina;7,2;ES;-/- ;€ 161.900
+Audi RS6;10 km;ago-20;441 kW (600 CV);Automático;Gasolina;7,2;ES;-/- ;€ 169.900
+Audi A5;10 km;abr-20;331 kW (450 CV);Automático;Gasolina;9,2;ES;-/- ;€ 129.800
+Audi A3;10 km;feb-20;110 kW (150 CV);Automático;Diésel;4,5;ES;118;€ 29.900
+Audi SQ8;10 km;mar-20;320 kW (435 CV);Automático;Diésel;7,8;ES;-/- ;€ 114.700
+Audi A4;10 km;feb-20;110 kW (150 CV);Automático;Gasolina;5,7;ES;131;€ 40.800
+Audi Q8;10 km;mar-20;210 kW (286 CV);Automático;Diésel;6,6;ES;-/- ;€ 92.900
+Audi Q8;10 km;mar-20;210 kW (286 CV);Automático;Diésel;6,6;ES;-/- ;€ 94.990
+Audi Q3;10 km;ene-20;140 kW (190 CV);Automático;Gasolina;7,3;ES;-/- ;€ 44.800
+Audi A3;12 km;abr-20;110 kW (150 CV);Manual;Diésel;4,5;ES;-/- ;€ 28.390
+Audi A4;12 km;ene-20;120 kW (163 CV);Automático;Diésel;3,9;ES;-/- ;€ 36.400
+Audi A3;12 km;ene-20;110 kW (150 CV);Manual;Diésel;4,5;ES;-/- ;€ 28.390
+Audi A4;12 km;ene-20;120 kW (163 CV);Automático;Diésel;3,9;ES;101;€ 39.900
+Audi Q3;14 km;feb-20;110 kW (150 CV);Manual;Gasolina;6,1;ES;-/- ;€ 35.800
+Audi A1;14 km;feb-20;70 kW (95 CV);Manual;Gasolina;4,6;ES;107;€ 21.900
+Audi A1;15 km;jun-20;70 kW (95 CV);Manual;Gasolina;5,2;ES;-/- ;€ 23.890
+Audi A1;15 km;jun-20;70 kW (95 CV);Manual;Gasolina;5,2;ES;-/- ;€ 23.890
+Audi A4;15 km;feb-20;110 kW (150 CV);Manual;Gasolina;5,8;ES;-/- ;€ 33.500
+Audi A1;15 km;jul-20;70 kW (95 CV);Manual;Gasolina;5,2;ES;-/- ;€ 23.890
+Audi A1;15 km;jun-20;70 kW (95 CV);Manual;Gasolina;5,2;ES;-/- ;€ 23.890
+Audi Q3;15 km;ene-20;110 kW (150 CV);Manual;Gasolina;6 l/;ES;-/- ;€ 33.800
+Audi A3;15 km;ene-20;150 kW (204 CV);Automático;Electro/Gasolina;-/- ;ES;45 g;€ 34.000
+Audi Q3;16 km;ene-20;110 kW (150 CV);Manual;Gasolina;6,1;ES;132;€ 37.800
+Audi Q3;17 km;ene-20;110 kW (150 CV);Manual;Gasolina;6 l/;ES;130;€ 33.800
+Audi Q3;18 km;mar-20;110 kW (150 CV);Automático;Diésel;4,7;ES;-/- ;€ 36.500
+Audi Q3;18 km;mar-20;110 kW (150 CV);Automático;Diésel;4,7;ES;-/- ;€ 38.800
+Audi Q3;18 km;ene-20;110 kW (150 CV);Manual;Gasolina;6,1;ES;-/- ;€ 33.200
+Audi A3;19 km;ene-20;85 kW (116 CV);Manual;Diésel;4,4;ES;-/- ;€ 26.300
+Audi A3;19 km;ene-20;85 kW (116 CV);Manual;Diésel;4,4;ES;-/- ;€ 28.800
+Audi Q5;19 km;feb-20;120 kW (163 CV);Automático;Diésel;5,4;ES;-/- ;€ 44.900
+Audi Q5;19 km;ene-20;120 kW (163 CV);Automático;Diésel;4,4;ES;118;€ 42.800
+Audi A4;20 km;ene-20;120 kW (163 CV);Automático;Diésel;3,9;ES;98 g;€ 43.500
+Audi A1;20 km;feb-20;70 kW (95 CV);Manual;Gasolina;4,6;ES;-/- ;€ 19.100
+Audi Q3;20 km;feb-20;110 kW (150 CV);Manual;Gasolina;6,1;ES;-/- ;€ 33.500
+Audi SQ8;20 km;ene-20;320 kW (435 CV);Automático;Diésel;7,8;ES;204;€ 139.000
+Audi SQ8;20 km;ene-20;320 kW (435 CV);Automático;Diésel;7,8;ES;-/- ;€ 113.500
+Audi Q3;23 km;ene-20;110 kW (150 CV);Automático;Diésel;4,7;ES;-/- ;€ 38.800
+Audi Q3;24 km;ene-20;110 kW (150 CV);Manual;Gasolina;6,1;ES;132;€ 35.800
+Audi A3;24 km;ene-20;150 kW (204 CV);Automático;Electro/Gasolina;1,9;ES;-/- ;€ 36.102
+Audi A5;24 km;ene-20;140 kW (190 CV);Automático;Gasolina;5,8;ES;132;€ 55.000
+Audi Q3;25 km;ene-20;110 kW (150 CV);Manual;Gasolina;5,7;ES;-/- ;€ 32.890
+Audi Q3;27 km;ene-20;110 kW (150 CV);Automático;Diésel;4,7;ES;-/- ;€ 38.800
+Audi A4;29 km;feb-20;140 kW (190 CV);Automático;Gasolina;5,9;ES;-/- ;€ 37.000
+Audi SQ8;30 km;jun-20;320 kW (435 CV);Automático;Diésel;7,8;ES;-/- ;€ 109.000
+Audi A1;30 km;feb-20;85 kW (116 CV);Manual;Gasolina;4,9;ES;-/- ;€ 19.700
+Audi RS6;30 km;may-20;441 kW (600 CV);Automático;Gasolina;12,8;ES;279;€ 162.000
+Audi A3;30 km;ene-20;150 kW (204 CV);Automático;Electro/Gasolina;1,9;ES;-/- ;€ 32.950
+Audi Q3;30 km;ene-20;110 kW (150 CV);Manual;Gasolina;6,1;ES;132;€ 35.800
+Audi Q3;30 km;ene-20;110 kW (150 CV);Manual;Gasolina;6 l/;ES;130;€ 32.800
+Audi Q3;30 km;ene-20;110 kW (150 CV);Manual;Gasolina;6,1;ES;132;€ 35.800
+Audi Q3;30 km;ene-20;110 kW (150 CV);Automático;Diésel;4,7;ES;124;€ 41.500
+Audi SQ8;36 km;ene-20;320 kW (435 CV);Automático;Diésel;7,8;ES;-/- ;€ 112.900
+Audi Q3;40 km;ene-20;110 kW (150 CV);Manual;Gasolina;6,1;ES;-/- ;€ 35.300
+Audi A6;50 km;mar-20;210 kW (286 CV);Automático;Diésel;5,7;ES;-/- ;€ 75.000
+Audi Q3;50 km;feb-20;110 kW (150 CV);Manual;Gasolina;6,1;ES;-/- ;€ 33.500
+Audi A1;50 km;feb-20;70 kW (95 CV);Manual;Gasolina;4,6;ES;107;€ 22.500
+Audi A3;50 km;ene-20;150 kW (204 CV);Automático;Electro/Gasolina;1,9;ES;-/- ;€ 31.700
+Audi e-tron;65 km;ene-20;300 kW (408 CV);Automático;Eléctrico;-/- ;ES;0 g ;€ 88.900
+Audi RS6;80 km;ago-20;441 kW (600 CV);Automático;Gasolina;7,2;ES;-/- ;€ 169.900
+Audi RS6;80 km;ene-20;441 kW (600 CV);Automático;Gasolina;7,2;ES;-/- ;€ 169.900
+Audi A3;99 km;jul-20;110 kW (150 CV);Automático;Diésel;4,5;ES;-/- ;€ 30.400
+Audi e-tron;99 km;jul-20;300 kW (408 CV);Automático;Eléctrico;-/- ;ES;0 g ;€ 85.400
+Audi A5;100 km;ene-20;110 kW (150 CV);Automático;Gasolina;5,9;ES;-/- ;€ 35.700
+Audi Q3;100 km;ene-20;110 kW (150 CV);Manual;Gasolina;6,1;ES;-/- ;€ 31.900
+Audi SQ8;100 km;ene-20;320 kW (435 CV);Automático;Diésel;7,8;ES;-/- ;€ 132.900
+Audi Q3;100 km;ene-20;110 kW (150 CV);Manual;Gasolina;6,1;ES;-/- ;€ 31.900
+Audi A1;100 km;ene-20;85 kW (116 CV);Manual;Gasolina;5,2;ES;118;€ 21.900
+Audi A4;100 km;ene-20;120 kW (163 CV);Automático;Diésel;3,9;ES;101;€ 45.900
+Audi Q3;101 km;feb-20;110 kW (150 CV);Automático;Gasolina;5,8;ES;-/- ;€ 31.900
+Audi Q3;101 km;feb-20;110 kW (150 CV);Automático;Gasolina;5,8;ES;-/- ;€ 31.900
+Audi Q3;101 km;feb-20;110 kW (150 CV);Automático;Gasolina;5,8;ES;-/- ;€ 31.900
+Audi A4;112 km;feb-20;110 kW (150 CV);Automático;Gasolina;5,7;ES;-/- ;€ 36.200
+Audi Q8;150 km;ene-20;210 kW (286 CV);Automático;Diésel;6,6;ES;-/- ;€ 86.890
+Audi Q5;150 km;feb-20;140 kW (190 CV);Automático;Diésel;5,5;ES;-/- ;€ 46.900
+Audi A1;150 km;feb-20;85 kW (116 CV);Automático;Gasolina;4,8;ES;-/- ;€ 22.000
+Audi A1;150 km;feb-20;70 kW (95 CV);Manual;Gasolina;4,6;ES;-/- ;€ 20.500
+Audi A3;150 km;feb-20;110 kW (150 CV);Automático;Diésel;4,5;ES;-/- ;€ 29.400
+Audi A4;150 km;feb-20;110 kW (150 CV);Automático;Gasolina;5,7;ES;-/- ;€ 41.500
+Audi Q3;150 km;ene-20;110 kW (150 CV);Manual;Gasolina;6 l/;ES;-/- ;€ 31.400
+Audi A1;150 km;feb-20;85 kW (116 CV);Manual;Gasolina;5,2;ES;-/- ;€ 23.400
+Audi A1;150 km;ene-20;70 kW (95 CV);Manual;Gasolina;4,6;ES;-/- ;€ 20.000
+Audi A4;150 km;feb-20;110 kW (150 CV);Manual;Gasolina;5,7;ES;-/- ;€ 37.700
+Audi A1;150 km;ene-20;85 kW (116 CV);Automático;Gasolina;4,8;ES;-/- ;€ 22.000
+Audi Q3;150 km;ene-20;110 kW (150 CV);Manual;Gasolina;6,1;ES;-/- ;€ 34.000
+Audi RS6;150 km;mar-20;441 kW (600 CV);Automático;Gasolina;7,2;Unknown;263;€ 155.900
+Audi A4;189 km;ene-20;140 kW (190 CV);Automático;Gasolina;5,9;ES;-/- ;€ 36.600
+Audi RS Q3;200 km;mar-20;294 kW (400 CV);Automático;Gasolina;8,8;ES;-/- ;€ 77.900
+Audi RS Q3;200 km;feb-20;294 kW (400 CV);Automático;Gasolina;8,8;ES;-/- ;€ 88.990
+Audi A4;250 km;feb-20;140 kW (190 CV);Automático;Gasolina;5,9;ES;137;€ 32.900
+Audi A3;300 km;jun-20;110 kW (150 CV);Automático;Gasolina;4,9;ES;115;€ 34.900
+Audi RS6;400 km;abr-20;441 kW (600 CV);Automático;Gasolina;7,2;ES;-/- ;€ 174.900
+Audi A3;400 km;jun-20;110 kW (150 CV);Automático;Diésel;3,8;ES;102;€ 38.000
+Audi RS3;470 km;ene-20;294 kW (400 CV);Automático;Gasolina;8,5;ES;-/- ;€ 63.000
+Audi A4;500 km;ene-20;140 kW (190 CV);Automático;Gasolina;5,9;ES;-/- ;€ 35.900
+Audi A3;500 km;ene-20;150 kW (204 CV);Automático;Electro/Gasolina;1,9;ES;46 g;€ 33.500
+Audi e-tron;500 km;ene-20;300 kW (408 CV);Automático;Eléctrico;-/- ;ES;0 g ;€ 93.000
+Audi e-tron;500 km;ene-20;300 kW (408 CV);Automático;Eléctrico;-/- ;ES;0 g ;€ 96.000
+Audi A6;500 km;feb-20;120 kW (163 CV);Automático;Diésel;4,1;ES;-/- ;€ 43.900
+Audi Q3;500 km;ene-20;110 kW (150 CV);Manual;Gasolina;6,1;ES;-/- ;€ 33.000
+Audi RS7;500 km;ene-20;441 kW (600 CV);Automático;Gasolina;11,4;ES;-/- ;€ 154.900
+Audi RS6;500 km;ene-20;441 kW (600 CV);Automático;Gasolina;7,2;Unknown;263;€ 135.000
+Audi A3;589 km;ene-20;150 kW (204 CV);Automático;Electro/Gasolina;1,9;ES;-/- ;€ 29.400
+Audi A3;589 km;ene-20;150 kW (204 CV);Automático;Electro/Gasolina;1,9;ES;46 g;€ 32.900
+Audi SQ7;600 km;ene-20;320 kW (435 CV);Automático;Diésel;7,4;ES;-/- ;€ 117.000
+Audi RS6;900 km;may-20;441 kW (600 CV);Automático;Gasolina;7,2;ES;-/- ;€ 144.900
+Audi TT;900 km;mar-20;145 kW (197 CV);Automático;Gasolina;5,9;ES;-/- ;€ 55.900
+Audi SQ8;1.000 km;abr-20;320 kW (435 CV);Automático;Diésel;7,8;ES;-/- ;€ 135.900
+Audi RS Q8;1.000 km;ene-20;441 kW (600 CV);Automático;Gasolina;12,1;ES;-/- ;€ 176.900
+Audi A3;1.000 km;ene-20;150 kW (204 CV);Automático;Electro/Gasolina;1,9;ES;-/- ;€ 31.100
+Audi RS6;1.003 km;jul-20;441 kW (600 CV);Automático;Gasolina;7,2;ES;-/- ;€ 235.900
+Audi SQ7;1.200 km;ene-20;320 kW (435 CV);Automático;Diésel;7,4;ES;-/- ;€ 116.900
+Audi e-tron;1.200 km;ene-20;300 kW (408 CV);Automático;Eléctrico;-/- ;ES;0 g ;€ 94.900
+Audi RS6;1.200 km;mar-20;441 kW (600 CV);Automático;Gasolina;7,2;Unknown;263;€ 140.250
+Audi A4;1.500 km;ene-20;100 kW (136 CV);Automático;Diésel;4 l/;ES;-/- ;€ 29.000
+Audi RS Q3;1.500 km;ene-20;295 kW (401 CV);Automático;Gasolina;8,8;ES;-/- ;€ 75.550
+Audi A3;1.600 km;ene-20;150 kW (204 CV);Automático;Electro/Gasolina;1,6;ES;38 g;€ 35.500
+Audi e-tron;1.680 km;ene-20;300 kW (408 CV);Automático;Eléctrico;-/- ;ES;0 g ;€ 86.890
+Audi TT;1.700 km;mar-20;145 kW (197 CV);Automático;Gasolina;5,9;Unknown;138;€ 44.000
+Audi RS6;1.750 km;mar-20;441 kW (600 CV);Automático;Gasolina;-/- ;ES;-/- ;€ 159.900
+Audi Q3;1.800 km;may-20;110 kW (150 CV);Automático;Diésel;5,2;ES;-/- ;€ 42.990
+Audi A3;2.000 km;ene-20;150 kW (204 CV);Automático;Electro/Gasolina;1,9;ES;-/- ;€ 28.900
+Audi A1;2.000 km;ene-20;85 kW (116 CV);Manual;Gasolina;4,9;ES;-/- ;€ 20.000
+Audi RS Q3;2.000 km;jun-20;295 kW (401 CV);Automático;Gasolina;8,8;ES;-/- ;€ 76.500
+Audi A3;2.000 km;feb-20;150 kW (204 CV);Automático;Electro/Gasolina;1,9;ES;-/- ;€ 31.900
+Audi RS7;2.000 km;mar-20;441 kW (600 CV);Automático;Gasolina;11,4;ES;-/- ;€ 149.400
+Audi A3;2.000 km;feb-20;150 kW (204 CV);Automático;Electro/Gasolina;1,9;ES;-/- ;€ 31.900
+Audi A3;2.000 km;feb-20;150 kW (204 CV);Automático;Electro/Gasolina;1,9;ES;46 g;€ 33.600
+Audi RS6;2.000 km;feb-20;441 kW (600 CV);Automático;Gasolina;7,2;ES;-/- ;€ 147.500
+Audi R8;2.300 km;ene-20;456 kW (620 CV);Automático;Gasolina;13,3;ES;-/- ;€ 199.900
+Audi A1;2.500 km;ene-20;85 kW (116 CV);Manual;Gasolina;4,9;ES;-/- ;€ 20.500
+Audi A1;2.500 km;ene-20;85 kW (116 CV);Manual;Gasolina;4,8;ES;-/- ;€ 19.400
+Audi RS6;2.500 km;ene-20;441 kW (600 CV);Automático;Gasolina;7,2;ES;-/- ;€ 142.000
+Audi A1;2.500 km;ene-20;70 kW (95 CV);Manual;Gasolina;4,6;ES;-/- ;€ 20.000
+Audi RS5;2.500 km;mar-20;331 kW (450 CV);Automático;Gasolina;9,1;ES;-/- ;€ 94.500
+Audi RS7;2.500 km;ene-20;441 kW (600 CV);Automático;Gasolina;11,4;ES;-/- ;€ 153.500
+Audi A3;2.580 km;ene-20;110 kW (150 CV);Automático;Diésel;4,5;ES;-/- ;€ 27.400
+Audi RS Q8;2.600 km;ene-20;441 kW (600 CV);Automático;Gasolina;12,1;ES;-/- ;€ 172.000
+Audi A4;3.000 km;ene-20;120 kW (163 CV);Automático;Diésel;3,9;ES;-/- ;€ 38.300
+Audi A3;3.000 km;ene-20;150 kW (204 CV);Automático;Electro/Gasolina;1,9;ES;-/- ;€ 28.800
+Audi A4;3.000 km;ene-20;100 kW (136 CV);Automático;Diésel;4 l/;ES;-/- ;€ 28.300
+Audi A7;3.000 km;ene-20;270 kW (367 CV);Automático;Electro/Gasolina;1,9;ES;-/- ;€ 67.000
+Audi Q5;3.000 km;ene-20;270 kW (367 CV);Automático;Electro/Gasolina;2,1;ES;49 g;€ 57.900
+Audi Q5;3.000 km;feb-20;140 kW (190 CV);Automático;Diésel;5,5;ES;-/- ;€ 44.500
+Audi e-tron;3.000 km;ene-20;300 kW (408 CV);Automático;Eléctrico;-/- ;ES;0 g ;€ 76.500
+Audi A6;3.000 km;feb-20;150 kW (204 CV);Automático;Diésel;4,7;ES;-/- ;€ 47.800
+Audi A6;3.000 km;feb-20;150 kW (204 CV);Automático;Diésel;4,7;ES;-/- ;€ 43.900
+Audi A3;3.000 km;feb-20;110 kW (150 CV);Automático;Diésel;4,4;ES;-/- ;€ 27.200
+Audi Q8;3.000 km;may-20;250 kW (340 CV);Automático;Gasolina;8,9;ES;-/- ;€ 103.300
+Audi RS6;3.000 km;jun-20;441 kW (600 CV);Automático;Gasolina;7,2;ES;-/- ;€ 161.900
+Audi A4;3.000 km;ene-20;120 kW (163 CV);Automático;Diésel;3,9;ES;-/- ;€ 36.700
+Audi Q3;3.000 km;feb-20;110 kW (150 CV);Automático;Diésel;4,7;ES;-/- ;€ 39.300
+Audi A1;3.000 km;ene-20;70 kW (95 CV);Manual;Gasolina;4,6;ES;-/- ;€ 20.000
+Audi A1;3.500 km;ene-20;70 kW (95 CV);Manual;Gasolina;4,6;ES;-/- ;€ 19.300
+Audi A6;3.900 km;jul-20;150 kW (204 CV);Automático;Diésel;4,5;ES;-/- ;€ 49.000
+Audi RS5;4.000 km;ene-20;331 kW (450 CV);Automático;Gasolina;9,1;ES;-/- ;€ 79.990
+Audi A3;4.000 km;ene-20;110 kW (150 CV);Automático;Diésel;4,5;ES;-/- ;€ 27.400
+Audi A4;4.300 km;ene-20;120 kW (163 CV);Automático;Diésel;3,9;ES;-/- ;€ 35.300
+Audi Q5;4.500 km;ene-20;270 kW (367 CV);Automático;Electro/Gasolina;2,1;ES;-/- ;€ 51.500
+Audi Q3;4.500 km;ene-20;110 kW (150 CV);Automático;Diésel;5,1;ES;-/- ;€ 43.250
+Audi Q7;4.500 km;feb-20;210 kW (286 CV);Automático;Diésel;6,6;ES;176;€ 94.900
+Audi Q2;5.000 km;feb-20;110 kW (150 CV);Automático;Diésel;4,4;ES;-/- ;€ 28.100
+Audi A6;5.000 km;feb-20;210 kW (286 CV);Automático;Diésel;5,8;ES;-/- ;€ 73.000
+Audi A6;5.000 km;feb-20;120 kW (163 CV);Automático;Diésel;4,1;ES;107;€ 44.900
+Audi A3;5.000 km;ene-20;150 kW (204 CV);Automático;Electro/Gasolina;1,9;ES;46 g;€ 33.900
+Audi S8;5.500 km;ene-20;420 kW (571 CV);Automático;Gasolina;11,3;ES;-/- ;€ 139.500
+Audi S8;5.500 km;ene-20;420 kW (571 CV);Automático;Gasolina;11,3;ES;-/- ;€ 145.600
+Audi e-tron;6.000 km;ene-20;300 kW (408 CV);Automático;Eléctrico;-/- ;ES;0 g ;€ 85.400
+Audi A4;6.000 km;ene-20;120 kW (163 CV);Automático;Diésel;3,9;ES;-/- ;€ 44.790
+Audi RS6;6.000 km;feb-20;441 kW (600 CV);Automático;Gasolina;7,2;ES;263;€ 155.900
+Audi A6;6.300 km;ene-20;210 kW (286 CV);Automático;Diésel;5,7;ES;-/- ;€ 65.000
+Audi A5;6.500 km;ene-20;110 kW (150 CV);Automático;Diésel;4,5;ES;-/- ;€ 38.500
+Audi SQ8;6.500 km;ene-20;320 kW (435 CV);Automático;Diésel;7,8;ES;-/- ;€ 113.900
+Audi RS3;6.900 km;feb-20;294 kW (400 CV);Automático;Gasolina;8,5;Unknown;194;€ 59.800
+Audi A3;7.500 km;ene-20;110 kW (150 CV);Automático;Diésel;4,4;ES;117;€ 32.900
+Audi A1;7.500 km;ene-20;85 kW (116 CV);Manual;Gasolina;5,2;ES;118;€ 26.900
+Audi e-tron;8.000 km;ene-20;300 kW (408 CV);Automático;Eléctrico;-/- ;ES;0 g ;€ 85.900
+Audi A3;8.500 km;feb-20;110 kW (150 CV);Automático;Diésel;4,5;ES;-/- ;€ 27.500
+Audi S8;8.800 km;ene-20;420 kW (571 CV);Automático;Gasolina;11,3;ES;-/- ;€ 154.900
+Audi RS6;9.280 km;ene-20;441 kW (600 CV);Automático;Gasolina;7,2;ES;-/- ;€ 153.900
+Audi Q5;9.405 km;ene-20;140 kW (190 CV);Automático;Diésel;5,6;ES;146;€ 49.900
+Audi A1;9.999 km;ene-20;70 kW (95 CV);Manual;Gasolina;4,6;ES;-/- ;€ 18.100
+Audi A3;9.999 km;ene-20;110 kW (150 CV);Automático;Diésel;4,5;ES;-/- ;€ 25.500
+Audi A4;9.999 km;ene-20;120 kW (163 CV);Automático;Diésel;3,9;ES;-/- ;€ 34.900
+Audi A3;9.999 km;ene-20;150 kW (204 CV);Automático;Electro/Gasolina;1,9;ES;-/- ;€ 31.400
+Audi A1;9.999 km;ene-20;70 kW (95 CV);Manual;Gasolina;4,6;ES;-/- ;€ 18.100
+Audi A4;9.999 km;ene-20;120 kW (163 CV);Automático;Diésel;3,9;ES;-/- ;€ 39.300
+Audi A4;10.000 km;ene-20;110 kW (150 CV);Automático;Gasolina;5,7;ES;-/- ;€ 39.900
+Audi A3;10.000 km;feb-20;150 kW (204 CV);Automático;Electro/Gasolina;1,9;ES;-/- ;€ 33.000
+Audi A3;10.000 km;feb-20;150 kW (204 CV);Automático;Electro/Gasolina;1,9;ES;-/- ;€ 32.900
+Audi A1;10.000 km;feb-20;70 kW (95 CV);Manual;Gasolina;4,6;ES;-/- ;€ 21.300
+Audi Q3;12.500 km;ene-20;110 kW (150 CV);Automático;Diésel;4,7;ES;124;€ 39.900
+Audi A4;12.600 km;ene-20;120 kW (163 CV);Automático;Diésel;3,9;ES;-/- ;€ 33.900
+Audi S4;15.000 km;ene-20;255 kW (347 CV);Automático;Diésel;6,3;Unknown;165;€ 66.000
+Audi A3;15.000 km;ene-20;150 kW (204 CV);Automático;Electro/Gasolina;1,9;ES;-/- ;€ 30.400
+Audi A4;15.051 km;ene-20;110 kW (150 CV);Automático;Gasolina;5,5;ES;-/- ;€ 34.900
+Audi A4;15.500 km;ene-20;100 kW (136 CV);Automático;Diésel;4 l/;ES;104;€ 37.900
+Audi Q3;15.900 km;ene-20;110 kW (150 CV);Manual;Gasolina;6,1;ES;-/- ;€ 31.300
+Audi Q3;15.900 km;ene-20;110 kW (150 CV);Manual;Gasolina;6,1;ES;-/- ;€ 32.200
+Audi A3;15.900 km;ene-20;150 kW (204 CV);Automático;Electro/Gasolina;1,9;ES;-/- ;€ 31.500
+Audi A3;15.900 km;ene-20;110 kW (150 CV);Manual;Gasolina;5,3;ES;-/- ;€ 24.800
+Audi Q2;18.000 km;abr-20;110 kW (150 CV);Automático;Gasolina;5,5;ES;-/- ;€ 27.900

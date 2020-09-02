@@ -1,0 +1,401 @@
+vehicle;  km; year; power; transmision; fuel_type; consume; country;emisions;price 
+BMW X5;75.000 km;mar-17;230 kW (313 CV);Automático;Diésel;6 l/;ES;157;€ 52.900
+BMW X1;104.827 km;mar-17;110 kW (150 CV);Automático;Diésel;4,1;ES;109;€ 22.500
+BMW 318;159.531 km;mar-17;110 kW (150 CV);Automático;Diésel;4 l/;ES;106;€ 18.900
+BMW 318;132.431 km;mar-17;110 kW (150 CV);Automático;Diésel;4 l/;ES;106;€ 18.900
+BMW X6;98.500 km;sep-17;190 kW (258 CV);Automático;Diésel;6 l/;ES;157;€ 47.300
+BMW X1;55.500 km;oct-17;110 kW (150 CV);Automático;Diésel;4,3;ES;114;€ 24.900
+BMW 418;62.000 km;jun-17;110 kW (150 CV);Automático;Diésel;4,2;ES;110;€ 29.800
+BMW X1;39.609 km;may-17;110 kW (150 CV);Automático;Diésel;4,1;ES;109;€ 25.900
+BMW X6;37.000 km;sep-17;190 kW (258 CV);Automático;Diésel;6 l/;ES;157;€ 52.900
+BMW 216;105.128 km;mar-17;85 kW (116 CV);Manual;Diésel;3,8;ES;99 g;€ 15.500
+BMW X1;110.617 km;feb-17;85 kW (116 CV);Manual;Diésel;3,9;ES;104;€ 19.900
+BMW 118;53.000 km;feb-17;110 kW (150 CV);Manual;Diésel;4 l/;ES;104;€ 18.700
+BMW 118;47.000 km;abr-17;110 kW (150 CV);Manual;Diésel;4,4;ES;-/- ;€ 20.500
+BMW X1;74.000 km;nov-17;110 kW (150 CV);Automático;Diésel;4,3;Unknown;114;€ 22.600
+BMW 435;123.700 km;ago-17;230 kW (313 CV);Automático;Diésel;5,4;ES;-/- ;€ 32.490
+BMW X1;112.310 km;dic-17;140 kW (190 CV);Automático;Diésel;4,8;ES;-/- ;€ 29.900
+BMW 520;561.839 km;ago-17;140 kW (190 CV);Automático;Diésel;4,3;ES;-/- ;€ 28.250
+BMW 116;27.988 km;may-17;85 kW (116 CV);Manual;Diésel;4,2;ES;-/- ;€ 17.900
+BMW 218;62.864 km;feb-17;110 kW (150 CV);Automático;Diésel;4 l/;ES;-/- ;€ 26.600
+BMW 420;22.567 km;jun-17;140 kW (190 CV);Automático;Diésel;4,4;ES;-/- ;€ 42.500
+BMW 116;36.049 km;jun-17;85 kW (116 CV);Manual;Diésel;4,2;ES;-/- ;€ 17.400
+BMW X5;31.500 km;jun-17;190 kW (258 CV);Automático;Diésel;5,9;ES;-/- ;€ 42.900
+BMW 318;123.444 km;jun-17;110 kW (150 CV);Manual;Diésel;4 l/;ES;-/- ;€ 17.000
+BMW 320;24.798 km;jun-17;140 kW (190 CV);Automático;Diésel;4,3;ES;-/- ;€ 31.500
+BMW 730;16.200 km;jun-17;195 kW (265 CV);Automático;Diésel;5,3;ES;-/- ;€ 52.700
+BMW 520;80.000 km;ene-17;135 kW (184 CV);Automático;Diésel;5,6;ES;-/- ;€ 26.500
+BMW X1;38.844 km;jun-17;110 kW (150 CV);Automático;Diésel;4,6;ES;-/- ;€ 25.000
+BMW 116;93.914 km;may-17;85 kW (116 CV);Manual;Diésel;3,7;ES;97 g;€ 17.500
+BMW X1;109.422 km;ago-17;110 kW (150 CV);Automático;Diésel;4,3;ES;114;€ 22.900
+BMW 216;41.650 km;jul-17;85 kW (116 CV);Manual;Diésel;3,8;ES;99 g;€ 18.900
+BMW X1;64.000 km;oct-17;110 kW (150 CV);Automático;Diésel;4,3;ES;114;€ 25.900
+BMW 118;45.200 km;jun-17;110 kW (150 CV);Automático;Diésel;4 l/;ES;104;€ 18.900
+BMW X1;36.374 km;jul-17;110 kW (150 CV);Automático;Diésel;4,3;ES;-/- ;€ 26.900
+BMW 318;27.649 km;ago-17;110 kW (150 CV);Automático;Diésel;4 l/;ES;-/- ;€ 25.900
+BMW 640;108.486 km;jun-17;230 kW (313 CV);Automático;Diésel;5,5;ES;-/- ;€ 40.000
+BMW 640;108.486 km;jun-17;230 kW (313 CV);Automático;Diésel;5,5;ES;-/- ;€ 40.000
+BMW 420;89.186 km;ene-17;140 kW (190 CV);Automático;Diésel;4,2;ES;-/- ;€ 23.454
+BMW 218;21.196 km;sep-17;110 kW (150 CV);Automático;Diésel;4,5;ES;-/- ;€ 20.181
+BMW 420;89.186 km;ene-17;140 kW (190 CV);Automático;Diésel;4,2;ES;-/- ;€ 23.454
+BMW 420;73.000 km;ago-17;140 kW (190 CV);Automático;Diésel;4,4;Unknown;117;€ 30.000
+BMW 420;89.186 km;ene-17;140 kW (190 CV);Automático;Diésel;4,2;ES;-/- ;€ 23.454
+BMW 420;89.186 km;ene-17;140 kW (190 CV);Automático;Diésel;4,2;ES;-/- ;€ 23.454
+BMW 640;108.486 km;jun-17;230 kW (313 CV);Automático;Diésel;5,5;ES;-/- ;€ 40.000
+BMW 218;21.196 km;sep-17;110 kW (150 CV);Automático;Diésel;4,5;ES;-/- ;€ 20.181
+BMW 216;102.477 km;ene-17;85 kW (116 CV);Manual;Diésel;4 l/;ES;-/- ;€ 12.700
+BMW X5;28.916 km;ago-17;190 kW (258 CV);Automático;Diésel;5,9;ES;-/- ;€ 48.900
+BMW X3;29.000 km;jun-17;110 kW (150 CV);Automático;Diésel;5 l/;ES;-/- ;€ 26.500
+BMW X1;49.961 km;jun-17;110 kW (150 CV);Automático;Diésel;4,1;ES;109;€ 22.400
+BMW 116;89.286 km;ene-17;85 kW (116 CV);Manual;Diésel;-/- ;ES;-/- ;€ 16.000
+BMW X1;98.500 km;ene-17;110 kW (150 CV);Automático;Diésel;4,3;Unknown;114;€ 23.995
+BMW 218;21.196 km;sep-17;110 kW (150 CV);Automático;Diésel;4,5;ES;-/- ;€ 20.181
+BMW 640;108.486 km;jun-17;230 kW (313 CV);Automático;Diésel;5,5;ES;-/- ;€ 40.000
+BMW 420;89.186 km;ene-17;140 kW (190 CV);Automático;Diésel;4,2;ES;-/- ;€ 23.454
+BMW X1;59.700 km;mar-17;85 kW (116 CV);Manual;Diésel;4,9;ES;-/- ;€ 19.900
+BMW 216;109.200 km;may-17;85 kW (116 CV);Manual;Diésel;3,9;ES;-/- ;€ 14.350
+BMW 218;57.946 km;abr-17;110 kW (150 CV);Automático;Diésel;4,3;ES;-/- ;€ 19.999
+BMW X1;59.700 km;mar-17;85 kW (116 CV);Manual;Diésel;4,9;ES;-/- ;€ 19.900
+BMW 216;109.200 km;may-17;85 kW (116 CV);Manual;Diésel;3,9;ES;-/- ;€ 14.350
+BMW 218;21.196 km;sep-17;110 kW (150 CV);Automático;Diésel;4,5;ES;-/- ;€ 20.181
+BMW 420;25.425 km;feb-17;140 kW (190 CV);Automático;Diésel;-/- ;ES;-/- ;€ 29.900
+BMW 320;70.680 km;feb-17;140 kW (190 CV);Automático;Diésel;4 l/;ES;-/- ;€ 25.900
+BMW 216;146.500 km;mar-17;85 kW (116 CV);Automático;Diésel;4 l/;ES;-/- ;€ 13.900
+BMW 420;25.425 km;feb-17;140 kW (190 CV);Automático;Diésel;-/- ;ES;-/- ;€ 29.900
+BMW 318;191.000 km;may-17;110 kW (150 CV);Automático;Diésel;4 l/;ES;-/- ;€ 13.000
+BMW 420;25.425 km;feb-17;140 kW (190 CV);Automático;Diésel;-/- ;ES;-/- ;€ 29.900
+BMW 116;58.166 km;ene-17;85 kW (116 CV);Manual;Diésel;3,7;ES;-/- ;€ 14.500
+BMW 420;25.425 km;feb-17;140 kW (190 CV);Automático;Diésel;-/- ;ES;-/- ;€ 29.900
+BMW 116;106.000 km;ene-17;85 kW (116 CV);Manual;Diésel;4,1;ES;-/- ;€ 12.050
+BMW 318;83.066 km;jul-17;110 kW (150 CV);Manual;Diésel;4,5;ES;-/- ;€ 20.890
+BMW 118;72.407 km;sep-17;110 kW (150 CV);Manual;Diésel;4,4;ES;-/- ;€ 18.690
+BMW 320;99.735 km;ene-17;140 kW (190 CV);Manual;Diésel;4 l/;ES;-/- ;€ 23.890
+BMW 120;109.871 km;abr-17;140 kW (190 CV);Automático;Diésel;3,9;ES;-/- ;€ 16.700
+BMW 730;33.536 km;jun-17;195 kW (265 CV);Automático;Diésel;5,3;ES;-/- ;€ 58.700
+BMW 320;54.651 km;jun-17;140 kW (190 CV);Manual;Diésel;4,6;ES;-/- ;€ 23.700
+BMW 318;32.137 km;abr-17;110 kW (150 CV);Manual;Diésel;4,5;ES;-/- ;€ 19.600
+BMW X3;16.185 km;feb-17;140 kW (190 CV);Manual;Diésel;-/- ;ES;-/- ;€ 28.000
+BMW X1;43.251 km;ago-17;110 kW (150 CV);Manual;Diésel;4,6;ES;-/- ;€ 24.600
+BMW 218;36.467 km;jul-17;110 kW (150 CV);Automático;Diésel;4,1;ES;-/- ;€ 26.000
+BMW X1;49.861 km;ago-17;110 kW (150 CV);Manual;Diésel;4,6;ES;-/- ;€ 23.600
+BMW X1;61.177 km;ago-17;110 kW (150 CV);Automático;Diésel;4,3;ES;-/- ;€ 25.600
+BMW 420;60.723 km;abr-17;140 kW (190 CV);Automático;Diésel;4,7;ES;-/- ;€ 29.000
+BMW X1;45.491 km;mar-17;110 kW (150 CV);Automático;Diésel;4,6;ES;-/- ;€ 23.600
+BMW 420;48.973 km;jul-17;140 kW (190 CV);Automático;Diésel;4,7;ES;-/- ;€ 29.000
+BMW X1;44.114 km;jun-17;110 kW (150 CV);Manual;Diésel;4,6;ES;-/- ;€ 23.600
+BMW X1;32.620 km;nov-17;110 kW (150 CV);Automático;Diésel;4,3;ES;-/- ;€ 23.700
+BMW 118;32.000 km;sep-17;110 kW (150 CV);Manual;Diésel;3,8;Unknown;99 g;€ 19.500
+BMW 218;119.000 km;mar-17;110 kW (150 CV);Manual;Diésel;4,5;Unknown;117;€ 16.500
+BMW X1;82.000 km;dic-17;110 kW (150 CV);Automático;Diésel;4,3;Unknown;109;€ 23.950
+BMW 420;25.425 km;feb-17;140 kW (190 CV);Automático;Diésel;-/- ;ES;-/- ;€ 29.900
+BMW 420;66.670 km;feb-17;140 kW (190 CV);Automático;Diésel;4 l/;ES;-/- ;€ 31.999
+BMW 640;5.068 km;ene-17;230 kW (313 CV);Automático;Diésel;5,7;ES;-/- ;€ 61.000
+BMW 320;26.590 km;nov-17;140 kW (190 CV);Automático;Diésel;4,3;ES;-/- ;€ 33.400
+BMW 420;36.000 km;oct-17;140 kW (190 CV);Automático;Diésel;4 l/;ES;-/- ;€ 36.700
+BMW 420;25.425 km;feb-17;140 kW (190 CV);Automático;Diésel;-/- ;ES;-/- ;€ 29.900
+BMW 118;34.000 km;feb-17;110 kW (150 CV);Automático;Diésel;4,4;ES;-/- ;€ 19.000
+BMW 420;80.000 km;mar-17;140 kW (190 CV);Automático;Diésel;4,5;ES;-/- ;€ 28.900
+BMW 420;25.425 km;feb-17;140 kW (190 CV);Automático;Diésel;-/- ;ES;-/- ;€ 29.900
+BMW 520;31.000 km;mar-17;140 kW (190 CV);Automático;Diésel;4,5;Unknown;119;€ 35.500
+BMW 730;91.363 km;ago-17;195 kW (265 CV);Automático;Diésel;5,3;ES;-/- ;€ 39.900
+BMW 116;52.157 km;jun-17;85 kW (116 CV);Manual;Diésel;3,7;ES;-/- ;€ 16.000
+BMW X1;95.000 km;oct-17;110 kW (150 CV);Automático;Diésel;4,6;ES;-/- ;€ 18.490
+BMW X6;49.647 km;feb-17;230 kW (313 CV);Automático;Diésel;7 l/;ES;-/- ;€ 49.000
+BMW 116;65.993 km;jun-17;85 kW (116 CV);Manual;Diésel;4,1;ES;-/- ;€ 15.000
+BMW X5;24.827 km;jul-17;190 kW (258 CV);Automático;Diésel;5,9;ES;-/- ;€ 45.000
+BMW 216;37.784 km;jul-17;85 kW (116 CV);Manual;Diésel;4 l/;ES;-/- ;€ 17.050
+BMW 318;212.000 km;ene-17;110 kW (150 CV);Manual;Diésel;4,5;ES;-/- ;€ 13.499
+BMW 420;30.804 km;ago-17;140 kW (190 CV);Manual;Diésel;4,2;ES;111;€ 30.900
+BMW 118;51.000 km;ago-17;110 kW (150 CV);Automático;Diésel;3,8;Unknown;99 g;€ 18.000
+BMW 218;99.241 km;may-17;110 kW (150 CV);Manual;Diésel;-/- ;ES;-/- ;€ 17.900
+BMW X4;47.500 km;ago-17;140 kW (190 CV);Automático;Diésel;5,2;ES;-/- ;€ 31.500
+BMW 318;95.356 km;may-17;110 kW (150 CV);Manual;Diésel;4,5;ES;-/- ;€ 18.900
+BMW 218;96.151 km;may-17;110 kW (150 CV);Manual;Diésel;4,3;ES;-/- ;€ 14.900
+BMW 320;51.400 km;ago-17;120 kW (163 CV);Manual;Diésel;4,3;ES;-/- ;€ 18.900
+BMW 116;97.000 km;ago-17;85 kW (116 CV);Manual;Diésel;3,7;Unknown;89 g;€ 9.000,00
+BMW 116;34.400 km;dic-17;85 kW (116 CV);Manual;Diésel;3,7;ES;-/- ;€ 17.970
+BMW 116;24.400 km;dic-17;85 kW (116 CV);Manual;Diésel;3,7;ES;-/- ;€ 17.970
+BMW X1;140.900 km;nov-17;110 kW (150 CV);Manual;Diésel;4,6;ES;-/- ;€ 19.990
+BMW X5;67.999 km;feb-17;170 kW (231 CV);Automático;Diésel;5,3;ES;-/- ;€ 34.900
+BMW X5;67.999 km;feb-17;170 kW (231 CV);Automático;Diésel;5,3;ES;-/- ;€ 34.900
+BMW 116;100.501 km;mar-17;85 kW (116 CV);Manual;Diésel;-/- ;ES;-/- ;€ 12.900
+BMW 318;31.590 km;abr-17;110 kW (150 CV);Manual;Diésel;4,5;ES;-/- ;€ 16.990
+BMW 116;74.547 km;may-17;85 kW (116 CV);Manual;Diésel;4,1;ES;-/- ;€ 15.990
+BMW X1;140.000 km;jun-17;110 kW (150 CV);Manual;Diésel;4,6;ES;-/- ;€ 18.500
+BMW 318;170.000 km;ene-17;110 kW (150 CV);Manual;Diésel;4 l/;ES;-/- ;€ 14.990
+BMW 118;18.000 km;nov-17;110 kW (150 CV);Automático;Diésel;4,4;ES;-/- ;€ 19.500
+BMW X1;50.281 km;ene-17;110 kW (150 CV);Automático;Diésel;4,3;ES;-/- ;€ 24.900
+BMW 218;10.000 km;jun-17;110 kW (150 CV);Automático;Diésel;4,5;ES;-/- ;€ 29.750
+BMW 218;39.739 km;abr-17;110 kW (150 CV);Manual;Diésel;4,3;ES;-/- ;€ 23.800
+BMW X1;60.000 km;ago-17;110 kW (150 CV);Automático;Diésel;4,8;ES;-/- ;€ 26.800
+BMW X1;63.076 km;jul-17;110 kW (150 CV);Automático;Diésel;4,6;ES;-/- ;€ 24.100
+BMW 318;148.086 km;feb-17;110 kW (150 CV);Automático;Diésel;4 l/;ES;-/- ;€ 14.999
+BMW X4;130.590 km;sep-17;140 kW (190 CV);Automático;Diésel;5,2;ES;-/- ;€ 26.100
+BMW X6;38.750 km;may-17;190 kW (258 CV);Automático;Diésel;7 l/;ES;-/- ;€ 56.990
+BMW X1;65.898 km;jun-17;110 kW (150 CV);Manual;Diésel;4,6;ES;-/- ;€ 20.100
+BMW 520;22.150 km;nov-17;140 kW (190 CV);Automático;Diésel;4,3;ES;-/- ;€ 34.900
+BMW X1;97.000 km;jun-17;140 kW (190 CV);Automático;Diésel;4,6;ES;-/- ;€ 23.490
+BMW 116;63.204 km;ago-17;85 kW (116 CV);Manual;Diésel;4,2;ES;-/- ;€ 16.000
+BMW 118;125.000 km;may-17;110 kW (150 CV);Manual;Diésel;4,4;ES;-/- ;€ 15.500
+BMW X1;53.565 km;ene-17;110 kW (150 CV);Automático;Diésel;4,6;ES;-/- ;€ 25.000
+BMW X1;67.000 km;mar-17;110 kW (150 CV);Manual;Diésel;4,6;ES;120;€ 21.900
+BMW 420;41.300 km;dic-17;140 kW (190 CV);Automático;Diésel;4,2;ES;-/- ;€ 27.400
+BMW 530;118.700 km;abr-17;195 kW (265 CV);Automático;Diésel;5,3;ES;-/- ;€ 34.900
+BMW 116;78.300 km;feb-17;85 kW (116 CV);Manual;Diésel;4,1;ES;-/- ;€ 16.900
+BMW X1;31.436 km;mar-17;110 kW (150 CV);Automático;Diésel;-/- ;ES;-/- ;€ 22.900
+BMW X3;74.391 km;ene-17;110 kW (150 CV);Automático;Diésel;-/- ;ES;-/- ;€ 23.900
+BMW 435;71.000 km;abr-17;230 kW (313 CV);Automático;Diésel;5,6;ES;-/- ;€ 34.400
+BMW X1;35.441 km;jun-17;110 kW (150 CV);Manual;Diésel;4,6;ES;-/- ;€ 23.000
+BMW X4;74.939 km;abr-17;140 kW (190 CV);Automático;Diésel;5,2;ES;-/- ;€ 31.600
+BMW 218;29.947 km;mar-17;110 kW (150 CV);Automático;Diésel;4,5;ES;-/- ;€ 22.000
+BMW X4;38.010 km;mar-17;140 kW (190 CV);Automático;Diésel;5,2;ES;-/- ;€ 32.000
+BMW X3;23.435 km;jul-17;140 kW (190 CV);Automático;Diésel;5,4;ES;-/- ;€ 28.000
+BMW X4;110.000 km;feb-17;140 kW (190 CV);Manual;Diésel;5,4;Unknown;142;€ 26.000
+BMW X1;61.000 km;may-17;110 kW (150 CV);Automático;Diésel;4,1;ES;109;€ 23.450
+BMW 320;104.802 km;may-17;140 kW (190 CV);Automático;Diésel;4,5;ES;-/- ;€ 22.900
+BMW 520;82.000 km;abr-17;140 kW (190 CV);Automático;Diésel;4,1;ES;-/- ;€ 19.990
+BMW X1;60.000 km;mar-17;110 kW (150 CV);Manual;Diésel;4,6;ES;-/- ;€ 18.490
+BMW 318;92.000 km;ene-17;110 kW (150 CV);Automático;Diésel;5,1;ES;-/- ;€ 17.490
+BMW X1;36.269 km;ago-17;110 kW (150 CV);Automático;Diésel;4,3;ES;114;€ 26.900
+BMW 420;96.500 km;jul-17;140 kW (190 CV);Automático;Diésel;4 l/;ES;-/- ;€ 26.490
+BMW 318;48.750 km;may-17;110 kW (150 CV);Manual;Diésel;4,5;ES;-/- ;€ 20.490
+BMW X1;147.000 km;ene-17;110 kW (150 CV);Manual;Diésel;4,6;ES;-/- ;€ 16.590
+BMW 118;51.885 km;may-17;110 kW (150 CV);Manual;Diésel;4 l/;ES;-/- ;€ 19.000
+BMW 640;108.486 km;jun-17;230 kW (313 CV);Automático;Diésel;5,5;ES;-/- ;€ 40.000
+BMW 420;89.186 km;ene-17;140 kW (190 CV);Automático;Diésel;4,2;ES;-/- ;€ 23.454
+BMW 218;25.000 km;sep-17;110 kW (150 CV);Automático;Diésel;4,2;ES;109;€ 17.900
+BMW 420;114.230 km;jun-17;140 kW (190 CV);Manual;Diésel;4,2;ES;111;€ 27.900
+BMW X1;35.000 km;abr-17;110 kW (150 CV);Automático;Diésel;4,3;Unknown;114;€ 21.890
+BMW 218;27.000 km;ago-17;110 kW (150 CV);Manual;Diésel;4,5;ES;-/- ;€ 19.990
+BMW 320;84.850 km;mar-17;140 kW (190 CV);Automático;Diésel;4 l/;ES;-/- ;€ 20.790
+BMW 218;49.011 km;jul-17;110 kW (150 CV);Automático;Diésel;-/- ;ES;-/- ;€ 19.990
+BMW 218;37.221 km;abr-17;110 kW (150 CV);Manual;Diésel;4,3;ES;-/- ;€ 19.300
+BMW 730;119.200 km;ene-17;195 kW (265 CV);Automático;Diésel;4,5;ES;-/- ;€ 41.680
+BMW X1;61.600 km;mar-17;110 kW (150 CV);Automático;Diésel;4,3;ES;-/- ;€ 24.990
+BMW X1;75.000 km;nov-17;110 kW (150 CV);Automático;Diésel;4,3;ES;-/- ;€ 21.900
+BMW X6;116.000 km;oct-17;190 kW (258 CV);Automático;Diésel;7 l/;ES;-/- ;€ 41.999
+BMW X1;75.000 km;ene-17;110 kW (150 CV);Automático;Diésel;4,8;ES;127;€ 23.900
+BMW 318;35.700 km;may-17;105 kW (143 CV);Automático;Diésel;4,7;ES;-/- ;€ 19.990
+BMW X1;90.000 km;abr-17;110 kW (150 CV);Automático;Diésel;4,8;ES;-/- ;€ 23.500
+BMW X1;147.000 km;ene-17;110 kW (150 CV);Manual;Diésel;4,6;ES;-/- ;€ 16.590
+BMW 318;76.000 km;may-17;110 kW (150 CV);Manual;Diésel;-/- ;ES;-/- ;€ 17.850
+BMW 116;68.182 km;ago-17;85 kW (116 CV);Manual;Diésel;4,2;ES;-/- ;€ 18.500
+BMW 530;53.904 km;dic-17;195 kW (265 CV);Automático;Diésel;4,5;ES;-/- ;€ 34.900
+BMW 418;115.372 km;abr-17;110 kW (150 CV);Automático;Diésel;4,5;ES;-/- ;€ 23.990
+BMW X4;129.855 km;may-17;230 kW (313 CV);Automático;Diésel;6 l/;ES;-/- ;€ 35.900
+BMW X1;73.000 km;ago-17;110 kW (150 CV);Manual;Diésel;4,6;ES;-/- ;€ 22.200
+BMW X1;51.205 km;feb-17;110 kW (150 CV);Manual;Diésel;4,6;ES;-/- ;€ 19.900
+BMW 418;115.372 km;abr-17;110 kW (150 CV);Automático;Diésel;4,5;ES;-/- ;€ 23.990
+BMW X1;76.058 km;dic-17;110 kW (150 CV);Automático;Diésel;4,3;ES;-/- ;€ 23.490
+BMW 116;97.800 km;ene-17;85 kW (116 CV);Manual;Diésel;4,1;ES;-/- ;€ 14.900
+BMW 218;41.000 km;feb-17;110 kW (150 CV);Manual;Diésel;4,3;ES;-/- ;€ 20.900
+BMW X6;68.000 km;may-17;230 kW (313 CV);Automático;Diésel;7 l/;ES;-/- ;€ 46.900
+BMW 118;53.100 km;feb-17;110 kW (150 CV);Automático;Diésel;4 l/;ES;-/- ;€ 23.000
+BMW X1;27.300 km;sep-17;110 kW (150 CV);Automático;Diésel;4,3;ES;-/- ;€ 27.000
+BMW 418;50.600 km;nov-17;110 kW (150 CV);Automático;Diésel;4,5;ES;-/- ;€ 21.900
+BMW X1;95.144 km;jun-17;110 kW (150 CV);Automático;Diésel;4,1;ES;-/- ;€ 18.890
+BMW 218;36.940 km;jul-17;110 kW (150 CV);Manual;Diésel;4,3;ES;-/- ;€ 19.000
+BMW 320;100.000 km;oct-17;140 kW (190 CV);Automático;Diésel;4 l/;ES;-/- ;€ 20.990
+BMW X1;119.000 km;ene-17;110 kW (150 CV);Automático;Diésel;4,6;ES;-/- ;€ 17.490
+BMW 418;115.372 km;abr-17;110 kW (150 CV);Automático;Diésel;4,5;ES;-/- ;€ 23.990
+BMW 118;18.000 km;oct-17;110 kW (150 CV);Automático;Diésel;4,4;ES;-/- ;€ 19.500
+BMW X5;29.200 km;feb-17;230 kW (313 CV);Automático;Diésel;6 l/;ES;-/- ;€ 39.350
+BMW X4;46.139 km;mar-17;140 kW (190 CV);Automático;Diésel;-/- ;ES;-/- ;€ 31.900
+BMW X3;46.145 km;mar-17;140 kW (190 CV);Manual;Diésel;5,4;ES;-/- ;€ 31.990
+BMW X3;15.357 km;mar-17;140 kW (190 CV);Automático;Diésel;5,4;ES;-/- ;€ 32.990
+BMW X1;71.036 km;may-17;110 kW (150 CV);Manual;Diésel;4,6;ES;-/- ;€ 21.000
+BMW X1;39.800 km;nov-17;110 kW (150 CV);Manual;Diésel;4,6;ES;-/- ;€ 20.900
+BMW X1;41.000 km;ago-17;85 kW (116 CV);Manual;Diésel;4,5;ES;-/- ;€ 21.300
+BMW X1;54.040 km;jul-17;110 kW (150 CV);Manual;Diésel;4,1;ES;109;€ 26.900
+BMW 118;13.023 km;jul-17;110 kW (150 CV);Automático;Diésel;4 l/;ES;104;€ 22.900
+BMW 118;23.145 km;abr-17;110 kW (150 CV);Manual;Diésel;4 l/;ES;104;€ 21.900
+BMW 116;75.000 km;ene-17;85 kW (116 CV);Manual;Diésel;3,7;ES;89 g;€ 13.990
+BMW X3;68.488 km;abr-17;140 kW (190 CV);Automático;Diésel;5,9;ES;-/- ;€ 29.000
+BMW 216;28.142 km;abr-17;85 kW (116 CV);Manual;Diésel;4 l/;ES;-/- ;€ 19.400
+BMW 116;38.800 km;dic-17;85 kW (116 CV);Manual;Diésel;3,7;ES;-/- ;€ 13.900
+BMW 320;106.825 km;feb-17;140 kW (190 CV);Automático;Diésel;4 l/;ES;-/- ;€ 19.900
+BMW 118;63.900 km;mar-17;110 kW (150 CV);Manual;Diésel;4 l/;ES;-/- ;€ 17.400
+BMW 116;87.000 km;nov-17;85 kW (116 CV);Manual;Diésel;4,2;ES;-/- ;€ 16.800
+BMW 218;41.911 km;jun-17;110 kW (150 CV);Manual;Diésel;-/- ;ES;-/- ;€ 20.000
+BMW X1;67.956 km;abr-17;110 kW (150 CV);Manual;Diésel;4,6;ES;-/- ;€ 23.000
+BMW 118;61.229 km;ago-17;110 kW (150 CV);Manual;Diésel;-/- ;ES;-/- ;€ 19.000
+BMW 318;33.381 km;jun-17;110 kW (150 CV);Automático;Diésel;4 l/;ES;-/- ;€ 20.600
+BMW X1;61.046 km;may-17;110 kW (150 CV);Manual;Diésel;4,6;ES;-/- ;€ 24.000
+BMW X5;29.200 km;feb-17;230 kW (313 CV);Automático;Diésel;6 l/;ES;-/- ;€ 39.350
+BMW 216;95.000 km;jun-17;85 kW (116 CV);Manual;Diésel;4 l/;ES;-/- ;€ 13.300
+BMW 520;41.085 km;nov-17;140 kW (190 CV);Automático;Diésel;4,3;ES;114;€ 30.900
+BMW X3;44.500 km;jun-17;140 kW (190 CV);Manual;Diésel;5,4;ES;-/- ;€ 35.900
+BMW 218;198.062 km;mar-17;110 kW (150 CV);Manual;Diésel;4,5;ES;-/- ;€ 13.560
+BMW 420;80.905 km;dic-17;140 kW (190 CV);Automático;Diésel;-/- ;ES;-/- ;€ 29.900
+BMW 325;71.051 km;feb-17;165 kW (224 CV);Automático;Diésel;4,4;ES;-/- ;€ 28.500
+BMW 216;100.320 km;oct-17;85 kW (116 CV);Manual;Diésel;4 l/;ES;-/- ;€ 16.900
+BMW 216;103.615 km;jul-17;85 kW (116 CV);Automático;Diésel;4,2;ES;-/- ;€ 16.490
+BMW 216;96.833 km;oct-17;85 kW (116 CV);Manual;Diésel;4,2;ES;-/- ;€ 17.650
+BMW 216;144.090 km;ene-17;85 kW (116 CV);Manual;Diésel;4 l/;ES;-/- ;€ 13.900
+BMW 116;86.000 km;feb-17;85 kW (116 CV);Automático;Diésel;3,7;ES;97 g;€ 18.500
+BMW 216;14.696 km;jul-17;85 kW (116 CV);Automático;Diésel;3,9;ES;104;€ 22.000
+BMW X3;44.500 km;jun-17;140 kW (190 CV);Manual;Diésel;5,4;ES;-/- ;€ 33.900
+BMW 420;80.905 km;dic-17;140 kW (190 CV);Automático;Diésel;-/- ;ES;-/- ;€ 27.900
+BMW 325;71.051 km;feb-17;165 kW (224 CV);Automático;Diésel;4,4;ES;-/- ;€ 25.900
+BMW 218;198.062 km;mar-17;110 kW (150 CV);Manual;Diésel;4,5;ES;-/- ;€ 11.800
+BMW 216;100.320 km;oct-17;85 kW (116 CV);Manual;Diésel;4 l/;ES;-/- ;€ 14.800
+BMW 216;96.833 km;oct-17;85 kW (116 CV);Manual;Diésel;4,2;ES;-/- ;€ 15.600
+BMW 216;144.090 km;ene-17;85 kW (116 CV);Manual;Diésel;4 l/;ES;-/- ;€ 12.600
+BMW 216;103.615 km;jul-17;85 kW (116 CV);Automático;Diésel;4,2;ES;-/- ;€ 14.500
+BMW 640;108.486 km;jun-17;230 kW (313 CV);Automático;Diésel;5,5;ES;-/- ;€ 40.000
+BMW 218;68.151 km;abr-17;110 kW (150 CV);Automático;Diésel;4,5;ES;-/- ;€ 17.390
+BMW 218;68.151 km;abr-17;110 kW (150 CV);Automático;Diésel;4,5;ES;-/- ;€ 17.390
+BMW 420;26.000 km;jul-17;140 kW (190 CV);Manual;Diésel;4,2;Unknown;111;€ 29.500
+BMW 320;119.475 km;abr-17;120 kW (163 CV);Automático;Diésel;4,3;ES;-/- ;€ 18.700
+BMW 116;82.500 km;ene-17;85 kW (116 CV);Manual;Diésel;-/- ;ES;-/- ;€ 14.000
+BMW 418;49.582 km;feb-17;110 kW (150 CV);Automático;Diésel;4,3;ES;114;€ 27.800
+BMW X1;117.573 km;feb-17;110 kW (150 CV);Manual;Diésel;4,1;ES;109;€ 20.800
+BMW X1;78.131 km;nov-17;110 kW (150 CV);Automático;Diésel;4,6;ES;-/- ;€ 20.600
+BMW X1;83.723 km;mar-17;110 kW (150 CV);Manual;Diésel;-/- ;ES;-/- ;€ 18.900
+BMW 318;42.622 km;abr-17;110 kW (150 CV);Manual;Diésel;-/- ;ES;-/- ;€ 18.900
+BMW 520;41.150 km;abr-17;140 kW (190 CV);Automático;Diésel;3,9;ES;-/- ;€ 34.900
+BMW 218;123.000 km;ene-17;110 kW (150 CV);Manual;Diésel;4,5;ES;-/- ;€ 16.900
+BMW X4;68.500 km;feb-17;140 kW (190 CV);Automático;Diésel;5,2;ES;-/- ;€ 35.990
+BMW X1;135.000 km;may-17;110 kW (150 CV);Automático;Diésel;4,3;ES;114;€ 18.500
+BMW X5;73.989 km;jul-17;170 kW (231 CV);Automático;Diésel;5,6;ES;146;€ 38.500
+BMW 116;5.191 km;nov-17;85 kW (116 CV);Automático;Diésel;4,4;ES;116;€ 18.900
+BMW 420;89.186 km;ene-17;140 kW (190 CV);Automático;Diésel;4,2;ES;-/- ;€ 23.454
+BMW 218;53.000 km;may-17;110 kW (150 CV);Manual;Diésel;4,3;ES;-/- ;€ 17.500
+BMW 116;64.371 km;sep-17;85 kW (116 CV);Manual;Diésel;-/- ;ES;-/- ;€ 14.700
+BMW 116;71.452 km;ene-17;85 kW (116 CV);Manual;Diésel;3,7;ES;-/- ;€ 15.700
+BMW 318;67.797 km;jun-17;110 kW (150 CV);Automático;Diésel;4 l/;ES;119;€ 17.900
+BMW X1;38.000 km;abr-17;110 kW (150 CV);Manual;Diésel;5 l/;ES;132;€ 23.900
+BMW 118;64.644 km;oct-17;110 kW (150 CV);Automático;Diésel;4,4;ES;-/- ;€ 17.990
+BMW 418;39.980 km;nov-17;110 kW (150 CV);Automático;Diésel;4,5;ES;-/- ;€ 24.500
+BMW 116;28.000 km;nov-17;85 kW (116 CV);Manual;Diésel;-/- ;ES;-/- ;€ 18.990
+BMW 218;111.423 km;ene-17;110 kW (150 CV);Manual;Diésel;-/- ;ES;-/- ;€ 18.690
+BMW 320;106.000 km;ago-17;140 kW (190 CV);Automático;Diésel;4,1;Unknown;109;€ 19.000
+BMW 318;36.300 km;sep-17;110 kW (150 CV);Manual;Diésel;4,5;ES;-/- ;€ 18.800
+BMW 640;108.486 km;jun-17;230 kW (313 CV);Automático;Diésel;5,5;ES;-/- ;€ 40.000
+BMW 318;44.197 km;jun-17;110 kW (150 CV);Automático;Diésel;4 l/;ES;-/- ;€ 23.500
+BMW 116;77.455 km;ene-17;85 kW (116 CV);Manual;Diésel;4,1;ES;-/- ;€ 15.750
+BMW 116;34.000 km;abr-17;85 kW (116 CV);Manual;Diésel;4,2;ES;-/- ;€ 16.000
+BMW 116;120.800 km;ene-17;85 kW (116 CV);Manual;Diésel;3,7;ES;-/- ;€ 12.990
+BMW X3;63.000 km;jul-17;140 kW (190 CV);Automático;Diésel;5,9;Unknown;156;€ 26.500
+BMW 640;108.486 km;jun-17;230 kW (313 CV);Automático;Diésel;5,5;ES;-/- ;€ 40.000
+BMW 118;93.000 km;ene-17;110 kW (150 CV);Manual;Diésel;4 l/;ES;104;€ 17.500
+BMW 218;35.500 km;jul-17;110 kW (150 CV);Automático;Diésel;4,3;ES;-/- ;€ 24.490
+BMW 316;24.072 km;feb-17;85 kW (116 CV);Manual;Diésel;4,6;ES;-/- ;€ 16.999
+BMW 216;30.776 km;dic-17;85 kW (116 CV);Automático;Diésel;4,2;ES;111;€ 14.900
+BMW 318;62.312 km;mar-17;110 kW (150 CV);Manual;Diésel;4,3;ES;112;€ 19.500
+BMW 320;109.990 km;jun-17;140 kW (190 CV);Manual;Diésel;-/- ;ES;-/- ;€ 22.490
+BMW 730;63.202 km;abr-17;195 kW (265 CV);Automático;Diésel;5,6;ES;-/- ;€ 48.900
+BMW 318;71.000 km;mar-17;110 kW (150 CV);Automático;Diésel;4,1;ES;-/- ;€ 22.200
+BMW X1;75.600 km;jun-17;140 kW (190 CV);Automático;Diésel;4,8;ES;-/- ;€ 29.100
+BMW X1;22.011 km;jul-17;110 kW (150 CV);Automático;Diésel;4,3;ES;-/- ;€ 29.100
+BMW X5;71.784 km;abr-17;170 kW (231 CV);Automático;Diésel;5,6;ES;-/- ;€ 40.000
+BMW X1;77.742 km;ene-17;110 kW (150 CV);Manual;Diésel;4,6;ES;-/- ;€ 22.000
+BMW 218;90.425 km;jun-17;110 kW (150 CV);Automático;Diésel;4,5;ES;-/- ;€ 21.000
+BMW X5;38.495 km;ago-17;190 kW (258 CV);Automático;Diésel;5,9;ES;-/- ;€ 45.000
+BMW X5;46.481 km;jun-17;190 kW (258 CV);Automático;Diésel;5,9;ES;-/- ;€ 46.600
+BMW X4;59.088 km;jul-17;140 kW (190 CV);Automático;Diésel;5,4;ES;-/- ;€ 34.000
+BMW 218;21.196 km;sep-17;110 kW (150 CV);Automático;Diésel;4,5;ES;-/- ;€ 20.181
+BMW 316;38.700 km;jun-17;85 kW (116 CV);Manual;Diésel;4,6;Unknown;120;€ 12.700
+BMW 320;37.720 km;ago-17;140 kW (190 CV);Manual;Diésel;3,8;ES;-/- ;€ 18.900
+BMW 420;151.084 km;ene-17;140 kW (190 CV);Manual;Diésel;4,2;ES;-/- ;€ 18.490
+BMW X1;77.200 km;feb-17;110 kW (150 CV);Manual;Diésel;4,6;ES;-/- ;€ 19.500
+BMW 116;108.570 km;ene-17;85 kW (116 CV);Manual;Diésel;3,7;ES;-/- ;€ 14.900
+BMW X1;62.321 km;nov-17;110 kW (150 CV);Automático;Diésel;4,3;ES;-/- ;€ 24.000
+BMW 116;50.490 km;feb-17;85 kW (116 CV);Automático;Diésel;4,1;ES;-/- ;€ 18.300
+BMW 640;62.500 km;abr-17;230 kW (313 CV);Automático;Diésel;5,5;ES;-/- ;€ 42.800
+BMW 316;44.314 km;jun-17;85 kW (116 CV);Manual;Diésel;3,9;ES;102;€ 19.900
+BMW 118;35.000 km;jun-17;110 kW (150 CV);Manual;Diésel;-/- ;ES;-/- ;€ 17.250
+BMW 116;70.000 km;ene-17;85 kW (116 CV);Manual;Diésel;3,7;ES;89 g;€ 13.990
+BMW X1;14.900 km;sep-17;110 kW (150 CV);Automático;Diésel;4,3;ES;-/- ;€ 23.900
+BMW 420;24.000 km;jul-17;140 kW (190 CV);Automático;Diésel;4 l/;ES;-/- ;€ 27.900
+BMW X1;67.000 km;ago-17;110 kW (150 CV);Automático;Diésel;4,3;ES;-/- ;€ 25.990
+BMW X1;89.550 km;ago-17;110 kW (150 CV);Automático;Diésel;4,3;ES;114;€ 26.450
+BMW 530;25.000 km;jul-17;195 kW (265 CV);Automático;Diésel;5,2;Unknown;137;€ 36.660
+BMW X1;67.000 km;ago-17;110 kW (150 CV);Automático;Diésel;4,3;ES;-/- ;€ 25.990
+BMW 216;36.000 km;jul-17;85 kW (116 CV);Manual;Diésel;4 l/;ES;-/- ;€ 15.990
+BMW X6;29.000 km;oct-17;190 kW (258 CV);Automático;Diésel;7 l/;Unknown;183;€ 54.900
+BMW 320;77.607 km;feb-17;140 kW (190 CV);Automático;Diésel;4,5;ES;-/- ;€ 25.990
+BMW 425;94.329 km;ene-17;165 kW (224 CV);Automático;Diésel;4,6;ES;-/- ;€ 30.990
+BMW 320;84.850 km;mar-17;140 kW (190 CV);Automático;Diésel;4 l/;ES;-/- ;€ 22.500
+BMW 218;24.500 km;jun-17;110 kW (150 CV);Manual;Diésel;4,3;ES;-/- ;€ 25.090
+BMW 420;73.000 km;ene-17;140 kW (190 CV);Automático;Diésel;4 l/;ES;106;€ 29.900
+BMW 318;104.000 km;ene-17;110 kW (150 CV);Manual;Diésel;4,5;ES;-/- ;€ 17.900
+BMW 218;21.196 km;sep-17;110 kW (150 CV);Automático;Diésel;4,5;ES;-/- ;€ 20.181
+BMW 318;109.990 km;ene-17;110 kW (150 CV);Automático;Diésel;4,5;ES;-/- ;€ 19.990
+BMW 420;21.000 km;abr-17;140 kW (190 CV);Automático;Diésel;4 l/;Unknown;106;€ 29.900
+BMW 218;97.929 km;mar-17;110 kW (150 CV);Manual;Diésel;4,3;ES;114;€ 19.500
+BMW 420;7.500 km;abr-17;140 kW (190 CV);Automático;Diésel;-/- ;ES;-/- ;€ 29.890
+BMW X6;54.500 km;jun-17;190 kW (258 CV);Automático;Diésel;7 l/;ES;-/- ;€ 44.999
+BMW 320;194.000 km;abr-17;140 kW (190 CV);Manual;Diésel;4,7;ES;-/- ;€ 13.999
+BMW 320;63.211 km;jun-17;140 kW (190 CV);Automático;Diésel;4,1;ES;-/- ;€ 27.075
+BMW 520;91.227 km;may-17;140 kW (190 CV);Automático;Diésel;4,5;ES;-/- ;€ 25.100
+BMW 116;10.000 km;may-17;85 kW (116 CV);Automático;Diésel;-/- ;ES;-/- ;€ 17.490
+BMW X4;47.583 km;dic-17;140 kW (190 CV);Automático;Diésel;5,4;ES;-/- ;€ 34.900
+BMW X5;18.000 km;may-17;190 kW (258 CV);Automático;Diésel;5,9;ES;-/- ;€ 42.500
+BMW 318;99.000 km;ene-17;110 kW (150 CV);Manual;Diésel;4,5;ES;-/- ;€ 15.990
+BMW 116;44.000 km;ene-17;85 kW (116 CV);Manual;Diésel;4,1;ES;-/- ;€ 14.950
+BMW X1;61.000 km;nov-17;110 kW (150 CV);Automático;Diésel;4,3;ES;-/- ;€ 21.490
+BMW 218;69.000 km;ene-17;110 kW (150 CV);Automático;Diésel;4,8;ES;-/- ;€ 23.900
+BMW 318;42.322 km;may-17;110 kW (150 CV);Manual;Diésel;4,5;ES;-/- ;€ 21.300
+BMW 218;42.433 km;abr-17;110 kW (150 CV);Automático;Diésel;4,3;ES;-/- ;€ 15.790
+BMW 116;84.619 km;oct-17;85 kW (116 CV);Manual;Diésel;3,7;ES;-/- ;€ 14.290
+BMW 116;43.150 km;sep-17;85 kW (116 CV);Manual;Diésel;3,7;ES;-/- ;€ 16.690
+BMW 218;69.000 km;ene-17;110 kW (150 CV);Automático;Diésel;4,8;ES;-/- ;€ 23.900
+BMW 420;18.815 km;feb-17;140 kW (190 CV);Automático;Diésel;-/- ;ES;-/- ;€ 29.900
+BMW 320;209.000 km;ago-17;140 kW (190 CV);Automático;Diésel;4,3;ES;-/- ;€ 17.900
+BMW X5;18.000 km;may-17;190 kW (258 CV);Automático;Diésel;5,9;ES;-/- ;€ 42.500
+BMW X4;37.674 km;jun-17;140 kW (190 CV);Automático;Diésel;5,2;ES;-/- ;€ 33.500
+BMW X1;24.027 km;ene-17;110 kW (150 CV);Manual;Diésel;4,6;ES;-/- ;€ 21.600
+BMW 120;67.497 km;dic-17;140 kW (190 CV);Automático;Diésel;3,9;ES;-/- ;€ 22.999
+BMW 220;68.455 km;jun-17;140 kW (190 CV);Automático;Diésel;4,3;ES;-/- ;€ 18.999
+BMW 116;86.000 km;ene-17;85 kW (116 CV);Manual;Diésel;4,1;ES;-/- ;€ 15.900
+BMW 318;30.818 km;mar-17;110 kW (150 CV);Automático;Diésel;4 l/;ES;-/- ;€ 22.000
+BMW 730;111.740 km;jun-17;195 kW (265 CV);Automático;Diésel;5,3;ES;-/- ;€ 48.000
+BMW X1;139.000 km;ene-17;110 kW (150 CV);Manual;Diésel;4,6;ES;-/- ;€ 18.500
+BMW 116;105.000 km;ene-17;85 kW (116 CV);Manual;Diésel;3,7;ES;-/- ;€ 11.850
+BMW 530;94.000 km;mar-17;195 kW (265 CV);Automático;Diésel;5,2;ES;-/- ;€ 38.000
+BMW 118;24.726 km;abr-17;110 kW (150 CV);Manual;Diésel;4 l/;ES;104;€ 21.900
+BMW X1;79.531 km;mar-17;110 kW (150 CV);Automático;Diésel;4,1;ES;109;€ 22.100
+BMW X3;55.191 km;mar-17;110 kW (150 CV);Automático;Diésel;4,9;ES;-/- ;€ 26.500
+BMW 116;53.785 km;jul-17;85 kW (116 CV);Automático;Diésel;4,2;ES;-/- ;€ 20.200
+BMW X1;82.738 km;abr-17;110 kW (150 CV);Automático;Diésel;4,6;ES;-/- ;€ 20.950
+BMW X1;34.214 km;jul-17;110 kW (150 CV);Automático;Diésel;4,6;ES;-/- ;€ 25.750
+BMW X1;58.022 km;dic-17;110 kW (150 CV);Automático;Diésel;4,3;ES;-/- ;€ 23.650
+BMW 218;56.346 km;mar-17;110 kW (150 CV);Manual;Diésel;-/- ;ES;-/- ;€ 20.000
+BMW X1;56.671 km;abr-17;110 kW (150 CV);Automático;Diésel;4,6;ES;-/- ;€ 22.350
+BMW X6;32.521 km;sep-17;190 kW (258 CV);Automático;Diésel;6 l/;ES;-/- ;€ 50.700
+BMW 420;43.670 km;mar-17;140 kW (190 CV);Automático;Diésel;4,2;ES;-/- ;€ 29.600
+BMW 118;66.558 km;abr-17;110 kW (150 CV);Manual;Diésel;4,4;ES;-/- ;€ 19.900
+BMW X1;57.247 km;mar-17;110 kW (150 CV);Automático;Diésel;4,6;ES;-/- ;€ 22.950
+BMW X4;68.128 km;jul-17;140 kW (190 CV);Automático;Diésel;5,2;ES;-/- ;€ 35.200
+BMW 320;86.732 km;abr-17;140 kW (190 CV);Automático;Diésel;4 l/;ES;-/- ;€ 22.200
+BMW X1;56.118 km;may-17;110 kW (150 CV);Manual;Diésel;4,6;ES;-/- ;€ 21.850
+BMW X3;54.308 km;feb-17;140 kW (190 CV);Automático;Diésel;5,9;ES;-/- ;€ 33.100
+BMW X1;52.554 km;mar-17;110 kW (150 CV);Manual;Diésel;5 l/;ES;-/- ;€ 23.450
+BMW X1;15.070 km;dic-17;110 kW (150 CV);Automático;Diésel;4,3;ES;-/- ;€ 30.150
+BMW 116;57.672 km;abr-17;85 kW (116 CV);Manual;Diésel;4 l/;ES;97 g;€ 18.900
+BMW 118;45.724 km;sep-17;110 kW (150 CV);Automático;Diésel;4 l/;ES;-/- ;€ 17.590
+BMW X1;136.348 km;mar-17;140 kW (190 CV);Automático;Diésel;4,5;ES;-/- ;€ 19.400
+BMW 116;106.853 km;ene-17;85 kW (116 CV);Manual;Diésel;-/- ;ES;-/- ;€ 12.050
+BMW 318;41.700 km;jul-17;110 kW (150 CV);Manual;Diésel;-/- ;ES;-/- ;€ 20.600
+BMW 116;80.000 km;ene-17;85 kW (116 CV);Manual;Diésel;3,7;ES;-/- ;€ 13.950
+BMW X1;73.778 km;abr-17;110 kW (150 CV);Manual;Diésel;4,6;ES;-/- ;€ 22.600
+BMW X6;88.133 km;jun-17;190 kW (258 CV);Automático;Diésel;6 l/;ES;157;€ 47.500
+BMW 118;81.000 km;sep-17;110 kW (150 CV);Manual;Diésel;4,4;ES;-/- ;€ 20.490
+BMW 216;10.000 km;sep-17;85 kW (116 CV);Automático;Diésel;4,2;ES;-/- ;€ 29.800
+BMW X1;129.365 km;feb-17;110 kW (150 CV);Automático;Diésel;4,3;ES;-/- ;€ 20.500
+BMW 520;17.500 km;abr-17;140 kW (190 CV);Automático;Diésel;4,3;ES;-/- ;€ 35.300
+BMW 520;19.000 km;sep-17;140 kW (190 CV);Automático;Diésel;4,3;ES;-/- ;€ 37.100
+BMW 218;49.468 km;abr-17;110 kW (150 CV);Automático;Diésel;4,3;ES;-/- ;€ 23.250
+BMW 520;24.000 km;oct-17;140 kW (190 CV);Automático;Diésel;4,3;ES;-/- ;€ 38.380
+BMW 520;49.994 km;jun-17;140 kW (190 CV);Automático;Diésel;4,3;ES;-/- ;€ 29.900
+BMW 520;21.200 km;jun-17;140 kW (190 CV);Automático;Diésel;4,5;ES;-/- ;€ 42.075
+BMW 218;10.800 km;jun-17;110 kW (150 CV);Manual;Diésel;4,7;ES;-/- ;€ 24.200
+BMW 318;31.675 km;jun-17;110 kW (150 CV);Automático;Diésel;4,5;ES;-/- ;€ 25.850
+BMW 218;9.078 km;jun-17;110 kW (150 CV);Automático;Diésel;4,3;ES;-/- ;€ 23.834
+BMW X5;49.000 km;jul-17;190 kW (258 CV);Automático;Diésel;5,9;ES;-/- ;€ 36.000
+BMW X4;100.000 km;sep-17;140 kW (190 CV);Automático;Diésel;-/- ;ES;-/- ;€ 31.500
+BMW 218;47.581 km;jun-17;110 kW (150 CV);Automático;Diésel;4 l/;ES;106;€ 26.900
+BMW 420;75.000 km;ene-17;140 kW (190 CV);Automático;Diésel;4 l/;Unknown;106;€ 23.500
+BMW 320;57.500 km;oct-17;140 kW (190 CV);Automático;Diésel;4,6;ES;-/- ;€ 25.100
+BMW X1;7.086 km;feb-17;110 kW (150 CV);Automático;Diésel;4,6;ES;-/- ;€ 29.900
