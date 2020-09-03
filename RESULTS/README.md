@@ -1,0 +1,3 @@
+The best opportunities appear in this folder once they have been monitored by the human eye,
+
+It has been verified that the offers provided by the algorithm were not about deception, damaged cars, false offers ...
